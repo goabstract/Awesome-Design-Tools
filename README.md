@@ -67,7 +67,6 @@ Find out powerful screenshot tools available for macOS:
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud.
 * [Skitch](https://evernote.com/products/skitch) — use it to create screenshots, annotate them with arrows, shapes, and text 
-* [Jing](https://www.techsmith.com/jing-tool.html) — create basic visual elements and share them with others.
 * [Screenie](https://www.thnkdev.com/Screenie/) — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area
 
@@ -75,7 +74,6 @@ Find out powerful screenshot tools available for macOS:
 Tools that help to build, maintain, and organize your own design system.
 
 * [InVision DMS](https://www.invisionapp.com/inside-design/announcing-invision-design-system-manager/) — create and maintain design system in scale.
-* [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.

@@ -13,13 +13,13 @@
 * Search for a keyword or phrase (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool, just send a Pull Request. I'd love you to see your suggestions! 
+If you found some great design tool, just send a Pull Request. I'd love to see your suggestions! 
 
 ## Table of content
 
 * [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
-* [UI Design Tools]()
+* [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
 * [Design Feedback Tools]()
 * [Free screenshot software]()
 * [Design System Tools]()

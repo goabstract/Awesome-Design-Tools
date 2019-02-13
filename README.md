@@ -105,7 +105,6 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [Pikka - Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
-* [Adobe Kuler]() — tool that allows you to create color schemes with the color wheel or browse thousands of color combinations.
 * [React Color](http://casesandberg.github.io/react-color/) — collection of color pickers from Sketch, Photoshop, Chrome.
 
 ### Animation Tools 

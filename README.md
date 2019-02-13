@@ -88,6 +88,8 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 ### Design to Code Tools
 Engineering design tools
 
+* [Design+Code](https://designcode.io/) — learn to design and code React and Swift apps
+* [Zeroqode](https://zeroqode.com/) — web & mobile app development platform for building without code. 
 * [Supernova](https://supernova.io/) — converts any mobile design into full-fledged native applications.
 
 ### Font Tools
@@ -100,10 +102,18 @@ Engineering design tools
 ### Color Picker Tools
 If you are looking for eyedropper tool, color identifier tool or color capture tool, here you go: 
 
-* []() — 
-* []() — 
+* [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
+* [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
+* [Pikka - Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
+* [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
+* [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
+* [Adobe Kuler]() — tool that allows you to create color schemes with the color wheel or browse thousands of color combinations.
+* [React Color](http://casesandberg.github.io/react-color/) — collection of color pickers from Sketch, Photoshop, Chrome.
 
 ### Animation Tools 
+Looking to create a cool animation? Go through these tools:
 
-* []() — 
-* []() — 
+* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
+* [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package. 
+* [CSS Toolkit](https://itunes.apple.com/gb/app/css-toolkit/id934487422) — interactive CSS animation builder for Mac. 
+* [Tilda Publishing Animations](https://tilda.cc/lp/step-by-step-animation) — free tool for creating interactive websites without coding.

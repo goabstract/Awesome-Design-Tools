@@ -130,8 +130,8 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 ### Augmented Reality Tools
 
-* [Lightform](https://lightform.com/) — design tool for projected AR.
 * [Asteroid](http://asteroid.zone/) — create reactive AR apps without code.
+* [Lightform](https://lightform.com/) — design tool for projected AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. 
 
 ### Reference & Inspiration

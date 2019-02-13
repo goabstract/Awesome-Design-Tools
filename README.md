@@ -27,6 +27,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
 * [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
+* [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
@@ -120,6 +121,18 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
 * [Mixpane](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
+ 
+### Accessibility Tools
+
+* [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
+* [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
+* [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
+
+### Augmented Reality Tools
+
+* [Lightform](https://lightform.com/) — design tool for projected AR.
+* [Asteroid](http://asteroid.zone/) — create reactive AR apps without code.
+* [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. 
 
 ### Reference & Inspiration
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.

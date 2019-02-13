@@ -20,12 +20,12 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
-* [Design Feedback Tools]()
-* [Free screenshot software]()
-* [Design System Tools]()
-* [Font Tools]()
-* [Color Picker Tools]()
-* [Animation Tools]()
+* [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
+* [Free screenshot software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
+* [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
+* [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
+* [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
+* [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:

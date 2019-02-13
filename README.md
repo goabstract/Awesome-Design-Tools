@@ -9,12 +9,12 @@
 * Search for a keyword or phrase (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool, just send a Pull Request ([Contribution Guidelines](link)). I'd love you to see your suggestions! 
+If you found some great design tool, just send a Pull Request. I'd love you to see your suggestions! 
 
 ## Table of content
 
-* User Flow Tools
-* Prototyping Tools
+* [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
+* [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * UI Design Tools
 * Design Feedback Tools
 * Free screenshot software
@@ -66,9 +66,9 @@ Find out powerful screenshot tools available for macOS:
 * [Quicktime](https://support.apple.com/quicktime) — video player that you can use to record your screen. 
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud.
-* [Skitch](https://evernote.com/products/skitch) — use it to create screenshots, annotate them with arrows, shapes, and text 
+* [Skitch](https://evernote.com/products/skitch) — use it to create screenshots, annotate them with arrows, shapes, and text. 
 * [Screenie](https://www.thnkdev.com/Screenie/) — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
-* [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area
+* [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
@@ -79,16 +79,16 @@ Tools that help to build, maintain, and organize your own design system.
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
 * [Alva](https://meetalva.io/) — design interactive products based on components engineered by your developers.
-* [Lucid](https://lucid.style/) — tool for creating, managing nd share design system. From a simple component library through to detailed descriptions of your styles.
+* [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles.
 
 We can also add to this list Sketch and Figma, that mentioned in UI design tools.
 
 ### Design to Code Tools
 Engineering design tools
 
-* [Design+Code](https://designcode.io/) — learn to design and code React and Swift apps
 * [Zeroqode](https://zeroqode.com/) — web & mobile app development platform for building without code. 
 * [Supernova](https://supernova.io/) — converts any mobile design into full-fledged native applications.
+* [Tilda Publishing Animations](https://tilda.cc/lp/step-by-step-animation) — a free tool for creating interactive websites without coding.
 
 ### Font Tools
 
@@ -105,12 +105,14 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [Pikka - Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
-* [React Color](http://casesandberg.github.io/react-color/) — collection of color pickers from Sketch, Photoshop, Chrome.
+* [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 
 ### Animation Tools 
 Looking to create a cool animation? Go through these tools:
-
+* [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
+* [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
+* [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package. 
-* [CSS Toolkit](https://itunes.apple.com/gb/app/css-toolkit/id934487422) — interactive CSS animation builder for Mac. 
-* [Tilda Publishing Animations](https://tilda.cc/lp/step-by-step-animation) — free tool for creating interactive websites without coding.
+* [CSS Toolkit](https://itunes.apple.com/gb/app/css-toolkit/id934487422) — an interactive CSS animation builder for Mac. 
+

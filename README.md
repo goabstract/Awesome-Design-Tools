@@ -26,6 +26,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
 * [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
+* [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
@@ -110,6 +111,15 @@ Need to create animated transition, micro-interaction or scroll-based animation?
 * [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animations tools.
+
+### Experience Monitoring Tools
+
+* [FullStory](https://www.fullstory.com/) — app that captures all your customer experience data in one powerful, easy-to-use platform. 
+* [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
+* [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do. 
+* [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
+* [Mixpane](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
+* [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
 
 ### Reference & Inspiration
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.

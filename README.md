@@ -22,6 +22,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
 * [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
 * [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
+* [Version Control for Designers](https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers)
 * [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
 * [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
 * [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
@@ -46,6 +47,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.
+* [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). 
 * [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place. 
 * [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces.
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
@@ -83,14 +85,17 @@ Find out powerful screenshot tools available for macOS:
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
 
-* [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
-* [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles.
+* [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles. 
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
 We can also add to this list Sketch and Figma, that mentioned in UI design tools.
 
+### Version Control for Designers
+* [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
+* [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
+* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
 
 ### Font Tools
 
@@ -135,6 +140,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).
 
 ### Augmented Reality Tools
 * [Lightform](https://lightform.com/) — design tool for projected AR.

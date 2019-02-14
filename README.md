@@ -87,7 +87,6 @@ Tools that help to build, maintain, and organize your own design system.
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
 * [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles.
-* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. 
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
 We can also add to this list Sketch and Figma, that mentioned in UI design tools.
@@ -99,6 +98,7 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. 
+* [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography 
 
 ### Color Picker Tools
 If you are looking for eyedropper tool, color identifier tool or color capture tool, here you go: 
@@ -109,6 +109,7 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
+* [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 
 ### Animation Tools 
 Need to create animated transition, micro-interaction or scroll-based animation? Go through these tools:

@@ -114,6 +114,7 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
+* [ColorBox by Lyft Design](http://www.colorbox.io/) - a web app that algorithmically builds accessible color systems.
 
 ### Animation Tools 
 Need to create animated transition, micro-interaction or scroll-based animation? Go through these tools:

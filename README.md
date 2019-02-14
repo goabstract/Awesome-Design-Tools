@@ -6,7 +6,6 @@
 </p>
 
 <about>
-<banner?>
 
 ## How to Use and Contribute
 * Go through the Table of Contents and choose the tool. 
@@ -29,6 +28,12 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
 * [Accessibility Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#accessibility-tools)
 * [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
+
+<p align="center">
+    <a href="https://flawlessapp.io/feedback?github">
+    	<img src="flawless-feedback-promo-banner.png" alt="Awesome-Design-Tools"/>
+    </a>
+</p>
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:

@@ -65,6 +65,7 @@ You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned 
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
+* [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
 
 ### Design Feedback Tools
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look on this tool:
@@ -96,13 +97,16 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
+* [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
+* [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
 
 ### Font Tools
 
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.
-* [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. 
+* [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons.
+* [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
 
 ### Color Picker Tools
 If you are looking for eyedropper tool, color identifier tool or color capture tool, here you go: 
@@ -131,8 +135,10 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do. 
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
-* [Mixpane](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
+* [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
+* [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
+* [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
  
 ### Accessibility Tools
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).

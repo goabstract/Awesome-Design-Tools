@@ -22,6 +22,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
 * [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
 * [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
+* [Version Control for Designers](https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers)
 * [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
 * [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
 * [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
@@ -83,15 +84,17 @@ Find out powerful screenshot tools available for macOS:
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
 
-* [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
-* [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles.
-* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. 
+* [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles. 
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
 We can also add to this list Sketch and Figma, that mentioned in UI design tools.
 
+### Version Control for Designers
+* [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
+* [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
+* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
 
 ### Font Tools
 

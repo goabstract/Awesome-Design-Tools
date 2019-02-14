@@ -17,16 +17,17 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 ## Table of Content
 
-* [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
-* [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
-* [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
-* [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
-* [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
-* [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
+* [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
-* [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
+* [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
+* [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
+* [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
+* [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
+* [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
+* [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
 * [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
+* [Accessibility Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#accessibility-tools)
 * [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
 
 ### User Flow Tools
@@ -123,14 +124,11 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
  
 ### Accessibility Tools
-
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 
 ### Augmented Reality Tools
-
-* [Asteroid](http://asteroid.zone/) — create reactive AR apps without code.
 * [Lightform](https://lightform.com/) — design tool for projected AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. 
 

@@ -42,6 +42,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
+* [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 
 ### Prototyping Tools
 

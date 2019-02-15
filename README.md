@@ -66,7 +66,7 @@ You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned 
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
-* [Gravit](https://www.photopea.com/) — A free vector design app
+* [Gravit](https://designer.io/) — A free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
 * [Photopea](https://www.photopea.com/) — A free browser based graphic design app, alternative to photoshop.
 
 

@@ -24,6 +24,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Design System Tools](#design-system-tools)
 * [Version Control for Designers](#version-control-for-designers)
 * [Icons Tools](#icons-tools)
+* [Mockup Tools](#mockup-tools)
 * [Font Tools](#font-tools)
 * [Color Picker Tools](#color-picker-tools)
 * [Animation Tools](#animation-tools)
@@ -102,8 +103,10 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 
-### Font Tools
+### Mockup Tools
+* [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
 
+### Font Tools
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.

@@ -16,20 +16,20 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 ## Table of Content
 
-* [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
+* [Accessibility Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#accessibility-tools)
+* [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
+* [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
+* [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
+* [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
+* [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
+* [Design to Code Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools)
+* [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
+* [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
+* [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
 * [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
-* [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
-* [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
-* [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
+* [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [Version Control for Designers](https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers)
-* [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
-* [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
-* [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
-* [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
-* [Accessibility Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#accessibility-tools)
-* [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
-* [Design to Code Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools)
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">

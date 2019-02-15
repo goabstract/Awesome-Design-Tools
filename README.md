@@ -84,6 +84,7 @@ Find out powerful screenshot tools available for macOS:
 * [Screenie](https://www.thnkdev.com/Screenie/) — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
+* [Kap](https://getkap.co) – open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.

@@ -66,6 +66,9 @@ You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned 
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
+* [Gravit](https://www.photopea.com/) — A free vector design app
+* [Photopea](https://www.photopea.com/) — A free browser based graphic design app, alternative to photoshop.
+
 
 ### Design Feedback Tools
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look on this tool:

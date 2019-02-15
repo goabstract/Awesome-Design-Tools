@@ -16,21 +16,21 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 ## Table of Content
 
-* [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
-* [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
-* [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
-* [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
-* [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
-* [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
-* [Version Control for Designers](https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers)
+* [User Flow Tools](#user-flow-tools)
+* [Prototyping Tools](#user-flow-tools)
+* [UI Design Tools](#ui-design-tools)
+* [Design Feedback Tools](#design-feedback-tools)
+* [Free Screenshot Software](#free-screenshot-software)
+* [Design System Tools](#design-system-tools)
+* [Version Control for Designers](#version-control-for-designers)
 * [Icons Tools](#icons-tools)
-* [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
-* [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
-* [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
-* [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
-* [Accessibility Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#accessibility-tools)
-* [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
-* [Design to Code Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools)
+* [Font Tools](#font-tools)
+* [Color Picker Tools](#color-picker-tools)
+* [Animation Tools](#animation-tools)
+* [Experience Monitoring Tools](#experience-monitoring-tools)
+* [Accessibility Tools](#accessibility-tools)
+* [Augmented Reality Tools](#augmented-reality-tools)
+* [Design to Code Tools](#design-to-code-tools)
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -136,7 +136,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do. 
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
-* [Mixpane](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
+* [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
  
 ### Accessibility Tools

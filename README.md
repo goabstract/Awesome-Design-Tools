@@ -23,6 +23,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
 * [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
 * [Version Control for Designers](https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers)
+* [Icons Tools](#icons-tools)
 * [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
 * [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
 * [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
@@ -98,6 +99,9 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 * [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
 
+### Icons Tools
+* [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
+
 ### Font Tools
 
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
@@ -148,6 +152,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 ### Design to Code Tools
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever. 
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
+* [Readymag](https://readymag.com/) — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 
 ### Reference & Inspiration
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.

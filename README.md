@@ -46,6 +46,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 
 ### Prototyping Tools
 
+* [Axure RP](https://www.axure.com/) - wireframing, prototyping, collaboration & specifications generation.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.

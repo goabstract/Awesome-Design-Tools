@@ -150,7 +150,6 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Readymag](https://readymag.com/) — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 
-
 ### Reference & Inspiration
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.
 

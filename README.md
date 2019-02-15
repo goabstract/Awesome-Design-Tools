@@ -1,4 +1,4 @@
-# Awesome-Design-Tools
+# Awesome Design Tools
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
     	<img src="Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>

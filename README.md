@@ -43,6 +43,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
+* [Whimsical](https://whimsical.co/) - easy to create flow charts, wireframes and sticky notes.
 
 ### Prototyping Tools
 
@@ -131,6 +132,7 @@ Need to create animated transition, micro-interaction or scroll-based animation?
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
 * [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
+* [Haiku](https://www.haiku.ai/) - Keyframe based animation connecting your UI tools to code that developers can easily use.
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animations tools.
 

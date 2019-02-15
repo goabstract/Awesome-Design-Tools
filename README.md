@@ -114,7 +114,6 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
-* [ColorBox by Lyft Design](http://www.colorbox.io/) - a web app that algorithmically builds accessible color systems.
 
 ### Animation Tools 
 Need to create animated transition, micro-interaction or scroll-based animation? Go through these tools:
@@ -137,10 +136,12 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
  
 ### Accessibility Tools
+* [ColorBox by Lyft Design](http://www.colorbox.io/) - a web app that algorithmically builds accessible color systems.
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).
+
 
 ### Augmented Reality Tools
 * [Lightform](https://lightform.com/) — design tool for projected AR.

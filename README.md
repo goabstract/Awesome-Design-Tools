@@ -115,11 +115,13 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 If you are looking for eyedropper tool, color identifier tool or color capture tool, here you go: 
 * [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
+* [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours.
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
 * [Pikka - Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
+* [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
 
 ### Animation Tools 
 Need to create animated transition, micro-interaction or scroll-based animation? Go through these tools:

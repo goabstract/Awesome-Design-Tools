@@ -1,4 +1,4 @@
-# Awesome-Design-Tools
+# Awesome Design Tools
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
     	<img src="Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>
@@ -16,20 +16,22 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 ## Table of Content
 
-* [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
-* [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
-* [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
-* [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
-* [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
-* [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools)
-* [Version Control for Designers](https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers)
-* [Font Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#font-tools)
-* [Color Picker Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#color-picker-tools)
-* [Animation Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
-* [Experience Monitoring Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#experience-monitoring-tools)
-* [Accessibility Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#accessibility-tools)
-* [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
-* [Design to Code Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools)
+* [User Flow Tools](#user-flow-tools)
+* [Prototyping Tools](#user-flow-tools)
+* [UI Design Tools](#ui-design-tools)
+* [Design Feedback Tools](#design-feedback-tools)
+* [Free Screenshot Software](#free-screenshot-software)
+* [Design System Tools](#design-system-tools)
+* [Version Control for Designers](#version-control-for-designers)
+* [Icons Tools](#icons-tools)
+* [Mockup Tools](#mockup-tools)
+* [Font Tools](#font-tools)
+* [Color Picker Tools](#color-picker-tools)
+* [Animation Tools](#animation-tools)
+* [Experience Monitoring Tools](#experience-monitoring-tools)
+* [Accessibility Tools](#accessibility-tools)
+* [Augmented Reality Tools](#augmented-reality-tools)
+* [Design to Code Tools](#design-to-code-tools)
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -102,6 +104,13 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
 
+
+### Icons Tools
+* [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
+
+### Mockup Tools
+* [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
+
 ### Font Tools
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
@@ -160,7 +169,9 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 ### Design to Code Tools
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever. 
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
+* [Readymag](https://readymag.com/) — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 * [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
+
 
 ### Reference & Inspiration
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.

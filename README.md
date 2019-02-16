@@ -35,7 +35,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
-    	<img src="flawless-feedback-promo-banner.png" alt="Awesome-Design-Tools"/>
+    	<img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
     </a>
 </p>
 

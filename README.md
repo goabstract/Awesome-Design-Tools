@@ -58,7 +58,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
 
-You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned in UI Design Tools section.
+You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
 ### UI Design Tools
 
@@ -66,18 +66,18 @@ You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned 
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
-* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
+* [Figma](https://www.figma.com/) — a design tool based in the browser, which allows designing and prototyping with real-time collaboration.
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
 
 ### Design Feedback Tools
-Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look on this tool:
+Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
 
 ### Free Screenshot Software
-Find out powerful screenshot tools available for macOS:
+Find some powerful screenshot tools available for macOS:
 
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
@@ -92,10 +92,10 @@ Tools that help to build, maintain, and organize your own design system.
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
-* [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles. 
+* [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
-We can also add to this list Sketch and Figma, that mentioned in UI design tools.
+We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
 
 ### Version Control for Designers
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
@@ -121,8 +121,9 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 
 
 ### Color Picker Tools
-If you are looking for eyedropper tool, color identifier tool or color capture tool, here you go: 
+If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
 * [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours.
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
@@ -133,15 +134,15 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
 
 ### Animation Tools 
-Need to create animated transition, micro-interaction or scroll-based animation? Go through these tools:
+Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
-* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
+* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage animations in real time in the browser.
 
-Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animations tools.
+Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 
 ### Experience Monitoring Tools
 

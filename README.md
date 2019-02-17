@@ -45,6 +45,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
+* [Whimsical](https://whimsical.co/) - easy to create flow charts, wireframes and sticky notes.
 
 ### Prototyping Tools
 
@@ -68,10 +69,14 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
 * [CleverBrush](https://www.cleverbrush.com/) — browser based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
-* [Figma](https://www.figma.com/) — a design tool based in the browser, which allows designing and prototyping with real-time collaboration.
+* [Gravit](https://designer.io/) — A free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
+* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
+* [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
+* [Photopea](https://www.photopea.com/) — A free browser based graphic design app, alternative to Photoshop. 
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
+
 
 ### Design Feedback Tools
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
@@ -142,10 +147,12 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
+* [Haiku](https://www.haiku.ai/) - Keyframe based animation connecting your UI tools to code that developers can easily use.
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
-* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage animations in real time in the browser.
+* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
+* [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS.
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 

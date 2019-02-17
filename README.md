@@ -91,7 +91,6 @@ Do you get feedback during the development process? If you wish to get more stru
 
 ### Free Screenshot Software
 Find some powerful screenshot tools available for macOS:
-
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud.
@@ -137,8 +136,8 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
-* [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 
+* [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours.
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
@@ -153,7 +152,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
-* [Haiku](https://www.haiku.ai/) - Keyframe based animation connecting your UI tools to code that developers can easily use.
+* [Haiku](https://www.haiku.ai/) — keyframe based animation connecting your UI tools to code that developers can easily use.
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.

@@ -67,8 +67,8 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
-* [CleverBrush](https://www.cleverbrush.com/) — SaaS browser based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
-* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
+* [CleverBrush](https://www.cleverbrush.com/) — browser based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
+* [Figma](https://www.figma.com/) — a design tool based in the browser, which allows designing and prototyping with real-time collaboration.
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.

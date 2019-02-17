@@ -67,10 +67,14 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
-* [Figma](https://www.figma.com/) — a design tool based in the browser, which allows designing and prototyping with real-time collaboration.
+* [Gravit](https://designer.io/) — A free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
+* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
+* [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
+* [Photopea](https://www.photopea.com/) — A free browser based graphic design app, alternative to Photoshop. 
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
+
 
 ### Design Feedback Tools
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:

@@ -46,7 +46,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
-* [Whimsical](https://whimsical.co/) - easy to create flow charts, wireframes and sticky notes.
+* [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
 
 ### Collaboration Tools
 
@@ -56,7 +56,7 @@ cross-functional team collaboration.
 
 ### Prototyping Tools
 
-* [Axure RP](https://www.axure.com/) - wireframing, prototyping, collaboration & specifications generation.
+* [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.
@@ -98,13 +98,13 @@ Find some powerful screenshot tools available for macOS:
 * [Screenie](https://www.thnkdev.com/Screenie/) — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
-* [Kap](https://getkap.co) – open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
+* [Kap](https://getkap.co) — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
-* [Frontify](https://frontify.com/) - create graphical guidelines, patterns libraries, design systems.
+* [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
@@ -173,7 +173,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
  
 ### Accessibility Tools
-* [ColorBox by Lyft Design](http://www.colorbox.io/) - a web app that algorithmically builds accessible color systems.
+* [ColorBox by Lyft Design](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems.
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 * [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios.
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 

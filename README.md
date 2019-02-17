@@ -35,7 +35,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
-    	<img src="flawless-feedback-promo-banner.png" alt="Awesome-Design-Tools"/>
+    	<img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
     </a>
 </p>
 
@@ -48,6 +48,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 
 ### Prototyping Tools
 
+* [Axure RP](https://www.axure.com/) - wireframing, prototyping, collaboration & specifications generation.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.
@@ -58,7 +59,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
 
-You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned in UI Design Tools section.
+You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
 ### UI Design Tools
 
@@ -73,12 +74,12 @@ You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned 
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
 
 ### Design Feedback Tools
-Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look on this tool:
+Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
 
 ### Free Screenshot Software
-Find out powerful screenshot tools available for macOS:
+Find some powerful screenshot tools available for macOS:
 
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
@@ -87,16 +88,18 @@ Find out powerful screenshot tools available for macOS:
 * [Screenie](https://www.thnkdev.com/Screenie/) — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
+* [Kap](https://getkap.co) – open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
+* [Frontify](https://frontify.com/) - create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
-* [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles. 
+* [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
-We can also add to this list Sketch and Figma, that mentioned in UI design tools.
+We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
 
 ### Version Control for Designers
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
@@ -122,8 +125,9 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 
 
 ### Color Picker Tools
-If you are looking for eyedropper tool, color identifier tool or color capture tool, here you go: 
+If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
 * [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours.
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
@@ -132,17 +136,18 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
+* [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. 
 
 ### Animation Tools 
-Need to create animated transition, micro-interaction or scroll-based animation? Go through these tools:
+Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
-* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
+* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage animations in real time in the browser.
 
-Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animations tools.
+Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 
 ### Experience Monitoring Tools
 
@@ -157,7 +162,8 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
  
 ### Accessibility Tools
 * [ColorBox by Lyft Design](http://www.colorbox.io/) - a web app that algorithmically builds accessible color systems.
-* [Contrast](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
+* [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
+* [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios.
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).

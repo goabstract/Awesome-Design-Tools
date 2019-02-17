@@ -141,6 +141,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
+* [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.

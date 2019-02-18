@@ -149,6 +149,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. 
+* [Coolors.co](https://coolors.co/) — free color schemes generator
 
 ### Animation Tools 
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:

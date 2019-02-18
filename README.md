@@ -125,7 +125,6 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
 
-
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
@@ -141,7 +140,6 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons.
 * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
-
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
@@ -201,6 +199,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Pinegrow](https://pinegrow.com/) — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
 * [Readymag](https://readymag.com/) — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 * [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
+* [Sympli](https://sympli.io/) — deliver the design, assets, specifications directly into your preferred IDE (e.g Xcode, Android Studio).
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever. 
 

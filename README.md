@@ -16,24 +16,25 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 ## Table of Content
 
-* [User Flow Tools](#user-flow-tools)
+* [Accessibility Tools](#accessibility-tools)
+* [Animation Tools](#animation-tools)
+* [Augmented Reality Tools](#augmented-reality-tools)
 * [Collaboration Tools](#collaboration-tools)
+* [Color Picker Tools](#color-picker-tools)
+* [Design Feedback Tools](#design-feedback-tools)
+* [Design System Tools](#design-system-tools)
+* [Design to Code Tools](#design-to-code-tools)
+* [Experience Monitoring Tools](#experience-monitoring-tools)
+* [Font Tools](#font-tools)
+* [Free Screenshot Software](#free-screenshot-software)
+* [Icons Tools](#icons-tools)
+* [Mockup Tools](#mockup-tools)
 * [Prototyping Tools](#user-flow-tools)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
-* [Design Feedback Tools](#design-feedback-tools)
-* [Free Screenshot Software](#free-screenshot-software)
-* [Design System Tools](#design-system-tools)
+* [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
-* [Icons Tools](#icons-tools)
-* [Mockup Tools](#mockup-tools)
-* [Font Tools](#font-tools)
-* [Color Picker Tools](#color-picker-tools)
-* [Animation Tools](#animation-tools)
-* [Experience Monitoring Tools](#experience-monitoring-tools)
-* [Accessibility Tools](#accessibility-tools)
-* [Augmented Reality Tools](#augmented-reality-tools)
-* [Design to Code Tools](#design-to-code-tools)
+
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">

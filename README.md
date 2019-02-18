@@ -122,6 +122,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
+* [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
 
 ### Mockup Tools
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
@@ -183,16 +184,17 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 
 ### Augmented Reality Tools
-* [Lightform](https://lightform.com/) — design tool for projected AR.
+* [Lightform](https://lightform.com/) — a design tool for projected AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. 
 
 ### Design to Code Tools
-* [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever. 
-* [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
-* [Readymag](https://readymag.com/) — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
-* [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
+* [Blocs For Mac](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code.
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
 * [Pinegrow](https://pinegrow.com/) — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
+* [Readymag](https://readymag.com/) — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
+* [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
+* [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
+* [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever. 
 
 
 ### Reference & Inspiration

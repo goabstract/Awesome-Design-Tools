@@ -19,6 +19,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [User Flow Tools](#user-flow-tools)
 * [Collaboration Tools](#collaboration-tools)
 * [Prototyping Tools](#user-flow-tools)
+* [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
 * [Design Feedback Tools](#design-feedback-tools)
 * [Free Screenshot Software](#free-screenshot-software)
@@ -69,6 +70,10 @@ cross-functional team collaboration.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
 
 You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
+
+### Stock Photos Tools
+
+* [Zoommy](http://zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 
 ### UI Design Tools
 

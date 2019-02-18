@@ -45,11 +45,13 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
-* [Whimsical](https://whimsical.co/) - easy to create flow charts, wireframes and sticky notes.
+* [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
+* [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
+
 
 ### Prototyping Tools
 
-* [Axure RP](https://www.axure.com/) - wireframing, prototyping, collaboration & specifications generation.
+* [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.

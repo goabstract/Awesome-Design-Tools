@@ -16,24 +16,25 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 ## Table of Content
 
-* [User Flow Tools](#user-flow-tools)
+* [Accessibility Tools](#accessibility-tools)
+* [Animation Tools](#animation-tools)
+* [Augmented Reality Tools](#augmented-reality-tools)
 * [Collaboration Tools](#collaboration-tools)
+* [Color Picker Tools](#color-picker-tools)
+* [Design Feedback Tools](#design-feedback-tools)
+* [Design System Tools](#design-system-tools)
+* [Design to Code Tools](#design-to-code-tools)
+* [Experience Monitoring Tools](#experience-monitoring-tools)
+* [Font Tools](#font-tools)
+* [Free Screenshot Software](#free-screenshot-software)
+* [Icons Tools](#icons-tools)
+* [Mockup Tools](#mockup-tools)
 * [Prototyping Tools](#user-flow-tools)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
-* [Design Feedback Tools](#design-feedback-tools)
-* [Free Screenshot Software](#free-screenshot-software)
-* [Design System Tools](#design-system-tools)
+* [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
-* [Icons Tools](#icons-tools)
-* [Mockup Tools](#mockup-tools)
-* [Font Tools](#font-tools)
-* [Color Picker Tools](#color-picker-tools)
-* [Animation Tools](#animation-tools)
-* [Experience Monitoring Tools](#experience-monitoring-tools)
-* [Accessibility Tools](#accessibility-tools)
-* [Augmented Reality Tools](#augmented-reality-tools)
-* [Design to Code Tools](#design-to-code-tools)
+
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -81,6 +82,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
+* [CleverBrush](https://www.cleverbrush.com/) — browser based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
 * [Gravit](https://designer.io/) — A free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
@@ -124,7 +126,6 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
 
-
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
@@ -136,26 +137,27 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Font Tools
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
+* [FontPair] (https://fontpair.co/) — simple tool that helps you pair Google Fonts together.
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons.
 * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
 
-
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
 
 * [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
+* [Coolors.co](https://coolors.co/) —  it is the super-fast color scheme generator.
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours.
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
+* [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. 
 * [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
-* [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. 
 
 ### Animation Tools 
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
@@ -200,6 +202,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Pinegrow](https://pinegrow.com/) — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
 * [Readymag](https://readymag.com/) — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 * [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
+* [Sympli](https://sympli.io/) — deliver the design, assets, specifications directly into your preferred IDE (e.g Xcode, Android Studio).
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever. 
 

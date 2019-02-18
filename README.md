@@ -129,6 +129,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Font Tools
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
+* [FontPair] (https://fontpair.co/) - simple tool that helps you pair Google Fonts together.
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.

@@ -115,6 +115,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
+* [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
 
 ### Mockup Tools
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.

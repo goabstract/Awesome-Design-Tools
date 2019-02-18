@@ -17,6 +17,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 ## Table of Content
 
 * [User Flow Tools](#user-flow-tools)
+* [Collaboration Tools](#collaboration-tools)
 * [Prototyping Tools](#user-flow-tools)
 * [UI Design Tools](#ui-design-tools)
 * [Design Feedback Tools](#design-feedback-tools)
@@ -48,6 +49,11 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
 
+### Collaboration Tools
+
+* [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for
+cross-functional team collaboration.
+* [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
 
 ### Prototyping Tools
 
@@ -86,7 +92,6 @@ Do you get feedback during the development process? If you wish to get more stru
 
 ### Free Screenshot Software
 Find some powerful screenshot tools available for macOS:
-
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud.
@@ -94,13 +99,13 @@ Find some powerful screenshot tools available for macOS:
 * [Screenie](https://www.thnkdev.com/Screenie/) — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
-* [Kap](https://getkap.co) – open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
+* [Kap](https://getkap.co) — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
-* [Frontify](https://frontify.com/) - create graphical guidelines, patterns libraries, design systems.
+* [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
@@ -132,12 +137,12 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
-* [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 
+* [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. 
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours.
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
-* [Pikka - Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
+* [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
@@ -148,7 +153,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
-* [Haiku](https://www.haiku.ai/) - Keyframe based animation connecting your UI tools to code that developers can easily use.
+* [Haiku](https://www.haiku.ai/) — keyframe based animation connecting your UI tools to code that developers can easily use.
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
@@ -169,7 +174,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
  
 ### Accessibility Tools
-* [ColorBox by Lyft Design](http://www.colorbox.io/) - a web app that algorithmically builds accessible color systems.
+* [ColorBox by Lyft Design](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems.
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 * [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios.
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 

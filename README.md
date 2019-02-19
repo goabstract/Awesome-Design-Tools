@@ -107,6 +107,8 @@ Find some powerful screenshot tools available for macOS:
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
 * [Kap](https://getkap.co) — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
+* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscren. Export it in different ways. Free on Windows
+* [ScreenToGif](https://www.screentogif.com/) — open source tool to record a gif of part of the screen. Also work as a nice editor. Only available for windows
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.

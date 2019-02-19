@@ -21,6 +21,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Collaboration Tools](#collaboration-tools)
 * [Color Picker Tools](#color-picker-tools)
 * [Design Feedback Tools](#design-feedback-tools)
+* [Design Managment Tools](#design-managment-tools)
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Experience Monitoring Tools](#experience-monitoring-tools)
@@ -90,6 +91,10 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
+
+### Design Managment Tools
+* [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
+* [Zeplin](https://zeplin.io) — ultimate collaboration tool between designers and developers.
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
@@ -170,8 +175,8 @@ Find some powerful screenshot tools available for macOS:
 You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
 ### Stock Photos Tools
-* [Zoommy](http://zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
-* [Unsplash](http://Unsplash.com) —  stock photos free to use
+* [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
+* [Unsplash](http://www.unsplash.com) — stock photos free to use.
 
 ### UI Design Tools
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.

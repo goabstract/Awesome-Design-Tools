@@ -28,12 +28,12 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
 * [Mockup Tools](#mockup-tools)
+* [Mouse Tracking](#mouse-tracking)
 * [Prototyping Tools](#prototyping-tools)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
-
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -154,6 +154,9 @@ Find some powerful screenshot tools available for macOS:
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
+
+### Mouse tracking
+* [Mouseflow](https://mouseflow.com/) — record mouse cursor movements
 
 ### Prototyping Tools
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.

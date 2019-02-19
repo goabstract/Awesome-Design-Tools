@@ -151,6 +151,8 @@ Find some powerful screenshot tools available for macOS:
 
 ### Mockup Tools
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
+* [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
+* [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 
 ### Prototyping Tools
 

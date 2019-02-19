@@ -15,7 +15,6 @@
 If you found some great design tool, just send a Pull Request. I'd love to see your suggestions! 
 
 ## Table of Content
-
 * [Accessibility Tools](#accessibility-tools)
 * [Animation Tools](#animation-tools)
 * [Augmented Reality Tools](#augmented-reality-tools)
@@ -68,7 +67,6 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code.
 
 ### Collaboration Tools
-
 * [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for
 cross-functional team collaboration.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
@@ -115,15 +113,15 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
 
 ### Experience Monitoring Tools
-
+* [Amplitude](https://amplitude.com/) — Understand your users, rapidly release better product experiences, and grow your business.
+* [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
 * [FullStory](https://www.fullstory.com/) — app that captures all your customer experience data in one powerful, easy-to-use platform. 
+* [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
+* [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
 * [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do. 
-* [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
-* [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
-* [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
 
 ### Font Tools
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
@@ -157,7 +155,6 @@ Find some powerful screenshot tools available for macOS:
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 
 ### Prototyping Tools
-
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
@@ -172,12 +169,10 @@ Find some powerful screenshot tools available for macOS:
 You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
 ### Stock Photos Tools
-
 * [Zoommy](http://zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 * [Unsplash](http://Unsplash.com) —  stock photos free to use
 
 ### UI Design Tools
-
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.

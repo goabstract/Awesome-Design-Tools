@@ -144,6 +144,8 @@ Find some powerful screenshot tools available for macOS:
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
 * [Kap](https://getkap.co) — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
+* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscren. Export it in different ways. Free on Windows
+* [ScreenToGif](https://www.screentogif.com/) — open source tool to record a gif of part of the screen. Also work as a nice editor. Only available for Windows.
 
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
@@ -190,7 +192,6 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
-
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.

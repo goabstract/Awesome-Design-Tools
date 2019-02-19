@@ -176,6 +176,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do. 
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
+* [Amplitude](https://amplitude.com/) — Understand your users, rapidly release better product experiences, and grow your business.
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
 * [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.

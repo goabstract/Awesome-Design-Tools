@@ -28,7 +28,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
 * [Mockup Tools](#mockup-tools)
-* [Prototyping Tools](#user-flow-tools)
+* [Prototyping Tools](#prototyping-tools)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)

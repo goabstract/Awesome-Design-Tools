@@ -20,7 +20,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Augmented Reality Tools](#augmented-reality-tools)
 * [Collaboration Tools](#collaboration-tools)
 * [Color Picker Tools](#color-picker-tools)
-* [Design Feedback Tools](#design-feedback-tools)
+* [Design Debugging & Feedback Tools](#design-feedback-tools)
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Experience Monitoring Tools](#experience-monitoring-tools)
@@ -48,6 +48,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - a chrome extension with accessibility debug tooling: users can hover over any element on any webpage to see: role, tab-index, color contrast, title, aria-*, etc.
 
 ### Animation Tools 
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
@@ -86,10 +87,12 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
 
-### Design Feedback Tools
+### Design Debugging & Feedback Tools
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - a chrome extension for visual debugging, offering quick style and a11y inspecting, drag and drop image swapping, move/clone/delete elements, click and drag elements around, and much more. Makes any webpage feel like an artboard so your design skills are relevant in the browser.  
+
 
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.

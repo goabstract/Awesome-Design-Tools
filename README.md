@@ -71,6 +71,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for
 cross-functional team collaboration.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
+* [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:

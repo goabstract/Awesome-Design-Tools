@@ -70,6 +70,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for
 cross-functional team collaboration.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
+* [MURAL](https://mural.co/) - Think and collaborate visually. Anywhere, anytime.
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
@@ -150,6 +151,7 @@ Find some powerful screenshot tools available for macOS:
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
+* [Iconfinder](https://www.iconfinder.com) - a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 
 ### Mockup Tools
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.

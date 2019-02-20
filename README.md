@@ -82,6 +82,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. 
 * [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
+* [Sip](https://sipapp.io/) - a modern color picker built for designers and developers, that allows you to collect, organize and edit colors
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.

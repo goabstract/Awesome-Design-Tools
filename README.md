@@ -156,6 +156,7 @@ Find some powerful screenshot tools available for macOS:
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 
 ### Prototyping Tools
+* [Alva](https://www.meetalva.io/) — create living prototypes with code components.
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.

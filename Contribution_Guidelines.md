@@ -11,7 +11,7 @@ If you would like to contribute, just send a Pull Request.  Please:
 Please, use the following format for the links in Pull Requests:
 * ``[Tool](link) — description``.
 * Add the appropriate label:
-  * <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.png" alt="Awesome-Design-Tools" width="15" height="15"> free tool
+  * <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.png" alt="Awesome-Design-Tools" width="15" height="15"> free\freemium tool
   * <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.png" alt="Awesome-Design-Tools" width="15"  height="15"> open-source tool
   * <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.png" alt="Awesome-Design-Tools" width="20" height="20"> for Mac only
   * <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/windows.png" alt="Awesome-Design-Tools" width="15" height="15"> for Windows only

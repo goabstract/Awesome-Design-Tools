@@ -171,7 +171,8 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 
 ### Stock Photos Tools
 * [Zoommy](http://zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
-* [Unsplash](http://Unsplash.com) —  stock photos free to use
+* [Unsplash](http://Unsplash.com) — stock photos free to use
+* [Pixabay](https://pixabay.com/) - stock photos free to use
 
 ### UI Design Tools
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.

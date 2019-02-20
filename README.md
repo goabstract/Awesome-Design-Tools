@@ -64,6 +64,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 ### Augmented Reality Tools
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
+* [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code.
 
 ### Collaboration Tools
@@ -194,6 +195,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+* [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.

@@ -29,13 +29,13 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
 * [Mockup Tools](#mockup-tools)
+* [Mouse Tracking Tools](#mouse-tracking-tools)
 * [Prototyping Tools](#prototyping-tools)
 * [Sketching Templates](#sketching-templates)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
-
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -191,6 +191,9 @@ Find some powerful screenshot tools available for macOS:
 * [Smartmockups](<https://smartmockups.com/>) — create stunning product mockups with just a few clicks
 * [Screely](<https://www.screely.com/>) — quickly frame web page designs into a minimalist browser window
 
+### Mouse Tracking Tools
+* [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
+
 ### Prototyping Tools
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components.
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
@@ -208,13 +211,12 @@ Find some powerful screenshot tools available for macOS:
 
 You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
-###Sketching Tools
+### Sketching Tools
 
-- [Sketchsheets](<https://sketchsheets.com/>) — ready to print templates for various devices
-- [Sneakpeekit](<https://sneakpeekit.com/>) — print note taking grids and devices frames 
+- [Sketchsheets](https://sketchsheets.com/) — ready to print templates for various devices.
+- [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames.
 
 ### Stock Photos Tools
-* [Zoommy](http://zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 * [Unsplash](http://Unsplash.com) —  stock photos free to use
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 * [Unsplash](http://www.unsplash.com) — stock photos free to use.

@@ -28,7 +28,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
 * [Mockup Tools](#mockup-tools)
-* [Mouse Tracking](#mouse-tracking)
+* [Mouse Tracking Tools](#mouse-tracking-tools)
 * [Prototyping Tools](#prototyping-tools)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
@@ -155,8 +155,8 @@ Find some powerful screenshot tools available for macOS:
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 
-### Mouse tracking
-* [Mouseflow](https://mouseflow.com/) — record mouse cursor movements
+### Mouse Tracking Tools
+* [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
 ### Prototyping Tools
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
@@ -174,7 +174,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 
 ### Stock Photos Tools
 * [Zoommy](http://zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
-* [Unsplash](http://Unsplash.com) —  stock photos free to use
+* [Unsplash](http://Unsplash.com) —  stock photos free to use.
 
 ### UI Design Tools
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.

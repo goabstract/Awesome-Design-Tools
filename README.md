@@ -166,6 +166,7 @@ Find some powerful screenshot tools available for macOS:
 ### Prototyping Tools
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components.
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
+* [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
 * [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
@@ -183,6 +184,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Zoommy](http://zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 * [Unsplash](http://Unsplash.com) —  stock photos free to use.
 * [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
+* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
 
 ### UI Design Tools
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
@@ -202,6 +204,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
+* [Lucidchart](https://www.lucidchart.com/) — online tool for creating diagrams, flow charts, sitemaps, and more.
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.

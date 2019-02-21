@@ -68,10 +68,14 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code.
 
 ### Collaboration Tools
-* [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for
-cross-functional team collaboration.
+
+* [Jira](https://www.atlassian.com/software/jira) —  software development tool used by agile teams.
+* [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
+* [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration.
+* [Trello](https://trello.com/) — a web-based project management application that enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
+* [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
-* [MURAL](https://mural.co/) - Think and collaborate visually. Anywhere, anytime.
+* [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:

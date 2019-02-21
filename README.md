@@ -76,6 +76,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
 * [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
+* [Zeplin](https://zeplin.io/) — connected space for product teams. Handoff designs and styleguides to developers with accurate specs, assets, code snippets—automatically.
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:

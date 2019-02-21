@@ -21,7 +21,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Collaboration Tools](#collaboration-tools)
 * [Color Picker Tools](#color-picker-tools)
 * [Design Feedback Tools](#design-feedback-tools)
-* [Design Managment Tools](#design-managment-tools)
+* [Design Handoff Tools](#design-handoff-tools)
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Experience Monitoring Tools](#experience-monitoring-tools)
@@ -69,11 +69,15 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code.
 
 ### Collaboration Tools
-* [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for
-cross-functional team collaboration.
+
+* [Jira](https://www.atlassian.com/software/jira) —  software development tool used by agile teams.
+* [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
+* [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration.
+* [Trello](https://trello.com/) — a web-based project management application that enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
+* [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
-* [MURAL](https://mural.co/) - Think and collaborate visually. Anywhere, anytime.
+* [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
@@ -96,7 +100,7 @@ Do you get feedback during the development process? If you wish to get more stru
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
 
-### Design Managment Tools
+### Design Handoff Tools
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
 * [Zeplin](https://zeplin.io) — ultimate collaboration tool between designers and developers.
 
@@ -159,6 +163,9 @@ Find some powerful screenshot tools available for macOS:
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
 * [Iconfinder](https://www.iconfinder.com) - a marketplace for vector icons (SVG). Icon sets available in IconJar format.
+* [Font Awesome](https://fontawesome.com/) - the web's most popular icon set and toolkit.
+* [Fontello](http://fontello.com/) - tool to build custom fonts with icons.
+* [Noun Project](https://thenounproject.com/) - icons for everything.
 
 ### Mockup Tools
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
@@ -168,6 +175,8 @@ Find some powerful screenshot tools available for macOS:
 ### Prototyping Tools
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components.
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
+* [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
+* [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.
@@ -186,6 +195,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Unsplash](http://www.unsplash.com) — stock photos free to use.
 * [Unsplash](http://Unsplash.com) —  stock photos free to use.
 * [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
+* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
 
 
 ### UI Design Tools
@@ -206,6 +216,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
+* [Lucidchart](https://www.lucidchart.com/) — online tool for creating diagrams, flow charts, sitemaps, and more.
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.

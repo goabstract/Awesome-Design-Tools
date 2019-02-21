@@ -201,6 +201,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 ### UI Design Tools
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
+* [GIMP](https://www.gimp.org/) — Free & Open Source imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
 * [CleverBrush](https://www.cleverbrush.com/) — browser based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
@@ -210,6 +211,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Photopea](https://www.photopea.com/) — A free browser based graphic design app, alternative to Photoshop. 
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
+* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to  create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings.
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:

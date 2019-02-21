@@ -65,6 +65,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 ### Augmented Reality Tools
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
+* [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code.
 
 ### Collaboration Tools
@@ -72,6 +73,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 cross-functional team collaboration.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work.
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
+* [MURAL](https://mural.co/) - Think and collaborate visually. Anywhere, anytime.
 
 ### Color Picker Tools
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
@@ -84,6 +86,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. 
 * [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
+* [Sip](https://sipapp.io/) - a modern color picker built for designers and developers, that allows you to collect, organize and edit colors
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
@@ -155,6 +158,7 @@ Find some powerful screenshot tools available for macOS:
 ### Icons Tools
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
+* [Iconfinder](https://www.iconfinder.com) - a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 
 ### Mockup Tools
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
@@ -162,6 +166,7 @@ Find some powerful screenshot tools available for macOS:
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 
 ### Prototyping Tools
+* [Alva](https://www.meetalva.io/) — create living prototypes with code components.
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
@@ -176,8 +181,12 @@ Find some powerful screenshot tools available for macOS:
 You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
 ### Stock Photos Tools
+
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 * [Unsplash](http://www.unsplash.com) — stock photos free to use.
+* [Unsplash](http://Unsplash.com) —  stock photos free to use.
+* [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
+
 
 ### UI Design Tools
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
@@ -195,6 +204,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+* [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.

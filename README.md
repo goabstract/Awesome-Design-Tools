@@ -157,6 +157,9 @@ Find some powerful screenshot tools available for macOS:
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
 * [Iconfinder](https://www.iconfinder.com) - a marketplace for vector icons (SVG). Icon sets available in IconJar format.
+* [Font Awesome](https://fontawesome.com/) - the web's most popular icon set and toolkit.
+* [Fontello](http://fontello.com/) - tool to build custom fonts with icons.
+* [Noun Project](https://thenounproject.com/) - icons for everything.
 
 ### Mockup Tools
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.

@@ -224,6 +224,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
 * [Pexels](https://www.pexels.com/) — aggregate of many free stock photo resources
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
+* [pxhere](https://pxhere.com/) — free image stock.
 
 
 ### UI Design Tools

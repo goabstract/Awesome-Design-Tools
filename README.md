@@ -63,6 +63,7 @@ Need to create an animated transition, micro-interaction or scroll-based animati
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
 * [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
 * [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS.
+* [BeatFlyer](https://beatflyer.com/) — web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 

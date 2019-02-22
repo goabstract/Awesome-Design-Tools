@@ -249,6 +249,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
+* [NinjaMock](https://ninjamock.com/) — Wireframe and user flow online tool. Link your views and create logic flow prototype. All with freehand visual style. 3 projects / 10$ per month.
 
 ### Version Control for Designers
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.

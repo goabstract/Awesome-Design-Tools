@@ -44,14 +44,15 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 </p>
 
 ### Accessibility Tools
+* [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool (bookmarklet).
 * [ColorBox by Lyft Design](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems.
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 * [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios.
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).
-* [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool (bookmarklet)
-* [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit
+* [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit.
+* [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox.
 
 ### Animation Tools 
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
@@ -152,13 +153,14 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Font Tools
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
+* [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
+* [Fontbase](https://fontba.se/) — Font management made easy
 * [FontPair](https://fontpair.co/) — simple tool that helps you pair Google Fonts together.
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
+* [RightFont](https://rightfontapp.com/) — font managing app, helps preview, sync, install and organize fonts over iCloud, Dropbox, OneDrive or Google Drive.
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons.
-* [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
-* [Fontbase](https://fontba.se/) — Font management made easy
 
 ### Free Screenshot Software
 Find some powerful screenshot tools available for macOS:

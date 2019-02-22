@@ -121,11 +121,11 @@ Do you get feedback during the development process? If you wish to get more stru
 Tools that help to build, maintain, and organize your own design system.
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
+* [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager  
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
-* [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager  
 
 We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
 
@@ -165,17 +165,16 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 ### Free Screenshot Software
 Find some powerful screenshot tools available for macOS:
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
+* [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. (MacOS)
+* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscren. Export it in different ways. Free on Windows
+* [Kap](https://getkap.co) — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud.
 * [Quicktime](https://support.apple.com/quicktime) — video player that you can use to record your screen. 
 * [Screenie](https://www.thnkdev.com/Screenie/) — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
+* [ScreenToGif](https://www.screentogif.com/) — open source tool to record a gif of part of the screen. Also work as a nice editor. Only available for Windows.
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
-* [Kap](https://getkap.co) — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
-* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscren. Export it in different ways. Free on Windows
-* [ScreenToGif](https://www.screentogif.com/) — open source tool to record a gif of part of the screen. Also work as a nice editor. Only available for Windows.
-* [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. (MacOS)
-
 
 
 ### Icons Tools
@@ -188,11 +187,11 @@ Find some powerful screenshot tools available for macOS:
 * [Svgsus](<http://www.svgs.us/>) — svg icon management tool
 
 ### Mockup Tools
-* [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
-* [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
-* [Smartmockups](<https://smartmockups.com/>) — create stunning product mockups with just a few clicks
+* [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
 * [Screely](<https://www.screely.com/>) — quickly frame web page designs into a minimalist browser window
+* [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
+* [Smartmockups](<https://smartmockups.com/>) — create stunning product mockups with just a few clicks
 
 ### Mouse Tracking Tools
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
@@ -220,13 +219,11 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 - [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames.
 
 ### Stock Photos Tools
-* [Unsplash](http://Unsplash.com) —  stock photos free to use
-* [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
-* [Unsplash](http://www.unsplash.com) — stock photos free to use.
-* [Unsplash](http://Unsplash.com) —  stock photos free to use.
 * [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
-* [Pexels](https://www.pexels.com/) — aggregate of many free stock photo resources
+* [Pexels](https://www.pexels.com/) — aggregate of many free stock photo resources.
+* [Unsplash](http://Unsplash.com) —  stock photos free to use.
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
+* [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 
 
 ### UI Design Tools
@@ -256,10 +253,10 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 
 ### Version Control for Designers
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
-* [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
-* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
+* [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
+* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
 
 ### Addendum (Reference & Inspiration)
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.

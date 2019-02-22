@@ -57,13 +57,13 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
+* [BeatFlyer](https://beatflyer.com/) — web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
 * [Haiku](https://www.haiku.ai/) — keyframe based animation connecting your UI tools to code that developers can easily use.
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
 * [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
 * [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS.
-* [BeatFlyer](https://beatflyer.com/) — web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 

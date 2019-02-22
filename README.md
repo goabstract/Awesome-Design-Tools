@@ -78,7 +78,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Invision Freehand](https://www.invisionapp.com/feature/freehand) —  quickly create, discuss, and iterate on designs.
 * [Jira](https://www.atlassian.com/software/jira) —  software development tool used by agile teams.
 * [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
-* [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool
+* [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 * [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration.
 * [Trello](https://trello.com/) — a web-based project management application that enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 * [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
@@ -96,7 +96,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Material Colors Native](https://github.com/BafS/Material-Colors-native) — Google's material design color palette in the form of a mac app.
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. 
-* [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS
+* [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS.
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.
 * [Sip](https://sipapp.io/) - A better way to collecct, organize and share colors. Global eyedropper tool for MacOS.
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
@@ -121,7 +121,7 @@ Do you get feedback during the development process? If you wish to get more stru
 Tools that help to build, maintain, and organize your own design system.
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
-* [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager  
+* [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager.
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
@@ -154,7 +154,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 ### Font Tools
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
 * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
-* [Fontbase](https://fontba.se/) — Font management made easy
+* [Fontbase](https://fontba.se/) — Font management made easy.
 * [FontPair](https://fontpair.co/) — simple tool that helps you pair Google Fonts together.
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
@@ -184,14 +184,14 @@ Find some powerful screenshot tools available for macOS:
 * [Fontello](http://fontello.com/) - tool to build custom fonts with icons.
 * [Noun Project](https://thenounproject.com/) - icons for everything.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
-* [Svgsus](<http://www.svgs.us/>) — svg icon management tool
+* [Svgsus](<http://www.svgs.us/>) — svg icon management tool.
 
 ### Mockup Tools
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
 * [Screely](<https://www.screely.com/>) — quickly frame web page designs into a minimalist browser window
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
-* [Smartmockups](<https://smartmockups.com/>) — create stunning product mockups with just a few clicks
+* [Smartmockups](<https://smartmockups.com/>) — create stunning product mockups with just a few clicks.
 
 ### Mouse Tracking Tools
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.

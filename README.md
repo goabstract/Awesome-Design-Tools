@@ -51,7 +51,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).
-* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - quick hover inspect: role, tab-index, color contrast, title, aria-*, etc.
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - quick hover inspect: role, tab-index, color contrast, title, aria roles, etc.
 * [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit.
 * [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox.
 
@@ -109,7 +109,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
-* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - tool equipped for visual debugging, quick style and a11y inspecting, changing CSS visually, click and drag elements around, and much more.   
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more.   
 
 
 ### Design Handoff Tools

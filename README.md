@@ -115,7 +115,7 @@ Do you get feedback during the development process? If you wish to get more stru
 * [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements.
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
-* [Zeplin](https://zeplin.io/) — Handoff designs and styleguides with accurate specs, assets, code snippets automatically.
+* [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
 
 ### Design System Tools
@@ -167,7 +167,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 Find some powerful screenshot tools available for macOS:
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
 * [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. (MacOS)
-* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscreen. Export it in different ways. Free on Windows
+* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscreen. Export it in different ways. Free on Windows.
 * [Kap](https://getkap.co) — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud.

@@ -20,7 +20,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Augmented Reality Tools](#augmented-reality-tools)
 * [Collaboration Tools](#collaboration-tools)
 * [Color Picker Tools](#color-picker-tools)
-* [Design Debugging & Feedback Tools](#design-feedback-tools)
+* [Design Feedback Tools](#design-feedback-tools)
 * [Design Handoff Tools](#design-handoff-tools)
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
@@ -51,7 +51,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).
-* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - a chrome extension with accessibility debug tooling: users can hover over any element on any webpage to see: role, tab-index, color contrast, title, aria-*, etc.
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - quick hover inspect: role, tab-index, color contrast, title, aria-*, etc.
 * [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit.
 * [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox.
 
@@ -105,11 +105,11 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers.
   
 
-### Design Debugging & Feedback Tools
+### Design Feedback Tools
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
-* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - a chrome extension for visual debugging, offering quick style and a11y inspecting, drag and drop image swapping, move/clone/delete elements, click and drag elements around, and much more. Makes any webpage feel like an artboard so your design skills are relevant in the browser.  
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - tool equipped for visual debugging, quick style and a11y inspecting, changing CSS visually, click and drag elements around, and much more.   
 
 
 ### Design Handoff Tools

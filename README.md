@@ -31,7 +31,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Mockup Tools](#mockup-tools)
 * [Mouse Tracking Tools](#mouse-tracking-tools)
 * [Prototyping Tools](#prototyping-tools)
-* [Sketching Templates](#sketching-templates)
+* [Sketching Templates](#sketching-tools)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
@@ -184,14 +184,14 @@ Find some powerful screenshot tools available for macOS:
 * [Fontello](http://fontello.com/) - tool to build custom fonts with icons.
 * [Noun Project](https://thenounproject.com/) — icons for everything.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
-* [Svgsus](<http://www.svgs.us/>) — svg icon management tool.
+* [Svgsus](http://www.svgs.us/) — svg icon management tool.
 
 ### Mockup Tools
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
-* [Screely](<https://www.screely.com/>) — quickly frame web page designs into a minimalist browser window
+* [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window.
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
-* [Smartmockups](<https://smartmockups.com/>) — create stunning product mockups with just a few clicks.
+* [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 
 ### Mouse Tracking Tools
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
@@ -223,6 +223,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources.
 * [Unsplash](http://Unsplash.com) —  stock photos free to use.
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
+* [pxhere](https://pxhere.com/) — free image stock.
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 
 
@@ -250,6 +251,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
+* [NinjaMock](https://ninjamock.com/) — Wireframe and user flow online tool. Link your views and create logic flow prototype. All with freehand visual style.
 
 ### Version Control for Designers
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.

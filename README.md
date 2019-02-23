@@ -127,7 +127,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
 
 ### Experience Monitoring Tools
-* [Amplitude](https://amplitude.com/) — Understand your users, rapidly release better product experiences, and grow your business.
+* [Amplitude](https://amplitude.com/) — understand your users, rapidly release better product experiences, and grow your business.
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
 * [FullStory](https://www.fullstory.com/) — app that captures all your customer experience data in one powerful, easy-to-use platform. 
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
@@ -201,11 +201,11 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 ### UI Design Tools
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
-* [GIMP](https://www.gimp.org/) — Free & Open Source imaging and graphic design software.
+* [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
 * [CleverBrush](https://www.cleverbrush.com/) — browser based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
-* [Gravit](https://designer.io/) — A free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
+* [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Photopea](https://www.photopea.com/) — A free browser based graphic design app, alternative to Photoshop. 

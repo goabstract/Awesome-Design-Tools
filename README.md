@@ -28,6 +28,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Font Tools](#font-tools)
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
+* [Illustrations](#illustrations)
 * [Mockup Tools](#mockup-tools)
 * [Mouse Tracking Tools](#mouse-tracking-tools)
 * [Prototyping Tools](#prototyping-tools)
@@ -186,6 +187,9 @@ Find some powerful screenshot tools available for macOS:
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
 * [Svgsus](http://www.svgs.us/) — svg icon management tool.
 
+### Illustrations
+* [unDraw](https://undraw.co) — collection of beautiful svg images.
+
 ### Mockup Tools
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
@@ -214,9 +218,8 @@ Find some powerful screenshot tools available for macOS:
 You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
 ### Sketching Tools
-
-- [Sketchsheets](https://sketchsheets.com/) — ready to print templates for various devices.
-- [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames.
+* [Sketchsheets](https://sketchsheets.com/) — ready to print templates for various devices.
+* [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames.
 
 ### Stock Photos Tools
 * [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.

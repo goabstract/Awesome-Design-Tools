@@ -197,7 +197,7 @@ Find some powerful screenshot tools available for macOS:
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
 ### Prototyping Tools
-* [Alva](https://www.meetalva.io/) — create living prototypes with code components.
+* [Alva](https://www.meetalva.io/) — create living prototypes with code components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
 * [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder.

@@ -1,20 +1,27 @@
 # Awesome Design Tools
+
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
         <img src="Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>
     </a>
 </p>
 
-<about>
+<p align="center">   
+<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> 
+</p>
+
 
 ## How to Use and Contribute
+
 * Go through the Table of Contents and choose the tool. 
 * Search for a keyword or phrase (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
 If you found some great design tool, just send a Pull Request. I'd love to see your suggestions! 
 
+
 ## Table of Content
+
 * [Accessibility Tools](#accessibility-tools)
 * [Animation Tools](#animation-tools)
 * [Augmented Reality Tools](#augmented-reality-tools)
@@ -44,7 +51,9 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
     </a>
 </p>
 
+
 ### Accessibility Tools
+
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool (bookmarklet).
 * [ColorBox by Lyft Design](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems.
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
@@ -55,7 +64,9 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit.
 * [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox.
 
-### Animation Tools 
+
+### Animation Tools
+
 Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
@@ -69,12 +80,16 @@ Need to create an animated transition, micro-interaction or scroll-based animati
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 
+
 ### Augmented Reality Tools
+
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
 * [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code.
 
+
 ### Collaboration Tools
+
 * [Gallery.io](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions.
 * [Invision Freehand](https://www.invisionapp.com/feature/freehand) —  quickly create, discuss, and iterate on designs.
 * [Jira](https://www.atlassian.com/software/jira) —  software development tool used by agile teams.
@@ -88,6 +103,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 
 ### Color Picker Tools
+
 If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
 
 * [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
@@ -106,11 +122,14 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
   
 
 ### Design Feedback Tools
+
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
  
+ 
 ### Design Handoff Tools
+
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
 * [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements.
@@ -119,6 +138,7 @@ Do you get feedback during the development process? If you wish to get more stru
 
 
 ### Design System Tools
+
 Tools that help to build, maintain, and organize your own design system.
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
@@ -130,7 +150,9 @@ Tools that help to build, maintain, and organize your own design system.
 
 We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
 
+
 ### Design to Code Tools
+
 * [Blocs For Mac](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code.
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
 * [Mobirise](https://mobirise.com/) — an offline drag and drop website builder software that is based on Bootstrap 3/4 and Google AMP.
@@ -141,7 +163,9 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
 
+
 ### Experience Monitoring Tools
+
 * [Amplitude](https://amplitude.com/) — understand your users, rapidly release better product experiences, and grow your business.
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
 * [FullStory](https://www.fullstory.com/) — an app that captures all your customer experience data in one powerful, easy-to-use platform. 
@@ -152,7 +176,9 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
 
+
 ### Font Tools
+
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
 * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
 * [Fontbase](https://fontba.se/) — font management made easy.
@@ -163,7 +189,9 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Sans Forgetica](http://sansforgetica.rmit/) — a downloadable font that is scientifically designed to help you remember your study notes.
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons.
 
+
 ### Free Screenshot Software
+
 Find some powerful screenshot tools available for macOS:
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
 * [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. (MacOS)
@@ -179,28 +207,37 @@ Find some powerful screenshot tools available for macOS:
 
 
 ### Icons Tools
+
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager for Mac.
 * [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit.
 * [Fontello](http://fontello.com/) - tool to build custom fonts with icons.
 * [Noun Project](https://thenounproject.com/) — icons for everything.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons.
-* [Svgsus](http://www.svgs.us/) — svg icon management tool.
+* [Svgsus](http://www.svgs.us/) — SVG icon management tool.
+
 
 ### Illustrations
-* [unDraw](https://undraw.co) — collection of beautiful svg images.
+
+* [unDraw](https://undraw.co) — collection of beautiful SVG images.
+
 
 ### Mockup Tools
+
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
 * [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window.
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 
+
 ### Mouse Tracking Tools
+
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
+
 ### Prototyping Tools
+
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
@@ -210,6 +247,7 @@ Find some powerful screenshot tools available for macOS:
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.
 * [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). 
 * [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place. 
+* [Maze](https://maze.design/) — a tool for designers and developers that gives analytical results with actionable KPIs for your Invision prototypes.
 * [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces.
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
@@ -217,20 +255,27 @@ Find some powerful screenshot tools available for macOS:
 
 You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
 
+
 ### Sketching Tools
+
 * [Sketchsheets](https://sketchsheets.com/) — ready to print templates for various devices.
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames.
 
+
 ### Stock Photos Tools
+
+* [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use.
 * [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
 * [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources.
-* [Unsplash](http://Unsplash.com) —  stock photos free to use.
-* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
+* [Pixabay](https://pixabay.com/) — website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license.
 * [pxhere](https://pxhere.com/) — free image stock.
+* [Unsplash](https://unsplash.com) —  stock photos free to use.
+* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
 
 
 ### UI Design Tools
+
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software.
@@ -243,9 +288,11 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. 
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
-* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to  create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings.
+* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings.
+
 
 ### User Flow Tools
+
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
@@ -257,15 +304,20 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
 * [NinjaMock](https://ninjamock.com/) — Wireframe and user flow online tool. Link your views and create logic flow prototype. All with freehand visual style.
+* [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts.
+
 
 ### Version Control for Designers
+
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
 * [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
 
+
 ### Addendum (Reference & Inspiration)
+
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.
 
 

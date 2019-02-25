@@ -245,6 +245,7 @@ Find some powerful screenshot tools available for macOS:
 * [Framer X](https://framer.com/) — a tool for prototyping design animations.
 * [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). 
 * [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place. 
+* [Maze](https://maze.design/) — a tool for designers and developers that gives analytical results with actionable KPIs for your Invision prototypes.
 * [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces.
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.

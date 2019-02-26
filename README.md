@@ -147,6 +147,7 @@ Tools that help to build, maintain, and organize your own design system.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
+* [Framer X Team Store](https://www.framer.com/design-systems/) - build a React-based design system that creates a single source of truth across design and development 
 
 We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
 
@@ -244,7 +245,7 @@ Find some powerful screenshot tools available for macOS:
 * [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
-* [Framer X](https://framer.com/) — a tool for prototyping design animations.
+* [Framer X](https://framer.com/) — a tool to visually design realistic interactive prototypes.
 * [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). 
 * [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place. 
 * [Maze](https://maze.design/) — a tool for designers and developers that gives analytical results with actionable KPIs for your Invision prototypes.

@@ -134,6 +134,7 @@ Do you get feedback during the development process? If you wish to get more stru
 * [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements.
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
+* [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio. 
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
 
@@ -313,7 +314,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
 * [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
-* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
+* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops. 
 
 
 ### Addendum (Reference & Inspiration)

@@ -314,7 +314,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
 * [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync.
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
-* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution.
+* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops. 
 
 
 ### Addendum (Reference & Inspiration)

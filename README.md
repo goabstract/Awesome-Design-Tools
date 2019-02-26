@@ -181,6 +181,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 
 ### Font Tools
 
+* [Adobe Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts.
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography.
 * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle-free way to self-host Google Fonts.
 * [Fontbase](https://fontba.se/) — font management made easy.

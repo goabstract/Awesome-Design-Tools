@@ -134,6 +134,7 @@ Do you get feedback during the development process? If you wish to get more stru
 * [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements.
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
+* [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with with Jira, Xcode and Android Studio. 
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
 

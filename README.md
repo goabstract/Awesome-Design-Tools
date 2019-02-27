@@ -260,37 +260,37 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 
 ### Sketching Tools
 
-* [Sketchsheets](https://sketchsheets.com/) — ready to print templates for various devices.
-* [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames.
+* [Sketchsheets](https://sketchsheets.com/) — is an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### Stock Photos Tools
 
-* [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use.
-* [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
-* [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources.
-* [Pixabay](https://pixabay.com/) — website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license.
-* [pxhere](https://pxhere.com/) — free image stock.
-* [Unsplash](https://unsplash.com) —  stock photos free to use.
-* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
-* [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
+* [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pixabay](https://pixabay.com/) — website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [pxhere](https://pxhere.com/) — free image stock. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Unsplash](https://unsplash.com) —  stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### UI Design Tools
 
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
-* [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software.
-* [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
+* [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
 * [CleverBrush](https://www.cleverbrush.com/) — browser-based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
-* [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
-* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
-* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings.
-* [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
-* [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. 
-* [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
-* [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
+* [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) 
+* [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) 
+* [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 

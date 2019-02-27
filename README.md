@@ -54,16 +54,16 @@ If you found some great design tool, just send a Pull Request with respect to ou
 
 ### Accessibility Tools
 
-* [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool (bookmarklet).
-* [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries and environments you use today.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [ColorBox by Lyft Design](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems.
-* [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
-* [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios.![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
-* [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
-* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/).
-* [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit.
-* [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox.
+* [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool (bookmarklet). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries and environments you use today. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [ColorBox by Lyft Design](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### Animation Tools

@@ -85,7 +85,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 ### Augmented Reality Tools
 
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
-* [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 

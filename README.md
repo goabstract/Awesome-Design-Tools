@@ -17,7 +17,7 @@
 * Search for a keyword or phrase (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool, just send a Pull Request with respect to our [Contribution Guidlines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labers for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions! 
+If you found some great design tool, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions! 
 
 
 ## Table of Content

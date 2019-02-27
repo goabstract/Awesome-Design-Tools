@@ -72,12 +72,12 @@ Need to create an animated transition, micro-interaction or scroll-based animati
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
-* [Haiku](https://www.haiku.ai/) — keyframe-based animation connecting your UI tools to code that developers can easily use.
-* [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS.
-* [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package.
-* [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
-* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
-* [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS.
+* [Haiku](https://www.haiku.ai/) — keyframe-based animation connecting your UI tools to code that developers can easily use. 
+* [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 

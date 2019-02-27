@@ -238,6 +238,9 @@ Find some powerful screenshot tools available for macOS:
 
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
+### Pixel Art Tools
+
+* [Piskel](https://www.piskelapp.com/) - online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 ### Prototyping Tools
 

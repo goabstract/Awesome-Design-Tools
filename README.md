@@ -241,6 +241,7 @@ Find some powerful screenshot tools available for macOS:
 ### Pixel Art Tools
 
 * [Piskel](https://www.piskelapp.com/) - online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Aseprite](https://www.aseprite.org/) - animated sprite editor & pixel art tool.
 
 ### Prototyping Tools
 

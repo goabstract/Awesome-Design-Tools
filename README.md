@@ -190,6 +190,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [FontSpark](https://fontspark.app/) — a simple tool to help designers quickly find the best fonts for their projects.
 * [RightFont](https://rightfontapp.com/) — font managing app, helps preview, sync, install and organize fonts over iCloud, Dropbox, OneDrive or Google Drive.
 * [Sans Forgetica](http://sansforgetica.rmit/) — a downloadable font that is scientifically designed to help you remember your study notes.
+* [Typeface](https://typefaceapp.com/) — font manager that improves your design workflow with live font previews and flexible tagging. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons.
 
 

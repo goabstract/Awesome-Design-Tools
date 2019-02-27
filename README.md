@@ -126,14 +126,14 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
-* [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
+* [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
  
  
 ### Design Handoff Tools
 
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
-* [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
-* [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements.
+* [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development. 
+* [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio. 
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
@@ -146,7 +146,7 @@ Tools that help to build, maintain, and organize your own design system.
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager.
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
-* [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team.
+* [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 

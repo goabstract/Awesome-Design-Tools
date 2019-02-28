@@ -151,7 +151,7 @@ Tools that help to build, maintain, and organize your own design system.
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
-We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
+We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)). 
 
 
 ### Design to Code Tools
@@ -160,6 +160,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
 * [Mobirise](https://mobirise.com/) — an offline drag and drop website builder software that is based on Bootstrap 3/4 and Google AMP. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pinegrow](https://pinegrow.com/) — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
+* [px.div](https://www.pxdiv.com) — Proper site build tool for developers and designers.
 * [Readymag](https://readymag.com/) — a visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 * [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
 * [Sympli](https://sympli.io/) — deliver the design, assets, specifications directly into your preferred IDE (e.g Xcode, Android Studio).
@@ -191,6 +192,7 @@ We can also add to this list Sketch and Figma, which are mentioned in UI design 
 * [FontSpark](https://fontspark.app/) — a simple tool to help designers quickly find the best fonts for their projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [RightFont](https://rightfontapp.com/) — font managing app, helps preview, sync, install and organize fonts over iCloud, Dropbox, OneDrive or Google Drive. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Sans Forgetica](http://sansforgetica.rmit/) — a downloadable font that is scientifically designed to help you remember your study notes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Typeface](https://typefaceapp.com/) — font manager that improves your design workflow with live font previews and flexible tagging. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 ### Free Screenshot Software
@@ -229,8 +231,8 @@ Find some powerful screenshot tools available for macOS:
 ### Mockup Tools
 
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
-* [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs.
-* [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window.
+* [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 
@@ -239,20 +241,24 @@ Find some powerful screenshot tools available for macOS:
 
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
+### Pixel Art Tools
+
+* [Piskel](https://www.piskelapp.com/) - online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Aseprite](https://www.aseprite.org/) - animated sprite editor & pixel art tool.
 
 ### Prototyping Tools
 
-* [Alva](https://www.meetalva.io/) — create living prototypes with code components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Alva](https://www.meetalva.io/) — create living prototypes with code components. It's also [open source](https://github.com/meetalva/alva). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
-* [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder.
-* [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
-* [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
-* [Framer X](https://framer.com/) — a tool for prototyping design animations.
-* [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). 
+* [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [InVision](https://www.invisionapp.com/) — prototyping, collaboration & workflow platform. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Framer X](https://framer.com/) — a tool to visually design realistic interactive prototypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place. 
 * [Maze](https://maze.design/) — a tool for designers and developers that gives analytical results with actionable KPIs for your Invision prototypes.
-* [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces.
+* [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
@@ -262,63 +268,62 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 
 ### Sketching Tools
 
-* [Sketchsheets](https://sketchsheets.com/) — ready to print templates for various devices.
-* [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames.
+* [Sketchsheets](https://sketchsheets.com/) — is an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### Stock Photos Tools
 
-* [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use.
-* [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use.
-* [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources.
-* [Pixabay](https://pixabay.com/) — website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license.
-* [pxhere](https://pxhere.com/) — free image stock.
-* [Unsplash](https://unsplash.com) —  stock photos free to use.
-* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds.
-* [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration.
+* [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pixabay](https://pixabay.com/) — website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [pxhere](https://pxhere.com/) — free image stock. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Unsplash](https://unsplash.com) —  stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### UI Design Tools
 
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
-* [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
+* [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
 * [CleverBrush](https://www.cleverbrush.com/) — browser-based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
-* [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
-* [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software.
-* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings.
+* [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Krita](https://krita.org/en/) — A free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. 
-* [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
-* [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
-
+* [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) 
+* [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### User Flow Tools
 
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
-* [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+* [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
-* [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. 
+* [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lucidchart](https://www.lucidchart.com/) — online tool for creating diagrams, flow charts, sitemaps, and more.
-* [MindNode](https://mindnode.com/) — a mind mapping app that makes brainstorming simple and easy.
+* [MindNode](https://mindnode.com/) — a mind mapping app that makes brainstorming simple and easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [NinjaMock](https://ninjamock.com/) — Wireframe and user flow online tool. Link your views and create logic flow prototype. All with freehand visual style.
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — a diagramming and digital illustration application for macOS and iOS.
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — a diagramming and digital illustration application for macOS and iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
-* [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines.
+* [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
-* [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts.
+* [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### Version Control for Designers
 
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
-* [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git.
+* [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams.
+* [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops. 
 
 

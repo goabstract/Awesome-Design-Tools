@@ -149,9 +149,8 @@ Tools that help to build, maintain, and organize your own design system.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
-* [Framer X Team Store](https://www.framer.com/design-systems/) - build a React-based design system that creates a single source of truth across design and development 
 
-We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
+We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)). 
 
 
 ### Design to Code Tools

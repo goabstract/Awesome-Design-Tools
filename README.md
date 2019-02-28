@@ -111,8 +111,9 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Coolors.co](https://coolors.co/) —  it is the super-fast color scheme generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Material Colors Native](https://github.com/BafS/Material-Colors-native) — Google's material design color palette in the form of a mac app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Just Color Picker](http://annystudio.com/software/colorpicker/) — Free portable offline colour picker and colour editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences. 
+* [Material Colors Native](https://github.com/BafS/Material-Colors-native) — Google's material design color palette in the form of a mac app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.  It‘s free and [open-source](https://github.com/casesandberg/react-color/). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -226,6 +227,7 @@ Find some powerful screenshot tools available for macOS:
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
+
 ### Mockup Tools
 
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
@@ -286,18 +288,18 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
-* [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — vector graphics editor for macOS, iOS, and Microsoft Windows.
 * [CleverBrush](https://www.cleverbrush.com/) — browser-based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
+* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) 
+* [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
+* [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
+* [Krita](https://krita.org/en/) — A free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) 
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
 
 
 ### User Flow Tools

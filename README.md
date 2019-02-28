@@ -224,6 +224,11 @@ Find some powerful screenshot tools available for macOS:
 
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+### Information Architecture Tools
+
+* [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI
+* [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site
+
 
 ### Mockup Tools
 

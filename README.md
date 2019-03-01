@@ -36,6 +36,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
 * [Illustrations](#illustrations)
+* [Logo Design](#logo-design)
 * [Mockup Tools](#mockup-tools)
 * [Mouse Tracking Tools](#mouse-tracking-tools)
 * [Prototyping Tools](#prototyping-tools)
@@ -226,6 +227,10 @@ Find some powerful screenshot tools available for macOS:
 
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+
+### Logo Design
+* [Logo Lab](https://logolab.app/home) — Put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Logo Package Express](http://thelogopackage.com) — Export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 
 
 ### Mockup Tools

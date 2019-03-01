@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">   
-<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> 
+<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
 
 ## How to Use and Contribute
 
-* Go through the Table of Contents and choose the tool. 
+* Go through the Table of Contents and choose the tool.
 * Search for a keyword or phrase (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions! 
+If you found some great design tool, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
 
 
 ## Table of Content
@@ -72,7 +72,8 @@ Need to create an animated transition, micro-interaction or scroll-based animati
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
-* [Haiku](https://www.haiku.ai/) — keyframe-based animation connecting your UI tools to code that developers can easily use. 
+* [Haiku](https://www.haiku.ai/) — keyframe-based animation connecting your UI tools to code that developers can easily use.
+* [Keyshape](https://www.keyshapeapp.com/) — 2D animation tool that allows for animated SVG export   
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -112,7 +113,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Coolors.co](https://coolors.co/) —  it is the super-fast color scheme generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Just Color Picker](http://annystudio.com/software/colorpicker/) — Free portable offline colour picker and colour editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences. 
+* [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
 * [Material Colors Native](https://github.com/BafS/Material-Colors-native) — Google's material design color palette in the form of a mac app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -121,22 +122,22 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-  
+
 
 ### Design Feedback Tools
 
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
- 
- 
+
+
 ### Design Handoff Tools
 
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
-* [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development. 
+* [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
-* [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio. 
+* [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
 
@@ -151,7 +152,7 @@ Tools that help to build, maintain, and organize your own design system.
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
-We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)). 
+We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)).
 
 
 ### Design to Code Tools
@@ -172,12 +173,12 @@ We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](h
 
 * [Amplitude](https://amplitude.com/) — understand your users, rapidly release better product experiences, and grow your business.
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
-* [FullStory](https://www.fullstory.com/) — an app that captures all your customer experience data in one powerful, easy-to-use platform. 
+* [FullStory](https://www.fullstory.com/) — an app that captures all your customer experience data in one powerful, easy-to-use platform.
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
 * [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
-* [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do. 
-* [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
+* [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do.
+* [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
 
 
@@ -232,7 +233,7 @@ Find some powerful screenshot tools available for macOS:
 
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
+* [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 
@@ -256,7 +257,7 @@ Find some powerful screenshot tools available for macOS:
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Framer X](https://framer.com/) — a tool to visually design realistic interactive prototypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place. 
+* [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place.
 * [Maze](https://maze.design/) — a tool for designers and developers that gives analytical results with actionable KPIs for your Invision prototypes.
 * [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
@@ -294,11 +295,11 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [GIMP](https://www.gimp.org/) — free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
-* [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
+* [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow.
 * [Krita](https://krita.org/en/) — A free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) 
+* [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
@@ -324,13 +325,9 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops. 
+* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops.
 
 
 ### Addendum (Reference & Inspiration)
 
 This repo was inspired by articles from the design community and [Prototypr.io Toolbox](https://prototypr.io/toolbox/) made by my good friend [Graeme](https://twitter.com/graeme_fulton).
-
-
-
-

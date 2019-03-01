@@ -36,6 +36,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
 * [Illustrations](#illustrations)
+* [Information Architecture Tools](#information-architecture-tools)
 * [Mockup Tools](#mockup-tools)
 * [Mouse Tracking Tools](#mouse-tracking-tools)
 * [Prototyping Tools](#prototyping-tools)
@@ -226,8 +227,8 @@ Find some powerful screenshot tools available for macOS:
 
 ### Information Architecture Tools
 
-* [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI
-* [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site
+* [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
+* [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.
 
 
 ### Mockup Tools

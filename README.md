@@ -36,6 +36,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Free Screenshot Software](#free-screenshot-software)
 * [Icons Tools](#icons-tools)
 * [Illustrations](#illustrations)
+* [Information Architecture Tools](#information-architecture-tools)
 * [Logo Design](#logo-design)
 * [Mockup Tools](#mockup-tools)
 * [Mouse Tracking Tools](#mouse-tracking-tools)
@@ -63,7 +64,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and [open-source](https://www.github.com/michelf/sim-daltonism/). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [tota11y](<http://khan.github.io/tota11y/>) — an accessibility visualization toolkit. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [tota11y](http://khan.github.io/tota11y/) — an accessibility visualization toolkit. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
@@ -196,6 +197,7 @@ We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](h
 * [Typeface](https://typefaceapp.com/) — font manager that improves your design workflow with live font previews and flexible tagging. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
+
 ### Free Screenshot Software
 
 Find some powerful screenshot tools available for macOS:
@@ -228,9 +230,15 @@ Find some powerful screenshot tools available for macOS:
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
+### Information Architecture Tools
+
+* [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
+* [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.
+
+
 ### Logo Design
-* [Logo Lab](https://logolab.app/home) — Put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Logo Package Express](http://thelogopackage.com) — Export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
+* [Logo Lab](https://logolab.app/home) — put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 
 
 ### Mockup Tools
@@ -246,10 +254,12 @@ Find some powerful screenshot tools available for macOS:
 
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
+
 ### Pixel Art Tools
 
 * [Piskel](https://www.piskelapp.com/) - online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Aseprite](https://www.aseprite.org/) - animated sprite editor & pixel art tool.
+
 
 ### Prototyping Tools
 
@@ -280,11 +290,11 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 ### Stock Photos Tools
 
 * [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [FreePhotos.cc](https://freephotos.cc/) —  free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [FreePhotos.cc](https://freephotos.cc/) — free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pixabay](https://pixabay.com/) — website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [pxhere](https://pxhere.com/) — free image stock. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Unsplash](https://unsplash.com) —  stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
@@ -327,7 +337,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Kactus](https://kactus.io/) —  design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Kactus](https://kactus.io/) — design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops. 
 

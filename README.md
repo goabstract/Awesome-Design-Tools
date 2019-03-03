@@ -340,8 +340,8 @@ Want to create the perfect user interface? Check out the best free and open sour
 
 
 ### User Flow Tools
+User Flow diagrams are the fastest way to plan customer journey paths and improve user experience. So if you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 
-If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

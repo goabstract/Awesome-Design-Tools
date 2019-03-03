@@ -209,8 +209,8 @@ Fonts are commonly used for making the web more beautiful. Here you can find fre
 
 
 ### Free Screenshot Software
+Free and full-featured screenshot apps to capture. Here you can find some powerful screen captures for macOS and Windows screen recorder tools.
 
-Find some powerful screenshot tools available for macOS:
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
 * [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscreen. Export it in different ways. Free on Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -225,6 +225,7 @@ Find some powerful screenshot tools available for macOS:
 
 
 ### Icons Tools
+Here are thousands of vector icons for everything. All icons are available in SVG, so you can easily customize them and use them for personal and commercial use:
 
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -236,11 +237,13 @@ Find some powerful screenshot tools available for macOS:
 
 
 ### Illustrations
+A constantly updated collection of beautiful svg images that you can use completely free and without attribution:
 
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 ### Information Architecture Tools
+Awesome information architecture tools for creating visual sitemaps and to improve your website information architecture and usability:
 
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
 * [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.

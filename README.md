@@ -71,7 +71,7 @@ Accessibility is the practice of creating websites and apps usable by all people
 
 ### Animation Tools
 
-Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
+These free and paid tools are designed to make animation creation easier. So if you're interested in creating animated transition, micro-interaction, scroll-based animation or animation software, go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.

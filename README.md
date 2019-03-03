@@ -308,6 +308,7 @@ Sometimes you need just a pencil and paper to start creating your app or website
 
 
 ### Stock Photos Tools
+Beautiful, free stock photos and royalty-free images that you can download and use for any project:
 
 * [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [FreePhotos.cc](https://freephotos.cc/) — free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

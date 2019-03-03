@@ -280,6 +280,7 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 
 
 ### Prototyping Tools
+Prototyping tools allow designers and clients to collaborate better while being in the same context. We collected great prototyping tools that you can use for wireframing, prototyping and collaboration:
 
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components. It's also [open source](https://github.com/meetalva/alva). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.

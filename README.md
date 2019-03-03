@@ -71,7 +71,7 @@ Accessibility is the practice of creating websites and apps usable by all people
 
 ### Animation Tools
 
-These free and paid tools are designed to make animation creation easier. So if you're interested in creating animated transition, micro-interaction, scroll-based animation or animation software, go through these tools:
+These free and paid tools are designed to make animation creation easier. So if you're interested in creating animated transition, micro-interaction or scroll-based animation, go through these tools:
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) —  a digital visual effects, motion graphics, and compositing application.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
@@ -88,6 +88,8 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 
 ### Augmented Reality Tools
+Augmented reality is technology that upgrades our real world adding a layer of digital information to it. 
+The use of AR increases greatly day by day. That's why we collected here different augmented reality apps for creating, projecting and prototyping app focused on AR.
 
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
 * [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

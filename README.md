@@ -139,6 +139,7 @@ Do you get feedback during the development process? If you wish to get more stru
 
 
 ### Design Handoff Tools
+Design handoff takes place when designers finish the work and need to deliver results to developers. So let’s look at these handoff tools:
 
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
 * [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
@@ -150,7 +151,7 @@ Do you get feedback during the development process? If you wish to get more stru
 
 ### Design System Tools
 
-Tools that help to build, maintain, and organize your own design system.
+Here are you can find tools that can help you to build, maintain and organize your own design system. Let's dive in: 
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager.

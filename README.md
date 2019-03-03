@@ -356,6 +356,8 @@ User Flow diagrams are the fastest way to plan customer journey paths and improv
 
 
 ### Version Control for Designers
+Version control tools are the most important ones, as every development project starts with choosing the right version control system. Find out version control systems for designers and teams: 
+
 
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Folio](http://folioformac.com/) — a simple version control system for design teams; based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

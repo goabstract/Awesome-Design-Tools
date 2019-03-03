@@ -301,6 +301,7 @@ You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are
 
 
 ### Sketching Tools
+Sometimes you need just a pencil and paper to start creating your app or website. So here are you can find online sketching tools with great sketch sheet templates to speed up your creative process.
 
 * [Sketchsheets](https://sketchsheets.com/) — is an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

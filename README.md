@@ -250,11 +250,14 @@ Awesome information architecture tools for creating visual sitemaps and to impro
 
 
 ### Logo Design
+Create your very own company logo online using these easy to use logo design tools:
+
 * [Logo Lab](https://logolab.app/home) — put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 
 
 ### Mockup Tools
+Mockup tools that help you create and collaborate on wireframes, mockups, diagrams, and prototypes.
 
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

@@ -267,11 +267,13 @@ Mockup tools that help you create and collaborate on wireframes, mockups, diagra
 
 
 ### Mouse Tracking Tools
+Mouse tracking tools help to record the movement of a mouse pointer and clicks to find out the points where the user is interested.
 
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
 
 ### Pixel Art Tools
+Pixel art is a digital art form where color is applied to individual pixels to create an image. Here are the best pixel art software for both macOS and Windows: 
 
 * [Piskel](https://www.piskelapp.com/) - online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Aseprite](https://www.aseprite.org/) - animated sprite editor & pixel art tool.

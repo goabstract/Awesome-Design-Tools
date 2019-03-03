@@ -113,7 +113,7 @@ Collaboration tools will not only help in productivity but also result in succes
 
 ### Color Picker Tools
 
-If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
+If you are looking for an eyedropper tool, color identifier tool or color capture tool, just check this collection. Here are design tools for creating a color combination and define really great ones. Almost all of these tools are free:
 
 * [Adobe Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

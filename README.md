@@ -164,6 +164,7 @@ We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](h
 
 
 ### Design to Code Tools
+Check out this collection of proper website builder tools. You can easily create your own landing page from scratch right in your browser:
 
 * [Blocs For Mac](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
@@ -178,6 +179,7 @@ We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](h
 
 
 ### Experience Monitoring Tools
+The analytic tools can help you to analyze data and extract relevant information that you can use to increase results or performance. Check out this list of the best tools for data analysis:
 
 * [Amplitude](https://amplitude.com/) — understand your users, rapidly release better product experiences, and grow your business.
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
@@ -191,6 +193,7 @@ We can also add to this list Sketch, Figma and Framer X ([Framer X Team Store](h
 
 
 ### Font Tools
+Fonts are commonly used for making the web more beautiful. Here you can find free fonts generator and font finder tools that allow you to manage and work with fonts. 
 
 * [Adobe Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

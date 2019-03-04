@@ -129,7 +129,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
+* [Color Hexa](https://www.colorhexa.com/)- Free color tool providing information about any color and generating matching color palettes for designs.
 
 ### Design Feedback Tools
 
@@ -147,7 +147,6 @@ Design handoff takes place when designers finish the work and need to deliver re
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
-
 
 ### Design System Tools
 
@@ -255,6 +254,7 @@ Create your very own company logo online using these easy to use logo design too
 * [Logo Lab](https://logolab.app/home) — put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 
+You can also do your logo design with Adobe Photoshop,GIMP,Inkscape,Krita and Vectr which are mentioned in UI design tools.
 
 ### Mockup Tools
 Mockup tools that help you create and collaborate on wireframes, mockups, diagrams, and prototypes.
@@ -297,7 +297,7 @@ Prototyping tools allow designers and clients to collaborate better while being 
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
 
-You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
+You can also do prototyping with Figma, Adobe XD,Sketch and InVision Studio, which are mentioned in the UI Design Tools section.
 
 
 ### Sketching Tools
@@ -306,6 +306,7 @@ Sometimes you need just a pencil and paper to start creating your app or website
 * [Sketchsheets](https://sketchsheets.com/) — is an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+You can also do some sketching with Sketch mentioned in UI design tools.
 
 ### Stock Photos Tools
 Beautiful, free stock photos and royalty-free images that you can download and use for any project:

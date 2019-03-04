@@ -91,7 +91,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 Augmented reality is technology that upgrades our real world adding a layer of digital information to it. 
 The use of AR increases greatly day by day. That's why we collected here different augmented reality apps for creating, projecting and prototyping app focused on AR.
 
-* [Vectary](https://www.vectary.com/) — сreate 3D and AR for your website.
+* [Vectary](https://www.vectary.com/) — сreate 3D and AR for your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
 * [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

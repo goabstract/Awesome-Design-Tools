@@ -221,10 +221,10 @@ Find some powerful screenshot tools available for macOS:
 
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Icons8](https://icons8.com/icons) — free iOS, Android and Windows styled icons
+* [Icons8](https://icons8.com/icons) — free iOS, Android and Windows styled icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's [open source](https://github.com/FortAwesome/Font-Awesome). ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also [open source](https://github.com/fontello/fontello). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Material Design Icons](https://materialdesignicons.com/) — free material design icons made possible by open source contributons
+* [Material Design Icons](https://materialdesignicons.com/) — free material design icons made possible by open source contributons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Noun Project](https://thenounproject.com/) — icons for everything. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Svgsus](http://www.svgs.us/) — SVG icon management tool. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

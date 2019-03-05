@@ -309,7 +309,7 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 Sometimes you need just a pencil and paper to start creating your app or website. So here are you can find online sketching tools with great sketch sheet templates to speed up your creative process.
 
-* [Sketchsheets](https://sketchsheets.com/) — is an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Sketchsheets](https://sketchsheets.com/) — an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 You can also do some sketching with Sketch mentioned in UI design tools.
@@ -335,7 +335,7 @@ Want to create the perfect user interface? Check out the best free and open sour
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — a vector graphics editor for macOS, iOS, and Microsoft Windows.
-* [CleverBrush](https://www.cleverbrush.com/) — browser-based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
+* [CleverBrush](https://www.cleverbrush.com/) — a browser-based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [GIMP](https://www.gimp.org/) — a free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -343,15 +343,15 @@ Want to create the perfect user interface? Check out the best free and open sour
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow.
 * [Krita](https://krita.org/en/) — a free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Sketch](https://www.sketchapp.com/) — a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### User Flow Tools
 
 User Flow diagrams are a fast way to plan customer journey paths and improve user experience. So if you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 
-* [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Flowmapp](https://flowmapp.com/) — online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
+* [Draw.io](https://www.draw.io/) — a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Flowmapp](https://flowmapp.com/) — an online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 * [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lucidchart](https://www.lucidchart.com/) — online tool for creating diagrams, flow charts, sitemaps, and more.
 * [MindNode](https://mindnode.com/) — a mind mapping app that makes brainstorming simple and easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

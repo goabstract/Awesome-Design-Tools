@@ -281,8 +281,8 @@ Mouse tracking tools help to record the movement of a mouse pointer and clicks t
 
 Pixel art is a digital art form where color is applied to individual pixels to create an image. Here are the best pixel art software for both macOS and Windows:
 
-* [Piskel](https://www.piskelapp.com/) - online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Aseprite](https://www.aseprite.org/) - animated sprite editor & pixel art tool.
+* [Piskel](https://www.piskelapp.com/) — online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
 
 ### Prototyping Tools
 

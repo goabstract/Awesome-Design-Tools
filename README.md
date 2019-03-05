@@ -245,6 +245,7 @@ Here are thousands of vector icons for everything. All icons are available in SV
 A constantly updated collection of beautiful svg images that you can use completely free and without attribution:
 
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [LUKASZADAM](https://lukaszadam.com/illustrations) —  free vector art illustrations and icons. They are available for personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### Information Architecture Tools
 

@@ -72,7 +72,7 @@ These free and paid tools are designed to make animation creation easier. So if 
 
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) — a digital visual effects, motion graphics, and compositing application.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
-* [Haiku](https://www.haiku.ai/) — keyframe-based animation connecting your UI tools to code that developers can easily use.
+* [Haiku Animator](https://www.haikuforteams.com/) — keyframe-based animation connecting your UI tools to code that developers can easily use.
 * [Keyshape](https://www.keyshapeapp.com/) — 2D animation tool that allows for animated SVG export.
   ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

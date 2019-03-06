@@ -44,6 +44,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
+* [Visual Debugging Tools](#visual-debugging-tools)
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -65,6 +66,8 @@ Accessibility is the practice of creating websites and apps usable by all people
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://www.github.com/michelf/sim-daltonism/)
 * [tota11y](http://khan.github.io/tota11y/) — an accessibility visualization toolkit. Interesting fact: inside the tool name you can see "a11y". It's an abbreviation of accessibility as "a" followed by 11 more letters, followed by "y". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox. It's a web accessibility checker. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+Accessibility checking feature is also available in VisBug from Visual Debugging Tools categoty.
 
 ### Animation Tools
 
@@ -376,6 +379,10 @@ Developers actively use version control tools for a long time, probably since 20
 * [Plant](https://plantapp.io/) — a Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Relay for Figma](https://relayforfigma.com/) - Relay pushes your latest assets from Figma directly to your codebase (not released yet but you can subscribe to early access).
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops.
+
+### Visual Debugging Tools
+
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### Addendum (Reference & Inspiration)
 

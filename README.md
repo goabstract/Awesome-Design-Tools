@@ -53,7 +53,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 
 ### Accessibility Tools
 
-Accessibility is the practice of creating websites and apps usable by all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers.
+Accessibility is the practice of creating websites and apps usable by all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:
 
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool for web content (bookmarklet). It will automatically detect accessibility issues, give suggestions to improve online accessibility and check 508 compliance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/SSAgov/ANDI)
 * [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries and environments you use today. It's automated accessibility testing tool for developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/dequelabs/axe-core)
@@ -86,7 +86,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 ### Augmented Reality Tools
 
 Augmented reality is technology that upgrades our real world adding a layer of digital information to it.
-The use of AR increases greatly day by day. That's why we collected here different augmented reality apps for creating, projecting and prototyping app focused on AR.
+The use of AR increases greatly day by day. That's why we collected here different augmented reality apps for creating, projecting and prototyping app focused on AR:
 
 * [Lens Studio](https://lensstudio.snapchat.com/) — create, publish, and share your own AR experiences for Snapchat with or without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
@@ -96,7 +96,7 @@ The use of AR increases greatly day by day. That's why we collected here differe
 
 ### Collaboration Tools
 
-Collaboration tools will not only help in productivity but also result in successful projects. Here you can find the best collaboration tools for productive teams.
+Collaboration tools will not only help in productivity but also result in successful projects. Here you can find the best collaboration tools for productive teams:
 
 * [Gallery.io](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Invision Freehand](https://www.invisionapp.com/feature/freehand) — quickly create, discuss, and iterate on designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -191,7 +191,7 @@ The analytic tools can help you to analyze data and extract relevant information
 
 ### Font Tools
 
-Fonts are commonly used for making the web more beautiful. Here you can find free fonts generator and font finder tools that allow you to manage and work with fonts.
+Fonts are commonly used for making the web more beautiful. Here you can find free fonts generator and font finder tools that allow you to manage and work with fonts:
 
 * [Adobe Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -209,7 +209,7 @@ Fonts are commonly used for making the web more beautiful. Here you can find fre
 
 ### Free Screenshot Software
 
-Free and full-featured screenshot apps to capture. Here you can find some powerful screen captures for macOS and Windows screen recorder tools.
+Free and full-featured screenshot apps to capture. Here you can find some powerful screen captures for macOS and Windows screen recorder tools:
 
 * [Camtasia](https://www.techsmith.com/video-editor.html) — a screen recorder that comes with full-blown built in editor.
 * [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
@@ -266,7 +266,7 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 ### Mockup Tools
 
-Mockup tools that help you create and collaborate on wireframes, mockups, diagrams, and prototypes.
+Mockup tools that help you create and collaborate on wireframes, mockups, diagrams, and prototypes:
 
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -276,7 +276,7 @@ Mockup tools that help you create and collaborate on wireframes, mockups, diagra
 
 ### Mouse Tracking Tools
 
-Mouse tracking tools help to record the movement of a mouse pointer and clicks to find out the points where the user is interested.
+Mouse tracking tools help to record the movement of a mouse pointer and clicks to find out the points where the user is interested:
 
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
@@ -310,7 +310,7 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 ### Sketching Tools
 
-Sometimes you need just a pencil and paper to start creating your app or website. So here are you can find online sketching tools with great sketch sheet templates to speed up your creative process.
+Sometimes you need just a pencil and paper to start creating your app or website. So here are you can find online sketching tools with great sketch sheet templates to speed up your creative process:
 
 * [Sketchsheets](https://sketchsheets.com/) — an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -367,7 +367,7 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 
 ### Version Control for Designers
 
-Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers.
+Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:
 
 * [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Folio](http://folioformac.com/) — a simple version control system for design teams based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

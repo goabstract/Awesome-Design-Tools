@@ -96,6 +96,7 @@ The use of AR increases greatly day by day. That's why we collected here differe
 
 Collaboration tools will not only help in productivity but also result in successful projects. Here you can find the best collaboration tools for productive teams.
 
+* [Airtable](https://airtable.com/) — part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
 * [Gallery.io](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Invision Freehand](https://www.invisionapp.com/feature/freehand) — quickly create, discuss, and iterate on designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Jira](https://www.atlassian.com/software/jira) — software development tool used by agile teams.

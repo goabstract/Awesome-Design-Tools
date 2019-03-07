@@ -27,6 +27,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Color Picker Tools](#color-picker-tools)
 * [Design Feedback Tools](#design-feedback-tools)
 * [Design Handoff Tools](#design-handoff-tools)
+* [Design Pattern and Inspiration Tools](#design-pattern-and-inspiration-tools)
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Experience Monitoring Tools](#experience-monitoring-tools)
@@ -150,6 +151,15 @@ Design handoff takes place when designers finish the work and need to deliver re
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
+
+### Design Pattern and Inspiration Tools
+
+Tools which allow you to explore the design patterns and user flows of popular apps for guidance and inspiration:
+
+* [Mobbin](https://mobbin.design/) — browse mobile design patterns for popular apps. Explore common user flows such as onboarding, account sign up and log in, core functionality, and more.
+* [Page Flows](https://pageflows.com/) — user flow videos and screenshots to inspire you when you're stuck. Discover mobile and web design patterns for over 160 different tasks.
+* [pttrns](https://pttrns.com/) — design patterns for popular mobile apps.
+* [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, seaching, and more.
 
 ### Design System Tools
 

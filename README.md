@@ -102,12 +102,14 @@ The use of AR increases greatly day by day. That's why we collected here differe
 
 Collaboration tools will not only help in productivity but also result in successful projects. Here you can find the best collaboration tools for productive teams:
 
+* [Airtable](https://airtable.com/) — part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
 * [Gallery.io](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Invision Freehand](https://www.invisionapp.com/feature/freehand) — quickly create, discuss, and iterate on designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Jira](https://www.atlassian.com/software/jira) — software development tool used by agile teams.
 * [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 * [RealtimeBoard](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration.
+* [Slack](https://slack.com/) — Slack is a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips.
 * [Trello](https://trello.com/) — a web-based project management application that enables you to organize and prioritize your projects in a fun, flexible and rewarding way. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

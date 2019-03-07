@@ -202,9 +202,9 @@ The analytic tools can help you to analyze data and extract relevant information
 * [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
 * [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do.
+* [LogRocket](https://www.logrocket.com/) — see what users do on your site, helping you reproduce bugs and fix issues faster.
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
-* [LogRocket](https://www.logrocket.com/) — See what users do on your site, helping you reproduce bugs and fix issues faster.
 
 ### Font Tools
 

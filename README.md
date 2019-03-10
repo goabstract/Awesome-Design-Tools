@@ -43,6 +43,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Sketching Tools](#sketching-tools)
 * [Stock Photos Tools](#stock-photos-tools)
 * [UI Design Tools](#ui-design-tools)
+* [UI Inspiration](#ui-inspiration)
 * [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
 * [Visual Debugging Tools](#visual-debugging-tools)

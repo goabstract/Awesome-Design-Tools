@@ -392,8 +392,8 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
-* [Wireflow](http://wireflow.co) — Wireflow is free, online and [open source](https://github.com/vanila-io/wireflow) tool for creating beautiful user flow prototypes. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [XMind: ZEN](https://www.xmind.net/zen/) - a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts. Distraction free in ZEN mode.
+* [Wireflow](http://wireflow.co) — is free, online and [open source](https://github.com/vanila-io/wireflow) tool for creating beautiful user flow prototypes. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts. Distraction free in ZEN mode.
 * [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### Version Control for Designers

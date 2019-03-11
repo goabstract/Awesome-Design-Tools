@@ -410,6 +410,7 @@ Developers actively use version control tools for a long time, probably since 20
 ### Visual Debugging Tools
 
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
 
 ### Addendum (Reference & Inspiration)
 

@@ -39,6 +39,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Logo Design](#logo-design)
 * [Mockup Tools](#mockup-tools)
 * [Mouse Tracking Tools](#mouse-tracking-tools)
+* [Pixel Art Tools](#pixel-art-tools)
 * [Prototyping Tools](#prototyping-tools)
 * [Sketching Tools](#sketching-tools)
 * [Stock Photos Tools](#stock-photos-tools)

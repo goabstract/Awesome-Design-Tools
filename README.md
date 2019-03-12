@@ -214,18 +214,18 @@ The analytic tools can help you to analyze data and extract relevant information
 Fonts are commonly used for making the web more beautiful. Here you can find free fonts generator and font finder tools that allow you to manage and work with fonts:
 
 * [Adobe Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle way to self-host Google Fonts. It‘s free and [open-source](https://github.com/majodev/google-webfonts-helper/). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Fontbase](https://fontba.se/) — font management made easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [FontPair](https://fontpair.co/) — a simple tool that helps you pair Google Fonts together. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website. 
 * [FontSpark](https://fontspark.app/) — a simple tool to help designers quickly find the best fonts for their projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Font Squirrel](https://www.fontsquirrel.com/fonts/acherus-grotesque) — download free fonts with wide collections.
+* [Font Squirrel](https://www.fontsquirrel.com/fonts/acherus-grotesque) — download free fonts with wide collections.(https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle way to self-host Google Fonts. It‘s free and [open-source](https://github.com/majodev/google-webfonts-helper/). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [RightFont](https://rightfontapp.com/) — font managing app, helps preview, sync, install and organize fonts over iCloud, Dropbox, OneDrive or Google Drive. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Sans Forgetica](http://sansforgetica.rmit/) — a downloadable font that is scientifically designed to help you remember your study notes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Typeface](https://typefaceapp.com/) — font manager that improves your design workflow with live font previews and flexible tagging. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Font Squirrel](https://www.fontsquirrel.com/fonts/acherus-grotesque) — download free fonts with wide collections ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
 
 ### Free Screenshot Software
 
@@ -251,11 +251,11 @@ Free and full-featured screenshot apps to capture. Here you can find some powerf
 
 Here are thousands of vector icons for everything. All icons are available in SVG, so you can easily customize them and use them for personal and commercial use:
 
+* [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's [open source](https://github.com/FortAwesome/Font-Awesome). ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also [open source](https://github.com/fontello/fontello). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Icons8](https://icons8.com/icons) — free iOS, Android and Windows styled icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's [open source](https://github.com/FortAwesome/Font-Awesome). ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also [open source](https://github.com/fontello/fontello). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Material Design Icons](https://materialdesignicons.com/) — free material design icons made possible by open source contributons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Noun Project](https://thenounproject.com/) — icons for everything. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -306,8 +306,9 @@ Mouse tracking tools help to record the movement of a mouse pointer and clicks t
 
 Pixel art is a digital art form where color is applied to individual pixels to create an image. Here are the best pixel art software for both macOS and Windows:
 
-* [Piskel](https://www.piskelapp.com/) — online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
+* [Piskel](https://www.piskelapp.com/) — online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+
 
 ### Prototyping Tools
 

@@ -175,6 +175,7 @@ Tools which allow you to explore the design patterns and user flows of popular a
 
 Here are you can find tools that can help you to build, maintain and organize your own design system. Let's dive in:
 
+* [Symbol Design System](https://symboldesign.co/) — Design System for Sketch based on atomic elements.
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
 * [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager.
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.

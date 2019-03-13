@@ -266,6 +266,7 @@ Here are thousands of vector icons for everything. All icons are available in SV
 
 * [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's [open source](https://github.com/FortAwesome/Font-Awesome). ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also [open source](https://github.com/fontello/fontello). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Iconscout](https://iconscout.com/) — get high-quality Icons, Illustrations and Stock photos at one place. 
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Icons8](https://icons8.com/icons) — free iOS, Android and Windows styled icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -358,10 +359,17 @@ You can also do some sketching with Sketch mentioned in UI design tools.
 Beautiful, free stock photos and royalty-free images that you can download and use for any project:
 
 * [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Duotone](https://duotone.shapefactory.co/) — find beautiful free duotone images to use in any project, or make custom duotone images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
 * [FreePhotos.cc](https://freephotos.cc/) — free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Gratisography](https://gratisography.com) — the world's quirkiest collection of free high-resolution pictures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Magdeleine](https://magdeleine.co/) — free high-quality stock photos for your inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Moose](https://photos.icons8.com/) — don't search for stock photos, create them. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pixabay](https://pixabay.com/) — website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pngtree](https://pngtree.com/) — millions of PNG images, backgrounds and vectors for free download. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [pxhere](https://pxhere.com/) — free image stock. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Startup Stock Photos](http://startupstockphotos.com/) — free photos for startups, bloggers and publishers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [UI Faces](https://uifaces.co/) — aggregator that indexes various free avatar sources that you can use in your design mockups. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

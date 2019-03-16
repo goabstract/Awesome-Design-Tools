@@ -133,7 +133,6 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [UXPin Preview](https://www.uxpin.com/prototyping) — share your designs by generating a live preview link and collect feedback directly on it. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### Design Handoff Tools
 
@@ -144,7 +143,6 @@ Design handoff takes place when designers finish the work and need to deliver re
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
-* [UXPin Spec Mode](https://www.uxpin.com/design-systems) — automatically generate detailed specs and downloadable assets on the preview page of your design. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
 ### Design System Tools
@@ -156,10 +154,9 @@ Here are you can find tools that can help you to build, maintain and organize yo
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
-* [UXPin Design Systems](https://www.uxpin.com/design-systems) — the ability to create complex Design Systems, use them inside the tool for prototyping or for sharing internally or externally.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
-We can also add to this in Sketch, Figma and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)).
+We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)).
 
 ### Design to Code Tools
 
@@ -346,7 +343,6 @@ Want to create the perfect user interface? Check out the best free and open sour
 * [Krita](https://krita.org/en/) — a free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [UXPin](https://www.uxpin.com) — code-based design tool that operates on real UI components, allowing for real UI interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### User Flow Tools

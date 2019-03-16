@@ -173,7 +173,7 @@ Do you get feedback during the development process? If you wish to get more stru
 Design handoff takes place when designers finish the work and need to deliver results to developers. So let’s look at these handoff tools:
 
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
-* [Invision Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development.
+* [Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development. Made by Invision. 
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
@@ -421,13 +421,13 @@ Stuck trying to craft the perfect user interface? Check here for guidance and in
 * [GIMP](https://www.gimp.org/) — a free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile. Made by Adobe. 
 * [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow.
 * [Krita](https://krita.org/en/) — a free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Lunacy](https://icons8.com/lunacy) — a free native windows app that works offline and supports .sketch files. Flexible and light weighed. Intuitive and easy to use. Speedups and empowers UI and UX designers. The must have to produce stunning designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pencil](https://pencil.evolus.vn/) — prototyping tool with many built-in components that people can easily install and use to create mockups in popular desktop platforms. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software developed by Adobe.
 * [Sketch](https://www.sketchapp.com/) — a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. Made by Invision.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### UI Inspiration

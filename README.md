@@ -50,6 +50,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Prototyping Tools](#prototyping-tools)
 * [Sketching Tools](#sketching-tools)
 * [Stock Photos Tools](#stock-photos-tools)
+* [Stock Videos](#stock-videos)
 * [UI Design Tools](#ui-design-tools)
 * [UI Inspiration](#ui-inspiration)
 * [User Flow Tools](#user-flow-tools)
@@ -558,6 +559,17 @@ Beautiful, free stock photos and royalty-free images that you can download and u
 * [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+### Stock Videos
+* [Mixkit](https://mixkit.co/) — extraordinary Free HD videos. For you to use, completely free of charge. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Coverr](https://coverr.co/) — beautiful, free stock video footage for your homepage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Motion Places](https://www.motionplaces.com/) — a curated collection of beautiful footage you can use for your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [123RF](https://www.123rf.com/) — over 100,000 daily new content & 24/7 online support. 
+* [Videezy](https://www.videezy.com/) — download millions of free and premium stock footage and motion graphics instantly. 
+* [Videvo](https://www.videvo.net/) — videvo offers a large selection of HD video clips, motion graphics and free stock footage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mazwai](http://mazwai.com) — great collection of free creative commons HD video clips & footages. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pexels Videos](https://www.pexels.com/videos/) — pexels Videos makes it easy to find free stock footage for your website, promo video or anything else. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
 
 </article>
 

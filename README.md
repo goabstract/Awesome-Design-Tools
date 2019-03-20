@@ -49,6 +49,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Pixel Art Tools](#pixel-art-tools)
 * [Prototyping Tools](#prototyping-tools)
 * [Sketching Tools](#sketching-tools)
+* [Sound Design](#sound-design)
 * [Stock Photos Tools](#stock-photos-tools)
 * [Stock Videos](#stock-videos)
 * [UI Design Tools](#ui-design-tools)
@@ -524,6 +525,18 @@ You can also do some sketching with Sketch mentioned in UI design tools.
 </article>
 
 <article id="stock-photos-tools">
+	
+### Sound Design
+
+* [AudioJungle](https://audiojungle.net/) — 836,206 tracks and sounds from the community of musicians and sound engineers.
+* [Bensound](https://www.bensound.com/) — download creative commons music, royalty free music for free and use it in your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Fugue Music](https://icons8.com/music) — download free background music for your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [SoundKit](https://soundkit.io/) — a UI sound library designed for all of your interface needs. 
+* [UI Sounds](https://uisounds.prototypr.io/) — learn sound design for user interfaces by example.
+* [Wistia Music](https://wistia.com/resources/music) — download some free background tracks to add energy and emotion to your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [WOWA](https://www.wowa.me/) — download royalty free music for YouTube videos, Podcasts and Apps. No copyright CC0. Music inspired by Unsplash. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) — browse and download free music for your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
 
 ### Stock Photos Tools
 

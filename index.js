@@ -1,73 +1,38 @@
-const fs = require(`fs`);
+const fs = require('fs');
+const path = require('path');
 const md = new require('markdown-it')('commonmark');
-const jsdom = require("jsdom");
+const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 
-
-let indexPage = ``;
-
-const someBanner = `
-	<div class="banner">
-		Hello there!
-	</div> 
-`;
-	
 const config = {
 	markdownFile: `./README.md`,
-	markdownToHtmlName: `docs/components/main.html`,
 	index: `./docs/index.html`,
-	components: [
-		`docs/components/header.html`,
-		`docs/components/main.html`,
-		`docs/components/footer.html`
-	],
-};
+}
 
 const writeHtml = (html) => {
-	const { markdownToHtmlName } = config;
-	fs.writeFile(markdownToHtmlName, html, function(err, data) {
+	const { index } = config;
+	fs.writeFile(index, html, function(err, data) {
 	  if (err) console.log(err);
-	  console.log(`transpiling md to html.`);
-	  createIndexPage();
+	  console.log(`transpiled md to html`);
 	});
 }
 
 const readMarkdown = new Promise((resolve, reject) => {
 	const { markdownFile } = config;
 	fs.readFile(markdownFile, (err, data) => {
-		console.log(`getting md file`);
+		console.log(`got md file`);
 		const mdData = data.toString();
 		const html = md.render(mdData);
 		resolve(html);
 	})
 });
 
-const readFile = (fileName) => (
-	new Promise((resolve, reject) => {
-    fs.readFile(fileName, 'utf8', function (error, data) {
-      if (error) return reject(error);
-      indexPage += data;
-      console.log(`pasting ${fileName}`);
-      resolve();
-    })
-  })
-);
-
-async function createIndexPage() {
-	const { components, index } = config;
-	await readFile(components[0]);
-	await readFile(components[1]);
-	await readFile(components[2]);
-	await fs.writeFile(index, indexPage, (err, data) => {
-	  if (err) console.log(err);
-	  console.log(`wrote index page`);
-	})
-}
-
 const parseTweaks = (html) => {
 		const dom = new JSDOM(html);
 		const { document } = dom.window;
 		const { window } = dom;
+
+		editHead(window, 'Awesome Design Tools', '#0054d7');
 
 		// add flawlessFeedback banner
 		createBanner(window);
@@ -88,7 +53,41 @@ const parseTweaks = (html) => {
 
 		addWelcomeArticle(window);
 
+		addScripts(window);
+
 		return document.documentElement.outerHTML;
+}
+
+const getCssFile = (file) => (
+	fs.readFileSync(path.normalize(`${__dirname}/docs/css/${file}.css`), 'utf8')
+)
+
+const getJS = () => (
+	fs.readFileSync(path.normalize(`${__dirname}/docs/js/script.js`), 'utf8')
+)
+
+const editHead = ({ document }, title, themeColor) => {
+	const head = document.querySelector('head');
+	const normalizeCss = getCssFile('normalize');
+	const mainCss = getCssFile('design-tools-style');
+	head.innerHTML = `
+		<title>${title}</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="${themeColor}">
+		<meta name="description" content="A description of the page">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
+		<style>
+			${normalizeCss}
+			${mainCss}
+		</style>
+	`;
+}
+
+const addScripts = ({ document }) => {
+	const scriptTag = document.createElement('script');
+	scriptTag.innerHTML = getJS();
+	document.querySelector('body').appendChild(scriptTag);
 }
 
 const createBanner = ({ document }) => {
@@ -114,8 +113,8 @@ const tweakToolContainer = ({ document }) => {
 		tool.classList.add('tool');
 		// wrap description into a paragraph
 		const title = tool.innerHTML.split(' — ')[0];
-		console.log(`tool:
-			${tool.innerHTML}`);
+		// console.log(`tool:
+		// 	${tool.innerHTML}`);
 		const descriptionFromMarkdown = tool.innerHTML.split(' — ')[1];
 		descriptionFromMarkdown.charAt(0).toUpperCase();
 		const description = `<p>${descriptionFromMarkdown}</p>`;

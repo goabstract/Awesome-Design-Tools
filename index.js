@@ -24,7 +24,7 @@ const config = {
 };
 
 const writeHtml = (html) => {
-	const { filenameForMarkdownHtml } = config;
+	const { markdownToHtmlName } = config;
 	fs.writeFile(markdownToHtmlName, html, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiling md to html.`);

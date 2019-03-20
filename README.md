@@ -1,3 +1,5 @@
+<div class="hidden-in-page">
+
 # Awesome Design Tools
 
 <p align="center">
@@ -17,6 +19,10 @@
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
 If you found some great design tool, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
+
+</div>
+
+<div class="nav">
 
 ## Table of Content
 
@@ -44,17 +50,24 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Prototyping Tools](#prototyping-tools)
 * [Sketching Tools](#sketching-tools)
 * [Stock Photos Tools](#stock-photos-tools)
+* [Stock Videos](#stock-videos)
 * [UI Design Tools](#ui-design-tools)
 * [UI Inspiration](#ui-inspiration)
 * [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
 * [Visual Debugging Tools](#visual-debugging-tools)
 
-<p align="center">
+</div>
+
+<main>
+
+<p align="center" class="hidden-in-page">
     <a href="https://flawlessapp.io/feedback?github">
         <img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
     </a>
 </p>
+
+<article id="accessibility-tools">
 
 ### Accessibility Tools
 
@@ -67,11 +80,19 @@ Accessibility is the practice of creating websites and apps usable by all people
 * [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) 
 * [Hex Naw](https://hexnaw.com/) — helps you to test entire color systems for contrast and accessibility. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting. It's accessibility developer tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://www.github.com/michelf/sim-daltonism/)
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://www.github.com/michelf/sim-daltonism/)
 * [tota11y](http://khan.github.io/tota11y/) — an accessibility visualization toolkit. Interesting fact: inside the tool name you can see "a11y". It's an abbreviation of accessibility as "a" followed by 11 more letters, followed by "y". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox. It's a web accessibility checker. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+<div class="banner">
+
 Accessibility checking feature is also available in VisBug from Visual Debugging Tools categoty.
+	
+</div>
+
+</article>
+
+<article id="animation-tools">
 
 ### Animation Tools
 
@@ -87,10 +108,20 @@ Animations guide people through the product smoothly and friendly. Live interact
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mantra](https://jeremyckahn.github.io/mantra/) — A web-based timeline animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Spirit](https://spiritapp.io/) — the animation tool that helps you to create and manage the animations real time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Stylie](https://jeremyckahn.github.io/stylie/) — A web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
+<div class="banner">
+
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
+
+</div>
+
+</article>
+
+<article id="augmented-reality-tools">
 
 ### Augmented Reality Tools
 
@@ -102,6 +133,10 @@ The use of AR increases greatly day by day. That's why we collected here differe
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Vectary](https://www.vectary.com/) — сreate 3D and AR for your website.
+
+</article>
+
+<article id="collaboration-tools">
 
 ### Collaboration Tools
 
@@ -130,7 +165,15 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks. It tool allows to edit, assign, schedule and mark tasks by colors indicating their status, make activity reports, create user groups.
 * [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track project’s progress and brainstorm new ideas.
 
+<div class="banner">
+
 You can also have design collaboration into [InVision Freehand](https://www.invisionapp.com/feature/freehand) tool.
+
+</div>
+
+</article>
+
+<article id="color-picker-tools">
 
 ### Color Picker Tools
 
@@ -156,17 +199,28 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+</article>
+
+<article id="css-grid-layout">
+
 ### CSS Grid Layout
 * [CSS Grid Builder](https://cssgrid.cc/css-grid-builder.html) — with this tool there is no HTML part to the grid. The grid only becomes apparent when content (elements) are added and positioned according to the grid rules. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Layoutit](https://grid.layoutit.com/) — a interface builder for CSS Grid and Bootstrap that wants to be the kick-off for your front-end developments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [1200px Grid System](https://1200px.com/) — helps you build a grid system for much wider website designs than the 960-pixel style.
 
+</article>
+
+<article id="design-feedback-tools">
 
 ### Design Feedback Tools
 
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+
+</article>
+
+<article id="design-handoff-tools">
 
 ### Design Handoff Tools
 
@@ -179,28 +233,52 @@ Design handoff takes place when designers finish the work and need to deliver re
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
+</article>
+
+<article id="design-pattern-and-inspiration-tools">
+
 ### Design Pattern and Inspiration Tools
 
 Tools which allow you to explore the design patterns and user flows of popular apps for guidance and inspiration:
 
+* [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, 14419 hand picked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Dribbble](https://dribbble.com/) — an online community for showcasing user-made artwork. Great resource to get inspired from others work.
+* [Httpster](https://httpster.net/) — an inspiration resource showcasing totally rocking websites made by people from all over the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Microcopy Inspirations](https://www.microcopyinspirations.com) — curated examples of good microcopy on websites and apps.
 * [Mobbin](https://mobbin.design/) — browse mobile design patterns for popular apps. Explore common user flows such as onboarding, account sign up and log in, core functionality, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Page Flows](https://pageflows.com/) — user flow videos and screenshots to inspire you when you're stuck. Discover mobile and web design patterns for over 160 different tasks. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [pttrns](https://pttrns.com/) — design patterns for popular mobile apps.
+* [Really Good Emails](https://reallygoodemails.com/) — 4,150+ handpicked email design. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [ReallyGoodUX](https://www.reallygoodux.io/) — screenshots and examples of great UX from real mobile and web products. Discover the best UX examples—including onboarding tours and walkthroughs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [UI Sources](https://www.uisources.com/) — over 500+ interactions from the best designed and top grossing apps on the App Store today.  ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [UI Recipes](https://uirecipes.com/) — weekly 15 min lessons on UI design from the hottest apps.
 * [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, seaching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+</article>
+
+<article id="design-system-tools">
 
 ### Design System Tools
 
 Here are you can find tools that can help you to build, maintain and organize your own design system. Let's dive in:
 
 * [Brand.ai](https://brand.ai/) — automatically maintainable UI components style guide.
-* [Design System Manager](https://www.invisionapp.com/design-system-manager/) – Invision's design system manager.
+* [Design System Manager](https://www.invisionapp.com/design-system-manager/) — Invision's design system manager.
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
+<div class="banner">
+
 We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)).
+
+</div>
+
+</article>
+
+<article id="design-to-code-tools">
 
 ### Design to Code Tools
 
@@ -217,6 +295,10 @@ Check out this collection of proper website builder tools. You can easily create
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
 
+</article>
+
+<article id="experience-monitoring-tools">
+
 ### Experience Monitoring Tools
 
 The analytic tools can help you to analyze data and extract relevant information that you can use to increase results or performance. Check out this list of the best tools for data analysis:
@@ -231,6 +313,10 @@ The analytic tools can help you to analyze data and extract relevant information
 * [LogRocket](https://www.logrocket.com/) — see what users do on your site, helping you reproduce bugs and fix issues faster.
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
+
+</article>
+
+<article id="font-tools">
 
 ### Font Tools
 
@@ -250,6 +336,9 @@ Fonts are commonly used for making the web more beautiful. Here you can find fre
 * [Wakamai Fondue](https://wakamaifondue.com/) — the tool that answers the question "what can my font do?". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
+</article>
+
+<article id="free-screenshot-software">
 
 ### Free Screenshot Software
 
@@ -271,6 +360,9 @@ Free and full-featured screenshot apps to capture. Here you can find some powerf
 * [Snappy](http://snappy-app.com/) — a tool that takes quick shots and organizes them for you into collections. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Teampaper Snap](https://teampaper.me/snap/) — a modern screenshotting app that allows you to take screenshots of a selected area. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
+</article>
+
+<article id="icons-tools">
 
 ### Icons Tools
 
@@ -305,6 +397,9 @@ Here are thousands of vector icons for everything. All icons are available in SV
 * [Xicons](https://www.xicons.co/) — free (do whatever you want) vector icons. A new icon pack every 10 days. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zwicon](https://www.zwicon.com/) — handcrafted iconset for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+</article>
+
+<article id="illustrations">
 
 ### Illustrations
 
@@ -316,6 +411,9 @@ A constantly updated collection of beautiful svg images that you can use complet
 * [OUCH](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+</article>
+
+<article id="information-architecture-tools">
 
 ### Information Architecture Tools
 
@@ -323,6 +421,10 @@ Awesome information architecture tools for creating visual sitemaps and to impro
 
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
 * [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.
+
+</article>
+
+<article id="logo-design">
 
 ### Logo Design
 
@@ -332,7 +434,15 @@ Create your very own company logo online using these easy to use logo design too
 * [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 * [Logo Rank](https://brandmark.io/logo-rank/) — upload your logo to see how it rates on a number of objective measures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+<div class="banner">
+
 You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in UI design tools.
+
+</div>
+
+</article>
+
+<article id="mockup-tools">
 
 ### Mockup Tools
 
@@ -344,11 +454,19 @@ Mockup tools that help you create and collaborate on wireframes, mockups, diagra
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 
+</article>
+
+<article id="mouse-tracking-tools">
+
 ### Mouse Tracking Tools
 
 Mouse tracking tools help to record the movement of a mouse pointer and clicks to find out the points where the user is interested:
 
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
+
+</article>
+
+<article id="pixel-art-tools">
 
 ### Pixel Art Tools
 
@@ -357,6 +475,9 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 * [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
 * [Piskel](https://www.piskelapp.com/) — online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
+</article>
+
+<article id="prototyping-tools">
 
 ### Prototyping Tools
 
@@ -377,7 +498,15 @@ Prototyping tools allow designers and clients to collaborate better while being 
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+<div class="banner">
+
 You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the UI Design Tools section.
+
+</div>
+
+</article>
+
+<article id="sketching-tools">
 
 ### Sketching Tools
 
@@ -386,7 +515,15 @@ Sometimes you need just a pencil and paper to start creating your app or website
 * [Sketchsheets](https://sketchsheets.com/) — an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+<div class="banner">
+
 You can also do some sketching with Sketch mentioned in UI design tools.
+
+</div>
+
+</article>
+
+<article id="stock-photos-tools">
 
 ### Stock Photos Tools
 
@@ -423,6 +560,20 @@ Beautiful, free stock photos and royalty-free images that you can download and u
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+### Stock Videos
+* [Coverr](https://coverr.co/) — beautiful, free stock video footage for your homepage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mazwai](http://mazwai.com) — great collection of free creative commons HD video clips & footages. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mixkit](https://mixkit.co/) — extraordinary Free HD videos. For you to use, completely free of charge. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Motion Places](https://www.motionplaces.com/) — a curated collection of beautiful footage you can use for your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pexels Videos](https://www.pexels.com/videos/) — pexels Videos makes it easy to find free stock footage for your website, promo video or anything else. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Videezy](https://www.videezy.com/) — download millions of free and premium stock footage and motion graphics instantly. 
+* [Videvo](https://www.videvo.net/) — videvo offers a large selection of HD video clips, motion graphics and free stock footage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [123RF](https://www.123rf.com/) — over 100,000 daily new content & 24/7 online support. 
+
+</article>
+
+<article id="ui-design-tools">
+
 ### UI Design Tools
 
 Stuck trying to craft the perfect user interface? Check here for guidance and inspiration:
@@ -444,12 +595,20 @@ Stuck trying to craft the perfect user interface? Check here for guidance and in
 * [Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. Made by Invision.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+</article>
+
+<article id="ui-inspiration">
+
 ### UI Inspiration
 
 Want to create the perfect user interface? Check out the best free and open source UI design tools to upgrade your workflow:
 
 * [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Inspiration UI](http://inspirationui.com/) — community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+</article>
+
+<article id="user-flow-tools">
 
 ### User Flow Tools
 
@@ -469,6 +628,10 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 * [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts. Distraction free in ZEN mode.
 * [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+</article>
+
+<article id="version-control-for-designers">
+
 ### Version Control for Designers
 
 Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:
@@ -480,6 +643,10 @@ Developers actively use version control tools for a long time, probably since 20
 * [Relay for Figma](https://relayforfigma.com/) — relay pushes your latest assets from Figma directly to your codebase (not released yet but you can subscribe to early access).
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops.
 
+</article>
+
+<article id="visual-debugging-tools">
+
 ### Visual Debugging Tools
 
 * [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
@@ -488,3 +655,5 @@ Developers actively use version control tools for a long time, probably since 20
 ### Addendum (Reference & Inspiration)
 
 This repo was inspired by articles from the design community and [Prototypr.io Toolbox](https://prototypr.io/toolbox/) made by my good friend [Graeme](https://twitter.com/graeme_fulton).
+
+</article>

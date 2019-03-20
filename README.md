@@ -40,6 +40,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Experience Monitoring Tools](#experience-monitoring-tools)
 * [Font Tools](#font-tools)
 * [Free Screenshot Software](#free-screenshot-software)
+* [Gradient Tools](#gradient-tools)
 * [Icons Tools](#icons-tools)
 * [Illustrations](#illustrations)
 * [Information Architecture Tools](#information-architecture-tools)
@@ -198,7 +199,6 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Sip](https://sipapp.io/) — a better way to collect, organize and share colors. Global eyedropper tool for MacOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 
@@ -364,6 +364,15 @@ Free and full-featured screenshot apps to capture. Here you can find some powerf
 </article>
 
 <article id="icons-tools">
+	
+### Gradient Tools
+* [Blend](http://www.colinkeany.com/blend/) — create and customize beautiful CSS3 gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [ColorSpace](https://mycolor.space/) — the perfect matching color scheme for your next project! Generate nice color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Cool Backgrounds](https://coolbackgrounds.io/) — explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. 
+* [CSS Gradient](https://cssgradient.io/) — a free css gradient generator tool, this website lets you create a colorful gradient background. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Grabient](https://www.grabient.com/) — beautiful and simple UI for generating web gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Web Gradients](https://webgradients.com/) — a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### Icons Tools
 

@@ -40,6 +40,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Experience Monitoring Tools](#experience-monitoring-tools)
 * [Font Tools](#font-tools)
 * [Free Screenshot Software](#free-screenshot-software)
+* [Gradient Tools](#gradient-tools)
 * [Icons Tools](#icons-tools)
 * [Illustrations](#illustrations)
 * [Information Architecture Tools](#information-architecture-tools)
@@ -49,6 +50,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Pixel Art Tools](#pixel-art-tools)
 * [Prototyping Tools](#prototyping-tools)
 * [Sketching Tools](#sketching-tools)
+* [Sound Design](#sound-design)
 * [Stock Photos Tools](#stock-photos-tools)
 * [Stock Videos](#stock-videos)
 * [UI Design Tools](#ui-design-tools)
@@ -182,11 +184,12 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community. Made by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Color Deck](https://color.obscuredetour.com/) —  a HSL driven color palette collection. It's also [open-source](https://github.com/obscuredetour/color-deck). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Color Deck](https://color.obscuredetour.com/) — a HSL driven color palette collection. It's also [open-source](https://github.com/obscuredetour/color-deck). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Color Hexa](https://www.colorhexa.com/) — free color tool providing information about any color and generating matching color palettes for designs.
 * [Colorpicker](https://colorpicker.crea-th.at/) — a complete and open-source colors manipulation tool with picking. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Colour Cafe](https://www.instagram.com/colours.cafe/) — colours inspiration that have selected modern colour palette in Instagram. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Coolors.co](https://coolors.co/) —  it is the super-fast color scheme generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Culrs](https://culrs.com/#/) — thoughtfully crafted and easy-to-use color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Instant Eyedropper](http://instant-eyedropper.com/) — a minimalist eyedropper tool for windows, supports multiple color formats for both designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Just Color Picker](http://annystudio.com/software/colorpicker/) — Free portable offline colour picker and colour editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
@@ -197,7 +200,6 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Sip](https://sipapp.io/) — a better way to collect, organize and share colors. Global eyedropper tool for MacOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 
@@ -363,6 +365,15 @@ Free and full-featured screenshot apps to capture. Here you can find some powerf
 </article>
 
 <article id="icons-tools">
+	
+### Gradient Tools
+* [Blend](http://www.colinkeany.com/blend/) — create and customize beautiful CSS3 gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [ColorSpace](https://mycolor.space/) — the perfect matching color scheme for your next project! Generate nice color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Cool Backgrounds](https://coolbackgrounds.io/) — explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. 
+* [CSS Gradient](https://cssgradient.io/) — a free css gradient generator tool, this website lets you create a colorful gradient background. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Grabient](https://www.grabient.com/) — beautiful and simple UI for generating web gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Web Gradients](https://webgradients.com/) — a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 ### Icons Tools
 
@@ -448,11 +459,30 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 Mockup tools that help you create and collaborate on wireframes, mockups, diagrams, and prototypes:
 
+* [Artboard Studio](https://artboard.studio/) — is world's the first online graphic design application mainly focused on product mockups. 
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
+* [Craftwork Design](https://craftwork.design/) — free and premium high quality digital products which make your work faster and easier. 
+* [Devices by Facebook](https://facebook.design/devices) — images and Sketch files of popular devices. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Dimmy.club](https://dimmy.club/) — device mockup generator for your website and app screenshots. 
+* [Frrames](https://frrames.com/) — Frrames mockups is perfectly crafted responsive windows mockups for your ideal presentation. 
+* [Lstore Graphics](https://www.ls.graphics/) — free and premium mockups, UI/UX tools, scene creators for busy designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mockup World](https://www.mockupworld.co/) — tons of free and legal, fully layered, easily customizable photo realistic PSDs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mockups For Free](https://mockupsforfree.com/) — free design resources, PSD files for graphic and web designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mockuuups](https://mockuuups.studio/) — drag-and-drop tool for creating beautiful app previews or any marketing materials. 
+* [Mock Video](https://www.mock.video/) — instantly create mockups by adding a device frame to your videos.
+* [Overframe for Mac](https://overframe.xyz/) — record your prototype & app with device frame overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [PixelBuddha](https://pixelbuddha.net/) — free and premium high quality resources for web designers and developers. 
+* [Ramotion Store](https://store.ramotion.com/) — carefully crafted Apple and Android mockups for Sketch and Photoshop. 
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
+* [shotsnapp](https://shotsnapp.com/) — create beautiful device mockup presentation for your digital app and website design. 
+* [The Mockup Club](https://themockup.club/) — a directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Threed](http://threed.io/) — generate custom 3D Device Mockups in your Browser. 
+* [UI Store Design](https://www.uistore.design/) — 200+ free handpicked design resources for Sketch, Figma, Adobe XD, InVision Studio, Photoshop, Illustrator CC. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [UI8 - Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 
@@ -524,6 +554,18 @@ You can also do some sketching with Sketch mentioned in UI design tools.
 </article>
 
 <article id="stock-photos-tools">
+	
+### Sound Design
+
+* [AudioJungle](https://audiojungle.net/) — 836,206 tracks and sounds from the community of musicians and sound engineers.
+* [Bensound](https://www.bensound.com/) — download creative commons music, royalty free music for free and use it in your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Fugue Music](https://icons8.com/music) — download free background music for your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [SoundKit](https://soundkit.io/) — a UI sound library designed for all of your interface needs. 
+* [UI Sounds](https://uisounds.prototypr.io/) — learn sound design for user interfaces by example.
+* [Wistia Music](https://wistia.com/resources/music) — download some free background tracks to add energy and emotion to your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [WOWA](https://www.wowa.me/) — download royalty free music for YouTube videos, Podcasts and Apps. No copyright CC0. Music inspired by Unsplash. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) — browse and download free music for your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
 
 ### Stock Photos Tools
 
@@ -537,6 +579,7 @@ Beautiful, free stock photos and royalty-free images that you can download and u
 * [Gratisography](https://gratisography.com) — the world's quirkiest collection of free high-resolution pictures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Jay Mantri](https://jaymantri.com/) — 7 new photos released every Thursday under the Creative Commons CC0 license. Jay Mantri posts some really nice photos with a variety of different themes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Kaboom Pics](https://kaboompics.com/) — Kaboom Pics offers a wide variety of high quality free stock photos including abstract, city/architecture, fashion, food, landscapes and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [LandingStock](https://landingstock.com/) — a collection of free images for your landing page. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Life of Pix](https://www.lifeofpix.com/) — a resource created by the LEEROY creative agency offering free high-resolution photos with no copyright restrictions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Magdeleine](https://magdeleine.co/) — free high-quality stock photos for your inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Moose](https://photos.icons8.com/) — don't search for stock photos, create them. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

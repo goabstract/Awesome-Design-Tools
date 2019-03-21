@@ -244,17 +244,28 @@ Design handoff takes place when designers finish the work and need to deliver re
 Tools which allow you to explore the design patterns and user flows of popular apps for guidance and inspiration:
 
 * [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, 14419 hand picked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Creative Portfolios](http://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.
 * [Dribbble](https://dribbble.com/) — an online community for showcasing user-made artwork. Great resource to get inspired from others work.
+* [Hover States](https://hoverstat.es/) — showcase great work from the bleeding edge of digital culture for, and with, the creative community.
 * [Httpster](https://httpster.net/) — an inspiration resource showcasing totally rocking websites made by people from all over the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [H69.Design](https://www.h69.design/) — landing page colletions & Free resources for designers. 
+* [Lapa Ninja](https://www.lapa.ninja/) — the best landing page design inspiration from around the web. 1800+ landing page examples and updated daily. 
 * [Microcopy Inspirations](https://www.microcopyinspirations.com) — curated examples of good microcopy on websites and apps.
+* [Mobile Patterns](https://www.mobile-patterns.com/) — a design inspirational library featuring finest UI UX Patterns (iOS and Android).
 * [Mobbin](https://mobbin.design/) — browse mobile design patterns for popular apps. Explore common user flows such as onboarding, account sign up and log in, core functionality, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Owwly](https://owwly.com/feed/inspirations) — home for digital products crafted with passion to design. 
 * [Page Flows](https://pageflows.com/) — user flow videos and screenshots to inspire you when you're stuck. Discover mobile and web design patterns for over 160 different tasks. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [pttrns](https://pttrns.com/) — design patterns for popular mobile apps.
 * [Really Good Emails](https://reallygoodemails.com/) — 4,150+ handpicked email design. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ReallyGoodUX](https://www.reallygoodux.io/) — screenshots and examples of great UX from real mobile and web products. Discover the best UX examples—including onboarding tours and walkthroughs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [The Design Team](https://thedesignteam.io/) — comics about a design team for a tech startup in Silicon Valley.
+* [Typewolf](https://www.typewolf.com/) — helps designers choose the perfect font combination for their next design project. 
+* [UI Garage](https://uigarage.net/) — the one stop shop for designers, developers and marketer to find inspiration, tools and the best resources. 
 * [UI Sources](https://www.uisources.com/) — over 500+ interactions from the best designed and top grossing apps on the App Store today.  ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [UI Recipes](https://uirecipes.com/) — weekly 15 min lessons on UI design from the hottest apps.
 * [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, seaching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Web Design Museum](https://www.webdesignmuseum.org/) — over 1,200 carefully selected web sites that show web design trends between the years 1994 and 2006. 
+
 
 </article>
 

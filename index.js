@@ -71,7 +71,7 @@ const getJS = () => (
 const editHead = ({ document }, title, themeColor) => {
 	const head = document.querySelector('head');
 	const normalizeCss = getCssFile('normalize');
-	// const mainCss = getCssFile('design-tools-style');
+	const mainCss = getCssFile('design-tools-style');
 	// head.innerHTML = `
 	// 	<title>${title}</title>
 	// 	<meta charset="utf-8">

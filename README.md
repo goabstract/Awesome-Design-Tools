@@ -458,11 +458,30 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 Mockup tools that help you create and collaborate on wireframes, mockups, diagrams, and prototypes:
 
+* [Artboard Studio](https://artboard.studio/) — is world's the first online graphic design application mainly focused on product mockups. 
 * [Cleanmock](https://cleanmock.com) — create stunning mockups using latest device frames like iPhone & custom backgrounds.
+* [Craftwork Design](https://craftwork.design/) — free and premium high quality digital products which make your work faster and easier. 
+* [Devices by Facebook](https://facebook.design/devices) — images and Sketch files of popular devices. [free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Dimmy.club](https://dimmy.club/) — device mockup generator for your website and app screenshots. 
+* [Frrames](https://frrames.com/) — Frrames mockups is perfectly crafted responsive windows mockups for your ideal presentation. 
+* [Lstore Graphics](https://www.ls.graphics/) — free and premium mockups, UI/UX tools, scene creators for busy designers. [free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mockup World](https://www.mockupworld.co/) — tons of free and legal, fully layered, easily customizable photo realistic PSDs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mockups For Free](https://mockupsforfree.com/) — free design resources, PSD files for graphic and web designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Mockuuups](https://mockuuups.studio/) — drag-and-drop tool for creating beautiful app previews or any marketing materials. 
+* [Mock Video](https://www.mock.video/) — instantly create mockups by adding a device frame to your videos.
+* [Overframe for Mac](https://overframe.xyz/) — record your prototype & app with device frame overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [PixelBuddha](https://pixelbuddha.net/) — free and premium high quality resources for web designers and developers. 
+* [Ramotion Store](https://store.ramotion.com/) — carefully crafted Apple and Android mockups for Sketch and Photoshop. 
 * [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 * [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
+* [shotsnapp](https://shotsnapp.com/) — create beautiful device mockup presentation for your digital app and website design. 
+* [The Mockup Club](https://themockup.club/) — a directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Threed](http://threed.io/) — generate custom 3D Device Mockups in your Browser. 
+* [UI Store Design](https://www.uistore.design/) — 200+ free handpicked design resources for Sketch, Figma, Adobe XD, InVision Studio, Photoshop, Illustrator CC. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [UI8 - Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. [free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

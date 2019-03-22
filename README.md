@@ -56,8 +56,8 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [UI Design Tools](#ui-design-tools)
 * [UI Inspiration](#ui-inspiration)
 * [User Flow Tools](#user-flow-tools)
-* [Version Control for Designers](#version-control-for-designers)
 * [User Research Tools](#user-research-tools)
+* [Version Control for Designers](#version-control-for-designers)
 * [Visual Debugging Tools](#visual-debugging-tools)
 
 </div>

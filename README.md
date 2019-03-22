@@ -57,6 +57,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [UI Inspiration](#ui-inspiration)
 * [User Flow Tools](#user-flow-tools)
 * [Version Control for Designers](#version-control-for-designers)
+* [User Research Tools](#user-research-tools)
 * [Visual Debugging Tools](#visual-debugging-tools)
 
 </div>
@@ -682,6 +683,14 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 * [Wireflow](http://wireflow.co) — is free, online and [open source](https://github.com/vanila-io/wireflow) tool for creating beautiful user flow prototypes. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts. Distraction free in ZEN mode.
 * [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+</article>
+
+<article id="user-research-tools">
+	
+### User Research Tools
+
+* [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
 
 </article>
 

@@ -35,9 +35,9 @@ div::selection {
 	background-color: var(--light-blue);
 }
 
-html {
+/* html {
   scroll-behavior: smooth;
-}
+} */
 
 body, a, input, button {
 	font-family: 'Montserrat',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
@@ -200,6 +200,7 @@ article > header {
 
 .banner--flex {
 	display: flex;
+	flex-wrap: wrap;
 	flex-direction: row;
 	align-items: center;
 	justify-content: flex-start;
@@ -212,6 +213,21 @@ article > header {
 
 .banner--dark a:hover {
 	color: #ffffff !important;
+}
+
+.banner-contribute > p:first-child {
+	margin-right: 1rem;
+}
+
+@media(max-width: 584px) {
+	.banner-contribute > p:first-child {
+		margin-bottom: 1rem;
+	}
+
+	.banner-contribute .btn-contribute {
+		text-align: center;
+	}
+
 }
 
 .banner--yellow a {
@@ -294,6 +310,7 @@ article h3 {
 article h3 a {
 	color: var(--blue);
 	font-weight: 700;
+	line-height: 1.625rem;
 }
 
 article p {
@@ -317,6 +334,7 @@ article li:last-child {
 	font-size: 1.375rem;
 	font-weight: 700;
 	color: inherit;
+	line-height: 24px;
 }
 
 article ul {
@@ -499,7 +517,10 @@ article ul {
 	.nav ul {
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+		width: 90%;
+		max-width: 768px;
+		min-width: 320px;
 	}
 
 	.nav li > a {
@@ -570,9 +591,6 @@ article ul {
 		text-align: left;
 	}
 
-}
-
-@media(max-width: 960px) {
 	.promo-banner--flawless-feedback {
 		flex-direction: column;
 		align-items: flex-start;
@@ -581,4 +599,13 @@ article ul {
 	.promo-banner--flawless-feedback__description {
 		margin: 3rem 0;
 	}
+
+	.tags {
+		margin-top: 0.5rem;
+	}
+
+	.tag {
+		margin-bottom: 0.5rem;
+	}
+
 }

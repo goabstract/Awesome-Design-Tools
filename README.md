@@ -702,12 +702,17 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 ### User Research Tools
 
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
+<<<<<<< HEAD
 * [Crowd Signal](https://crowdsignal.com/) — Collect, organize and analyze data from a variety of sources, including social media and mobile.
 * [Feedback Lite](https://www.feedbacklite.com/) — Collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
 * [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes and standard observation and note-taking techniques.
 * [Survey Monkey](https://www.surveymonkey.com/) — Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
 * [Wufoo](https://www.wufoo.com) — Create forms, collect data and payments, and automate your workflows.
 * [YesInsights](https://www.yesinsights.com/) — Simple one question and NPS surveys to improve your business.
+=======
+* [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
+* [UserBit](https://userbitapp.com/) — a platform of real-time research Tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
+>>>>>>> 3fabe9566b863b26b9dfbd3596fe1105fbcb25b6
 
 </article>
 

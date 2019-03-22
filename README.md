@@ -196,7 +196,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
 * [Material Colors Native](https://github.com/BafS/Material-Colors-native) — Google's material design color palette in the form of a mac app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Pikka — Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Pikka - Color Picker](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome.  It‘s free and [open-source](https://github.com/casesandberg/react-color/). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sip](https://sipapp.io/) — a better way to collect, organize and share colors. Global eyedropper tool for MacOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -377,7 +377,7 @@ Free and full-featured screenshot apps to capture. Here you can find some powerf
 
 </article>
 
-<article id="icons-tools">
+<article id="gradient-tools">
 	
 ### Gradient Tools
 * [Blend](http://www.colinkeany.com/blend/) — create and customize beautiful CSS3 gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -387,6 +387,10 @@ Free and full-featured screenshot apps to capture. Here you can find some powerf
 * [Grabient](https://www.grabient.com/) — beautiful and simple UI for generating web gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Web Gradients](https://webgradients.com/) — a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+</article>
+
+<article id="icons-tools">
 
 ### Icons Tools
 
@@ -566,7 +570,7 @@ You can also do some sketching with Sketch mentioned in UI design tools.
 
 </article>
 
-<article id="stock-photos-tools">
+<article id="sound-design">
 	
 ### Sound Design
 
@@ -579,6 +583,9 @@ You can also do some sketching with Sketch mentioned in UI design tools.
 * [WOWA](https://www.wowa.me/) — download royalty free music for YouTube videos, Podcasts and Apps. No copyright CC0. Music inspired by Unsplash. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) — browse and download free music for your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+</article>
+
+<article id="stock-photos-tools">
 
 ### Stock Photos Tools
 
@@ -615,6 +622,10 @@ Beautiful, free stock photos and royalty-free images that you can download and u
 * [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+</article>
+
+<article id="stock-videos">
 
 ### Stock Videos
 * [Coverr](https://coverr.co/) — beautiful, free stock video footage for your homepage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -691,6 +702,12 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 ### User Research Tools
 
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
+* [Crowd Signal](https://crowdsignal.com/) — Collect, organize and analyze data from a variety of sources, including social media and mobile.
+* [Feedback Lite](https://www.feedbacklite.com/) — Collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
+* [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes and standard observation and note-taking techniques.
+* [Survey Monkey](https://www.surveymonkey.com/) — Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
+* [Wufoo](https://www.wufoo.com) — Create forms, collect data and payments, and automate your workflows.
+* [YesInsights](https://www.yesinsights.com/) — Simple one question and NPS surveys to improve your business.
 
 </article>
 

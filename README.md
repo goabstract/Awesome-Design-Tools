@@ -691,6 +691,8 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 ### User Research Tools
 
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
+* [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
+* [UserBit](https://userbitapp.com/) — a platform of real-time research Tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
 
 </article>
 

@@ -168,6 +168,7 @@ const createContributeBanner = ({ document }) => {
 	banner.classList.add('banner');
 	banner.classList.add('banner--flex');
 	banner.classList.add('banner--dark');
+	banner.classList.add('banner-contribute');
 	banner.innerHTML = `
 		<p>Didn't find your favorite tool?</p>
 		<a href="https://github.com/LisaDziuba/Awesome-Design-Tools" class="btn btn-contribute image-gh">Contribute on GitHub</a>
@@ -255,7 +256,7 @@ const createLinkForID = (str) => (
 
 const tweakDescriptionOfArticleTopic = ({ document }) => {
 	const topics = document.querySelectorAll('main > article');
-	topics.forEach(topic => {
+	topics.forEach((topic) => {
 		const splittedHeader = topic.innerHTML.split('<ul>');
 		const toolTitle = splittedHeader[0].split('</h3>')[0].slice(4);
 		topic.innerHTML = `
@@ -296,11 +297,12 @@ const addWelcomeArticle = ({ document }) => {
 		<div class="welcome__asset">Awesome Design Tools logo</div>
 		<h1 class="welcome__title">Awesome Design Tools</h1>
 		<p class="welcome__description">
-			The best design tools for everything collected by the community in Open Source GitHub repository.
-			Content being curated by <a href="https://twitter.com/LisaDziuba">Lisa Dziuba</a> and <a href="https://twitter.com/ValiaHavryliuk">Valia Havruliyk</a> from Flawless App.
+			The best design tools for everything collected by the community.
+			Content being curated by Flawless App.
 		</p>
 		<a href="https://github.com/LisaDziuba/Awesome-Design-Tools" class="btn btn-contribute image-gh">Contribute on GitHub</a>
 	`;
+	// <a href="https://twitter.com/LisaDziuba">Lisa Dziuba</a> and <a href="https://twitter.com/ValiaHavryliuk">Valia Havruliyk</a> from
 	main.insertBefore(article, main.childNodes[0]);
 }
 

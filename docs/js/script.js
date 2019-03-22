@@ -1,7 +1,19 @@
-document.querySelector('.hamburger-menu').onclick = function() {
+function toggleMenuChange() {
 	document.querySelector('.nav').classList.toggle('nav--visible');
-	this.classList.toggle('hamburger-menu--change');
+	document.querySelector('.hamburger-menu').classList.toggle('hamburger-menu--change');
 }
+
+document.querySelector('.hamburger-menu').onclick = function() {
+	toggleMenuChange();
+}
+
+document.querySelectorAll('.nav a').forEach((link) => {
+	if (window.innerWidth < 959) {
+		link.onclick = function() {
+			toggleMenuChange();
+		}
+	}
+});
 
 class Nav {
 	constructor(navElements, activeClass) {

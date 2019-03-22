@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/berezovskycom/Awesome-Design-Tools#readme",
   "devDependencies": {
+    "html-minifier": "^3.5.21",
     "jsdom": "^14.0.0"
   },
   "dependencies": {

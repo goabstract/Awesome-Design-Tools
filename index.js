@@ -112,18 +112,6 @@ const editHead = ({ document }, title, themeColor) => {
 		<link rel="apple-touch-icon" sizes="152x152" href="${favicon152}">
 	`;
 
-	head.innerHTML = `
-		<title>${title}</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="theme-color" content="${themeColor}">
-		<meta name="description" content="A description of the page">
-		${icons}
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet">
-		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="css/design-tools-style.css">
-	`;
 	// head.innerHTML = `
 	// 	<title>${title}</title>
 	// 	<meta charset="utf-8">
@@ -133,11 +121,23 @@ const editHead = ({ document }, title, themeColor) => {
 	// 	${icons}
 	// 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
 	// 	<link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet">
-	// 	<style>
-	// 		${normalizeCss}
-	// 		${mainCss}
-	// 	</style>
+	// 	<link rel="stylesheet" href="css/normalize.css">
+	// 	<link rel="stylesheet" href="css/design-tools-style.css">
 	// `;
+	head.innerHTML = `
+		<title>${title}</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="${themeColor}">
+		<meta name="description" content="A description of the page">
+		${icons}
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet">
+		<style>
+			${normalizeCss}
+			${mainCss}
+		</style>
+	`;
 }
 
 const addScripts = ({ document }) => {

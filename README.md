@@ -87,7 +87,7 @@ Accessibility is the practice of creating websites and apps usable by all people
 * [tota11y](http://khan.github.io/tota11y/) — an accessibility visualization toolkit. Interesting fact: inside the tool name you can see "a11y". It's an abbreviation of accessibility as "a" followed by 11 more letters, followed by "y". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox. It's a web accessibility checker. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
-<div class="banner">
+<div class="banner banner--yellow">
 
 Accessibility checking feature is also available in VisBug from Visual Debugging Tools categoty.
 	
@@ -116,7 +116,7 @@ Animations guide people through the product smoothly and friendly. Live interact
 * [Stylie](https://jeremyckahn.github.io/stylie/) — A web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
-<div class="banner">
+<div class="banner banner--yellow">
 
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 
@@ -168,7 +168,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks. It tool allows to edit, assign, schedule and mark tasks by colors indicating their status, make activity reports, create user groups.
 * [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track project’s progress and brainstorm new ideas.
 
-<div class="banner">
+<div class="banner banner--yellow">
 
 You can also have design collaboration into [InVision Freehand](https://www.invisionapp.com/feature/freehand) tool.
 
@@ -284,7 +284,7 @@ Here are you can find tools that can help you to build, maintain and organize yo
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
-<div class="banner">
+<div class="banner banner--yellow">
 
 We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Store](https://www.framer.com/design-systems/)).
 
@@ -458,7 +458,7 @@ Create your very own company logo online using these easy to use logo design too
 * [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 * [Logo Rank](https://brandmark.io/logo-rank/) — upload your logo to see how it rates on a number of objective measures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
-<div class="banner">
+<div class="banner banner--yellow">
 
 You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in UI design tools.
 
@@ -541,7 +541,7 @@ Prototyping tools allow designers and clients to collaborate better while being 
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
-<div class="banner">
+<div class="banner banner--yellow">
 
 You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the UI Design Tools section.
 
@@ -558,7 +558,7 @@ Sometimes you need just a pencil and paper to start creating your app or website
 * [Sketchsheets](https://sketchsheets.com/) — an [open source](https://github.com/rnarrkus/sketchsheets) project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
-<div class="banner">
+<div class="banner banner--yellow">
 
 You can also do some sketching with Sketch mentioned in UI design tools.
 

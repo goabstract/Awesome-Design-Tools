@@ -193,6 +193,11 @@ article > header {
 	cursor: default;
 }
 
+.banner--yellow {
+	background-color: var(--skin);
+	color: var(--swamp);	
+}
+
 .banner--flex {
 	display: flex;
 	flex-direction: row;
@@ -209,12 +214,12 @@ article > header {
 	color: #ffffff !important;
 }
 
-.banner a {
+.banner--yellow a {
 	color: inherit;
 	text-decoration: underline;
 }
 
-.banner a:hover {
+.banner--yellow a:hover {
 	color: var(--blue);
 }
 

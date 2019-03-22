@@ -45,7 +45,6 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Information Architecture Tools](#information-architecture-tools)
 * [Logo Design](#logo-design)
 * [Mockup Tools](#mockup-tools)
-* [Mouse Tracking Tools](#mouse-tracking-tools)
 * [Pixel Art Tools](#pixel-art-tools)
 * [Prototyping Tools](#prototyping-tools)
 * [Sketching Tools](#sketching-tools)
@@ -310,6 +309,7 @@ Check out this collection of proper website builder tools. You can easily create
 The analytic tools can help you to analyze data and extract relevant information that you can use to increase results or performance. Check out this list of the best tools for data analysis:
 
 * [Amplitude](https://amplitude.com/) — understand your users, rapidly release better product experiences, and grow your business.
+* [Chalkmark](https://www.optimalworkshop.com/chalkmark) — increase your customer conversion and task oriented success rates by getting quick feedback on designs before you implemen. 
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
 * [FullStory](https://www.fullstory.com/) — an app that captures all your customer experience data in one powerful, easy-to-use platform.
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -318,7 +318,9 @@ The analytic tools can help you to analyze data and extract relevant information
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do.
 * [LogRocket](https://www.logrocket.com/) — see what users do on your site, helping you reproduce bugs and fix issues faster.
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
+* [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
+
 
 </article>
 
@@ -494,16 +496,6 @@ Mockup tools that help you create and collaborate on wireframes, mockups, diagra
 * [UI8 - Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
-
-</article>
-
-<article id="mouse-tracking-tools">
-
-### Mouse Tracking Tools
-
-Mouse tracking tools help to record the movement of a mouse pointer and clicks to find out the points where the user is interested:
-
-* [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 
 </article>
 

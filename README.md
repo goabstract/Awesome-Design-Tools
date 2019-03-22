@@ -734,9 +734,9 @@ Developers actively use version control tools for a long time, probably since 20
 
 * [Balsamiq Cloud](https://balsamiq.cloud/) — effortless UI sketching. Capture your ideas, collaborate on your designs, get everyone on board. 
 * [CSS Grid Builder](https://cssgrid.cc/css-grid-builder.html) — with this tool there is no HTML part to the grid. The grid only becomes apparent when content (elements) are added and positioned according to the grid rules. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Gridzzly](http://gridzzly.com/) — the easiest way to create custom grid paper printable. Available options are: dot grid, isometric dot grid, lines. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Layoutit](https://grid.layoutit.com/) — a interface builder for CSS Grid and Bootstrap that wants to be the kick-off for your front-end developments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Wireframe.cc](https://wireframe.cc/) — a simple wireframing tool that doesn't get in your way. Create and share simple wireframes of websites. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Gridzzly](http://gridzzly.com/) — the easiest way to create custom grid paper printable. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Layoutit](https://grid.layoutit.com/) — a interface builder for CSS Grid & Bootstrap that wants to be the kick-off for your front-end developments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Wireframe.cc](https://wireframe.cc/) — a simple wireframing tool that doesn't get in your way. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Whimsical Wireframes](https://whimsical.co/wireframes/) — instant wireframing at your fingertips. Rich library of configurable elements like buttons, inputs, checkboxes.
 * [1200px Grid System](https://1200px.com/) — helps you build a grid system for much wider website designs than the 960-pixel style.
 

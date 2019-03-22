@@ -419,7 +419,7 @@ Here are thousands of vector icons for everything. All icons are available in SV
 * [Simple Icons](https://simpleicons.org/) — free SVG icons for popular brands. Simply click the icon you want, and the download should start automatically. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Streamline Emoji](http://emoji.streamlineicons.com/) — a free collection of 850 + vector emoji. The style is inspired by the japanese “Kawaii” (cute) style. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Svgsus](http://www.svgs.us/) — SVG icon management tool. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Tilda Icons](https://tilda.cc/free-icons/) — download free icons for landing pages. More than 700 vector icons, collected in 43 sets for business. [free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Tilda Icons](https://tilda.cc/free-icons/) — download free icons for landing pages. More than 700 vector icons, collected in 43 sets for business. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Unicons](https://iconscout.com/unicons) — 1000+ pixel-perfect vector icons and Iconfont for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [VisualPharm](https://visualpharm.com/) — free SVG Icons with super-fast search and free Coke. Built for fun by Icons8. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Xicons](https://www.xicons.co/) — free (do whatever you want) vector icons. A new icon pack every 10 days. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -702,17 +702,14 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 ### User Research Tools
 
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
-<<<<<<< HEAD
 * [Crowd Signal](https://crowdsignal.com/) — Collect, organize and analyze data from a variety of sources, including social media and mobile.
 * [Feedback Lite](https://www.feedbacklite.com/) — Collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
 * [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes and standard observation and note-taking techniques.
 * [Survey Monkey](https://www.surveymonkey.com/) — Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
 * [Wufoo](https://www.wufoo.com) — Create forms, collect data and payments, and automate your workflows.
 * [YesInsights](https://www.yesinsights.com/) — Simple one question and NPS surveys to improve your business.
-=======
 * [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
 * [UserBit](https://userbitapp.com/) — a platform of real-time research Tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
->>>>>>> 3fabe9566b863b26b9dfbd3596fe1105fbcb25b6
 
 </article>
 
@@ -737,6 +734,18 @@ Developers actively use version control tools for a long time, probably since 20
 
 * [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+<article id="3d-modeling-software">
+
+### 3D Modeling Software
+
+* [Autodesk](https://www.autodesk.com/products/fusion-360/overview) — integrated CAD, CAM, and CAE software. Eliminate your disconnected product development process. Unify design, engineering, and manufacturing into a single platform.
+* [Blender](https://www.blender.org/) — free and Open 3D Creation Software.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [SketchUp](https://www.sketchup.com) — premier 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset that empowers you to create whatever you can imagine.
+* [Maya](https://www.autodesk.com/products/maya/overview) — make animations, environments, motion graphics, virtual reality, and character creation, all in one powerful toolset.
+* [3D Slash](https://www.3dslash.net) — the easiest 3D modeling tool on the market. Available on all devices and all OS, online and offline.
+
+</article>
 
 ### Addendum (Reference & Inspiration)
 

@@ -59,7 +59,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [User Research Tools](#user-research-tools)
 * [Version Control for Designers](#version-control-for-designers)
 * [Visual Debugging Tools](#visual-debugging-tools)
-
+* [3D Modeling Software](#3d-modeling-software)
 </div>
 
 <main>
@@ -735,12 +735,14 @@ Developers actively use version control tools for a long time, probably since 20
 * [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+</article>
+
 <article id="3d-modeling-software">
 
 ### 3D Modeling Software
 
 * [Autodesk](https://www.autodesk.com/products/fusion-360/overview) — integrated CAD, CAM, and CAE software. Eliminate your disconnected product development process. Unify design, engineering, and manufacturing into a single platform.
-* [Blender](https://www.blender.org/) — free and Open 3D Creation Software.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Blender](https://www.blender.org/) — free and Open 3D Creation Software.
 * [SketchUp](https://www.sketchup.com) — premier 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset that empowers you to create whatever you can imagine.
 * [Maya](https://www.autodesk.com/products/maya/overview) — make animations, environments, motion graphics, virtual reality, and character creation, all in one powerful toolset.
 * [3D Slash](https://www.3dslash.net) — the easiest 3D modeling tool on the market. Available on all devices and all OS, online and offline.
@@ -750,5 +752,3 @@ Developers actively use version control tools for a long time, probably since 20
 ### Addendum (Reference & Inspiration)
 
 This repo was inspired by articles from the design community and [Prototypr.io Toolbox](https://prototypr.io/toolbox/) made by my good friend [Graeme](https://twitter.com/graeme_fulton).
-
-</article>

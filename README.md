@@ -141,7 +141,7 @@ The use of AR increases day by day. This is why we collected different augmented
 
 ### Collaboration Tools
 
-Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier. Agile methods promote productivity, better planning, smooth remote processes, easier designer developer collaboration and less stress for all the team. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
+Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier, save time and improve productivity. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
 
 * [Airtable](https://airtable.com/) — part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
 * [Appear.in](https://appear.in/) — a simple video collaboration tool.
@@ -157,13 +157,12 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 * [ProofHub](https://www.proofhub.com/) — the one place for all your projects, teams and communications.
 * [RealtimeBoard (Miro)](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration. It was recently renaimed to Miro.
-* [Skype](https://www.skype.com/en/new/) — a tool for staying in touch with people all over the world for free with voice and video calls, text messages and screen sharing between multiple devices.
 * [Slack](https://slack.com/) — a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips.
 * [Trello](https://trello.com/) — a web-based project management application that enables you to organize and prioritize your projects in a fun, flexible and rewarding way.
 * [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Workzone](https://www.workzone.com/) — a simple, powerful project management software. 
-* [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks. It tool allows to edit, assign, schedule and mark tasks by colors indicating their status, make activity reports, create user groups.
+* [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
 * [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track project’s progress and brainstorm new ideas.
 
 <div class="banner banner--yellow">

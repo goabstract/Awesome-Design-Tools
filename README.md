@@ -33,7 +33,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Color Picker Tools](#color-picker-tools)
 * [Design Feedback Tools](#design-feedback-tools)
 * [Design Handoff Tools](#design-handoff-tools)
-* [Design Pattern and Inspiration Tools](#design-pattern-and-inspiration-tools)
+* [Design Inspiration](#design-inspiration)
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Experience Monitoring Tools](#experience-monitoring-tools)
@@ -52,7 +52,6 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Stock Photos Tools](#stock-photos-tools)
 * [Stock Videos](#stock-videos)
 * [UI Design Tools](#ui-design-tools)
-* [UI Inspiration](#ui-inspiration)
 * [User Flow Tools](#user-flow-tools)
 * [User Research Tools](#user-research-tools)
 * [Version Control for Designers](#version-control-for-designers)
@@ -228,15 +227,17 @@ Design handoff takes place when designers finish the work and need to deliver re
 
 </article>
 
-<article id="design-pattern-and-inspiration-tools">
+<article id="design-inspiration">
 
-### Design Pattern and Inspiration Tools
+### Design Inspiration
 
 Tools which allow you to explore the design patterns and user flows of popular apps for guidance and inspiration:
 
+* [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, 14419 hand picked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Creative Portfolios](http://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.
 * [Dribbble](https://dribbble.com/) — an online community for showcasing user-made artwork. Great resource to get inspired from others work.
+* [Inspiration UI](http://inspirationui.com/) — community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Hover States](https://hoverstat.es/) — showcase great work from the bleeding edge of digital culture for, and with, the creative community.
 * [Httpster](https://httpster.net/) — an inspiration resource showcasing totally rocking websites made by people from all over the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [H69.Design](https://www.h69.design/) — landing page colletions & Free resources for designers. 
@@ -648,17 +649,6 @@ Stuck trying to craft the perfect user interface? Check here for guidance and in
 * [Sketch](https://www.sketchapp.com/) — a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. Made by Invision.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
-</article>
-
-<article id="ui-inspiration">
-
-### UI Inspiration
-
-Want to create the perfect user interface? Check out the best free and open source UI design tools to upgrade your workflow:
-
-* [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Inspiration UI](http://inspirationui.com/) — community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

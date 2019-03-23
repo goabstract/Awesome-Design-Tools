@@ -97,7 +97,7 @@ Accessibility checking feature is also available in VisBug from Visual Debugging
 
 ### Animation Tools
 
-Animations guide people through the product smoothly and friendly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation a bit easier. If you plan to make animated transition, micro-interaction or scroll-based animation, go through these tools:
+Animations guide people through the product smoothly and in a friendly manner. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation a easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:
 
 * [After Effects](https://www.adobe.com/products/aftereffects.html) — a digital visual effects, motion graphics, and compositing application developed by Adobe.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
@@ -126,8 +126,8 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 ### Augmented Reality Tools
 
-Augmented reality is technology that upgrades our real world adding a layer of digital information to it.
-The use of AR increases greatly day by day. That's why we collected here different augmented reality apps for creating, projecting and prototyping app focused on AR:
+Augmented reality is technology that upgrades our real world, by adding a layer of digital information to it.
+The use of AR increases day by day. This is why we collected different augmented reality apps for creating, projecting and prototyping apps focused on AR:
 
 * [Lens Studio](https://lensstudio.snapchat.com/) — create, publish, and share your own AR experiences for Snapchat with or without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
@@ -141,7 +141,7 @@ The use of AR increases greatly day by day. That's why we collected here differe
 
 ### Collaboration Tools
 
-Looking to try some tools for agile design and development collaboration? Good idea because such tools can make designers and developers life much easier. More productivity, better planning, smooth remote processes, easier designer developer collaboration and less stress for all the team. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
+Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier. Agile methods promote productivity, better planning, smooth remote processes, easier designer developer collaboration and less stress for all the team. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
 
 * [Airtable](https://airtable.com/) — part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
 * [appear.in](https://appear.in/) — a simple video collaboration tool.

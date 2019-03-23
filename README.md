@@ -42,7 +42,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Gradient Tools](#gradient-tools)
 * [Icons Tools](#icons-tools)
 * [Illustrations](#illustrations)
-* [Information Architecture Tools](#information-architecture-tools)
+* [Information Architecture](#information-architecture)
 * [Logo Design](#logo-design)
 * [Mockup Tools](#mockup-tools)
 * [Pixel Art Tools](#pixel-art-tools)
@@ -425,12 +425,14 @@ A constantly updated collection of beautiful svg images that you can use complet
 
 </article>
 
-<article id="information-architecture-tools">
+<article id="information-architecture">
 
-### Information Architecture Tools
+### Information Architecture
 
-Awesome information architecture tools for creating visual sitemaps and to improve your website information architecture and usability:
+Information architecture helps designers organize and structure content inside websites, mobile apps, and other software. So users will understand product functionality and will find everything needed. These information architecture tools should allow you to create visual sitemaps and to improve your website content structure:
 
+* [DYNO Mapper](https://dynomapper.com/) — organize website projects using visual sitemaps, content inventory, content audit, content planning, daily keyword tracking, and website accessibility testing.
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — сreate beautiful diagrams and designs with this powerful and easy to use app.![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
 * [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.
 

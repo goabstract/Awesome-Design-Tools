@@ -38,7 +38,6 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Design to Code Tools](#design-to-code-tools)
 * [Experience Monitoring Tools](#experience-monitoring-tools)
 * [Font Tools](#font-tools)
-* [Free Screenshot Software](#free-screenshot-software)
 * [Gradient Tools](#gradient-tools)
 * [Icons Tools](#icons-tools)
 * [Illustrations](#illustrations)
@@ -47,6 +46,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Mockup Tools](#mockup-tools)
 * [Pixel Art Tools](#pixel-art-tools)
 * [Prototyping Tools](#prototyping-tools)
+* [Screenshot Software](#screenshot-software)
 * [Sketching Tools](#sketching-tools)
 * [Sound Design](#sound-design)
 * [Stock Photos Tools](#stock-photos-tools)
@@ -347,30 +347,6 @@ Fonts are commonly used for making the web more beautiful. Here you can find fre
 
 </article>
 
-<article id="free-screenshot-software">
-
-### Free Screenshot Software
-
-Free and full-featured screenshot apps to capture. Here you can find some powerful screen captures for macOS and Windows screen recorder tools:
-
-* [Camtasia](https://www.techsmith.com/video-editor.html) — a screen recorder that comes with full-blown built in editor.
-* [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
-* [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscreen. Export it in different ways. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Kap](https://getkap.co) — [open-source](https://github.com/wulkano/kap) screen recorder with options to export to GIF, MP4, WebM and APNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [OBS](https://obsproject.com/) — Open Broadcaster Software for screenshots, recording a gif or even making a tutorials videos ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Screenie](https://www.thnkdev.com/Screenie/) — a screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [ScreenToGif](https://www.screentogif.com/) — [open source](https://github.com/NickeManarin/ScreenToGif/wiki/help) tool to record a gif of part of the screen. Also, work as a nice editor. Only available for Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [ShareX](https://getsharex.com/) — screen capture, file sharing and productivity tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots) — Windows free screenshot tool ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Snappy](http://snappy-app.com/) — a tool that takes quick shots and organizes them for you into collections. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Teampaper Snap](https://teampaper.me/snap/) — a modern screenshotting app that allows you to take screenshots of a selected area. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-
-</article>
-
 <article id="gradient-tools">
 	
 ### Gradient Tools
@@ -537,6 +513,30 @@ Prototyping tools allow designers and clients to collaborate better while being 
 You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the UI Design Tools section.
 
 </div>
+
+</article>
+
+<article id="screenshot-software">
+
+### Screenshot Software
+
+Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:
+
+* [Camtasia](https://www.techsmith.com/video-editor.html) — a screen recorder that comes with full-blown built in editor.
+* [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
+* [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscreen. Export it in different ways. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Kap](https://getkap.co) — open source screen recorder with options to export to GIF, MP4, WebM and APNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [OBS](https://obsproject.com/) — Open Broadcaster Software for screenshots, recording a gif or even making a tutorials videos ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Screenie](https://www.thnkdev.com/Screenie/) — a screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [ScreenToGif](https://www.screentogif.com/) — open source tool to record a gif of part of the screen. Also, work as a nice editor. Only available for Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap)
+* [ShareX](https://getsharex.com/) — screen capture, file sharing and productivity tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots) — Windows free screenshot tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Snappy](http://snappy-app.com/) — a tool that takes quick shots and organizes them for you into collections. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Teampaper Snap](https://teampaper.me/snap/) — a modern screenshotting app that allows you to take screenshots of a selected area. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 </article>
 

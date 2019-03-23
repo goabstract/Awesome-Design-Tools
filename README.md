@@ -36,6 +36,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Design Inspiration](#design-inspiration)
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
+* [Design Version Control](#design-version-control)
 * [Experience Monitoring Tools](#experience-monitoring-tools)
 * [Font Tools](#font-tools)
 * [Gradient Tools](#gradient-tools)
@@ -54,7 +55,6 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
 * [User Research Tools](#user-research-tools)
-* [Version Control for Designers](#version-control-for-designers)
 * [Visual Debugging Tools](#visual-debugging-tools)
 * [Wireframing Tools](#wireframing-tools)
 * [3D Modeling Software](#3d-modeling-software)
@@ -303,6 +303,21 @@ Check out this collection of proper website builder tools. You can easily create
 
 </article>
 
+<article id="design-version-control">
+
+### Design Version Control
+
+Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:
+
+* [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
+* [Folio](http://folioformac.com/) — a simple version control system for design teams based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Kactus](https://kactus.io/) — design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Plant](https://plantapp.io/) — Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Relay for Figma](https://relayforfigma.com/) — Relay pushes your latest assets from Figma directly to your codebase (not released yet).
+* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops.
+
+</article>
+
 <article id="experience-monitoring-tools">
 
 ### Experience Monitoring Tools
@@ -527,9 +542,9 @@ Taking screenshots is a typical task in the design & development workflow. So th
 * [Giphy Capture](https://giphy.com/apps/giphycapture) — capture parts of your screen and export as gif or mp4. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscreen. Export it in different ways. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Kap](https://getkap.co) — open source screen recorder with options to export to GIF, MP4, WebM and APNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — screenshot app for taking quick captures of your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate them and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [OBS](https://obsproject.com/) — Open Broadcaster Software for screenshots, recording a gif or even making a tutorials videos ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [OBS](https://obsproject.com/) — Open Broadcaster Software for screenshots, recording a gif or even making a tutorials videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Screenie](https://www.thnkdev.com/Screenie/) — a screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ScreenToGif](https://www.screentogif.com/) — open source tool to record a gif of part of the screen. Also, work as a nice editor. Only available for Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap)
@@ -690,21 +705,6 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 
 </article>
 
-<article id="version-control-for-designers">
-
-### Version Control for Designers
-
-Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:
-
-* [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
-* [Folio](http://folioformac.com/) — a simple version control system for design teams based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Kactus](https://kactus.io/) — design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Plant](https://plantapp.io/) — Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Relay for Figma](https://relayforfigma.com/) — relay pushes your latest assets from Figma directly to your codebase (not released yet but you can subscribe to early access).
-* [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops.
-
-</article>
-
 <article id="visual-debugging-tools">
 
 ### Visual Debugging Tools
@@ -727,7 +727,6 @@ Developers actively use version control tools for a long time, probably since 20
 * [1200px Grid System](https://1200px.com/) — helps you build a grid system for much wider website designs than the 960-pixel style.
 
 </article>
-
 
 <article id="3d-modeling-software">
 

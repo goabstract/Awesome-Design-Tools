@@ -28,7 +28,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 
 * [Accessibility Tools](#accessibility-tools)
 * [Animation Tools](#animation-tools)
-* [Augmented Reality Tools](#augmented-reality-tools)
+* [Augmented Reality](#augmented-reality)
 * [Collaboration Tools](#collaboration-tools)
 * [Color Picker Tools](#color-picker-tools)
 * [Design Feedback Tools](#design-feedback-tools)
@@ -122,12 +122,12 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 </article>
 
-<article id="augmented-reality-tools">
+<article id="augmented-reality">
 
-### Augmented Reality Tools
+### Augmented Reality
 
-Augmented reality is technology that upgrades our real world, by adding a layer of digital information to it.
-The use of AR increases day by day. This is why we collected different augmented reality apps for creating, projecting and prototyping apps focused on AR:
+Augmented Reality is technology that upgrades our real world, by adding a layer of digital information to it.
+The use of AR increases day by day. This is why we collected different augmented reality tools for creating, projecting and prototyping apps focused on AR:
 
 * [Lens Studio](https://lensstudio.snapchat.com/) — create, publish, and share your own AR experiences for Snapchat with or without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lightform](https://lightform.com/) — a design tool for projected AR.

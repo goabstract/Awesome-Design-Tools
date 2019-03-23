@@ -37,7 +37,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Design Version Control](#design-version-control)
-* [Experience Monitoring Tools](#experience-monitoring-tools)
+* [Experience Monitoring](#experience-monitoring)
 * [Font Tools](#font-tools)
 * [Gradient Tools](#gradient-tools)
 * [Icons Tools](#icons-tools)
@@ -318,19 +318,19 @@ Developers actively use version control tools for a long time, probably since 20
 
 </article>
 
-<article id="experience-monitoring-tools">
+<article id="experience-monitoring">
 
-### Experience Monitoring Tools
+### Experience Monitoring
 
-The analytic tools can help you to analyze data and extract relevant information that you can use to increase results or performance. Check out this list of the best tools for data analysis:
+Listening to users is important but seeing the real usage is even more crucial. For these, you need to install different analytic tools, experience monitoring software, and user behavior apps. Just use those analytics solutions with respect to users data:
 
 * [Amplitude](https://amplitude.com/) — understand your users, rapidly release better product experiences, and grow your business.
 * [Chalkmark](https://www.optimalworkshop.com/chalkmark) — increase your customer conversion and task oriented success rates by getting quick feedback on designs before you implemen. 
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
 * [FullStory](https://www.fullstory.com/) — an app that captures all your customer experience data in one powerful, easy-to-use platform.
-* [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI and track your sites and applications. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
-* [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
+* [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website and collect user feedback.
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do.
 * [LogRocket](https://www.logrocket.com/) — see what users do on your site, helping you reproduce bugs and fix issues faster.
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.

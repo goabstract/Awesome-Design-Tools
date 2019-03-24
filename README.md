@@ -539,6 +539,7 @@ Prototyping tools allow designers and clients to collaborate better while being 
 * [Keynote](https://www.apple.com/keynote/) — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers [use it](https://developer.apple.com/videos/play/wwdc2014/223/) to verify design concepts). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place.
 * [Maze](https://maze.design/) — a tool for designers and developers that gives analytical results with actionable KPIs for your Invision prototypes.
+* [Pencil](https://pencil.evolus.vn/) — prototyping tool with many built-in components that people can easily install and use to create mockups in popular desktop platforms. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
@@ -667,7 +668,7 @@ Beautiful, free stock photos and royalty-free images that you can download and u
 
 ### UI Design Tools
 
-Stuck trying to craft the perfect user interface? Check here for guidance and inspiration:
+What are the best UI design tools in 2019? You can pick any of the tools below and it will allow you to do dozens of design tasks — UI for site or mobile, wireframe, prototype, animation, logo. These are great and fully-functional tools for UX & UI designers:
 
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — a vector graphics editor for macOS, iOS, and Microsoft Windows.
@@ -679,7 +680,6 @@ Stuck trying to craft the perfect user interface? Check here for guidance and in
 * [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Krita](https://krita.org/en/) — a free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Lunacy](https://icons8.com/lunacy) — a free native windows app that works offline and supports .sketch files. Flexible and light weighed. Intuitive and easy to use. Speedups and empowers UI and UX designers. The must have to produce stunning designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Pencil](https://pencil.evolus.vn/) — prototyping tool with many built-in components that people can easily install and use to create mockups in popular desktop platforms. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software developed by Adobe.
 * [Sketch](https://www.sketchapp.com/) — a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

@@ -157,7 +157,6 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Basecamp](https://basecamp.com/) — the project management suite designed to organize employees, delegate tasks, and monitor progress right from one place.
 * [Filestage](https://filestage.io/) — an agile content approval software that helps you to review videos, designs and documents with clients and co-workers.
 * [Gallery](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [GoToMeeting](https://www.gotomeeting.com/en-gb) — a simple, extraordinarily powerful web conferencing service. 
 * [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with screenshots. It makes it easier to monitor productivity of remote employees and manage projects.
 * [Jira](https://www.atlassian.com/software/jira) — software development tool used by agile teams.
 * [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards. 
@@ -167,7 +166,6 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [RealtimeBoard (Miro)](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration. It was recently renaimed to Miro.
 * [Slack](https://slack.com/) — a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips.
 * [Trello](https://trello.com/) — a web-based project management application that enables you to organize and prioritize your projects in a fun, flexible and rewarding way.
-* [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Workzone](https://www.workzone.com/) — a simple, powerful project management software. 
 * [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
@@ -706,15 +704,18 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 <article id="user-research-tools">
 	
 ### User Research Tools
+User research helps you understand user behaviors, needs, and motivations through various qualitative and quantitative methods (interviews, observation, forms, etc). These user research tools can be useful for you: 
 
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
 * [Crowd Signal](https://crowdsignal.com/) — collect, organize and analyze data from a variety of sources, including social media and mobile.
+* [GoToMeeting](https://www.gotomeeting.com/en-gb) — a simple, extraordinarily powerful web conferencing service. 
 * [Feedback Lite](https://www.feedbacklite.com/) — collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
-* [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes and standard observation and note-taking techniques.
-* [Survey Monkey](https://www.surveymonkey.com/) — use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
-* [Wufoo](https://www.wufoo.com) — Create forms, collect data and payments, and automate your workflows.
-* [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
+* [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes.
 * [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
+* [Survey Monkey](https://www.surveymonkey.com/) — online survey tool to capture the voices and opinions of the people who matter most to you.
+* [Typeform](https://www.typeform.com/) — use a simple drag-and-drop interface to create any kind of form, survey, or questionnaire, and even take credit card payments.
+* [Wufoo](https://www.wufoo.com) — сreate forms, collect data and payments, and automate your workflows.
+* [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
 * [UserBit](https://userbitapp.com/) — a platform of real-time research tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
 
 </article>
@@ -725,6 +726,7 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 
 * [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 
 </article>
 

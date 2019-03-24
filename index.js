@@ -13,13 +13,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	const minified = minify(html, {
-		removeAttributeQuotes: true,
-		minifyCSS: true,
-		minifyJS: true,
-		collapseWhitespace: true,
-	});
-	fs.writeFile(index, minified, function(err, data) {
+	// const minified = minify(html, {
+	// 	removeAttributeQuotes: true,
+	// 	minifyCSS: true,
+	// 	minifyJS: true,
+	// 	collapseWhitespace: true,
+	// });
+	fs.writeFile(index, html, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -64,6 +64,8 @@ const parseTweaks = (html) => {
 		addScripts(window);
 
 		deleteAllIconsInDescription(window);
+
+		addBackgroundColorToLogo(window);
 
 		return document.documentElement.outerHTML;
 }
@@ -343,6 +345,28 @@ const deleteAllIconsInDescription = ({ document }) => {
 	const toolDescription = document.querySelectorAll('.tool__description p img');
 	toolDescription.forEach((image) => image.parentNode.removeChild(image));
 }
+
+const addBackgroundColorToLogo = ({ document }) => {
+	const bgs = [
+		'#C4C4F8', '#DEC4F8', '#F9D1DE', '#F8C4C4', '#F5CEA7',
+		'#A7F5CE', '#A7F5CE', '#E2DAFE', '#FACAB9', '#CCEDFC',
+		'#EEFEAC', '#EFDFFE', '#E7CECC', '#FDBFAB', '#FDD8A3',
+		'#A1D3B2', '#A9CED9', '#C2B7F3', '#F0B579', '#F5CEA7',
+		'#F5F5A7', '#A7F5F5', '#A7F5CE', '#A7CEF5', '#F5A7A7',
+		'#FAD5D5', '#D1AAF4', '#D1AAF4', '#F2F4AA', '#AAF4AC',
+		'#AAF2F4', '#AAF2F4', '#ACAAF4', '#C7C7C7', '#DEB0B0',
+		'#AAF4AC', '#AAF4AC', '#AAF4AC'
+	];
+	const categories = document.querySelectorAll('article');
+	categories.forEach((category, i = 0) => {
+		const logos = category.querySelectorAll('.tool__asset');
+		console.log(`entered caterory: ${category}`)
+		logos.forEach((logo) => {
+			logo.style.backgroundColor = bgs[i];
+		});
+		i += 1;
+	})
+} 
 
 Promise.all([readMarkdown])
 	.then(res => parseTweaks(res))

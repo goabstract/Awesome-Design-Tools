@@ -57,7 +57,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [User Research Tools](#user-research-tools)
 * [Visual Debugging Tools](#visual-debugging-tools)
 * [Wireframing Tools](#wireframing-tools)
-* [3D Modeling Software](#three-d-modeling-software)
+* [3D Modeling Software](#3d-modeling-software)
 </div>
 
 <main>
@@ -728,15 +728,21 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 
 </article>
 
-<article id="three-d-modeling-software">
+<article id="3d-modeling-software">
 
 ### 3D Modeling Software
+3D graphics is used in gaming, film making, architecture, engineering, and 3D printing. 3D artists & designers use specific 3D modeling software, mentioned in this section.
 
-* [Autodesk](https://www.autodesk.com/products/fusion-360/overview) — integrated CAD, CAM, and CAE software. Eliminate your disconnected product development process. Unify design, engineering, and manufacturing into a single platform.
-* [Blender](https://www.blender.org/) — free and Open 3D Creation Software.
-* [SketchUp](https://www.sketchup.com) — premier 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset that empowers you to create whatever you can imagine.
-* [Maya](https://www.autodesk.com/products/maya/overview) — make animations, environments, motion graphics, virtual reality, and character creation, all in one powerful toolset.
-* [3D Slash](https://www.3dslash.net) — the easiest 3D modeling tool on the market. Available on all devices and all OS, online and offline.
+* [Autodesk](https://www.autodesk.com/products/fusion-360/overview) — integrated CAD, CAM, and CAE software. Unify design, engineering, and manufacturing into a single platform.
+* [Blender](https://www.blender.org/) — free and open source 3D Creation Software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)]
+* [FreeCAD](https://www.freecadweb.org/) — a free and opensource multiplatform 3D parametric modeler. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FreeCAD/FreeCAD)
+* [MatterControl](https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6) — a free, open-source, all-in-one software package that lets you design, slice, organize, and manage your 3D prints. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Maya](https://www.autodesk.com/products/maya/overview) — make animations, environments, motion graphics, virtual reality, and character creation, all in one toolset.
+* [Onshape](https://www.onshape.com/) — a modeling software specially oriented to design technical and spare parts, was the first full-cloud 3D software created.
+* [Rhino](Rhino) — a curve-based 3D modeling software that creates mathematically-precise models of 3D surfaces. 
+* [SketchUp](https://www.sketchup.com) — 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset.
+* [Vectary](https://www.vectary.com/) — create beautiful 3D models with our drag and drop 3D modeling tool.
+* [3D Slash](https://www.3dslash.net) — 3D modeling tool, available on all devices and all OS, online and offline.
 
 </article>
 

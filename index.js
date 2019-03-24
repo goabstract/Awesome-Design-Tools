@@ -13,13 +13,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	// const minified = minify(html, {
-	// 	removeAttributeQuotes: true,
-	// 	minifyCSS: true,
-	// 	minifyJS: true,
-	// 	collapseWhitespace: true,
-	// });
-	fs.writeFile(index, html, function(err, data) {
+	const minified = minify(html, {
+		removeAttributeQuotes: true,
+		minifyCSS: true,
+		minifyJS: true,
+		collapseWhitespace: true,
+	});
+	fs.writeFile(index, minified, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -347,7 +347,7 @@ const deleteAllIconsInDescription = ({ document }) => {
 }
 
 const addBackgroundColorToLogo = ({ document }) => {
-	const bgs = [
+	const backgroundColors = [
 		'#C4C4F8', '#DEC4F8', '#F9D1DE', '#F8C4C4', '#F5CEA7',
 		'#A7F5CE', '#A7F5CE', '#E2DAFE', '#FACAB9', '#CCEDFC',
 		'#EEFEAC', '#EFDFFE', '#E7CECC', '#FDBFAB', '#FDD8A3',
@@ -358,13 +358,12 @@ const addBackgroundColorToLogo = ({ document }) => {
 		'#AAF4AC', '#AAF4AC', '#AAF4AC'
 	];
 	const categories = document.querySelectorAll('article');
-	categories.forEach((category, i = 0) => {
+	categories.forEach((category, colorNumber = 0) => {
 		const logos = category.querySelectorAll('.tool__asset');
-		console.log(`entered caterory: ${category}`)
 		logos.forEach((logo) => {
-			logo.style.backgroundColor = bgs[i];
+			logo.style.backgroundColor = backgroundColors[colorNumber];
 		});
-		i += 1;
+		colorNumber += 1;
 	})
 } 
 

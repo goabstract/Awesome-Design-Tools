@@ -57,7 +57,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [User Research Tools](#user-research-tools)
 * [Visual Debugging Tools](#visual-debugging-tools)
 * [Wireframing Tools](#wireframing-tools)
-* [3D Modeling Software](#3d-modeling-software)
+* [3D Modeling Software](#three-d-modeling-software)
 </div>
 
 <main>
@@ -728,7 +728,7 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 
 </article>
 
-<article id="3d-modeling-software">
+<article id="three-d-modeling-software">
 
 ### 3D Modeling Software
 

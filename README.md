@@ -498,8 +498,8 @@ Mockup tools that help you create and collaborate on wireframes, mockups, diagra
 Pixel art is a digital art form where color is applied to individual pixels to create an image. Here are the best pixel art software for both macOS and Windows:
 
 * [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
-* [Data Pixels](https://github.com/gmattie/Data-Pixels) — create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop apps. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Goya](https://jackschaedler.github.io/goya/) — a pixel-art editor built on ClojureScript and Om. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Data Pixels](https://github.com/gmattie/Data-Pixels) — create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop application. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Goya](https://jackschaedler.github.io/goya/) — a pixel-art editor built on ClojureScript and Om. [free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Make 8 bit art](https://make8bitart.com/) — an [open source](https://github.com/jennschiffer/make8bitart) and in-browser pixel art drawing tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Piskel](https://www.piskelapp.com/) — online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Pixel art to CSS](https://www.pixelartcss.com/) — pixel art animation and drawing web app powered by React. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -700,14 +700,14 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 ### User Research Tools
 
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
-* [Crowd Signal](https://crowdsignal.com/) — Collect, organize and analyze data from a variety of sources, including social media and mobile.
-* [Feedback Lite](https://www.feedbacklite.com/) — Collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
+* [Crowd Signal](https://crowdsignal.com/) — collect, organize and analyze data from a variety of sources, including social media and mobile.
+* [Feedback Lite](https://www.feedbacklite.com/) — collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
 * [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes and standard observation and note-taking techniques.
-* [Survey Monkey](https://www.surveymonkey.com/) — Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
+* [Survey Monkey](https://www.surveymonkey.com/) — use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
 * [Wufoo](https://www.wufoo.com) — Create forms, collect data and payments, and automate your workflows.
-* [YesInsights](https://www.yesinsights.com/) — Simple one question and NPS surveys to improve your business.
+* [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
 * [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
-* [UserBit](https://userbitapp.com/) — a platform of real-time research Tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
+* [UserBit](https://userbitapp.com/) — a platform of real-time research tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
 
 </article>
 
@@ -723,11 +723,14 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 <article id="wireframing-tools">
 
 ### Wireframing Tools
+A wireframe is a visual mockup that outlines the basic structure of the site, app, or landing. It helps you easily explain ideas on design & content. Here, we'll present the best wireframing tools for a variety of use cases.
 
 * [Balsamiq Cloud](https://balsamiq.cloud/) — effortless UI sketching. Capture your ideas, collaborate on your designs, get everyone on board. 
 * [CSS Grid Builder](https://cssgrid.cc/css-grid-builder.html) — with this tool there is no HTML part to the grid. The grid only becomes apparent when content (elements) are added and positioned according to the grid rules. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Gliffy](https://www.gliffy.com/) — a tool for creating the framework, UML diagrams, flowcharts, wireframes and more.
 * [Gridzzly](http://gridzzly.com/) — the easiest way to create custom grid paper printable. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Layoutit](https://grid.layoutit.com/) — a interface builder for CSS Grid & Bootstrap that wants to be the kick-off for your front-end developments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pidoco](https://pidoco.com/en) — software that lets you quickly create click-through wireframes and fully interactive UX prototypes.
 * [Wireframe.cc](https://wireframe.cc/) — a simple wireframing tool that doesn't get in your way. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Whimsical Wireframes](https://whimsical.co/wireframes/) — instant wireframing at your fingertips. Rich library of configurable elements like buttons, inputs, checkboxes.
 * [1200px Grid System](https://1200px.com/) — helps you build a grid system for much wider website designs than the 960-pixel style.
@@ -740,7 +743,7 @@ User Flow diagrams are a fast way to plan customer journey paths and improve use
 3D graphics is used in gaming, film making, architecture, engineering, and 3D printing. 3D artists & designers use specific 3D modeling software, mentioned in this section.
 
 * [Autodesk](https://www.autodesk.com/products/fusion-360/overview) — integrated CAD, CAM, and CAE software. Unify design, engineering, and manufacturing into a single platform.
-* [Blender](https://www.blender.org/) — free and open source 3D Creation Software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)]
+* [Blender](https://www.blender.org/) — free and open source 3D Creation Software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [FreeCAD](https://www.freecadweb.org/) — a free and opensource multiplatform 3D parametric modeler. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FreeCAD/FreeCAD)
 * [MatterControl](https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6) — a free, open-source, all-in-one software package that lets you design, slice, organize, and manage your 3D prints. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Maya](https://www.autodesk.com/products/maya/overview) — make animations, environments, motion graphics, virtual reality, and character creation, all in one toolset.

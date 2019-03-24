@@ -498,7 +498,13 @@ Mockup tools that help you create and collaborate on wireframes, mockups, diagra
 Pixel art is a digital art form where color is applied to individual pixels to create an image. Here are the best pixel art software for both macOS and Windows:
 
 * [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
+* [Data Pixels](https://github.com/gmattie/Data-Pixels) — create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop application. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Goya](https://jackschaedler.github.io/goya/) — a pixel-art editor built on ClojureScript and Om. [free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Make 8 bit art](https://make8bitart.com/) — an [open source](https://github.com/jennschiffer/make8bitart) and in-browser pixel art drawing tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Piskel](https://www.piskelapp.com/) — online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Pixel art to CSS](https://www.pixelartcss.com/) — pixel art animation and drawing web app powered by React. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Poxi](http://app.poxi.rocks/) — a flat pixel art editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Pyxel Edit](https://pyxeledit.com/) — a pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 </article>
 

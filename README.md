@@ -129,11 +129,19 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 Augmented Reality is technology that upgrades our real world, by adding a layer of digital information to it.
 The use of AR increases day by day. This is why we collected different augmented reality tools for creating, projecting and prototyping apps focused on AR:
 
+* [Daqri](https://daqri.com/) — delivers professional-grade augmented reality for the workforce by overlaying digital information onto the physical environment.
+* [EasyAR](https://www.easyar.com/) — a mobile application and an Augmented Reality Engine, making AR easier.
+* [HP Reveal](https://www.hpreveal.com/) — adding value to printed content through visual interactivity. 
+* [Layar](https://www.layar.com/) — find various items based upon augmented reality technology.
 * [Lens Studio](https://lensstudio.snapchat.com/) — create, publish, and share your own AR experiences for Snapchat with or without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lightform](https://lightform.com/) — a design tool for projected AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Torch](https://www.torch.app/) — a cloud-based 3D design and prototyping app focused on mobile AR. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Unity](https://unity.com/) — build high-quality 3D and 2D games, deploy them across mobile, desktop and VR/AR.
 * [Vectary](https://www.vectary.com/) — сreate 3D and AR for your website.
+* [Vuforia](https://www.vuforia.com/) — SDK for mobile devices that enables the creation of augmented reality applications.
+* [Wikitude](https://www.wikitude.com/) — empowers your iOS, Android & Smart Glasses apps with Image & Object Tracking, Instant tracking (SLAM), Geo AR, and more.
+
 
 </article>
 

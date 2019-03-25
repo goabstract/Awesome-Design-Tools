@@ -617,6 +617,7 @@ You can also do some sketching with Sketch mentioned in UI design tools.
 <article id="sound-design">
 	
 ### Sound Design
+Sound design is an art of creating a soundscape for a site, app, movie, game or any other product. Sound has a great potential for transforming the way people connect with your product. Some sound design software are very advanced and can be used mostly by sound designers, while other are good for beginners. 
 
 * [Appsounds](https://appsounds.pro/) — UI Sound packs for apps, games, and any product. 
 * [AudioJungle](https://audiojungle.net/) — 836,206 tracks and sounds from the community of musicians and sound engineers.

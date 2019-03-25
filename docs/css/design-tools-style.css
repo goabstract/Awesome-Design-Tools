@@ -112,13 +112,13 @@ article > header {
 }
 
 .nav {
-	width: 320px;
+	width: 280px;
 	flex-shrink: 0;
 }
 
 .nav ul {
 	position: fixed;
-	width: 320px;
+	width: 248px;
 	height: 80vh;
 	padding-left: 0;
 	margin: 0;
@@ -283,7 +283,8 @@ article > header {
 }
 
 .promo-banner--flawless-feedback p {
-	line-height: 1.35;
+	font-size: 1.125rem;
+	line-height: 1.44;
 }
 
 .promo-banner--flawless-feedback__logo {
@@ -453,7 +454,7 @@ article ul {
 }
 
 .welcome__description {
-	max-width: 556px;
+	max-width: 390px;
 	padding-bottom: 2rem;
 	line-height: 1.45;
 	text-align: center;
@@ -467,6 +468,10 @@ article ul {
 
 .btn {
 	z-index: 1;
+}
+
+.btn:hover {
+	text-decoration: none;
 }
 
 .btn-contribute {
@@ -587,7 +592,7 @@ article ul {
 	}
 
 	.welcome__description {
-		max-width: 420px;
+		max-width: 340px;
 		text-align: left;
 	}
 
@@ -606,6 +611,15 @@ article ul {
 
 	.tag {
 		margin-bottom: 0.5rem;
+	}
+
+}
+
+@media(min-width: 960px) {
+
+	.promo-banner--flawless-feedback__description {
+		flex-basis: 60%;
+		padding-left: 1rem;
 	}
 
 }

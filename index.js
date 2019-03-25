@@ -13,13 +13,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	const minified = minify(html, {
-		removeAttributeQuotes: true,
-		minifyCSS: true,
-		minifyJS: true,
-		collapseWhitespace: true,
-	});
-	fs.writeFile(index, minified, function(err, data) {
+	// const minified = minify(html, {
+	// 	removeAttributeQuotes: true,
+	// 	minifyCSS: true,
+	// 	minifyJS: true,
+	// 	collapseWhitespace: true,
+	// });
+	fs.writeFile(index, html, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -44,7 +44,7 @@ const parseTweaks = (html) => {
 
 		// add flawlessFeedback banner
 		createBanner(window);
-		createContributeBanner(window);
+		// createContributeBanner(window);
 		// add pointer for navigation
 		// addActiveArticle(window);
 
@@ -66,6 +66,8 @@ const parseTweaks = (html) => {
 		deleteAllIconsInDescription(window);
 
 		addBackgroundColorToLogo(window);
+
+		removeAllImages(window);
 
 		return document.documentElement.outerHTML;
 }
@@ -114,18 +116,6 @@ const editHead = ({ document }, title, themeColor) => {
 		<link rel="apple-touch-icon" sizes="152x152" href="${favicon152}">
 	`;
 
-	// head.innerHTML = `
-	// 	<title>${title}</title>
-	// 	<meta charset="utf-8">
-	// 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	// 	<meta name="theme-color" content="${themeColor}">
-	// 	<meta name="description" content="A description of the page">
-	// 	${icons}
-	// 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
-	// 	<link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet">
-	// 	<link rel="stylesheet" href="css/normalize.css">
-	// 	<link rel="stylesheet" href="css/design-tools-style.css">
-	// `;
 	head.innerHTML = `
 		<title>${title}</title>
 		<meta charset="utf-8">
@@ -135,32 +125,44 @@ const editHead = ({ document }, title, themeColor) => {
 		${icons}
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet">
-		<style>
-			${normalizeCss}
-			${mainCss}
-		</style>
-		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-5XZVN66');</script>
-		<!-- End Google Tag Manager -->
-
-		<!-- Facebook Pixel Code -->
-		<script>
-				!function(f,b,e,v,n,t,s)
-				{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-				n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-				if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-				n.queue=[];t=b.createElement(e);t.async=!0;
-				t.src=v;s=b.getElementsByTagName(e)[0];
-				s.parentNode.insertBefore(t,s)}(window, document,'script',
-				'https://connect.facebook.net/en_US/fbevents.js');
-				fbq('init', '1844132335637828');
-				fbq('track', 'PageView');
-		</script>
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/design-tools-style.css">
 	`;
+	// head.innerHTML = `
+	// 	<title>${title}</title>
+	// 	<meta charset="utf-8">
+	// 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	// 	<meta name="theme-color" content="${themeColor}">
+	// 	<meta name="description" content="A description of the page">
+	// 	${icons}
+	// 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
+	// 	<link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet">
+	// 	<style>
+	// 		${normalizeCss}
+	// 		${mainCss}
+	// 	</style>
+	// 	<!-- Google Tag Manager -->
+	// 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	// 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	// 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	// 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	// 	})(window,document,'script','dataLayer','GTM-5XZVN66');</script>
+	// 	<!-- End Google Tag Manager -->
+
+	// 	<!-- Facebook Pixel Code -->
+	// 	<script>
+	// 			!function(f,b,e,v,n,t,s)
+	// 			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	// 			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	// 			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	// 			n.queue=[];t=b.createElement(e);t.async=!0;
+	// 			t.src=v;s=b.getElementsByTagName(e)[0];
+	// 			s.parentNode.insertBefore(t,s)}(window, document,'script',
+	// 			'https://connect.facebook.net/en_US/fbevents.js');
+	// 			fbq('init', '1844132335637828');
+	// 			fbq('track', 'PageView');
+	// 	</script>
+	// `;
 }
 
 const addScripts = ({ document }) => {
@@ -320,8 +322,8 @@ const addWelcomeArticle = ({ document }) => {
 		<div class="welcome__asset">Awesome Design Tools logo</div>
 		<h1 class="welcome__title">Awesome Design Tools</h1>
 		<p class="welcome__description">
-			The best design tools for everything collected by the community.
-			Content being curated by Flawless App.
+			The best design tools for everything.
+			Curated by Lisa Dziuba & Valia Havruliyk from Flawless team.
 		</p>
 		<a href="https://github.com/LisaDziuba/Awesome-Design-Tools" class="btn btn-contribute image-gh">Contribute on GitHub</a>
 	`;
@@ -366,6 +368,11 @@ const addBackgroundColorToLogo = ({ document }) => {
 		colorNumber += 1;
 	})
 } 
+
+const removeAllImages = ({ document }) => {
+	for (let i= document.images.length; i-->0;)
+    document.images[i].parentNode.removeChild(document.images[i]);
+}
 
 Promise.all([readMarkdown])
 	.then(res => parseTweaks(res))

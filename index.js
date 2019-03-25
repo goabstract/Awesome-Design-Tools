@@ -69,6 +69,10 @@ const parseTweaks = (html) => {
 
 		removeAllImages(window);
 
+		addContributeButtonForAddendum(window);
+
+		removeListInAddendum(window);
+
 		return document.documentElement.outerHTML;
 }
 
@@ -372,6 +376,24 @@ const addBackgroundColorToLogo = ({ document }) => {
 const removeAllImages = ({ document }) => {
 	for (let i= document.images.length; i-->0;)
     document.images[i].parentNode.removeChild(document.images[i]);
+}
+
+const addContributeButtonForAddendum = ({ document }) => {
+	const article = document.querySelector('#addendum');
+	const button = document.createElement('a');
+	const classNames = ['btn', 'btn-contribute', 'image-gh'];
+	classNames.map(className => button.classList.add(className));
+	button.innerHTML = 'Contribute on GitHub';
+	article.appendChild(button);
+}
+
+const removeListInAddendum = ({ document }) => {
+	const article = document.querySelector('#addendum');
+	const lists = article.querySelectorAll('ul');
+	lists.forEach((list) =>
+		list.innerHTML.includes('undefined') &&
+			list.parentNode.removeChild(list)
+	);
 }
 
 Promise.all([readMarkdown])

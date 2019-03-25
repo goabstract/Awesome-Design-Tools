@@ -57,7 +57,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [User Research Tools](#user-research-tools)
 * [Visual Debugging Tools](#visual-debugging-tools)
 * [Wireframing Tools](#wireframing-tools)
-* [3D Modeling Software](#3d-modeling-software)
+* [3D Modeling Software](#three-d-modeling-software)
 </div>
 
 <main>
@@ -773,9 +773,9 @@ A wireframe is a visual mockup that outlines the basic structure of the site, ap
 
 </article>
 
-<article id="3d-modeling-software">
+<article id="three-d-modeling-software">
 
-### 3D Modeling Software
+### Three D Modeling Software
 3D graphics is used in gaming, film making, architecture, engineering, and 3D printing. 3D artists & designers use specific 3D modeling software, mentioned in this section.
 
 * [Autodesk](https://www.autodesk.com/products/fusion-360/overview) — integrated CAD, CAM, and CAE software. Unify design, engineering, and manufacturing into a single platform.
@@ -791,6 +791,10 @@ A wireframe is a visual mockup that outlines the basic structure of the site, ap
 
 </article>
 
+<article id="addendum">
+
 ### Addendum (Reference & Inspiration)
 
 This repo was inspired by articles from the design community and [Prototypr.io Toolbox](https://prototypr.io/toolbox/) made by my good friend [Graeme](https://twitter.com/graeme_fulton).
+
+</article>

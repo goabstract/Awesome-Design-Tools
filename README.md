@@ -561,6 +561,12 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 </div>
 
+<p align="center" class="hidden-in-page">
+    <a href="https://flawlessapp.io/feedback?github">
+        <img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
+    </a>
+</p>
+
 </article>
 
 <article id="screenshot-software">
@@ -744,6 +750,12 @@ User research helps you understand user behaviors, needs, and motivations throug
 * [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
 * [UserBit](https://userbitapp.com/) — a platform of real-time research tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
 
+<p align="center" class="hidden-in-page">
+    <a href="https://flawlessapp.io/feedback?github">
+        <img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
+    </a>
+</p>
+
 </article>
 
 <article id="visual-debugging-tools">
@@ -795,6 +807,6 @@ A wireframe is a visual mockup that outlines the basic structure of the site, ap
 
 ### Addendum (Reference & Inspiration)
 
-This repo was inspired by articles from the design community and [Prototypr.io Toolbox](https://prototypr.io/toolbox/) made by my good friend [Graeme](https://twitter.com/graeme_fulton).
+Awesome Design Tools is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tool, please [suggest it here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Thanks for making this project awesome :)
 
 </article>

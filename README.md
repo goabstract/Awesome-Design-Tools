@@ -369,11 +369,12 @@ Fonts are commonly used for making the web more beautiful. Here you can find fre
 <article id="gradient-tools">
 	
 ### Gradient Tools
+You can see gradient colors are everywhere — UI, branding, illustration, typography. A gradient is created by using two or more different colors to paint one element while gradually fading between them. It might look as memorable, fresh and unique color. To make such gradient for your design, use these gradient color palettes.
 
 * [Blend](http://www.colinkeany.com/blend/) — create and customize beautiful CSS3 gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colorffy](https://www.colorffy.com/) — get css, images, ui previews or create your own gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ColorSpace](https://mycolor.space/) — the perfect matching color scheme for your next project! Generate nice color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [ColorSpark](https://colorspark.app/gradient) —  helps designers find unique colors and striking gradient combinations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [ColorSpark](https://colorspark.app/gradient) — helps designers find unique colors and striking gradient combinations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Cool Backgrounds](https://coolbackgrounds.io/) — explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. 
 * [CoolHue](https://webkul.github.io/coolhue/) — handpicked gradient palette and swatch for your next super amazing stuff. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [CSS Gradient](https://cssgradient.io/) — a free css gradient generator tool, this website lets you create a colorful gradient background. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -382,7 +383,7 @@ Fonts are commonly used for making the web more beautiful. Here you can find fre
 * [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) — discover the best gradient backgrounds from a curated collection of the ultimate list of gradient sites. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Gradient Hunt](https://gradienthunt.com/) — a free and open platform for colour inspiration with thousands of trendy hand-made colour gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Gradients Guru](http://gradientsguru.com/) — blend mode background images & beautiful background gradients for your UI. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [HtmlColours](https://htmlcolors.com/) —  realize how easy and beautiful is to create gradients with this gradients generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)  
+* [HtmlColours](https://htmlcolors.com/) — realize how easy and beautiful is to create gradients with this gradients generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)  
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Web Gradients](https://webgradients.com/) — a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 

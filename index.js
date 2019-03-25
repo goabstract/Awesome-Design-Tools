@@ -13,13 +13,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	// const minified = minify(html, {
-	// 	removeAttributeQuotes: true,
-	// 	minifyCSS: true,
-	// 	minifyJS: true,
-	// 	collapseWhitespace: true,
-	// });
-	fs.writeFile(index, html, function(err, data) {
+	const minified = minify(html, {
+		removeAttributeQuotes: true,
+		minifyCSS: true,
+		minifyJS: true,
+		collapseWhitespace: true,
+	});
+	fs.writeFile(index, minified, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -188,16 +188,14 @@ const createBanner = ({ document }) => {
 			</div>
 			<div class="promo-banner__button promo-banner--flawless-feedback__button" href="https://flawlessapp.io/feedback">Request Access</div>
 		`;
-		const bannerParent = document.querySelector('#accessibility-tools');
-		bannerParent.appendChild(banner);
+		const bannerParents = ['#accessibility-tools', '#visual-debugging-tools', '#screenshot-software'];
+		bannerParents.map(parent => document.querySelector(parent).appendChild(banner));
 }
 
 const createContributeBanner = ({ document }) => {
 	const banner = document.createElement('div');
-	banner.classList.add('banner');
-	banner.classList.add('banner--flex');
-	banner.classList.add('banner--dark');
-	banner.classList.add('banner-contribute');
+	const classNames = ['banner', 'banner--flex', 'banner--dark', 'banner--contribute'];
+	classNames.map(className => banner.classList.add(className));
 	banner.innerHTML = `
 		<p>Didn't find your favorite tool?</p>
 		<a href="https://github.com/LisaDziuba/Awesome-Design-Tools" class="btn btn-contribute image-gh">Contribute on GitHub</a>
@@ -363,6 +361,10 @@ const addBackgroundColorToLogo = ({ document }) => {
 		'#AAF2F4', '#AAF2F4', '#ACAAF4', '#C7C7C7', '#DEB0B0',
 		'#AAF4AC', '#AAF4AC', '#AAF4AC'
 	];
+	// const backgroundColorsHSL = [
+	// 	'240,78.8%,87.1%', '270,78.8%,87.1%', '340.5,76.9%,89.8%', '0,78.8%,87.1%', '30,79.6%,80.8%',
+	// 	'150,79.6%,80.8%', '176.3,38%,74.7%',
+	// ];
 	const categories = document.querySelectorAll('article');
 	categories.forEach((category, colorNumber = 0) => {
 		const logos = category.querySelectorAll('.tool__asset');

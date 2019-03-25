@@ -458,9 +458,19 @@ Information architecture helps designers organize and structure content inside w
 
 Create your very own company logo online using these easy to use logo design tools:
 
+* [Design Evo](https://www.designevo.com/) — a large collection of vector icons and shapes help you design custom logos easily. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Free Logo Design](https://www.freelogodesign.org/) — create stunning professional logos in seconds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Graphic Springs](https://www.graphicsprings.com/) — choose from a gallery of vector format logo templates, categorized by industry. Edit the graphics and texts of your template, then download.
+* [Logo Design Team](https://www.logodesignteam.com/) — offers affordable professional custom logo design and brand design services. 
+* [Logojoy](https://logojoy.com/) — uses artificial intelligence to instantly generate unique logo ideas for your business.
 * [Logo Lab](https://logolab.app/home) — put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Logo Maker](https://www.ucraft.com/free-logo-maker) — allows you to make a free logo within seconds. Start with a blank canvas, add text and an icon, and then customize. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Logo Makr](https://logomakr.com/) — design a logo for free, choose from hundreds of fonts and icons, then save a logo on the computer. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Logo My Way](https://www.logomyway.com/) — choose from 600 custom logo designs from creative designers worldwide. 
 * [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 * [Logo Rank](https://brandmark.io/logo-rank/) — upload your logo to see how it rates on a number of objective measures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+
 
 <div class="banner banner--yellow">
 

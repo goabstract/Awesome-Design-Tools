@@ -14,13 +14,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	// const minified = minify(html, {
-	// 	removeAttributeQuotes: true,
-	// 	minifyCSS: true,
-	// 	minifyJS: true,
-	// 	collapseWhitespace: true,
-	// });
-	fs.writeFile(index, html, function(err, data) {
+	const minified = minify(html, {
+		removeAttributeQuotes: true,
+		minifyCSS: true,
+		minifyJS: true,
+		collapseWhitespace: true,
+	});
+	fs.writeFile(index, minified, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -123,7 +123,7 @@ const editHead = ({ document }, title, themeColor) => {
 		<link rel="apple-touch-icon" sizes="120x120" href="${favicon120}">
 		<link rel="apple-touch-icon" sizes="76x76" href="${favicon76}">
 		<link rel="apple-touch-icon" sizes="152x152" href="${favicon152}">
-    <meta property="og:image" content="${meta}">
+    <meta property="og:image" content="https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-general.png">
 	`;
 
 	// head.innerHTML = `

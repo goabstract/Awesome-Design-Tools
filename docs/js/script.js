@@ -43,3 +43,32 @@ class Nav {
 
 const bookmark = new Nav('.nav a', 'active');
 bookmark.scroll();
+
+const automaticScroll = () => {
+	const nav = document.querySelector('.nav ul');
+	const articles = document.querySelectorAll('main > article');
+	const articleFourthChild = document.querySelectorAll('main > article:nth-child(8n)');
+	document.addEventListener('scroll', () => {
+		const bodyHeight = document.body.offsetHeight;
+		const bodyScrollTop = document.body.scrollTop;
+		const navHeight = nav.getBoundingClientRect().height;
+		const quarterOfNavHeight = navHeight / 4;
+
+		const res = (bodyScrollTop / bodyHeight) * 100;
+		console.log(res);
+		if (res > 20 && res < 40) {
+			nav.scrollTop = quarterOfNavHeight;
+		} else if (res > 40 && res < 55) {
+			nav.scrollTop = navHeight * 0.8;
+		} else if (res > 55 && res < 70) {
+			nav.scrollTop = navHeight * 1.35;
+		} else if (res > 70 && res < 85) {
+			nav.scrollTop = navHeight * 1.5;
+		} else if (res > 85 && res < 100) {
+			nav.scrollTop = navHeight * 2;
+		} else {
+			nav.scrollTop = 0;
+		}
+	})
+}
+automaticScroll();

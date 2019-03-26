@@ -4,6 +4,7 @@ const md = new require('markdown-it')('commonmark');
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const minify = require('html-minifier').minify;
+const tinycolor = require("tinycolor2");
 const image = require('./docs/modules/image');
 
 const config = {
@@ -13,13 +14,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	const minified = minify(html, {
-		removeAttributeQuotes: true,
-		minifyCSS: true,
-		minifyJS: true,
-		collapseWhitespace: true,
-	});
-	fs.writeFile(index, minified, function(err, data) {
+	// const minified = minify(html, {
+	// 	removeAttributeQuotes: true,
+	// 	minifyCSS: true,
+	// 	minifyJS: true,
+	// 	collapseWhitespace: true,
+	// });
+	fs.writeFile(index, html, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -373,18 +374,29 @@ const addBackgroundColorToLogo = ({ document }) => {
 		'181.6,77.1%,81.2%',  '181.6,77.1%,81.2%',   '241.6,77.1%,81.2%',   '0,0%,78%',            '0,41.1%,78%',
 		'121.6,77.1%,81.2%',  '121.6,77.1%,81.2%',   '121.6,77.1%,81.2%',
 	];
-	const createHslFontColor = (hsl) => {
-		const splitted = hsl.split(',');
+
+	// const toHsv = () => {
+	// 	backgroundColorsHSL.map((c) => {
+	// 		const color = tinycolor(`hsl(${c})`);
+	// 		console.log(color.toHsvString());
+	// 	})
+	// }
+	// toHsv();
+
+	const createHsvFontColor = (hsv) => {
+		const color = tinycolor(`hsl(${hsv})`);
+		const splitted = color.toHsvString().split(',');
 		const saturation = parseFloat(splitted[1]);
 		const lightness = parseFloat(splitted[2]);
-		return [splitted[0],`${saturation+15}%`,`${lightness-13}%`].join(',');
+		return `${[splitted[0],`${saturation+15}%`,`${lightness-13}%`].join(',')})`;
 	}
 	const categories = document.querySelectorAll('article');
 	categories.forEach((category, colorNumber = 0) => {
 		const logos = category.querySelectorAll('.tool__asset');
 		logos.forEach((logo) => {
+			const color = tinycolor(createHsvFontColor(backgroundColorsHSL[colorNumber]));
 			logo.style.backgroundColor = `hsl(${backgroundColorsHSL[colorNumber]})`;
-			logo.style.color = `hsl(${createHslFontColor(backgroundColorsHSL[colorNumber])})`;
+			logo.style.color = color.toRgbString();
 		});
 		colorNumber += 1;
 	})

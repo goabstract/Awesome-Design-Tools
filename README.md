@@ -488,13 +488,13 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 With a rise of “no code tools”, everyone with a laptop can build and launch a project. These tools help designers and makers create websites, apps, and even games. No code tools allow to automate routine tasks and can be used without a development background. Take a look at the tools here and if you need more — check Design to Code section.
 
-* [Coda](https://coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Shopify](https://www.shopify.com/) — one platform with all the ecommerce and point of sale features you need to start, run, and grow your business.
 * [Bubble](https://bubble.is/) — build and host web applications without having to write code or hire a team of engineers.
-* [Thunkable](https://thunkable.com/) — a drag-and-drop tool for anyone to build native mobile apps. 
 * [Carrd](https://carrd.co/) — simple, free, fully responsive one-page sites for pretty much anything. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Sheet2Site](https://www.sheet2site.com/) — create a website from Google Sheets without writing code. 
+* [Coda](https://coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Retool](https://tryretool.com/) — gives you building blocks and you can build tools much faster.
+* [Sheet2Site](https://www.sheet2site.com/) — create a website from Google Sheets without writing code. 
+* [Shopify](https://www.shopify.com/) — one platform with all the ecommerce and point of sale features you need to start, run, and grow your business.
+* [Thunkable](https://thunkable.com/) — a drag-and-drop tool for anyone to build native mobile apps. 
 
 
 </article>

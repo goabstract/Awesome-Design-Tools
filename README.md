@@ -73,7 +73,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 
 ### Accessibility Tools
 
-Accessibility is the practice of creating websites and apps usable by all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:
+Accessibility is the practice of creating websites and apps usable for all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:
 
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool for web content (bookmarklet). It will automatically detect accessibility issues, give suggestions to improve online accessibility and check 508 compliance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/SSAgov/ANDI)
 * [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries and environments you use today. It's automated accessibility testing tool for developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/dequelabs/axe-core)
@@ -98,7 +98,7 @@ Accessibility checking feature is also available in VisBug from Visual Debugging
 
 ### Animation Tools
 
-Animations guide people through the product smoothly and in a friendly manner. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation a easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:
+Animations guide people through the product friendly and smoothly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:
 
 * [After Effects](https://www.adobe.com/products/aftereffects.html) — a digital visual effects, motion graphics, and compositing application developed by Adobe.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
@@ -127,8 +127,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 
 ### Augmented Reality
 
-Augmented Reality is technology that upgrades our real world, by adding a layer of digital information to it.
-The use of AR increases day by day. This is why we collected different augmented reality tools for creating, projecting and prototyping apps focused on AR:
+Augmented Reality is a technology that upgrades our real world, by adding a layer of digital information to it. The use of AR increases day by day with dozens of new AR apps, development kits, and AR frameworks. So in this section is collected different augmented reality tools for creating, projecting and prototyping apps focused on AR:
 
 * [Daqri](https://daqri.com/) — delivers professional-grade augmented reality for the workforce by overlaying digital information onto the physical environment.
 * [EasyAR](https://www.easyar.com/) — a mobile application and an Augmented Reality Engine, making AR easier.
@@ -184,7 +183,7 @@ You can also have design collaboration into [InVision Freehand](https://www.invi
 
 ### Color Picker Tools
 
-If you are looking for an eyedropper tool, color identifier tool or color capture tool, just check this collection. Here are design tools for creating a color combination and define really great ones. Almost all of these tools are free:
+If you are looking for an eyedropper tool, color identifier or color capture, check this section. With the color pickers mentioned here, you will be able to create new color combinations and define really great ones. Almost all of these tools are free:
 
 * [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community. Made by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -212,7 +211,7 @@ If you are looking for an eyedropper tool, color identifier tool or color captur
 
 ### Design Feedback Tools
 
-Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
+How do you provide and get feedback during the development process? This process is usually pretty messy for many product teams, which caused product delays and time waste on back-and-forth communication. So if you wish to get fast and structural feedback on UI issues or visual bugs — take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
@@ -222,9 +221,10 @@ Do you get feedback during the development process? If you wish to get more stru
 
 ### Design Handoff Tools
 
-Design handoff takes place when designers finish the work and need to deliver results to developers. So let’s look at these handoff tools:
+Design handoff happens when designers finish the work and need to deliver designs to developers with all specs and assets. Design handoff tools allow to automatically generate styleguide, comment on the design, inspect elements. These tools minimize guesswork and improve the effectiveness of the design process.
 
 * [Avocode](https://avocode.com) — open designs without design tools. Export images without preparing layers. Click on layers to get code.
+* [Flawless App](https://flawlessapp.io/) — a tool to compare the expected design and the real app right inside iOS Simulator (useful for designers who use Xcode or mobile developers). ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Inspect](https://www.invisionapp.com/feature/inspect/) — prepare designs for development. Made by Invision. 
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Sketch redline plugin. Annotate distance and size of elements. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Specctr](https://specctr.com) — in the unfortunate event you're designing UI in PS, AI, or ID this tool creates redline annotations.
@@ -237,7 +237,7 @@ Design handoff takes place when designers finish the work and need to deliver re
 
 ### Design Inspiration
 
-Tools which allow you to explore the design patterns and user flows of popular apps for guidance and inspiration:
+The creative process can be tough. So if ideas don’t come to your mind right away, try to search for inspiration in the work of other designers. These design inspiration sites feature design patterns, user flows, email markups and creative solutions of popular companies and great products:
 
 * [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, 14419 hand picked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

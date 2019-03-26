@@ -377,14 +377,13 @@ const addBackgroundColorToLogo = ({ document }) => {
 		const splitted = hsl.split(',');
 		const saturation = parseFloat(splitted[1]);
 		const lightness = parseFloat(splitted[2]);
-		return [splitted[0],`${saturation+15}%`,`${lightness-10}%`].join(',');
+		return [splitted[0],`${saturation+15}%`,`${lightness-13}%`].join(',');
 	}
 	const categories = document.querySelectorAll('article');
 	categories.forEach((category, colorNumber = 0) => {
 		const logos = category.querySelectorAll('.tool__asset');
 		logos.forEach((logo) => {
 			logo.style.backgroundColor = `hsl(${backgroundColorsHSL[colorNumber]})`;
-			console.log(`hsl(${createHslFontColor(backgroundColorsHSL[colorNumber])})`);
 			logo.style.color = `hsl(${createHslFontColor(backgroundColorsHSL[colorNumber])})`;
 		});
 		colorNumber += 1;

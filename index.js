@@ -104,7 +104,9 @@ const editHead = ({ document }, title, themeColor) => {
 		favicon60,
 		favicon57,
 		favicon32,
-		favicon16
+		favicon16,
+		meta,
+		metaFb,
 	} = image;
 
 	const icons = `
@@ -121,6 +123,7 @@ const editHead = ({ document }, title, themeColor) => {
 		<link rel="apple-touch-icon" sizes="120x120" href="${favicon120}">
 		<link rel="apple-touch-icon" sizes="76x76" href="${favicon76}">
 		<link rel="apple-touch-icon" sizes="152x152" href="${favicon152}">
+    <meta property="og:image" content="${meta}">
 	`;
 
 	// head.innerHTML = `

@@ -13,13 +13,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	// const minified = minify(html, {
-	// 	removeAttributeQuotes: true,
-	// 	minifyCSS: true,
-	// 	minifyJS: true,
-	// 	collapseWhitespace: true,
-	// });
-	fs.writeFile(index, html, function(err, data) {
+	const minified = minify(html, {
+		removeAttributeQuotes: true,
+		minifyCSS: true,
+		minifyJS: true,
+		collapseWhitespace: true,
+	});
+	fs.writeFile(index, minified, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});

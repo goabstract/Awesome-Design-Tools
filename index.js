@@ -13,13 +13,13 @@ const config = {
 
 const writeHtml = (html) => {
 	const { index } = config;
-	const minified = minify(html, {
-		removeAttributeQuotes: true,
-		minifyCSS: true,
-		minifyJS: true,
-		collapseWhitespace: true,
-	});
-	fs.writeFile(index, minified, function(err, data) {
+	// const minified = minify(html, {
+	// 	removeAttributeQuotes: true,
+	// 	minifyCSS: true,
+	// 	minifyJS: true,
+	// 	collapseWhitespace: true,
+	// });
+	fs.writeFile(index, html, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -72,6 +72,8 @@ const parseTweaks = (html) => {
 		addContributeButtonForAddendum(window);
 
 		removeListInAddendum(window);
+
+		addFooter(window);
 
 		return document.documentElement.outerHTML;
 }
@@ -132,6 +134,8 @@ const editHead = ({ document }, title, themeColor) => {
 	// 	<link rel="stylesheet" href="css/normalize.css">
 	// 	<link rel="stylesheet" href="css/design-tools-style.css">
 	// `;
+		// <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet" lazyload>
+		// <link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet" lazyload>
 	head.innerHTML = `
 		<title>${title}</title>
 		<meta charset="utf-8">
@@ -139,8 +143,6 @@ const editHead = ({ document }, title, themeColor) => {
 		<meta name="theme-color" content="${themeColor}">
 		<meta name="description" content="A description of the page">
 		${icons}
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600i,700" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Lato:700" rel="stylesheet">
 		<style>
 			${normalizeCss}
 			${mainCss}
@@ -351,25 +353,39 @@ const deleteAllIconsInDescription = ({ document }) => {
 }
 
 const addBackgroundColorToLogo = ({ document }) => {
-	const backgroundColors = [
-		'#C4C4F8', '#DEC4F8', '#F9D1DE', '#F8C4C4', '#F5CEA7',
-		'#A7F5CE', '#A7F5CE', '#E2DAFE', '#FACAB9', '#CCEDFC',
-		'#EEFEAC', '#EFDFFE', '#E7CECC', '#FDBFAB', '#FDD8A3',
-		'#A1D3B2', '#A9CED9', '#C2B7F3', '#F0B579', '#F5CEA7',
-		'#F5F5A7', '#A7F5F5', '#A7F5CE', '#A7CEF5', '#F5A7A7',
-		'#FAD5D5', '#D1AAF4', '#D1AAF4', '#F2F4AA', '#AAF4AC',
-		'#AAF2F4', '#AAF2F4', '#ACAAF4', '#C7C7C7', '#DEB0B0',
-		'#AAF4AC', '#AAF4AC', '#AAF4AC'
-	];
-	// const backgroundColorsHSL = [
-	// 	'240,78.8%,87.1%', '270,78.8%,87.1%', '340.5,76.9%,89.8%', '0,78.8%,87.1%', '30,79.6%,80.8%',
-	// 	'150,79.6%,80.8%', '176.3,38%,74.7%',
+	// const backgroundColors = [
+		// '#C4C4F8', '#DEC4F8', '#F9D1DE', '#F8C4C4', '#F5CEA7',
+		// '#A7F5CE', '#A7F5CE', '#E2DAFE', '#FACAB9', '#CCEDFC',
+		// '#EEFEAC', '#EFDFFE', '#E7CECC', '#FDBFAB', '#FDD8A3',
+		// '#A1D3B2', '#A9CED9', '#C2B7F3', '#F0B579', '#F5CEA7',
+		// '#F5F5A7', '#A7F5F5', '#A7F5CE', '#A7CEF5', '#F5A7A7',
+		// '#FAD5D5', '#D1AAF4', '#D1AAF4', '#F2F4AA', '#AAF4AC',
+		// '#AAF2F4', '#AAF2F4', '#ACAAF4', '#C7C7C7', '#DEB0B0',
+		// '#AAF4AC', '#AAF4AC', '#AAF4AC'
 	// ];
+	const backgroundColorsHSL = [
+		'240,78.8%,87.1%',    '270,78.8%,87.1%',     '340.5,76.9%,89.8%',   '0,78.8%,87.1%',       '30,79.6%,80.8%',
+		'150,79.6%,80.8%',    '176.3,38%,74.7%',     '253.3,94.7%,92.5%',   '15.7,86.7%,85.3%',    '198.8,88.9%,89.4%',
+		'71.7,97.6%,83.5%',   '271,93.9%,93.5%',     '4.4,36%,85.3%',       '14.6,95.3%,83.1%',    '35.3,95.7%,81.6%',
+		'140.4,36.2%,72.9%',  '193.8,38.7%,75.7%',   '251,71.4%,83.5%',     '30.3,79.9%,70.8%',    '30,79.6%,80.8%',
+		'60,79.6%,80.8%',     '180,79.6%,80.8%',     '210,79.6%,80.8%',     '210,79.6%,80.8%',     '0,79.6%,80.8%',
+		'0,78.7%,90.8%',      '271.6,77.1%,81.2%',   '271.6,77.1%,81.2%',   '61.6,77.1%,81.2%',    '121.6,77.1%,81.2%',
+		'181.6,77.1%,81.2%',  '181.6,77.1%,81.2%',   '241.6,77.1%,81.2%',   '0,0%,78%',            '0,41.1%,78%',
+		'121.6,77.1%,81.2%',  '121.6,77.1%,81.2%',   '121.6,77.1%,81.2%',
+	];
+	const createHslFontColor = (hsl) => {
+		const splitted = hsl.split(',');
+		const saturation = parseFloat(splitted[1]);
+		const lightness = parseFloat(splitted[2]);
+		return [splitted[0],`${saturation+15}%`,`${lightness-10}%`].join(',');
+	}
 	const categories = document.querySelectorAll('article');
 	categories.forEach((category, colorNumber = 0) => {
 		const logos = category.querySelectorAll('.tool__asset');
 		logos.forEach((logo) => {
-			logo.style.backgroundColor = backgroundColors[colorNumber];
+			logo.style.backgroundColor = `hsl(${backgroundColorsHSL[colorNumber]})`;
+			console.log(`hsl(${createHslFontColor(backgroundColorsHSL[colorNumber])})`);
+			logo.style.color = `hsl(${createHslFontColor(backgroundColorsHSL[colorNumber])})`;
 		});
 		colorNumber += 1;
 	})
@@ -396,6 +412,21 @@ const removeListInAddendum = ({ document }) => {
 		list.innerHTML.includes('undefined') &&
 			list.parentNode.removeChild(list)
 	);
+}
+
+const addFooter = ({ document }) => {
+	const footer = document.createElement('footer');
+	footer.innerHTML = `
+		<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+		<script>
+		  WebFont.load({
+		    google: {
+		      families: ['Montserrat:400,600i,700', 'Lato:700']
+		    }
+		  });
+		</script>
+	`;
+	document.body.appendChild(footer);
 }
 
 Promise.all([readMarkdown])

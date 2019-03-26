@@ -44,8 +44,8 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Illustrations](#illustrations)
 * [Information Architecture](#information-architecture)
 * [Logo Design](#logo-design)
-* [No Code Tools](#no-code-tools)
 * [Mockup Tools](#mockup-tools)
+* [No Code Tools](#no-code-tools)
 * [Pixel Art Tools](#pixel-art-tools)
 * [Prototyping Tools](#prototyping-tools)
 * [Screenshot Software](#screenshot-software)
@@ -484,24 +484,6 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 </article>
 
-<article id="no-code-tools">
-
-### No Code Tools
-
-With a rise of “no code tools”, everyone with a laptop can build and launch a project. These tools help designers and makers create websites, apps, and even games. No code tools allow to automate routine tasks and can be used without a development background. Take a look at the tools here and if you need more — check Design to Code section.
-
-* [Bubble](https://bubble.is/) — build and host web applications without having to write code or hire a team of engineers.
-* [Carrd](https://carrd.co/) — simple, free, fully responsive one-page sites for pretty much anything. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Coda](https://coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Retool](https://tryretool.com/) — gives you building blocks and you can build tools much faster.
-* [Sheet2Site](https://www.sheet2site.com/) — create a website from Google Sheets without writing code. 
-* [Shopify](https://www.shopify.com/) — one platform with all the ecommerce and point of sale features you need to start, run, and grow your business.
-* [Thunkable](https://thunkable.com/) — a drag-and-drop tool for anyone to build native mobile apps. 
-
-
-</article>
-
-
 <article id="mockup-tools">
 
 ### Mockup Tools
@@ -534,6 +516,23 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 * [UI Store Design](https://www.uistore.design/) — 200+ free handpicked design resources for Sketch, Figma, Adobe XD, InVision Studio, Photoshop, Illustrator CC. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [UI8 - Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+
+</article>
+
+<article id="no-code-tools">
+
+### No Code Tools
+
+With a rise of “no code tools”, everyone with a laptop can build and launch a project. These tools help designers and makers create websites, apps, and even games. No code tools allow to automate routine tasks and can be used without a development background. Take a look at the tools here and if you need more — check Design to Code section.
+
+* [Bubble](https://bubble.is/) — build and host web applications without having to write code or hire a team of engineers.
+* [Carrd](https://carrd.co/) — simple, free, fully responsive one-page sites for pretty much anything. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Coda](https://coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Retool](https://tryretool.com/) — gives you building blocks and you can build tools much faster.
+* [Sheet2Site](https://www.sheet2site.com/) — create a website from Google Sheets without writing code. 
+* [Shopify](https://www.shopify.com/) — one platform with all the ecommerce and point of sale features you need to start, run, and grow your business.
+* [Thunkable](https://thunkable.com/) — a drag-and-drop tool for anyone to build native mobile apps. 
 
 
 </article>

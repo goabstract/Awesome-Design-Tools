@@ -39,6 +39,12 @@ div::selection {
   scroll-behavior: smooth;
 } */
 
+#addendum a:nth-child(3) {
+	color: inherit;
+	cursor: default;
+	text-decoration: none;
+}
+
 body, a, input, button {
 	font-family: 'Montserrat',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }

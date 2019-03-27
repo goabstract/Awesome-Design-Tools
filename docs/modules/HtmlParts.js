@@ -21,6 +21,7 @@ const normalizeCss = getCssFile('normalize');
 const mainCss = getCssFile('design-tools-style');
 const {
     title,
+    description,
     themeColor,
     promoFlawlessFeedbackBanner__title,
     promoFlawlessFeedbackBanner__description,
@@ -82,7 +83,7 @@ const HtmlParts = {
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="${themeColor}">
-        <meta name="description" content="A description of the page">
+        <meta name="description" content="The best design tools for everything — from wireframing and prototyping to animation, accessibility, AR, design systems and sound design.">
     `,
     styleExternal: `
         <link rel="stylesheet" href="css/normalize.css">

@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "PRODUCTION=false node index.js",
+    "production": "PRODUCTION=true node index.js"
   },
   "repository": {
     "type": "git",

@@ -159,6 +159,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Gallery](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with screenshots. It makes it easier to monitor productivity of remote employees and manage projects.
 * [Jira](https://www.atlassian.com/software/jira) — software development tool used by agile teams.
+* [Mattermost](https://mattermost.com/) - a flexible, open source messaging platform that meets even the most demanding privacy and security standards.
 * [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards. 
 * [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.

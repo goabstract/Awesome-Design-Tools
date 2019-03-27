@@ -113,7 +113,7 @@ Animations guide people through the product friendly and smoothly. Live interact
 * [Mantra](https://jeremyckahn.github.io/mantra/) — a web-based timeline animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Slider](https://sliderapp.co) — create stylish animated posts for Instagram and Facebook in just a few taps, all from your mobile phone. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Spirit](https://spiritapp.io/) — the animation tool that helps you to create and manage the animations real time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Stylie](https://jeremyckahn.github.io/stylie/) — A web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Stylie](https://jeremyckahn.github.io/stylie/) — a web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 <div class="banner banner--yellow">
@@ -753,7 +753,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
-* [Wireflow](http://wireflow.co) — is free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Wireflow](http://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts.
 * [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
@@ -789,6 +789,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 ### Visual Debugging Tools
 
 * [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
+* [PixelSnap](https://getpixelsnap.com) — the magical way to measure everything on your screen. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Visual Inspector](https://www.canvasflip.com/visual-inspector/) — collaboration tool for website feedback and fixing design bugs.
 

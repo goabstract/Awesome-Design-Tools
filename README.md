@@ -110,8 +110,8 @@ Animations guide people through the product friendly and smoothly. Live interact
 * [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [LightBox](https://uselightbox.com/) — 2D, Hand-Drawn animation package. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Mantra](https://jeremyckahn.github.io/mantra/) — A web-based timeline animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Slider](https://sliderapp.co) – create stylish animated posts for Instagram and Facebook in just a few taps, all from your mobile phone.
+* [Mantra](https://jeremyckahn.github.io/mantra/) — a web-based timeline animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Slider](https://sliderapp.co) — create stylish animated posts for Instagram and Facebook in just a few taps, all from your mobile phone.
 * [Spirit](https://spiritapp.io/) — the animation tool that helps you to create and manage the animations real time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Stylie](https://jeremyckahn.github.io/stylie/) — A web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

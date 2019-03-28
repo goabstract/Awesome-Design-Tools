@@ -482,12 +482,6 @@ article ul {
 	text-align: center;
 }
 
-.welcome__description a {
-	color: inherit;
-	font-style: italic;
-	text-decoration: underline;
-}
-
 .btn {
 	z-index: 1;
 }

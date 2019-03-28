@@ -76,7 +76,6 @@ const HtmlParts = {
         <link rel="apple-touch-icon" sizes="120x120" href="${favicon120}">
         <link rel="apple-touch-icon" sizes="76x76" href="${favicon76}">
         <link rel="apple-touch-icon" sizes="152x152" href="${favicon152}">
-        <meta property="og:image" content="https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-general.png">
     `,
     title: `<title>${title}</title>`,
     meta: `
@@ -84,6 +83,25 @@ const HtmlParts = {
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="${themeColor}">
         <meta name="description" content="The best design tools for everything — from wireframing and prototyping to animation, accessibility, AR, design systems and sound design.">
+        <meta name="image" content="https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-general.png">
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Awesome Design Tools">
+        <meta itemprop="description" content="The best design tools for everything — from wireframing and prototyping to animation, accessibility, AR, design systems and sound design.">
+        <meta itemprop="image" content="https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-general.png">
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="Awesome Design Tools">
+        <meta name="twitter:description" content="The best design tools for everything — from wireframing and prototyping to animation, accessibility, AR, design systems and sound design.">
+        <meta name="twitter:site" content="https://flawlessapp.io/designtools">
+        <meta name="twitter:creator" content="@flawlessappio">
+        <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+        <meta name="og:title" content="Awesome Design Tools">
+        <meta name="og:description" content="The best design tools for everything — from wireframing and prototyping to animation, accessibility, AR, design systems and sound design.">
+        <meta name="og:image" content="https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-facebook.png">
+        <meta name="og:url" content="https://flawlessapp.io/designtools">
+        <meta name="og:site_name" content="Awesome Design Tools">
+        <meta name="fb:admins" content="1685880598347240">
+        <meta name="og:type" content="website">
     `,
     styleExternal: `
         <link rel="stylesheet" href="css/normalize.css">

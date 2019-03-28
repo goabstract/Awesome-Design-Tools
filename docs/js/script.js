@@ -72,3 +72,32 @@ const automaticScroll = () => {
 	})
 }
 automaticScroll();
+
+const addBannerForProductHunt = () => {
+	const createBanner = () => {
+		const div = document.createElement('div');
+		div.classList.add('banner-top-wrapper');
+		div.innerHTML = `
+			<div class="banner-top">
+				<a href="https://www.producthunt.com/posts/awesome-design-tools-3059e97c-77e8-4d54-ad03-5daf6231a216">
+					💐 We're on Product Hunt Today 👉 Please support our collection of 400 design tools
+				</a>
+				<div class="banner-top__close" title="close ProductHunt banner">
+					<div class="bar-1"></div><div class="bar-2"></div>
+				</div>
+			</div>
+		`;
+		document.body.appendChild(div);
+	}
+	if (!document.URL.includes('producthunt')) {
+		setTimeout(() => {
+			createBanner();
+			const closeBtn = () => document.querySelector('.banner-top').classList.add('banner-top--hidden');
+			console.log(document.querySelector('.banner-top__close'));
+			document.querySelector('.banner-top__close').onclick = () => {
+				closeBtn();
+			}
+		}, 15000);
+	}
+}
+addBannerForProductHunt();

@@ -168,6 +168,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [ProofHub](https://www.proofhub.com/) — the one place for all your projects, teams and communications.
 * [RealtimeBoard (Miro)](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration. It was recently renaimed to Miro.
 * [Slack](https://slack.com/) — a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips.
+* [Sunsama](https://sunsama.com/) — a beautifully designed, team oriented task manager that consolidates Trello/Jira/Asana tickets into a single, calendar-oriented view.
 * [Trello](https://trello.com/) — a web-based project management application that enables you to organize and prioritize your projects in a fun, flexible and rewarding way.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Workzone](https://www.workzone.com/) — a simple, powerful project management software.
@@ -283,6 +284,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
+* [Prime Design System Kit](https://www.primedesignsystem.com) — it includes device templates, charts, UI kit and even illustration kit. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
@@ -608,7 +610,7 @@ Taking screenshots is a typical task in the design & development workflow. So th
 * [Greenshot](https://getgreenshot.org/) — take a screenshot of a selected region, window or fullscreen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Kap](https://getkap.co) — open source screen recorder with options to export to GIF, MP4, WebM and APNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — taking quick captures of your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [OBS](https://obsproject.com/) — open source software for video recording and live streaming. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Screenie](https://www.thnkdev.com/Screenie/) — filter and search through images, change screenshot filetypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -723,10 +725,11 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — a vector graphics editor for macOS, iOS, and Microsoft Windows.
+* [Botmock](https://www.botmock.com) — design, prototype, and test voice and text conversational apps. Supports multiple platforms.
 * [CleverBrush](https://www.cleverbrush.com/) — a browser-based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
-* [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [GIMP](https://www.gimp.org/) — a free & open source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile. Made by Adobe.
 * [Inkscape](https://inkscape.org/) — a free and open-source vector graphics editor. It has ability to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Krita](https://krita.org/en/) — a free painting and graphic design software considered a good alternative to Adobe Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -754,6 +757,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — a diagramming and digital illustration application for macOS and iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [SQUID](https://uxmisfit.com/squid/) — create beautiful User Flows in Sketch in just minutes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
 * [Wireflow](http://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts.

@@ -34,7 +34,7 @@ const writeHtml = (html, isProduction) => {
 		collapseWhitespace: true,
 	});
 	const chooseVersion = () => {
-		if (isProduction !== false) {
+		if (isProduction == true) {
 			return minified;
 		} else {
 			return html;

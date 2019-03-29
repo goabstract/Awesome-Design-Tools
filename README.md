@@ -283,7 +283,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
-* [Prime Design System Kit](https://www.primedesignsystem.com) - create your Design Systems efficiently. Ultimate Kit for Sketch is more than the set of UI elements. It includes Device Templates, Charts, UI Kit and even Illustration Kit.
+* [Prime Design System Kit](https://www.primedesignsystem.com) — it includes device templates, charts, UI kit and even illustration kit. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
@@ -755,7 +755,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — a diagramming and digital illustration application for macOS and iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 * [Sketch.systems](https://sketch.systems/) — ui and flow design with interactive state machines. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [SQUID](https://uxmisfit.com/squid/) - create beautiful User Flows in Sketch in just minutes. Extremely fast and easy to customize.
+* [SQUID](https://uxmisfit.com/squid/) — create beautiful User Flows in Sketch in just minutes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
 * [Wireflow](http://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts.

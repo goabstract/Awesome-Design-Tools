@@ -737,7 +737,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 * [Lunacy](https://icons8.com/lunacy) — a free native windows app that works offline and supports .sketch files. Flexible and light weighed. Intuitive and easy to use. Speedups and empowers UI and UX designers. The must have to produce stunning designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Photopea](https://www.photopea.com/) — a free browser-based graphic design app alternative to Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software developed by Adobe.
-* [Pixelixe](https://studio.pixelixe.com) — a graphic design tool built for marketers, bloggers and small businesses that needs to create stunning and unique images, graphics or static webpages in minutes.
+* [Pixelixe](https://studio.pixelixe.com) — a graphic design tool built for marketers, bloggers and small businesses that needs to create stunning and unique images, graphics or static webpages in minutes. ![free.svg]
 * [Sketch](https://www.sketchapp.com/) — a design toolkit built for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. Made by Invision.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

@@ -479,6 +479,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 * [Logojoy](https://logojoy.com/) — uses artificial intelligence to instantly generate unique logo ideas for your business.
 * [Logo Lab](https://logolab.app/home) — put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Logo Maker](https://www.ucraft.com/free-logo-maker) — allows you to make a free logo within seconds. Start with a blank canvas, add text and an icon, and then customize. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Logo Maker](https://www.designhill.com/tools/logo-maker) by Designhill — generate 1000s of unique logos in only few minutes, without design expertise.
 * [Logo Makr](https://logomakr.com/) — design a logo for free, choose from hundreds of fonts and icons, then save a logo on the computer. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Logo My Way](https://www.logomyway.com/) — choose from 600 custom logo designs from creative designers worldwide.
 * [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.

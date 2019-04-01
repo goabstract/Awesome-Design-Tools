@@ -835,7 +835,7 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 * [MatterControl](https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6) — a free, open-source, all-in-one software package that lets you design, slice, organize, and manage your 3D prints. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Maya](https://www.autodesk.com/products/maya/overview) — make animations, environments, motion graphics, virtual reality, and character creation, all in one toolset.
 * [Onshape](https://www.onshape.com/) — a modeling software specially oriented to design technical and spare parts, was the first full-cloud 3D software created.
-* [Rhino](Rhino) — a curve-based 3D modeling software that creates mathematically-precise models of 3D surfaces.
+* [Rhino](https://www.rhino3d.com/) — a curve-based 3D modeling software that creates mathematically-precise models of 3D surfaces.
 * [SketchUp](https://www.sketchup.com) — 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset.
 * [Vectary](https://www.vectary.com/) — create beautiful 3D models with our drag and drop 3D modeling tool.
 * [3D Slash](https://www.3dslash.net) — 3D modeling tool, available on all devices and all OS, online and offline.

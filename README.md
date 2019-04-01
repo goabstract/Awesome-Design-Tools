@@ -170,6 +170,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [RealtimeBoard (Miro)](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration. It was recently renaimed to Miro.
 * [Slack](https://slack.com/) — a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips.
 * [Sunsama](https://sunsama.com/) — a beautifully designed, team oriented task manager that consolidates Trello/Jira/Asana tickets into a single, calendar-oriented view.
+* [Taskade](https://taskade.com/) — team productivity made simple, fun and designed for remote teams. Taskade is collaborative and syncs in real-time across web, mobile and desktop.
 * [Trello](https://trello.com/) — a web-based project management application that enables you to organize and prioritize your projects in a fun, flexible and rewarding way.
 * [Witeboard](https://www.witeboard.com/) — simple real-time whiteboard for collaboration work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Workzone](https://www.workzone.com/) — a simple, powerful project management software.

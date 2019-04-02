@@ -290,6 +290,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [Prime Design System Kit](https://www.primedesignsystem.com) — it includes device templates, charts, UI kit and even illustration kit. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
+* [Specify](https://www.specifyapp.com/) — Specify is a tool to create, scale and maintain a design system. Meet the ultimate bridge for digital product teams.
 
 <div class="banner banner--yellow">
 

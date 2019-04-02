@@ -656,7 +656,11 @@ Sound design is an art of creating a soundscape for a site, app, movie, game or 
 * [Appsounds](https://appsounds.pro/) — UI Sound packs for apps, games, and any product.
 * [AudioJungle](https://audiojungle.net/) — 836,206 tracks and sounds from the community of musicians and sound engineers.
 * [Bensound](https://www.bensound.com/) — download creative commons music, royalty free music for free and use it in your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Freesound](https://freesound.org/) — a collaborative database of Creative Commons Licensed sounds. Browse, download and share sounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Fugue Music](https://icons8.com/music) — download free background music for your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Max](https://cycling74.com/products/max/) — connect objects with virtual patch cords to create interactive sounds, graphics, and custom effects.
+* [Reaper](http://reaper.fm/) — import any audio and MIDI, synthesize, sample, compose, arrange, edit, mix, and master songs or any other audio projects.
+* [Sonic Pi](https://sonic-pi.net/) — a live coding music synth. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [SoundKit](https://soundkit.io/) — a UI sound library designed for all of your interface needs.
 * [UI Sounds](https://uisounds.prototypr.io/) — learn sound design for user interfaces by example.
 * [Wistia Music](https://wistia.com/resources/music) — download some free background tracks to add energy and emotion to your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

@@ -240,6 +240,12 @@ Design handoff happens when designers finish the work and need to deliver design
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
+<div class="banner banner--yellow">
+
+You can also do handoff with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
+
+</div>
+
 </article>
 
 <article id="design-inspiration">
@@ -319,6 +325,12 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Wix](https://www.wix.com/) — the easiest and fullest-featured website builder, that allows you to create your own highly customized site.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
 
+<div class="banner banner--yellow">
+
+You can also do design to code with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
+
+</div>
+
 </article>
 
 <article id="design-version-control">
@@ -377,6 +389,12 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 * [Typeface](https://typefaceapp.com/) — font manager that improves your design workflow with live font previews and flexible tagging. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Wakamai Fondue](https://wakamaifondue.com/) — the tool that answers the question "what can my font do?". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+
+<div class="banner banner--yellow">
+
+You can also handle fonts with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
+
+</div>
 
 </article>
 
@@ -437,6 +455,12 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [VisualPharm](https://visualpharm.com/) — free SVG Icons with super-fast search and free Coke. Built for fun by Icons8. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Xicons](https://www.xicons.co/) — free (do whatever you want) vector icons. A new icon pack every 10 days. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zwicon](https://www.zwicon.com/) — handcrafted iconset for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+<div class="banner banner--yellow">
+
+You can also do handle icons with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
+
+</div>
 
 </article>
 

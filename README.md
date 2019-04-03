@@ -162,7 +162,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with screenshots. It makes it easier to monitor productivity of remote employees and manage projects.
 * [Jira](https://www.atlassian.com/software/jira) — software development tool used by agile teams.
 * [Mattermost](https://mattermost.com/) — a flexible, open source messaging platform that meets even the most demanding privacy and security standards. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards. 
+* [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards.
 * [Mixed](https://mixed.io) — real-time whiteboard and collaboration tools for distributed teams. ![free.svg]
 * [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
@@ -290,6 +290,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 
 * [Cabana](https://cabanadesignsystem.com/) — a Premium Design System for Sketch that helps you create amazing products faster than ever before.
 * [Design System Manager](https://www.invisionapp.com/design-system-manager/) — Invision's design system manager.
+* [EOS Design System](https://www.eosdesignsystem.com) — an open source and customizable built on top of Bootstrap following the Atomic Design concept. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) 
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
@@ -427,7 +428,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Digital Nomad Icons](http://digitalnomadicons.com/) — lifestyle icon & emoji pack for your next project. 25 high resolution flat icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Essential Glyphs](https://interface.market/essential/basic-pack) — created to cover your needs in perfect-shaped icons. Adapted for small and large sizes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Feather Icons](https://feathericons.com/) — each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Flaticon](https://www.flaticon.com/) — 1593000+ vector icons in SVG, PSD, PNG, EPS format or as icon font. 
+* [Flaticon](https://www.flaticon.com/) — 1593000+ vector icons in SVG, PSD, PNG, EPS format or as icon font.
 * [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome)
 * [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello)
 * [Iconscout](https://iconscout.com/) — get high-quality Icons, Illustrations and Stock photos at one place.

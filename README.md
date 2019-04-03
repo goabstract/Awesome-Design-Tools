@@ -242,7 +242,7 @@ Design handoff happens when designers finish the work and need to deliver design
 
 <div class="banner banner--yellow">
 
-You can also do handoff with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
+You can also do handoff with Specify, which is mentioned in the Design System Tools section.
 
 </div>
 
@@ -327,8 +327,6 @@ Everyone can learn development but it takes time and effort. If you need a websi
 
 <div class="banner banner--yellow">
 
-You can also do design to code with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
-
 </div>
 
 </article>
@@ -391,8 +389,6 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 <div class="banner banner--yellow">
-
-You can also handle fonts with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
 
 </div>
 
@@ -457,8 +453,6 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Zwicon](https://www.zwicon.com/) — handcrafted iconset for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">
-
-You can also do handle icons with [Specify](https://www.specifyapp.com), which is mentioned in the Design System Tools section.
 
 </div>
 

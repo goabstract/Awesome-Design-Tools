@@ -321,6 +321,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Pinegrow](https://pinegrow.com/) — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
 * [px.div](https://www.pxdiv.com) — Proper site build tool for developers and designers.
 * [Readymag](https://readymag.com/) — a visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
+* [Sparkle](https://sparkleapp.com/) — the easiest way to make a real website, no code, no jargon. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Wix](https://www.wix.com/) — the easiest and fullest-featured website builder, that allows you to create your own highly customized site.

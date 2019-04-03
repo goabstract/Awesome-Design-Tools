@@ -53,6 +53,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Sound Design](#sound-design)
 * [Stock Photos Tools](#stock-photos-tools)
 * [Stock Videos](#stock-videos)
+* [Tools for Learning Design](#tools-for-learning-design)
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
 * [User Research Tools](#user-research-tools)
@@ -731,6 +732,9 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 * [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+
+### Tools for Learning Design
 
 </article>
 

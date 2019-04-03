@@ -339,7 +339,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 
 Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:
 
-* [Abstract](https://www.goabstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
+* [Abstract](https://www.abstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Folio](http://folioformac.com/) — a simple version control system for design teams based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Kactus](https://kactus.io/) — design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Plant](https://plantapp.io/) — Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

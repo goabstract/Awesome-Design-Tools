@@ -595,7 +595,7 @@ A prototype is a simple experimental design of a proposed solution. It should he
 
 <div class="banner banner--yellow">
 
-You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the UI Design Tools section.
+You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the [UI Design Tools section](#ui-design-tools).
 
 </div>
 

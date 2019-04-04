@@ -243,12 +243,6 @@ Design handoff happens when designers finish the work and need to deliver design
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
-<div class="banner banner--yellow">
-
-You can also do handoff with Specify, which is mentioned in the Design System Tools section.
-
-</div>
-
 </article>
 
 <article id="design-inspiration">
@@ -330,10 +324,6 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Wix](https://www.wix.com/) — the easiest and fullest-featured website builder, that allows you to create your own highly customized site.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
 
-<div class="banner banner--yellow">
-
-</div>
-
 </article>
 
 <article id="design-version-control">
@@ -394,6 +384,8 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 <div class="banner banner--yellow">
+
+You can also handle fonts with Specify, which is mentioned in the Design System Tools section.
 
 </div>
 
@@ -459,6 +451,8 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Zwicon](https://www.zwicon.com/) — handcrafted iconset for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">
+
+You can also handle icons with Specify, which is mentioned in the Design System Tools section.
 
 </div>
 

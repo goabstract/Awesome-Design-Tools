@@ -89,7 +89,7 @@ Accessibility is the practice of creating websites and apps usable for all peopl
 
 <div class="banner banner--yellow">
 
-Accessibility checking feature is also available in VisBug from Visual Debugging Tools categoty.
+Accessibility checking feature is also available in VisBug from [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) categoty.
 
 </div>
 
@@ -385,7 +385,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 
 <div class="banner banner--yellow">
 
-You can also handle fonts with Specify, which is mentioned in the Design System Tools section.
+You can also handle fonts with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) section.
 
 </div>
 
@@ -452,7 +452,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 
 <div class="banner banner--yellow">
 
-You can also handle icons with Specify, which is mentioned in the Design System Tools section.
+You can also handle icons with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) section.
 
 </div>
 
@@ -508,7 +508,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 
 <div class="banner banner--yellow">
 
-You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in UI design tools.
+You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and Vectr which are mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools).
 
 </div>
 
@@ -663,7 +663,7 @@ Sometimes you need just a pencil and paper to start creating your app or website
 
 <div class="banner banner--yellow">
 
-You can also do some sketching with Sketch mentioned in UI design tools.
+You can also do some sketching with Sketch mentioned in [UI design tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools).
 
 </div>
 

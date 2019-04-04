@@ -240,12 +240,6 @@ Design handoff happens when designers finish the work and need to deliver design
 * [Sympli](https://sympli.io) — automated specs and assets handoff from Sketch, Photoshop and Adobe XD. Integrated with Jira, Xcode and Android Studio.
 * [Zeplin](https://zeplin.io/) — handoff designs and styleguides with accurate specs, assets, code snippets automatically.
 
-<div class="banner banner--yellow">
-
-You can also do handoff with Specify, which is mentioned in the Design System Tools section.
-
-</div>
-
 </article>
 
 <article id="design-inspiration">
@@ -324,12 +318,6 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Wix](https://www.wix.com/) — the easiest and fullest-featured website builder, that allows you to create your own highly customized site.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
-
-<div class="banner banner--yellow">
-
-You can also do design to code with Specify, which is mentioned in the Design System Tools section.
-
-</div>
 
 </article>
 

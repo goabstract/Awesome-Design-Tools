@@ -742,19 +742,6 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 
 </article>
 
-<article id="tools-for-learning-design">
-
-### Tools for Learning Design
-
-* [Design Better](https://www.designbetter.co/) — discover the best practices, stories, and insights from the world’s top design teams and leaders. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Design+Code](https://designcode.io/) — complete courses about the best tools and design systems.
-* [DesignerUp](https://designerup.co/) — a collection of self-paced courses and mentorship to help you master Product Design (UI/UX).
-* [Laws of UX](https://lawsofux.com/) — a collection of the maxims and principles that designers can consider when building user interfaces. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
-* [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
-
-</article>
-
 <article id="stock-videos">
 
 ### Stock Videos
@@ -770,6 +757,19 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Videezy](https://www.videezy.com/) — download millions of free and premium stock footage and motion graphics instantly.
 * [Videvo](https://www.videvo.net/) — videvo offers a large selection of HD video clips, motion graphics and free stock footage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [123RF](https://www.123rf.com/) — over 100,000 daily new content & 24/7 online support.
+
+</article>
+
+<article id="tools-for-learning-design">
+
+### Tools for Learning Design
+
+* [Design Better](https://www.designbetter.co/) — discover the best practices, stories, and insights from the world’s top design teams and leaders. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Design+Code](https://designcode.io/) — complete courses about the best tools and design systems.
+* [DesignerUp](https://designerup.co/) — a collection of self-paced courses and mentorship to help you master Product Design (UI/UX).
+* [Laws of UX](https://lawsofux.com/) — a collection of the maxims and principles that designers can consider when building user interfaces. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
+* [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
 
 </article>
 

@@ -162,6 +162,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Appear.in](https://appear.in/) — a simple video collaboration tool.
 * [Asana](https://asana.com/) — the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.
 * [Basecamp](https://basecamp.com/) — the project management suite designed to organize employees, delegate tasks, and monitor progress right from one place.
+* [Emporter](https://emporter.app/) — instantly create a secure URL to your Mac to save time, money and energy when working with web developers. It works great with most "Design to Code" tools. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Filestage](https://filestage.io/) — an agile content approval software that helps you to review videos, designs and documents with clients and co-workers.
 * [Gallery](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with screenshots. It makes it easier to monitor productivity of remote employees and manage projects.

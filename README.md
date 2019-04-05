@@ -254,6 +254,7 @@ Design handoff happens when designers finish the work and need to deliver design
 
 The creative process can be tough. So if ideas don’t come to your mind right away, try to search for inspiration in the work of other designers. These design inspiration sites feature design patterns, user flows, email markups and creative solutions of popular companies and great products:
 
+* [Behance](https://www.behance.net/) - an online platform to showcase & discover creative work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, 14419 hand picked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Creative Portfolios](http://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.

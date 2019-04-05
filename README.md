@@ -879,6 +879,7 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 * [Onshape](https://www.onshape.com/) — a modeling software specially oriented to design technical and spare parts, was the first full-cloud 3D software created.
 * [Rhino](https://www.rhino3d.com/) — a curve-based 3D modeling software that creates mathematically-precise models of 3D surfaces.
 * [SketchUp](https://www.sketchup.com) — 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset.
+* [Tinkercad](https://www.tinkercad.com) — a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything! ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Vectary](https://www.vectary.com/) — create beautiful 3D models with our drag and drop 3D modeling tool.
 * [3D Slash](https://www.3dslash.net) — 3D modeling tool, available on all devices and all OS, online and offline.
 

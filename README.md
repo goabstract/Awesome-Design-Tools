@@ -54,6 +54,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Stock Photos Tools](#stock-photos-tools)
 * [Stock Videos](#stock-videos)
 * [Tools for Learning Design](#tools-for-learning-design)
+* [Tools for Marketing](#tools-for-marketing)
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
 * [User Research Tools](#user-research-tools)
@@ -776,6 +777,17 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Laws of UX](https://lawsofux.com/) — a collection of the maxims and principles that designers can consider when building user interfaces. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
 * [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
+
+</article>
+
+<article id="tools-for-marketing">
+
+### Tools for Marketing
+
+* [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert! 
+* [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web. 
+* [Remove.bg](https://www.remove.bg/) — is a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

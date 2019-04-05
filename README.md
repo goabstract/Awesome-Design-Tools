@@ -77,6 +77,8 @@ If you found some great design tool, just send a Pull Request with respect to ou
 
 Accessibility is the practice of creating websites and apps usable for all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:
 
+* [Accessibility Insights](https://accessibilityinsights.io/) — helps developers quickly find and fix accessibility issues. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [AChecker](https://achecker.ca) — accessibility testing web app used to evaluate HTML content for accessibility problems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool for web content (bookmarklet). It will automatically detect accessibility issues, give suggestions to improve online accessibility and check 508 compliance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/SSAgov/ANDI)
 * [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries and environments you use today. It's automated accessibility testing tool for developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/dequelabs/axe-core)
 * [ColorBox](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems. Done by Lyft Design team. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -167,7 +169,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Keybase](https://keybase.io) — a free collaboration app with built-in end-to-end encrypted chat, file sharing, git repositories, and more ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Mattermost](https://mattermost.com/) — a flexible, open source messaging platform that meets even the most demanding privacy and security standards. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards.
-* [Mixed](https://mixed.io) — real-time whiteboard and collaboration tools for distributed teams. ![free.svg]
+* [Mixed](https://mixed.io) — real-time whiteboard and collaboration tools for distributed teams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 * [ProofHub](https://www.proofhub.com/) — the one place for all your projects, teams and communications.

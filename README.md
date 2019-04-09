@@ -233,6 +233,8 @@ How do you provide and get feedback during the development process? This process
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
+<div class="banner banner--yellow">
+
 </article>
 
 <article id="design-handoff-tools">
@@ -251,7 +253,7 @@ Design handoff happens when designers finish the work and need to deliver design
 
 <div class="banner banner--yellow">
 
-You can also make design handoff within Relay, mentioned in the Design Version Control section.
+You can also make design handoff within Relay, mentioned in the [Design Version Control](#design-version-control) section.
 
 </div>
 
@@ -567,6 +569,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 * [UI8 - Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
+<div class="banner banner--yellow">
 
 </article>
 
@@ -668,6 +671,7 @@ software for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/
 * [Screenie](https://www.thnkdev.com/Screenie/) — filter and search through images, change screenshot filetypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ScreenToGif](https://www.screentogif.com/) — record a gif of part of the screen. Only available for Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap)
 * [ShareX](https://getsharex.com/) — screen capture, file sharing and productivity tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Snagit](https://www.techsmith.com/screen-capture.html) — capture images and video, create GIFs, annotate, edit, and share.
 * [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots) — Windows free screenshot tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Snappy](http://snappy-app.com/) — takes quick shots and organizes them for you into collections. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Teampaper Snap](https://teampaper.me/snap/) — allows you to take screenshots of a selected area. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

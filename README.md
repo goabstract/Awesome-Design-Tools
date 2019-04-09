@@ -235,8 +235,6 @@ How do you provide and get feedback during the development process? This process
 
 <div class="banner banner--yellow">
 
-You can also give feedback on designs with Snagit, mentioned in the [Screenshot Software](#screenshot-software) section.
-
 </article>
 
 <article id="design-handoff-tools">
@@ -255,7 +253,7 @@ Design handoff happens when designers finish the work and need to deliver design
 
 <div class="banner banner--yellow">
 
-You can also make design handoff within Relay, mentioned in the Design Version Control section.
+You can also make design handoff within Relay, mentioned in the [Design Version Control](#design-version-control) section.
 
 </div>
 
@@ -572,8 +570,6 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 * [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">
-
-You can also create [simplified UIs](https://www.techsmith.com/blog/simplified-user-interface/) with Snagit, mentioned in the [Screenshot Software](#screenshot-software) section.
 
 </article>
 

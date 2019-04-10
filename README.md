@@ -50,11 +50,11 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Prototyping Tools](#prototyping-tools)
 * [Screenshot Software](#screenshot-software)
 * [Sketching Tools](#sketching-tools)
+* [SMM Design Tools](#smm-design-tools)
 * [Sound Design](#sound-design)
 * [Stock Photos Tools](#stock-photos-tools)
 * [Stock Videos](#stock-videos)
 * [Tools for Learning Design](#tools-for-learning-design)
-* [Tools for Marketing](#tools-for-marketing)
 * [UI Design Tools](#ui-design-tools)
 * [User Flow Tools](#user-flow-tools)
 * [User Research Tools](#user-research-tools)
@@ -699,6 +699,17 @@ You can also do some sketching with Sketch mentioned in [UI design tools](https:
 
 </article>
 
+<article id="smm-design-tools">
+
+### SMM Design Tools
+
+* [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert! 
+* [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web. 
+* [Remove.bg](https://www.remove.bg/) — is a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+</article>
+
 <article id="sound-design">
 
 ### Sound Design
@@ -791,16 +802,6 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 </article>
 
-<article id="tools-for-marketing">
-
-### Tools for Marketing
-
-* [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert! 
-* [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web. 
-* [Remove.bg](https://www.remove.bg/) — is a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
-</article>
 
 <article id="ui-design-tools">
 

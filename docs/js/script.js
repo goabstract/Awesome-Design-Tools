@@ -71,3 +71,32 @@ const automaticScroll = () => {
 	})
 }
 automaticScroll();
+
+const addBannerForProductHunt = () => {
+	const createBanner = () => {
+		const div = document.createElement('div');
+		div.classList.add('banner-top-wrapper');
+		div.innerHTML = `
+			<div class="banner-top">
+				<a href="https://www.producthunt.com/posts/flawless-feedback">
+					💛 We're on Product Hunt Today 👉 Please support our tool for tracking UI feedback
+				</a>
+				<div class="banner-top__close" title="close ProductHunt banner">
+					<div class="bar-1"></div><div class="bar-2"></div>
+				</div>
+			</div>
+		`;
+		document.body.appendChild(div);
+	}
+	if (!document.URL.includes('producthunt')) {
+		setTimeout(() => {
+			createBanner();
+			const closeBtn = () => document.querySelector('.banner-top').classList.add('banner-top--hidden');
+			console.log(document.querySelector('.banner-top__close'));
+			document.querySelector('.banner-top__close').onclick = () => {
+				closeBtn();
+			}
+		}, 15000);
+	}
+}
+addBannerForProductHunt();

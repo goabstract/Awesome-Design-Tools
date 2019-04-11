@@ -165,8 +165,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Basecamp](https://basecamp.com/) — the project management suite designed to organize employees, delegate tasks, and monitor progress right from one place.
 * [Filestage](https://filestage.io/) — an agile content approval software that helps you to review videos, designs and documents with clients and co-workers.
 * [Gallery](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with 
-shots. It makes it easier to monitor productivity of remote employees and manage projects.
+* [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with shots. It makes it easier to monitor productivity of remote employees and manage projects.
 * [Jira](https://www.atlassian.com/software/jira) — software development tool used by agile teams.
 * [Keybase](https://keybase.io) — a free collaboration app with built-in end-to-end encrypted chat, file sharing, git repositories, and more ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Mattermost](https://mattermost.com/) — a flexible, open source messaging platform that meets even the most demanding privacy and security standards. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)

@@ -61,7 +61,6 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Visual Debugging Tools](#visual-debugging-tools)
 * [Wireframing Tools](#wireframing-tools)
 * [3D Modeling Software](#three-d-modeling-software)
-* [3D Modeling Software](#three-d-modeling-software)
 
 </div>
 

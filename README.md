@@ -184,7 +184,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Workzone](https://www.workzone.com/) — a simple, powerful project management software.
 * [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
 * [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track project’s progress and brainstorm new ideas.
-* [Zulip](https://zulipchat.com/) — combines immediacy of real-time chat with an email threading model, helping to focus on important conversations while ignoring irrelevant ones. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Zulip](https://zulipchat.com/) — combines immediacy of real-time chat with an email threading model, helping to focus on important conversations while ignoring irrelevant ones. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 
 <div class="banner banner--yellow">

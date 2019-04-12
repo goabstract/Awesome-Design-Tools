@@ -769,6 +769,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 * [Startup Stock Photos](http://startupstockphotos.com/) — free photos for startups, bloggers and publishers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [StockSnap.io](https://stocksnap.io/) — a large selection of free stock photos and high resolution images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [StyledStock](https://styledstock.co/) — free feminine stock photography for every woman entrepreneur. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [The Gender Spectrum Collection](https://broadlygenderphotos.vice.com/) - A stock photo library featuring images of trans and non-binary models that go beyond the clichés. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [UI Faces](https://uifaces.co/) — aggregator that indexes various free avatar sources that you can use in your design mockups. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

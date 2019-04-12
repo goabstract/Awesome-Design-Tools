@@ -4,7 +4,7 @@ const fs = require('fs');
 
 http.createServer((req, res) => {
 	page(req, res, 'index');
-}).listen(8005, '127.0.0.1');
+}).listen(8005, '127.0.0.0');
 
 function page(req, res, name) {
 	fs.readFile(name + '.html', function (err, data) {

@@ -606,6 +606,7 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 
 * [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
 * [Data Pixels](https://github.com/gmattie/Data-Pixels) — create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Draw!](http://www.drawbang.com/) — open source and free web-based pixel art and GIF editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/potomak/drawbang)
 * [Grafx2](https://gitlab.com/GrafX2/grafX2) — a bitmap paint program inspired by the Amiga programs ​Deluxe Paint and Brilliance. Specialized in 256-color drawing. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [GraphicsGale](https://graphicsgale.com/us/) — has many pixel-art specific features, including palette control, selectively erasing colors, and tools for quickly replacing and trying new colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Goya](https://jackschaedler.github.io/goya/) — a pixel-art editor built on ClojureScript and Om. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -614,7 +615,6 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 * [Pixel art to CSS](https://www.pixelartcss.com/) — pixel art animation and drawing web app powered by React. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Poxi](http://app.poxi.rocks/) — a flat pixel art editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Pyxel Edit](https://pyxeledit.com/) — a pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Draw!](http://www.drawbang.com/) — open source and free web-based pixel art and GIF editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/potomak/drawbang)
 
 </article>
 

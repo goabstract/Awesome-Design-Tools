@@ -712,6 +712,7 @@ You can also do some sketching with Sketch mentioned in [UI design tools](https:
 <article id="smm-design-tools">
 
 ### SMM Design Tools
+Often marketing teams need well-design materials. It can be different banners, promo visuals, favicons, animations or just nice images for social platforms, like Twitter or Instagram. It this section we will keep adding tools for everyone to create marketing designs. 
 
 * [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert! 
 * [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web. 

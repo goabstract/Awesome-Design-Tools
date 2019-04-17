@@ -717,7 +717,8 @@ You can also do some sketching with Sketch mentioned in [UI design tools](https:
 Often marketing teams need well-design materials. It can be different banners, promo visuals, favicons, animations or just nice images for social platforms, like Twitter or Instagram. It this section we will keep adding tools for everyone to create marketing designs. 
 
 * [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert! 
-* [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web. 
+* [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web.
+* [Pablo by Buffer](https://pablo.buffer.com/) — design engaging images for your social media posts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Remove.bg](https://www.remove.bg/) — is a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 

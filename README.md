@@ -176,7 +176,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Nextcloud](https://nextcloud.com) — open source collaboration platform for files, kanban boards, chat & calls, calendar and more. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 * [ProofHub](https://www.proofhub.com/) — the one place for all your projects, teams and communications.
-* [RealtimeBoard (Miro)](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration. It was recently renaimed to Miro.
+* [RealtimeBoard (Miro)](https://www.realtimeboard.com/) — whiteboarding platform for cross-functional team collaboration. It was recently renaimed to Miro
 * [Slack](https://slack.com/) — a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips.
 * [Sunsama](https://sunsama.com/) — a beautifully designed, team oriented task manager that consolidates Trello/Jira/Asana tickets into a single, calendar-oriented view.
 * [Taskade](https://taskade.com/) — team productivity made simple, fun and designed for remote teams. Taskade is collaborative and syncs in real-time across web, mobile and desktop.

@@ -869,7 +869,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 * [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
 * [Wireflow](http://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts.
-* [yEd - Graph Editor](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [yEd](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

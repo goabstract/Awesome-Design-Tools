@@ -472,7 +472,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Tilda Icons](https://tilda.cc/free-icons/) — download free icons for landing pages. More than 700 vector icons, collected in 43 sets for business. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Unicons](https://iconscout.com/unicons) — 1000+ pixel-perfect vector icons and Iconfont for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [VisualPharm](https://visualpharm.com/) — free SVG Icons with super-fast search and free Coke. Built for fun by Icons8. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Xicons](https://www.xicons.co/) — free (do whatever you want) vector icons. A new icon pack every 10 days. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Xicons](https://www.xicons.co/) — free vector icons, that update every 10 days. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zwicon](https://www.zwicon.com/) — handcrafted iconset for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">

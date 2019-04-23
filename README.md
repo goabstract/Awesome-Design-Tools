@@ -396,11 +396,12 @@ Listening to users is important but seeing the real usage is even more crucial. 
 Fonts are commonly used for making the web a more beautiful place. It’s an essential part of any design. In this section, you’ll find fonts generators & font finder tools that allow you to manage and work with fonts:
 
 * [Fontbase](https://fontba.se/) — font management made easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [FontPair](https://fontpair.co/) — a simple tool that helps you pair Google Fonts together. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [FontFabric](https://www.fontfabric.com/) — gorgeous interface and good collection. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
+* [FontPair](https://fontpair.co/) — a simple tool that helps you pair Google Fonts together. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Fontown](https://www.fontown.com/en) —  a typographic tool with a non stop growing font catalogue which facilitates designer workflow.
 * [Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [FontSpark](https://fontspark.app/) — a simple tool to help designers quickly find the best fonts for their projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Fontown](https://www.fontown.com/en) —  a typographic tool with a non stop growing font catalogue which facilitates designer workflow.
 * [Font Squirrel](https://www.fontsquirrel.com/fonts/acherus-grotesque) — download free fonts with wide collections.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle way to self-host Google Fonts. It‘s free and open-source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/majodev/google-webfonts-helper/)

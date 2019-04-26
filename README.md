@@ -209,7 +209,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 * [Color Hexa](https://www.colorhexa.com/) — free color tool providing information about any color and generating matching color palettes for designs.
 * [Color Leap](https://colorleap.app) — take a leap through time and see the colors of history. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colorpicker](https://colorpicker.crea-th.at/) — a complete and open-source colors manipulation tool with picking. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [ColorSlurp](http://colorslurp.com/) — is the ultimate color productivity booster for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [ColorSlurp](http://colorslurp.com/) — the ultimate color productivity booster for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Colorwise](https://www.colorwise.io/) — search through the color palettes of the most voted products on Product Hunt. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colour Cafe](https://www.instagram.com/colours.cafe/) — colours inspiration that have selected modern colour palette in Instagram. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -337,7 +337,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Blocs](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
 * [Grapedrop](https://grapedrop.com/) — design your components, web projects and publish them instantly online, with an easy to use editor.
-* [Mason](https://www.trymason.com/core) — is a feature-building platform where modern product teams design, build, and deploy front-end features together.
+* [Mason](https://www.trymason.com/core) — a feature-building platform where modern product teams design, build, and deploy front-end features together.
 * [Mobirise](https://mobirise.com/) — an offline drag and drop website builder software that is based on Bootstrap 3/4 and \ AMP. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [PageCloud](https://www.pagecloud.com/) — the fastest and most customizable website builder that allows anyone to create their ideal website.
 * [PaintCode](https://www.paintcodeapp.com) — vector drawing app that instantly converts drawings into Swift, Objective-C, JavaScript or Java code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

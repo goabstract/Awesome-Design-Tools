@@ -239,7 +239,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 How do you provide and get feedback during the development process? This process is usually pretty messy for many product teams, which caused product delays and time waste on back-and-forth communication. So if you wish to get fast and structural feedback on UI issues or visual bugs — take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Moqhub](https://moqhub.com) — Fast online proofing for creative projects. Get feedback for images and PDFs.
+* [Moqhub](https://moqhub.com) — fast online proofing for creative projects. Get feedback for images and PDFs.
 
 <div class="banner banner--yellow">
 

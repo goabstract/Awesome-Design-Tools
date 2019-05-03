@@ -418,6 +418,8 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 * [Typeface](https://typefaceapp.com/) — font manager that improves your design workflow with live font previews and flexible tagging. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Wakamai Fondue](https://wakamaifondue.com/) — the tool that answers the question "what can my font do?". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [WordMarkIt](https://wordmark.it/) — displays your written word/phrase with all the fonts which are already installed on your computer. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
 
 <div class="banner banner--yellow">
 

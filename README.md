@@ -335,7 +335,7 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 
 Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don’t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.
 
-* [Anima](https://www.animaapp.com/) — a web app with a Sketch plugin that converts Sketch to HTML.
+* [Anima](https://www.animaapp.com/) — a web app with a Sketch plugin that converts Sketch to HTML. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Blocs](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
 * [Grapedrop](https://grapedrop.com/) — design your components, web projects and publish them instantly online, with an easy to use editor.
@@ -646,7 +646,6 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 A prototype is a simple experimental design of a proposed solution. It should help to test ideas, design assumptions, and hypothesis in a fast and cheap way. Prototyping tools allow designers and clients to see how the product would function in the real world and collaborate on this solution. Many modern prototyping tools can use for wireframing, prototyping, and collaboration:
 
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components. It's also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/meetalva/alva)
-* [Anima](https://www.animaapp.com/) — create code-based, high-fidelity prototypes in Sketch.
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
 * [SAP Build](https://www.build.me/) — a complete set of cloud‑based tools to design and build your enterprise app.

@@ -7,8 +7,8 @@ Awesome Design Tools is the biggest design collection on the web and it would ne
 While it’s a side project for our [startup](http://flawlessapp.io/feedback), we’d love to keep it constantly updated & improved. So we are more than happy **to invite sponsors for supporting us.**
 
 ## 👌 What will sponsors get?
-* ability to introduce a product to design & development community via Awesome Design Tools GitHub repo and its own site
-* 6 banners slot 
+* ability to introduce a product to design & development community via Awesome Design Tools [GitHub repo](https://github.com/LisaDziuba/Awesome-Design-Tools) and its [own site](https://flawlessapp.io/designtools)
+* 6 banners slots
 * promotion at our Twitter accounts & Facebook page
 
 ## Want to find out more?

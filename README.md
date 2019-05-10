@@ -173,6 +173,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Mattermost](https://mattermost.com/) — a flexible, open source messaging platform that meets even the most demanding privacy and security standards. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards.
 * [Mixed](https://mixed.io) — real-time whiteboard and collaboration tools for distributed teams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Moqhub](https://moqhub.com) — fast online proofing for creative projects. Get feedback for images and PDFs.
 * [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
 * [Nextcloud](https://nextcloud.com) — open source collaboration platform for files, kanban boards, chat & calls, calendar and more. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.

@@ -188,7 +188,6 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track project’s progress and brainstorm new ideas.
 * [Zulip](https://zulipchat.com/) — combines immediacy of real-time chat with an email threading model, helping to focus on important conversations while ignoring irrelevant ones. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
-
 <div class="banner banner--yellow">
 
 You can also have design collaboration into [InVision Freehand](https://www.invisionapp.com/feature/freehand) tool.

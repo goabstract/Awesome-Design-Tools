@@ -313,6 +313,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 I bet you heard about Design Systems, as it’s a pretty trendy topic. Design systems provide consistent, robust design patterns to keep design and development in sync. They are essentially collections of rules, constraints, and principles, implemented in design and code. Here you can find tools to build, maintain and organize your own design system.
 
 * [Cabana](https://cabanadesignsystem.com/) — a Premium Design System for Sketch that helps you create amazing products faster than ever before.
+* [Catalog](https://www.catalog.style/) - a living style guide for digital products, combining design documentation with real live components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Design System Manager](https://www.invisionapp.com/design-system-manager/) — Invision's design system manager.
 * [EOS Design System](https://www.eosdesignsystem.com) — an open source and customizable built on top of Bootstrap following the Atomic Design concept. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
@@ -320,6 +321,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Prime Design System Kit](https://www.primedesignsystem.com) — it includes device templates, charts, UI kit and even illustration kit. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Specify](https://www.specifyapp.com/) — a tool to create, scale and maintain a design system.
+* [Storybook](https://storybook.js.org/) - an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
@@ -513,14 +515,14 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 * [Absurd Design](https://absurd.design) — free surrealist illustrations for your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [DrawKit](https://www.drawkit.io/) — a collection of fully customisable SVG illustrations, in two styles, available to use on your next project, app, or website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Humaaans](https://www.humaaans.com/) — a free library to mix-&-match illustrations of people. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Illustration by Pngtree](https://pngtree.com/illustration-design) — over 13142 professionally designed illustrations of different styles. 
+* [Illustration by Pngtree](https://pngtree.com/illustration-design) — over 13142 professionally designed illustrations of different styles.
 * [IRA Design](https://iradesign.io/) — create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [JoeSchmoe](https://joeschmoe.io) — an illustrated avatar collection for developers and designers, perfect as placeholders or live sites. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [LukaszAdam](https://lukaszadam.com/illustrations) —  free vector art illustrations and icons. They are available for personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ManyPixels](https://gallery.manypixels.co) — royalty-free illustrations to power up your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Ouch](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
-* [Wannapik](https://www.wannapik.com/) — collection of free illustrations, vector images, photos, and animations for any use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
+* [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Wannapik](https://www.wannapik.com/) — collection of free illustrations, vector images, photos, and animations for any use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
 </article>
@@ -701,7 +703,7 @@ Taking screenshots is a typical task in the design & development workflow. So th
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [OBS](https://obsproject.com/) — open source software for video recording and live streaming. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [ScreenFlow](http://www.telestream.net/screenflow/overview.htm) — video editing and screen recording 
+* [ScreenFlow](http://www.telestream.net/screenflow/overview.htm) — video editing and screen recording
 software for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Screenie](https://www.thnkdev.com/Screenie/) — filter and search through images, change screenshot filetypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ScreenToGif](https://www.screentogif.com/) — record a gif of part of the screen. Only available for Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap)
@@ -736,9 +738,9 @@ You can also do some sketching with Sketch mentioned in [UI design tools](https:
 <article id="smm-design-tools">
 
 ### SMM Design Tools
-Often marketing teams need well-design materials. It can be different banners, promo visuals, favicons, animations or just nice images for social platforms, like Twitter or Instagram. It this section we will keep adding tools for everyone to create marketing designs. 
+Often marketing teams need well-design materials. It can be different banners, promo visuals, favicons, animations or just nice images for social platforms, like Twitter or Instagram. It this section we will keep adding tools for everyone to create marketing designs.
 
-* [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert! 
+* [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert!
 * [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web.
 * [Pablo by Buffer](https://pablo.buffer.com/) — design engaging images for your social media posts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

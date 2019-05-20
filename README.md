@@ -321,7 +321,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Prime Design System Kit](https://www.primedesignsystem.com) — it includes device templates, charts, UI kit and even illustration kit. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Specify](https://www.specifyapp.com/) — a tool to create, scale and maintain a design system.
-* [Storybook](https://storybook.js.org/) - an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 

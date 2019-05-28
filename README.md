@@ -37,6 +37,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Design Version Control](#design-version-control)
+* [Development browsers](#developer-browsers)
 * [Experience Monitoring](#experience-monitoring)
 * [Font Tools](#font-tools)
 * [Gradient Tools](#gradient-tools)
@@ -370,6 +371,18 @@ Developers actively use version control tools for a long time, probably since 20
 * [Plant](https://plantapp.io/) — Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Relay for Figma](https://relay.graphics/) — Relay pushes your latest assets from Figma directly to your codebase (not released yet).
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops.
+
+</article>
+
+<article id="development-browsers">
+    
+### Development Browsers
+
+Development browsers have features that help developers and designers create and test websites and apps.
+
+* [Blisk](https://blisk.co) — Provides a development workspace to develop and test modern web applications twice faster. 
+* [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — Developer edition of the Firefox browser
+* [Polypane](https://polypane.rocks) — A browser built from the ground up to create and test websites and apps. 
 
 </article>
 

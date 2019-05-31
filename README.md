@@ -630,7 +630,7 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 
 Pixel art is a digital art form where color is applied to individual pixels to create an image. The pixel art can be used to create everything from intricate scenes and game backgrounds to character designs or emoji. If you feel curious to try, check this pixel art software for both macOS and Windows:
 
-* [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
+* [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Data Pixels](https://github.com/gmattie/Data-Pixels) — create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Draw!](http://www.drawbang.com/) — open source and free web-based pixel art and GIF editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Grafx2](https://gitlab.com/GrafX2/grafX2) — a bitmap paint program inspired by the Amiga programs ​Deluxe Paint and Brilliance. Specialized in 256-color drawing. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

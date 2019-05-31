@@ -37,7 +37,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Design Version Control](#design-version-control)
-* [Development browsers](#developer-browsers)
+* [Development browsers](#development-browsers)
 * [Experience Monitoring](#experience-monitoring)
 * [Font Tools](#font-tools)
 * [Gradient Tools](#gradient-tools)

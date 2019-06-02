@@ -3,19 +3,15 @@ const capitalizeFirstLetter = (string) => (
 );
 
 const makeTextLogo = (unsplittedTitle) => {
-	const titleObject = unsplittedTitle.split('>')[1].split('</a')[0].split(' ');
-	if (titleObject.length === 1) {
-		return titleObject[0].slice(0, 1);
-	}
-	let result = [];
-	titleObject.map((word) => {
-		if (word === titleObject[0]) {
-			result.push(word[0])
-		} else if (word[0].toUpperCase() === word[0]) {
-			result.push(word[0]);
-		}
-	})
-	return result[0] + result[1];
+	const words = unsplittedTitle.split('>')[1].split('</a')[0].split(' ');
+	
+	const result = words
+		.map(word => word[0])
+		.filter(character => character === character.toUpperCase())
+		.slice(0, 2)
+		.join('');
+
+	return result;
 }
 
 const createTag = (title, className) => `

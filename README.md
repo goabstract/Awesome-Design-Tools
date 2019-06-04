@@ -469,7 +469,7 @@ You can see gradient colors are everywhere — UI, branding, illustration, typog
 * [HtmlColours](https://htmlcolors.com/) — realize how easy and beautiful is to create gradients with this gradients generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Web Gradients](https://webgradients.com/) — a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
+* [GradientsList](https://www.gradientslist.com) — largest crowdsourced collection of gradients, with daily contributions from users on [Gradients Maker for iOS](https://itunes.apple.com/app/apple-store/id1442380225?pt=117877769&ct=gh&mt=8) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 </article>
 
 <article id="icons-tools">

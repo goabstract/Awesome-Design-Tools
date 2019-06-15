@@ -354,6 +354,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Readymag](https://readymag.com/) — a visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 * [Sparkle](https://sparkleapp.com/) — the easiest way to make a real website, no code, no jargon. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
+* [Supernova Studio](https://supernova.io/) - import designs from Sketch and convert them into Android, iOS or React Native code.
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 * [Wix](https://www.wix.com/) — the easiest and fullest-featured website builder, that allows you to create your own highly customized site.
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
@@ -919,6 +920,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
 * [Crowd Signal](https://crowdsignal.com/) — collect, organize and analyze data from a variety of sources, including social media and mobile.
+* [Evolt](https://evolt.io/en/) - create user personas, storyboards, business model canvas, experience maps, brainstorming boards and moodboards in a clean and modern way.
 * [Feedback Lite](https://www.feedbacklite.com/) — collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
 * [GoToMeeting](https://www.gotomeeting.com/en-gb) — a simple, extraordinarily powerful web conferencing service.
 * [JotForm](https://www.jotform.com) — create online forms, get an email for each response, collect data. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

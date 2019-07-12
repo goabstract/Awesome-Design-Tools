@@ -935,6 +935,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 * [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
 * [UserBit](https://userbitapp.com/) — a platform of real-time research tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
 * [User Interviews](https://www.userinterviews.com/) — recruit participants from a community of 125,000 members based on profession, demographics, geography and more, for any kind of research.
+* [Sticktail](https://sticktailapp.com/) - a platform for centralizing, finding and sharing user insights within your organization.
 
 <p align="center" class="hidden-in-page">
     <a href="https://flawlessapp.io/feedback?github">

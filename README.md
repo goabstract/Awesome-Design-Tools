@@ -930,6 +930,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 * [Lookback](https://lookback.io/) — remotely run, record, and take notes for your user research sessions, either with a live product or with a prototype.
 * [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes.
 * [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
+* [Sticktail](https://sticktailapp.com/) — a platform for centralizing, finding and sharing user insights within your organization.
 * [Survey Monkey](https://www.surveymonkey.com/) — online survey tool to capture the voices and opinions of the people who matter most to you.
 * [Typeform](https://www.typeform.com/) — use a simple drag-and-drop interface to create any kind of form, survey, or questionnaire, and even take credit card payments.
 * [Wufoo](https://www.wufoo.com) — сreate forms, collect data and payments, and automate your workflows.

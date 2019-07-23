@@ -933,6 +933,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 * [Evolt](https://evolt.io/en/) — create user personas, storyboards, business model canvas, experience maps, brainstorming boards and moodboards in a clean and modern way.
 * [Feedback Lite](https://www.feedbacklite.com/) — collect high quality customer feedback using Voice of Customer solutions designed to improve your website performance and boost customer engagement.
 * [GoToMeeting](https://www.gotomeeting.com/en-gb) — a simple, extraordinarily powerful web conferencing service.
+* [Handrail](https://handrailux.com/) — Handrail is an end-to-end, collaborative user research and insights platform — plan research, collect and analyze data, and share your findings.
 * [JotForm](https://www.jotform.com) — create online forms, get an email for each response, collect data. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lookback](https://lookback.io/) — remotely run, record, and take notes for your user research sessions, either with a live product or with a prototype.
 * [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes.

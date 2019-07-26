@@ -932,6 +932,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 ### User Research Tools
 User research helps you understand user behaviors, needs, and motivations through various qualitative and quantitative methods (interviews, observation, forms, etc). These user research tools can be useful for you:
 
+* [Appoint.ly](https://appoint.ly) — a web-based scheduling tool that helps to schedule meetings quickly through the integration with calendars online.
 * [Calendly](https://calendly.com/) — Calendly helps you schedule meetings without the back-and-forth emails.
 * [Crowd Signal](https://crowdsignal.com/) — collect, organize and analyze data from a variety of sources, including social media and mobile.
 * [Evolt](https://evolt.io/en/) — create user personas, storyboards, business model canvas, experience maps, brainstorming boards and moodboards in a clean and modern way.

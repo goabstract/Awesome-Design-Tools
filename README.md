@@ -939,6 +939,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 * [Handrail](https://handrailux.com/) — an end-to-end, collaborative user research and insights platform — plan research, collect and analyze data, and share your findings.
 * [JotForm](https://www.jotform.com) — create online forms, get an email for each response, collect data. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Lookback](https://lookback.io/) — remotely run, record, and take notes for your user research sessions, either with a live product or with a prototype.
+* [MineTime](https://minetime.ai) — a free calendar app with smart scheduling and time analytics features. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes.
 * [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
 * [Sticktail](https://sticktailapp.com/) — a platform for centralizing, finding and sharing user insights within your organization.

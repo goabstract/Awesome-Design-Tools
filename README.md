@@ -410,6 +410,7 @@ Listening to users is important but seeing the real usage is even more crucial. 
 * [Fathom](https://usefathom.com/) — provides simple, useful websites stats without tracking or storing personal data of your users.
 * [FullStory](https://www.fullstory.com/) — an app that captures all your customer experience data in one powerful, easy-to-use platform.
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI and track your sites and applications. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Heatly](https://www.heatlyanalytics.com) — free heatmap tools to understand the website's user experience better.
 * [Heap](https://heapanalytics.com/) — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
 * [Hotjar](https://www.hotjar.com/) — see how visitors are really using your website and collect user feedback.
 * [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do.

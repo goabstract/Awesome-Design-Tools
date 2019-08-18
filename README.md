@@ -350,8 +350,7 @@ Listening to users is important but seeing the real usage is even more crucial. 
 * [LogRocket](https://www.logrocket.com/) — see what users do on your site, helping you reproduce bugs and fix issues faster.
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
-* [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
-* [Usabilla](https://usabilla.com) - build future-proof customer experiences by asking the right questions at the right time. 
+* [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications. 
 
 
 </article>

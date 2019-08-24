@@ -10,8 +10,9 @@ const createPromoBanner = ({ document }, link = 'https://flawlessapp.io/feedback
 
     const bannerParents = [
         '#accessibility-tools',
+        '#user-research-tools',
+        '#prototyping-tools',
         '#visual-debugging-tools',
-        '#screenshot-software',
     ];
 
     bannerParents.map(parent => document.querySelector(parent).appendChild(banner.cloneNode(true)));

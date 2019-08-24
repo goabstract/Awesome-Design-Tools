@@ -25,7 +25,7 @@ const config = {
 	index: `./docs/index.html`,
 }
 
-const writeHtml = (html, isProduction) => {
+const writeHtml = (html, isProduction = process.env.PRODUCTION) => {
 	const { index } = config;
 	const minified = minify(html, {
 		removeAttributeQuotes: true,
@@ -34,7 +34,7 @@ const writeHtml = (html, isProduction) => {
 		collapseWhitespace: true,
 	});
 	const chooseVersion = () => {
-		if (isProduction !== false) {
+		if (isProduction) {
 			return minified;
 		} else {
 			return html;
@@ -82,4 +82,4 @@ const parseTweaks = (html) => {
 
 Promise.all([readMarkdown])
 	.then(res => parseTweaks(res))
-	.then(res => writeHtml(res, process.env.PRODUCTION));
+	.then(res => writeHtml(res));

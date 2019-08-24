@@ -55,7 +55,6 @@ const automaticScroll = () => {
 		const quarterOfNavHeight = navHeight / 4;
 
 		const res = (bodyScrollTop / bodyHeight) * 100;
-		console.log(res);
 		if (res > 20 && res < 40) {
 			nav.scrollTop = quarterOfNavHeight;
 		} else if (res > 40 && res < 55) {

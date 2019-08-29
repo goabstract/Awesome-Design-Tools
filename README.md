@@ -686,7 +686,6 @@ A prototype is a simple experimental design of a proposed solution. It should he
 
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components. It's also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/meetalva/alva)
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
-* [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
 * [SAP Build](https://www.build.me/) — a complete set of cloud‑based tools to design and build your enterprise app.
 * [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [InVision](https://www.invisionapp.com/) — prototyping, collaboration & workflow platform. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

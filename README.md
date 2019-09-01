@@ -117,6 +117,7 @@ Animations guide people through the product friendly and smoothly. Live interact
 
 * [After Effects](https://www.adobe.com/products/aftereffects.html) — a digital visual effects, motion graphics, and compositing application developed by Adobe.
 * [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
+* [Dokyu Motion](https://3dmybusiness.com) — Dokyu simplifies motion design in After Effects so any editor can tell stories that won′t be ignored.
 * [Flare](https://www.2dimensions.com/about-flare) — a powerful design and animation tool, which allows designers and developers to create animations for their app or game. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Flow](https://createwithflow.com/) — a professional animation tool for Sketch designs that also exports production ready code for iOS, Web or SVG files. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [GSAP](https://greensock.com/) — a suite of tools for scripted, high-performance HTML5 animations in all major browsers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

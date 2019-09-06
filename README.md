@@ -137,7 +137,7 @@ Animations guide people through the product friendly and smoothly. Live interact
 
 <div class="banner banner--yellow">
 
-Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
+Drama, Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
 
 </div>
 

@@ -690,6 +690,7 @@ A prototype is a simple experimental design of a proposed solution. It should he
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [SAP Build](https://www.build.me/) — a complete set of cloud‑based tools to design and build your enterprise app.
 * [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Drama](https://www.drama.app/) —  prototype, animate and design in a single Mac app. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [InVision](https://www.invisionapp.com/) — prototyping, collaboration & workflow platform. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
 * [Framer X](https://framer.com/) — a tool to visually design realistic interactive prototypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

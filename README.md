@@ -874,10 +874,10 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Design Better](https://www.designbetter.co/) — discover the best practices, stories, and insights from the world’s top design teams and leaders. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Design+Code](https://designcode.io/) — complete courses about the best tools and design systems.
 * [DesignerUp](https://designerup.co/) — a collection of self-paced courses and mentorship to help you master Product Design (UI/UX).
+* [Interaction Design Foundation](https://www.interaction-design.org/) — a website which is industry will known for learning Ux Ui skills.
 * [Laws of UX](https://lawsofux.com/) — a collection of the maxims and principles that designers can consider when building user interfaces. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
 * [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
-* [Interaction Design Foundation](https://www.interaction-design.org/) — a website which is industry will known for learning Ux Ui skills.
 </article>
 
 

@@ -877,7 +877,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Laws of UX](https://lawsofux.com/) — a collection of the maxims and principles that designers can consider when building user interfaces. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
 * [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
-* [Interaction Design Foundation](https://www.interaction-design.org/) - the best industry will known web site for learing Ux Ui skills.
+* [Interaction Design Foundation](https://www.interaction-design.org/) - a website that is industry will known for learing Ux Ui skills.
 </article>
 
 

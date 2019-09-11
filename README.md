@@ -103,7 +103,7 @@ Accessibility is the practice of creating websites and apps usable for all peopl
 
 <div class="banner banner--yellow">
 
-Accessibility checking feature is also available in VisBug from [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) categoty.
+Accessibility checking features are also available in VisBug from [Visual Debugging Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#visual-debugging-tools) category.
 
 </div>
 

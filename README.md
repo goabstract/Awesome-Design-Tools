@@ -434,7 +434,7 @@ Listening to users is important but seeing the real usage is even more crucial. 
 Fonts are commonly used for making the web a more beautiful place. It’s an essential part of any design. In this section, you’ll find fonts generators & font finder tools that allow you to manage and work with fonts:
 
 * [BeFonts](https://befonts.com/) — a Decent collection of free fonts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Behance Free Fonts](https://www.behance.net/search?search=free%252Bfont) — a list of free fonts uploaded on Behance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Behance Free Fonts](https://www.behance.net/search/?search=free%20font) — a list of free fonts uploaded on Behance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [DaFont](https://www.dafont.com/) — archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Emotype](http://emotype.webflow.io/) — makes it easy to find fonts based on the emotions you want to convey on your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Fontbase](https://fontba.se/) — font management made easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

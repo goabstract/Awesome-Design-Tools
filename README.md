@@ -421,8 +421,8 @@ Listening to users is important but seeing the real usage is even more crucial. 
 * [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
 * [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
-* [Smartlook](https://www.smartlook.com) — user session replay and user engagement analytics. 
-* [Usabilla](https://usabilla.com) - build future-proof customer experiences by asking the right questions at the right time. 
+* [Smartlook](https://www.smartlook.com) — user session replay and user engagement analytics.
+* [Usabilla](https://usabilla.com) - build future-proof customer experiences by asking the right questions at the right time.
 
 
 </article>
@@ -485,6 +485,7 @@ You can see gradient colors are everywhere — UI, branding, illustration, typog
 * [Egg Gradients](https://www.eggradients.com/) — a color collection page which includes shades of 12 different colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Grabient](https://www.grabient.com/) — beautiful and simple UI for generating web gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [GradientsList](https://www.gradientslist.com) — largest crowdsourced collection of gradients, with daily contributions from users on [Gradients Maker for iOS](https://itunes.apple.com/app/apple-store/id1442380225?pt=117877769&ct=gh&mt=8) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Gradient Generator](https://colordesigner.io/gradient-generator) - a tool that generates a stepped gradient between two colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Gradient Hunt](https://gradienthunt.com/) — a free and open platform for colour inspiration with thousands of trendy hand-made colour gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Gradients Guru](http://gradientsguru.com/) — blend mode background images & beautiful background gradients for your UI. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [HtmlColours](https://htmlcolors.com/) — realize how easy and beautiful is to create gradients with this gradients generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

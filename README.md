@@ -531,7 +531,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [VisualPharm](https://visualpharm.com/) — free SVG Icons with super-fast search and free Coke. Built for fun by Icons8. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Xicons](https://www.xicons.co/) — free vector icons, that update every 10 days. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Zwicon](https://www.zwicon.com/) — handcrafted iconset for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [CoreUI Icons](https://www.coreui.io/icons/) — Premium designed free icon set with marks in SVG, Webfont and raster formats.
+* [CoreUI Icons](https://www.coreui.io/icons/) — premium designed free icon set with marks in SVG, Webfont and raster formats. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 <div class="banner banner--yellow">
 

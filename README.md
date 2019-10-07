@@ -653,6 +653,8 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 * [Bubble](https://bubble.is/) — build and host web applications without having to write code or hire a team of engineers.
 * [Carrd](https://carrd.co/) — simple, free, fully responsive one-page sites for pretty much anything. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Coda](https://coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Naker.Back](https://app.naker.io/back) — Integrate an interactive background for free to draw more attention to your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Naker.Story](https://naker.io/naker-story.html) — Make your web content interactive to engage your visitors like never before thanks to 3D. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [PageXL](https://pagexl.com/) — a simple one-page website builder for quickly creating landing pages and online stores. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Retool](https://tryretool.com/) — gives you building blocks and you can build tools much faster.
@@ -660,8 +662,6 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 * [Shopify](https://www.shopify.com/) — one platform with all the ecommerce and point of sale features you need to start, run, and grow your business.
 * [Thunkable](https://thunkable.com/) — a drag-and-drop tool for anyone to build native mobile apps.
 * [UserGuiding](https://userguiding.com/) — create walkthroughs, checklists, hotspots and modals to improve user onboarding.
-* [Naker.Back](https://app.naker.io/back) — Integrate an interactive background for free to draw more attention to your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Naker.Story](https://naker.io/naker-story.html) — Make your web content interactive to engage your visitors like never before thanks to 3D. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

@@ -660,6 +660,8 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 * [Shopify](https://www.shopify.com/) — one platform with all the ecommerce and point of sale features you need to start, run, and grow your business.
 * [Thunkable](https://thunkable.com/) — a drag-and-drop tool for anyone to build native mobile apps.
 * [UserGuiding](https://userguiding.com/) — create walkthroughs, checklists, hotspots and modals to improve user onboarding.
+* [Naker.Back](https://app.naker.io/back) — Integrate an interactive background for free to draw more attention to your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Naker.Story](https://naker.io/naker-story.html) — Make your web content interactive to engage your visitors like never before thanks to 3D. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

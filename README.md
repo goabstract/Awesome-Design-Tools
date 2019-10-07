@@ -524,6 +524,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Orion Icons](https://orioniconlibrary.com/all-icons) — SVG vector icons with an advanced interactive web app.
 * [Simple Icons](https://simpleicons.org/) — free SVG icons for popular brands. Simply click the icon you want, and the download should start automatically. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Share Icon](https://www.shareicon.net/) — more than 300 000 free download icons in different formats. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Streamline Emoji](http://emoji.streamlineicons.com/) — a free collection of 850 + vector emoji. The style is inspired by the japanese “Kawaii” (cute) style. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Svgsus](http://www.svgs.us/) — SVG icon management tool. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [SVG Colorizer](https://www.iconshock.com/svg-color/) — a tool to automatically change the entire color palette of any given svg icon pack intelligently keeping the shades, highlights & shadows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

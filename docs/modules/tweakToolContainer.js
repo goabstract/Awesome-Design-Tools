@@ -10,7 +10,6 @@ const removeEmojis  = string => {
 const makeTextLogo = (unsplittedTitle) => {
 	let titleObject = removeEmojis(unsplittedTitle).split('">')[1].split('</a')[0].split(' ');
 	let result = '';
-	unsplittedTitle.includes('ind and Replace Text') && console.log(unsplittedTitle, titleObject[0])
 	if (titleObject.length > 1) {
 		result = titleObject[0].slice(0, 1) + titleObject[1].slice(0, 1);
 	} else {
@@ -29,6 +28,15 @@ const createTag = (title, className) => `
 	</div>
 `;
 
+const createLabel = (title, className) => `
+	<div
+		class="label label--${className}"
+		title="this plugin is for ${title}"
+	>
+		${title}
+	</div>	
+`;
+
 const addTag = (tool) => {
 	const { innerHTML } = tool;
 	const check = (tag) => innerHTML.includes(tag);
@@ -43,14 +51,23 @@ const addTag = (tool) => {
 	if (check('alt="mac')) {
 		push('Mac only', 'mac');
 	}
-	if (check('alt="sketch"')) {
-		push('Sketch', 'mac');
+	return result.join(' ');
+}
+
+const addLabel = (tool) => {
+	const { innerHTML } = tool;
+	const check = (tag) => innerHTML.includes(tag);
+	let result = [];
+	const push = (title, className) => result.push(createLabel(title, className));
+
+	if (check('alt="sketch.svg"')) {
+		push('Sketch', 'sketch');
 	}
-	if (check('alt="figma"')) {
-		push('Figma', 'mac');
+	if (check('alt="figma.svg"')) {
+		push('Figma', 'figma');
 	}
-	if (check('alt="xd"')) {
-		push('XD', 'mac');
+	if (check('alt="adobe-xd.svg"')) {
+		push('Adobe XD', 'xd');
 	}
 	return result.join(' ');
 }
@@ -63,12 +80,17 @@ const tweakToolContainer = ({ document }) => {
 		const title = tool.innerHTML.split(' — ')[0];
 		const descriptionFromMarkdown = tool.innerHTML.split(' — ')[1];
 		const description = `<p>${capitalizeFirstLetter(descriptionFromMarkdown)}</p>`;
-		const toolLink = title.split('href="')[1].split('"')[0];
+		let toolLink = title.split('href="')[1].split('"')[0];
+		// const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/;
+		toolLink.includes('')
 		tool.innerHTML = `
 			<a href="${toolLink}" class="tool__asset">${makeTextLogo(title)}</a>
 			<div class="tool__description">
 				<header class="tool__description__header">
 					${title}
+					<div class="label-wrapper">
+						${addLabel(tool)}
+					</div>
 				</header>
 				${description}
 				<div class="tag-wrapper">

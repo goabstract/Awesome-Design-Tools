@@ -511,6 +511,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Flaticon](https://www.flaticon.com/) — 1593000+ vector icons in SVG, PSD, PNG, EPS format or as icon font.
 * [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome)
 * [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello)
+* [Freepik](https://www.freepik.com) — collection of exclusive freebies and all graphic resources that you need for your projects.
 * [Iconscout](https://iconscout.com/) — get high-quality Icons, Illustrations and Stock photos at one place.
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -565,7 +566,6 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 * [Ouch](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Wannapik](https://www.wannapik.com/) — collection of free illustrations, vector images, photos, and animations for any use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
 
 </article>
 

@@ -864,6 +864,10 @@ article ul {
 	text-decoration: none;
 }
 
+.promotion-banner:visited {
+	color: #1b1c26;
+}
+
 .promotion-banner.-supernova {
 	background-color: #e4ecf5; 
 }

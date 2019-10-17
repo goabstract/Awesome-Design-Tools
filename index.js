@@ -92,7 +92,7 @@ const parseTweaks = (html, config) => {
 				title: 'SuperNova',
 				description: 'Convert any mobile design into full-fledged native applications',
 				link: {
-					href: '/123',
+					href: 'https://supernova.io/?utm_source=flawless&utm_medium=partner&utm_campaign=ad',
 					className: '-supernova',
 					text: 'Try Supernova Studio',
 				},
@@ -122,12 +122,12 @@ const parseTweaks = (html, config) => {
 				title: 'ProtoPie',
 				description: 'Interactive prototyping for all digital products',
 				link: {
-					href: '/123',
+					href: 'http://bit.ly/2Mbl9HW',
 					className: '-protopie',
 					text: 'Try for Free',
 				},
 			},
-			['#prototyping-plugins']
+			['#prototyping-plugins', '#dynamic-layout-and-padding', '#document-organisation-plugins']
 		);
 		promotionBanner(
 			window,
@@ -137,27 +137,46 @@ const parseTweaks = (html, config) => {
 				title: 'Maze',
 				description: 'Maze is a user testing platform that turns your prototype into actionable insights.',
 				link: {
-					href: '/123',
+					href: 'https://maze.design/?utm_source=promo&utm_medium=community_banner',
 					className: '-maze',
 					text: 'Try for Free',
 				},
 			},
-			['#prototyping-plugins']
+			['#analytics-and-user-research']
 		);
 		promotionBanner(
 			window,
 			{
-				className: '-maze',
-				logo: '-maze',
+				className: '-porkbun',
+				logo: '-porkbun',
 				title: 'Get your free .design domain name!',
 				description: `Thinking of building your portfolio? .design is like .com, and .net, but it's more relevant to what you do as a designer.`,
+				hasImage: true,
+				// image1x: 'https://flawlessapp.io/images/designtools/porkbun/porkbun-logo.png',
+				// image2x: 'https://flawlessapp.io/images/designtools/porkbun/porkbun-logo@2x.png',
+				// image3x: 'https://flawlessapp.io/images/designtools/porkbun/porkbun-logo@3x.png',
 				link: {
-					href: '/123',
-					className: '-maze',
+					href: 'https://porkbun.com/tld/design/?coupon=FLAWLESSPROJ1',
+					className: '-porkbun',
 					text: 'Get 1-year Free',
 				},
 			},
-			['#screenshot-software', '#design-inspiration']
+			['#other-plugins']
+		);
+		promotionBanner(
+			window,
+			{
+				className: '-xd',
+				logo: '-xd',
+				title: 'Adobe XD',
+				description: 'Design at the speed of thought.',
+				link: {
+					href: 'https://www.adobe.com/products/xd.html?utm_source=flawless&utm_medium=partner&utm_campaign=ad',
+					className: '-xd',
+					text: 'Get a free, 14-day trial',
+				},
+			},
+			['#generative-ui']
 		);
 		return document.documentElement.outerHTML;
 }

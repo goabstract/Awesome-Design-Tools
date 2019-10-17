@@ -1,29 +1,32 @@
-const HtmlParts = require('./HtmlParts');
+const Templates = require('./Templates');
 
-const editHead = ({ document }, isProduction) => {
+const editHead = ({ document }, title, meta, icons, isProduction) => {
 	const head = document.querySelector('head');
     const {
-        title,
-        meta,
-        icons,
+        createTitle,
+        createMeta,
+        createIcons,
+        fonts,
         styleInner,
         styleExternal,
         analytics
-    } = HtmlParts;
+    } = Templates;
 
     if (isProduction !== false) {
         head.innerHTML = `
-            ${title}
-            ${meta}
-            ${icons}
+            ${createTitle(title)}
+            ${createMeta(meta)}
+            ${createIcons(icons)}
             ${styleInner}
+            ${fonts}
             ${analytics}
         `;
     } else {
         head.innerHTML = `
-            ${title}
-            ${meta}
-            ${icons}
+            ${createTilte(title)}
+            ${createMeta(meta)}
+            ${createIcons(icons)}
+            ${fonts}
             ${styleExternal}
         `;        
     }

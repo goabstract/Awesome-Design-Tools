@@ -46,8 +46,6 @@ bookmark.scroll();
 
 const automaticScroll = () => {
 	const nav = document.querySelector('.nav ul');
-	const articles = document.querySelectorAll('main > article');
-	const articleFourthChild = document.querySelectorAll('main > article:nth-child(8n)');
 	document.addEventListener('scroll', () => {
 		const bodyHeight = document.body.offsetHeight;
 		const bodyScrollTop = document.body.scrollTop;
@@ -71,3 +69,72 @@ const automaticScroll = () => {
 	})
 }
 automaticScroll();
+
+// search input
+
+String.prototype.capitalize = function() {
+	return this.charAt(0).toUpperCase() + this.slice(1)
+}
+
+document.querySelector('.js-search-input').addEventListener('input', function(e) {
+	document.removeEventListener('scroll', automaticScroll, true)
+	'use strict';
+
+	const inputContent = e.target.value;
+	const paragraphs = document.querySelectorAll('main .tool');
+	const banner = document.querySelectorAll('.banner');
+	const promoBanner = document.querySelectorAll('.promo-banner');
+	const articleHeaders = document.querySelectorAll('main article > header');
+	const addendum = document.querySelector('#addendum');
+	const welcome = document.querySelector('.welcome');
+	const promotionBanner = document.querySelectorAll('.promotion-banner-wrapper');
+	const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, addendum, welcome, ...promotionBanner];
+	if (inputContent.length > 0) {
+		elementsToHide.forEach(banner => banner.classList.add('-hidden'));
+	} else if (inputContent.length === 0) {
+		elementsToHide.forEach(banner => banner.classList.remove('-hidden'));
+	}
+
+	function handle(text) {
+		const bool = inputContent || inputContent.capitalize() || inputContent.toUpperCase();
+		if (text.innerHTML.search(bool) >= 0) {
+			// articles.forEach(article => article === text.parentElement.parentElement && article.classList.remove('-hidden'));
+			text.classList.remove('-hidden');
+		} else {
+			try {
+				// text.parentElement.parentElement.classList.add('-hidden');
+			} catch(err) {
+				console.log(err);
+			}
+			text.classList.add('-hidden')
+		}
+	}
+
+	paragraphs.forEach(text => handle(text))
+})
+
+// add event for nav button when clicking on it while searching
+
+document.querySelectorAll('.nav a').forEach(button =>
+	button.addEventListener('click', (e) => {
+		e.preventDefault();
+		// make empty input
+		document.querySelector('.js-search-input').value = '';
+
+		// scroll a bit less due to nav fixed positioning
+		window.scrollTo(0, document.querySelector(e.target.getAttribute('href')).offsetTop - 90);
+
+		const banner = document.querySelectorAll('.banner');
+		const promoBanner = document.querySelectorAll('.promo-banner');
+		const articleHeaders = document.querySelectorAll('main article > header');
+		const addendum = document.querySelector('#addendum');
+		const welcome = document.querySelector('.welcome');
+		const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, addendum, welcome];
+		const paragraphs = document.querySelectorAll('main .tool');
+
+		// back to default view
+		elementsToHide.forEach(banner => banner.classList.remove('-hidden'));
+		paragraphs.forEach(p => p.classList.remove('-hidden'));
+	})
+);
+

@@ -13,42 +13,35 @@ const tweakToolContainer = require('./docs/modules/tweakToolContainer');
 const addHamburgerMenu = require('./docs/modules/addHamburgerMenu');
 const addWelcomeArticle = require('./docs/modules/addWelcomeArticle');
 const addScripts = require('./docs/modules/addScripts');
-const deleteAllIconsInDescription = require('./docs/modules/deleteAllIconsInDescription');
+const deleteAllIconsInDescription = require('./docs/modules/helpers/deleteAllIconsInDescription');
 const addBackgroundColorToLogo = require('./docs/modules/addBackgroundColorToLogo');
-const removeAllImages = require('./docs/modules/removeAllImages');
+const removeAllImages = require('./docs/modules/helpers/removeAllImages');
 const addContributeButtonForAddendum = require('./docs/modules/addContributeButtonForAddendum');
 const removeListInAddendum = require('./docs/modules/removeListInAddendum');
-const addFooter = require('./docs/modules/addFooter');
+const addHeader = require('./docs/modules/addHeader');
+const promotionBanner = require('./docs/modules/view/promotionBanner');
 
-const config = {
-	markdownFile: `./README.md`,
-	index: `./docs/index.html`,
-}
 
-const writeHtml = (html, isProduction = process.env.PRODUCTION) => {
-	const { index } = config;
+const designToolsConfig = require('./docs/modules/CONFIG.js');
+const designPluginsConfig = require('./docs/modules/config/plugins.js');
+
+const writeHtml = (html, fileToWrite, isProduction = true) => {
 	const minified = minify(html, {
 		removeAttributeQuotes: true,
 		minifyCSS: true,
 		minifyJS: true,
 		collapseWhitespace: true,
+		removeComments: true,
 	});
-	const chooseVersion = () => {
-		if (isProduction) {
-			return minified;
-		} else {
-			return html;
-		}
-	}
-	fs.writeFile(index, chooseVersion(), function(err, data) {
+	const chooseVersion = isProduction ? minified : html;
+	fs.writeFile(fileToWrite, minified, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
 }
 
-const readMarkdown = new Promise((resolve, reject) => {
-	const { markdownFile } = config;
-	fs.readFile(markdownFile, (err, data) => {
+const readMd = (mdFile) => new Promise((resolve, reject) => {
+	fs.readFile(mdFile, (err, data) => {
 		console.log(`got md file`);
 		const mdData = data.toString();
 		const html = md.render(mdData);
@@ -56,30 +49,122 @@ const readMarkdown = new Promise((resolve, reject) => {
 	})
 });
 
-const parseTweaks = (html) => {
+const parseTweaks = (html, config) => {
 		const dom = new JSDOM(html);
 		const { document } = dom.window;
 		const { window } = dom;
 
-		editHead(window, process.env.PRODUCTION);
+		const {
+			title,
+			head,
+			bodyColorScheme,
+			logoClassName,
+			nav,
+			welcomeArticle,
+		} = config;
+
+		const isTool = document.querySelector('h1').textContent.split(' ')[2] === 'Tools' ? true : false;
+
+		// add color scheme
+		document.body.classList.add(bodyColorScheme);
+
+		// tweak dom
+		editHead(window, head.title, head.meta, head.favicon, process.env.PRODUCTION);
 		createPromoBanner(window);
 		addIDsForHeadings(window);
 		addLinksToNavigationElements(window);
 		tweakDescriptionOfArticleTopic(window);
 		tweakToolContainer(window);
 		addHamburgerMenu(window);
-		addWelcomeArticle(window);
+		addWelcomeArticle(window, welcomeArticle);
 		addScripts(window);
 		deleteAllIconsInDescription(window);
 		addBackgroundColorToLogo(window);
 		removeAllImages(window);
 		addContributeButtonForAddendum(window);
 		removeListInAddendum(window);
-		addFooter(window);
-
+		addHeader(window, title, logoClassName, nav, isTool);
+		promotionBanner(
+			window,
+			{
+				className: '-supernova',
+				logo: '-supernova',
+				title: 'SuperNova',
+				description: 'Convert any mobile design into full-fledged native applications',
+				link: {
+					href: '/123',
+					className: '-supernova',
+					text: 'Try Supernova Studio',
+				},
+			},
+			['#code-export', '#collaboration', '#plugin-development']
+		);
+		promotionBanner(
+			window,
+			{
+				className: '-abstract',
+				logo: '-abstract',
+				title: 'Abstract',
+				description: 'We centralize design decisions, feedback, Sketch files, and specs for your team.',
+				link: {
+					href: '/123',
+					className: '-abstract',
+					text: 'Get a free, 14-day trial',
+				},
+			},
+			['#version-control-plugins', '#design-handoff-tools', '#design-version-control']
+		);
+		promotionBanner(
+			window,
+			{
+				className: '-protopie',
+				logo: '-protopie',
+				title: 'ProtoPie',
+				description: 'Interactive prototyping for all digital products',
+				link: {
+					href: '/123',
+					className: '-protopie',
+					text: 'Try for Free',
+				},
+			},
+			['#prototyping-plugins']
+		);
+		promotionBanner(
+			window,
+			{
+				className: '-maze',
+				logo: '-maze',
+				title: 'Maze',
+				description: 'Maze is a user testing platform that turns your prototype into actionable insights.',
+				link: {
+					href: '/123',
+					className: '-maze',
+					text: 'Try for Free',
+				},
+			},
+			['#prototyping-plugins']
+		);
+		promotionBanner(
+			window,
+			{
+				className: '-maze',
+				logo: '-maze',
+				title: 'Get your free .design domain name!',
+				description: `Thinking of building your portfolio? .design is like .com, and .net, but it's more relevant to what you do as a designer.`,
+				link: {
+					href: '/123',
+					className: '-maze',
+					text: 'Get 1-year Free',
+				},
+			},
+			['#screenshot-software', '#design-inspiration']
+		);
 		return document.documentElement.outerHTML;
 }
 
-Promise.all([readMarkdown])
-	.then(res => parseTweaks(res))
-	.then(res => writeHtml(res));
+Promise.all([readMd(designToolsConfig.markdownFile)])
+	.then(res => parseTweaks(res, designToolsConfig.main))
+	.then(res => writeHtml(res, designToolsConfig.index, true))
+	.then(() => Promise.all([readMd(designPluginsConfig.markdownFile)]))
+	.then(res => parseTweaks(res, designPluginsConfig.main))
+	.then(res => writeHtml(res, designPluginsConfig.index, false));

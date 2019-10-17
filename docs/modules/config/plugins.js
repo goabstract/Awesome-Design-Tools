@@ -12,27 +12,27 @@ const {
     favicon57,
     favicon32,
     favicon16,
-} = require('./image'); 
+} = require('../favicon-adp'); 
 
 const CONFIG = {
-	markdownFile: `./README.md`,
-	index: `./docs/index.html`,
+	markdownFile: `./plugins.md`,
+    index: `./docs/index-plugins.html`,
     promoFlawlessFeedbackBanner__title: 'Leave feedback on iOS apps',
     promoFlawlessFeedbackBanner__description: 'Turn UI issues & Bugs Into Jira tickets or Trello cards', 
     promoFlawlessFeedbackBanner__link: 'https://flawlessapp.io/feedback',
     main: {
-        title: 'Awesome Design Tools',
+        title: 'Awesome Design Plugins',
         themeColor: '#0054d7',
-        bodyColorScheme: '-blue',
-        logoClassName: '-logo-adt',
+        bodyColorScheme: '-green',
+        logoClassName: '-logo-adp',
         head: {
-            title: 'Awesome Design Tools',
+            title: 'Awesome Design Plugins',
             meta: {
-                title: 'Awesome Design Tools',
-                themeColor: '#0054d7',
-                description: 'The best design tools for everything — from wireframing and prototyping to animation, accessibility, AR, design systems and sound design.',
-                image: 'https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-general.png',
-                siteURL: 'https://flawlessapp.io/designtools',
+                title: 'Awesome Design Plugins',
+                themeColor: '#028930',
+                description: 'Design plugins',
+                image: '',
+                siteURL: 'https://flawlessapp.io/designplugins',
             },
             favicon: {
                 '196': favicon196,
@@ -55,26 +55,27 @@ const CONFIG = {
                 {
                     title: 'Tools',
                     href: '/designtools',
-                    isActive: true,
+                    isActive: false,
                     className: '-tool',
                 },
                 {
                     title: 'Plugins',
                     href: '/designplugins',
-                    isActive: false,
+                    isActive: true,
                     className: '-plugin',
                 },
             ],
         },
         welcomeArticle: {
-            title: 'Awesome Design Tools',
-            logoClassName: '-logo-adt',
-            description: `The best design tools for everything. Curated by Lisa Dziuba & Valia Havruliyk from <a href="https://flawlessapp.io/feedback">Flawless team</a>.`,
+            title: 'Awesome Design Plugins',
+            logoClassName: '-logo-adp',
+            description: `The best design plugins.`,
             button: {
                 href: 'https://github.com/LisaDziuba/Awesome-Design-Tools',
             },
         },
+
     },
-}
+};
 
 module.exports = CONFIG;

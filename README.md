@@ -22,6 +22,8 @@ If you found some great design tool, just send a Pull Request with respect to ou
 
 </div>
 
+<header class='header header-top -blue'></header>
+
 <div class="nav">
 
 ## Table of Content
@@ -80,7 +82,6 @@ If you found some great design tool, just send a Pull Request with respect to ou
 Accessibility is the practice of creating websites and apps usable for all people, including individuals with visual, motor, auditory, speech, or cognitive disabilities. Here you will find web accessibility tools, accessibility testing tools, and accessibility apps both for developers and designers:
 
 * [A11ygator](https://a11ygator.chialab.io) — a web tool to analyze websites against WCAG rules. Also available as browser extension and as Twitter bot. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/chialab/a11ygator-app)
-* [A11ysupport](https://a11ysupport.io/) — a community-driven website that informs developers about what is accessibility support. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/accessibilitysupported/a11ysupport.io)
 * [Accessibility Insights](https://accessibilityinsights.io/) — helps developers quickly find and fix accessibility issues. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Accessible Palette Builder](https://toolness.github.io/accessible-color-matrix/) — an Elm-based prototype to help designers build accessible color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/toolness/accessible-color-matrix)
 * [AChecker](https://achecker.ca) — accessibility testing web app used to evaluate HTML content for accessibility problems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -237,7 +238,6 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 * [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
 * [Material Colors Native](https://github.com/BafS/Material-Colors-native) — Google's material design color palette in the form of a mac app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Material Design Palette Generator](https://materialpalettes.com/) — get perfect Material Design color palettes from any hex color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Palettable](https://palettable.io) — create a 5-color palette by liking or disliking color suggestions that match your first color choice. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Picular](https://picular.co/) — a rocket fast primary color generator using Google's image search. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Pigment](https://pigment.shapefactory.co/)  — a color palette generator with innumerable color configurations suggested by the app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -522,7 +522,6 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Material Design Icons](https://materialdesignicons.com/) — free material design icons made possible by open source contributons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Material Icons Library](https://icons.pixsellz.io/) — free collection of 1000+ icons for popular graphics tools. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Motion Icons](https://motionicons.com) — bring your app, website or project to life using free animated SVG icons.
-* [Movin Icons](https://movinicons.com) — completely vector, animated icons for interfaces
 * [Noun Project](https://thenounproject.com/) — icons for everything.
 * [Nucleo](https://nucleoapp.com/) — a Mac and Windows app to collect, customize and export all your icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Orion Icons](https://orioniconlibrary.com/all-icons) — SVG vector icons with an advanced interactive web app.
@@ -746,7 +745,6 @@ Taking screenshots is a typical task in the design & development workflow. So th
 * [Kap](https://getkap.co) — open source screen recorder with options to export to GIF, MP4, WebM and APNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/wulkano/kap) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — taking quick captures of your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Nimbus](https://nimbusweb.me/screenshot.php) — take screenshots or video captures from a chrome extension.
 * [OBS](https://obsproject.com/) — open source software for video recording and live streaming. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ScreenFlow](http://www.telestream.net/screenflow/overview.htm) — video editing and screen recording

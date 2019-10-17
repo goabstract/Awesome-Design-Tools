@@ -69,7 +69,7 @@ const CONFIG = {
         welcomeArticle: {
             title: 'Awesome Design Plugins',
             logoClassName: '-logo-adp',
-            description: `The best design plugins.`,
+            description: `All the best design plugins for Sketch, Adobe XD, and Figma, gathered in one place.`,
             button: {
                 href: 'https://github.com/LisaDziuba/Awesome-Design-Tools',
             },

@@ -1,6 +1,6 @@
 <div class="hidden-in-page">
 
-# Awesome Design Tools
+# Awesome Design Plugins
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -14,11 +14,11 @@
 
 ## How to Use and Contribute
 
-* Go through the Table of Contents and choose the tool.
+* Go through the Table of Contents and choose the plugin.
 * Search for a keyword or phrase (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
+If you found some great plugins, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labels for plugins that support Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg), figma ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) and Adobe XD ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg), don't forget to add them. Now I'd love to see your suggestions!
 
 </div>
 
@@ -44,7 +44,7 @@ If you found some great design tool, just send a Pull Request with respect to ou
 * [Translation & Localization](#translation-and-localization)
 * [Color Management](#color-management)
 * [Accesibility](#accesibility)
-* [Analytics & User Research](#analytics-and-user-research)
+* [Analytics & Research](#analytics-and-user-research)
 * [Rename Helper Plugins](#rename-helper)
 * [Code Export](#code-export)
 * [Prototyping](#prototyping)

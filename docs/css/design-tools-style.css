@@ -927,6 +927,7 @@ article ul {
 }
 
 .promotion-banner__main {
+	flex-grow: 1;
 	margin-left: 1.875rem;
 }
 

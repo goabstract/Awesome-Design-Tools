@@ -813,12 +813,6 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 </div>
 
-<p align="center" class="hidden-in-page">
-    <a href="https://flawlessapp.io/feedback?github">
-        <img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
-    </a>
-</p>
-
 </article>
 
 <article id="screenshot-software">
@@ -978,13 +972,6 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 <article id="tools-for-learning-design">
     
-<div class="hidden-in-page">
-<p align="center">
- <a href="https://adobe.ly/33HVSdf">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
- </a>
-</p>
-</div>
 
 ### Tools for Learning Design
 
@@ -1130,6 +1117,14 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 * [Wireframe.cc](https://wireframe.cc/) — a simple wireframing tool that doesn't get in your way. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Whimsical Wireframes](https://whimsical.co/wireframes/) — instant wireframing at your fingertips. Rich library of configurable elements like buttons, inputs, checkboxes.
 * [1200px Grid System](https://1200px.com/) — helps you build a grid system for much wider website designs than the 960-pixel style.
+
+<div class="hidden-in-page">
+<p align="center">
+ <a href="https://adobe.ly/33HVSdf">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+ </a>
+</p>
+</div>
 
 </article>
 

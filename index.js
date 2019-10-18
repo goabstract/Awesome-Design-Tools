@@ -5,7 +5,6 @@ const { JSDOM } = jsdom;
 const minify = require('html-minifier').minify;
 
 const editHead = require('./docs/modules/editHead');
-const createPromoBanner = require('./docs/modules/createPromoBanner');
 const addIDsForHeadings = require('./docs/modules/addIDsForHeadings');
 const addLinksToNavigationElements = require('./docs/modules/addLinksToNavigationElements');
 const tweakDescriptionOfArticleTopic = require('./docs/modules/tweakDescriptionOfArticleTopic');
@@ -70,7 +69,6 @@ const parseTweaks = (html, config) => {
 
 		// tweak dom
 		editHead(window, head.title, head.meta, head.favicon, process.env.PRODUCTION);
-		createPromoBanner(window);
 		addIDsForHeadings(window);
 		addLinksToNavigationElements(window);
 		tweakDescriptionOfArticleTopic(window);

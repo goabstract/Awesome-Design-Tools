@@ -2,13 +2,13 @@ const PromotionBanner = (modifier) => `
     <a class="promotion-banner ${modifier.className}" href="${modifier.link.href}">
         <div class="promotion-banner__logo ${modifier.logo}">
             ${
-               modifier.hasImage && `
+               modifier.hasImage ? `
                     <img src="https://flawlessapp.io/images/designtools/porkbun/porkbun-logo.png"
                         srcset="https://flawlessapp.io/images/designtools/porkbun/porkbun-logo@2x.png 2x,
                         https://flawlessapp.io/images/designtools/porkbun/porkbun-logo@3x.png 3x"
                         class="porkbun-logo"
                     >
-               `
+               ` : ``
             }
         </div>
         <div class="promotion-banner__main">

@@ -899,7 +899,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <article id="presentation-preview">
 
-### Presentaiton & Preview
+### Presentation & Preview
 * [Timelapse](https://timelapsesketch.com) — Create beautiful high-speed videos of your work in Sketch and show off your progress. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Dockpreview](https://github.com/fnky/sketch-dockpreview) — A Sketch plugin that lets you preview your current artboard in the Dock. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Server](https://github.com/matt-curtis/Sketch-Server) — A Sketch Plugin that creates a local web server for your Sketch Documents. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

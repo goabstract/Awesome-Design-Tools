@@ -30,7 +30,7 @@ class Nav {
 							sectionRect = sectionDom.getBoundingClientRect(),
 							{ top, bottom, height } = sectionRect;
 
-				if (bottom > 1 && top + height >= 0 && top < 1 || top == 0) {
+				if (bottom > 96 && top + height >= 96 && top < 96 || top == 96) {
 					navLink.classList.add(activeClass)
 				} else {
 					navLink.classList.remove(activeClass);
@@ -99,14 +99,8 @@ document.querySelector('.js-search-input').addEventListener('input', function(e)
 	function handle(text) {
 		const bool = inputContent || inputContent.capitalize() || inputContent.toUpperCase();
 		if (text.innerHTML.search(bool) >= 0) {
-			// articles.forEach(article => article === text.parentElement.parentElement && article.classList.remove('-hidden'));
 			text.classList.remove('-hidden');
 		} else {
-			try {
-				// text.parentElement.parentElement.classList.add('-hidden');
-			} catch(err) {
-				console.log(err);
-			}
 			text.classList.add('-hidden')
 		}
 	}
@@ -118,12 +112,12 @@ document.querySelector('.js-search-input').addEventListener('input', function(e)
 
 document.querySelectorAll('.nav a').forEach(button =>
 	button.addEventListener('click', (e) => {
-		// e.preventDefault();
+		e.preventDefault();
 		// make empty input
 		document.querySelector('.js-search-input').value = '';
 
 		// scroll a bit less due to nav fixed positioning
-		// window.scrollTo(0, document.querySelector(e.target.getAttribute('href')).offsetTop - 90);
+		window.scrollTo(0, document.querySelector(e.target.getAttribute('href')).offsetTop - 90);
 
 		const banner = document.querySelectorAll('.banner');
 		const promoBanner = document.querySelectorAll('.promo-banner');

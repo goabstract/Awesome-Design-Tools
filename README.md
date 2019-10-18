@@ -131,6 +131,8 @@ Animations guide people through the product friendly and smoothly. Live interact
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Mantra](https://jeremyckahn.github.io/mantra/) — a web-based timeline animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Meteoritic](https://meteoritic.io/) — animation delights library for iOS and Android. Choose from a variety of animations that suits different app styles. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Naker.Back](https://app.naker.io/back) — Integrate an interactive background for free to draw more attention to your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Naker.Story](https://naker.io/naker-story.html) — Make your web content interactive to engage your visitors like never before thanks to 3D. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [OFFEO](https://offeo.com/) — an online video maker for small businesses to create video ads like the Big Brands without the big budget. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [StorySwag](https://storyswag.co) — create stylish animated posts for Instagram and Facebook in just a few taps, all from your mobile phone. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Spirit](https://spiritapp.io/) — the animation tool that helps you to create and manage the animations real time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -187,6 +189,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Mattermost](https://mattermost.com/) — a flexible, open source messaging platform that meets even the most demanding privacy and security standards. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards.
 * [Mixed](https://mixed.io) — real-time whiteboard and collaboration tools for distributed teams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Moqhub](https://moqhub.com) — fast online proofing for creative projects. Get feedback for images and PDFs.
 * [MURAL](https://mural.co/) — think and collaborate visually. Anywhere, anytime.
 * [Nextcloud](https://nextcloud.com) — open source collaboration platform for files, kanban boards, chat & calls, calendar and more. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Notion](https://www.notion.so) — write, plan, collaborate, and get organized. Notion is all you need — in one tool.
@@ -257,7 +260,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 How do you provide and get feedback during the development process? This process is usually pretty messy for many product teams, which caused product delays and time waste on back-and-forth communication. So if you wish to get fast and structural feedback on UI issues or visual bugs — take a look at this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-
+* [GoVisually](https://govisually.com) —  online proofing, design review & approval software. 
 <div class="banner banner--yellow">
 
 </article>
@@ -509,6 +512,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Flaticon](https://www.flaticon.com/) — 1593000+ vector icons in SVG, PSD, PNG, EPS format or as icon font.
 * [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome)
 * [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello)
+* [Freepik](https://www.freepik.com) — collection of exclusive freebies and all graphic resources that you need for your projects.
 * [Iconscout](https://iconscout.com/) — get high-quality Icons, Illustrations and Stock photos at one place.
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -563,7 +567,6 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 * [Ouch](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Wannapik](https://www.wannapik.com/) — collection of free illustrations, vector images, photos, and animations for any use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
 
 </article>
 

@@ -979,6 +979,7 @@ article ul {
 }
 
 .label-wrapper {
+	display: flex;
 	margin-left: 16px;
 }
 
@@ -991,10 +992,15 @@ article ul {
 	padding-top: 7px;
 	padding-right: 7px;
 	padding-bottom: 7px;
+	margin-right: 8px;
 	line-height: 1;
 	font-size: 10px;
 	font-weight: bold;
 	text-transform: uppercase;
+}
+
+.label:last-child {
+	margin-right: 0;
 }
 
 .label:before {

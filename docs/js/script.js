@@ -117,12 +117,12 @@ document.querySelector('.js-search-input').addEventListener('input', function(e)
 
 document.querySelectorAll('.nav a').forEach(button =>
 	button.addEventListener('click', (e) => {
-		e.preventDefault();
+		// e.preventDefault();
 		// make empty input
 		document.querySelector('.js-search-input').value = '';
 
 		// scroll a bit less due to nav fixed positioning
-		window.scrollTo(0, document.querySelector(e.target.getAttribute('href')).offsetTop - 90);
+		// window.scrollTo(0, document.querySelector(e.target.getAttribute('href')).offsetTop - 90);
 
 		const banner = document.querySelectorAll('.banner');
 		const promoBanner = document.querySelectorAll('.promo-banner');

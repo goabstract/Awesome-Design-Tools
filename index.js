@@ -192,7 +192,7 @@ const parseTweaks = (html, config) => {
 				},
 			},
 			[
-				'#generate-ui-element', 'accesibility',
+				'#generate-ui-element', '#accesibility',
 				'#animation-tools', '#tools-for-learning-design', '#design-handoff-tools'
 			]
 		);

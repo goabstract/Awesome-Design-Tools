@@ -19,7 +19,7 @@
 * To find the tool, go through the Table of Contents or search for a keyword (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). Design tools should be submitted [here](https://github.com/LisaDziuba/Awesome-Design-Tools) and plugins in this file. We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
+If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). Design tools should be submitted [here](https://github.com/LisaDziuba/Awesome-Design-Tools) and plugins in this file. We use such labels for Sketch ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg), Adobe XD ![Adobe XD](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) and Figma ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)  plugins, don't forget to add them. Now I'd love to see your suggestions! 
 
 </div>
 
@@ -30,14 +30,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 ## Table of Content
 
 * [Accesibility](#accesibility)
-* [Align & Arrange Plugins](#align-and-arrange)
-* [Analytics](#analytics-and-user-research)
+* [Align & Arrange Plugins](#align--arrange)
+* [Analytics](#analytics)
 * [Charts](#charts)
 * [Code Export](#code-export)
 * [Code Highlight](#code-highlight)
 * [Collaboration](#collaboration)
 * [Color Management](#color-management)
-* [Copy & Paste](#copy-and-paste)
+* [Copy & Paste](#copy--paste)
 * [Data Generation](#data-generation)
 * [Developers Handoff](#developers-handoff)
 * [Document Optimisation](#document-optimisation)
@@ -45,28 +45,28 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Layout & Padding](#dynamic-layout-and-padding)
 * [Export](#export)
 * [Generate UI](#generate-ui-element)
-* [Guides & Grids](#guides-and-grids)
+* [Guides & Grids](#guides--grids)
 * [Images Management](#images-management)
 * [Import](#import)
 * [Map Generation](#map-generation)
-* [Other](#other-plugins)
-* [PDF Export](#pdf-export)
+* [Other](#other)
+* [PDF Export](#pdf-export-plugins)
 * [Plugin Development](#plugin-development)
 * [Plugin Managers](#plugin-managers)
 * [Plugins Collection](#plugins-collection)
-* [Presentation & Preview](#presentation-and-preview)
+* [Presentation & Preview](#presentaiton--preview)
 * [Prototyping](#prototyping)
-* [3D Perspective](#three-d-perspective)
+* [3D Perspective](#3d-perspective)
 * [Rename Helper](#rename-helper)
 * [Resize](#resize)
 * [Selection Enhancement](#selection-enhancement)
-* [Shortcut & Keyboard](#shortcut-and-keyboard)
+* [Shortcut & Keyboard](shortcut--keyboard)
 * [State Management](#state-management)
 * [Style Management](#style-management)
-* [Symbols & Components](#symbols-and-component-management)
+* [Symbols & Components](#symbols--components-management)
 * [Text Management](#text-management)
-* [Translation & Localization](#translation-and-localization)
-* [Typeface Plugins](#typeface-plugins)
+* [Translation & Localization](#translation--localization)
+* [Typeface](#typeface)
 * [UI Kits](#ui-kits)
 * [User Flows](#user-flows)
 * [Version Control](#version-control)
@@ -81,24 +81,23 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <article id="accesibility">
 
 ### Accesibility
-* [Stark](http://www.getstark.co) — Ensure your design is accessible and high contrast for every type of color blindness. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [Color Contrast Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) — A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-* [Check Contrast](https://github.com/lifeofmle/check-contrast) — Allows you to select layers in Sketch and get realtime feedback about the contrast ratio ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-* [Contrast](https://github.com/romannurik/Sketch-Contrast#readme) — A Sketch plugin to show a pass/fail type contrast report. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-* [Sketch Color Contrast Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) — A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [A11y - Color Contrast Checker](https://www.figma.com/c/plugin/733159460536249875) — Ensure your text is readable for users by adhering to WCAG (Web Content Accessibility Guidelines) standards. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [Color Blind](https://www.figma.com/c/plugin/733343906244951586) — Color Blind allows you to view your designs in the 8 different types of color vision deficiencies. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [Able – Friction free accessibility](https://www.figma.com/c/plugin/734693888346260052) — Able makes accessibility easy, while looking and feeling like Figma! ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [Contrast](https://www.figma.com/c/plugin/748533339900865323) — Contrast makes it easy to check the contrast ratios of colors as you work. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [A11y - Focus Orderer](https://www.figma.com/c/plugin/731310036968334777) — Quickly annotate your designs’ focus / tab order flow. Why? Because not everyone uses a mouse cursor to navigate through online experiences; some people use the keyboard and/or other input devices. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [Arabic & RTL Support](https://www.figma.com/c/plugin/732290356467065314) — Write Arabic and RTL text in Figma with ease. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [VisualEyes](https://www.figma.com/c/plugin/740542057689267294) — Measure the attention of your design inside Figma. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [RTL support](https://www.figma.com/c/plugin/739739050044773150) — Flip RTL languages like hebrew and arabic. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [RTLPLZ - RTL Support](https://www.figma.com/c/plugin/742121299910255177) — Write RTL text in figma with less tears. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-* [Epilepsy Blocker](https://www.figma.com/c/plugin/746367992714028465) — With this plugin you can make your designs accessible and safe for people with photosensitive epilepsy and also stay ADA Compliant. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
-* [LTR to RTL by Alon Gruss](alon.gruss+xdplug@gmail.com) — Use Ctrl+h or Cmd+h to flip from LTR text to RTL. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [Stark](http://www.getstark.co) — ensure your design is accessible and high contrast for every type of color blindness. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Color Contrast Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) — a Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Check Contrast](https://github.com/lifeofmle/check-contrast) — allows you to select layers in Sketch and get realtime feedback about the contrast ratio ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Contrast](https://github.com/romannurik/Sketch-Contrast#readme) — a Sketch plugin to show a pass/fail type contrast report. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Sketch Color Contrast Analyzer](https://github.com/eaugustine/Sketch-Color-Contrast-Analyzer) — a Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [A11y - Color Contrast Checker](https://www.figma.com/c/plugin/733159460536249875) — ensure your text is readable for users by adhering to WCAG (Web Content Accessibility Guidelines) standards. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Color Blind](https://www.figma.com/c/plugin/733343906244951586) — color Blind allows you to view your designs in the 8 different types of color vision deficiencies. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Able – Friction free accessibility](https://www.figma.com/c/plugin/734693888346260052) — able makes accessibility easy, while looking and feeling like Figma! ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Contrast](https://www.figma.com/c/plugin/748533339900865323) — contrast makes it easy to check the contrast ratios of colors as you work. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [A11y - Focus Orderer](https://www.figma.com/c/plugin/731310036968334777) — quickly annotate your designs’ focus / tab order flow. Why? Because not everyone uses a mouse cursor to navigate through online experiences; some people use the keyboard and/or other input devices. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Arabic & RTL Support](https://www.figma.com/c/plugin/732290356467065314) — write Arabic and RTL text in Figma with ease. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [VisualEyes](https://www.figma.com/c/plugin/740542057689267294) — measure the attention of your design inside Figma. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [RTL support](https://www.figma.com/c/plugin/739739050044773150) — flip RTL languages like hebrew and arabic. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [RTLPLZ - RTL Support](https://www.figma.com/c/plugin/742121299910255177) — write RTL text in figma with less tears. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Epilepsy Blocker](https://www.figma.com/c/plugin/746367992714028465) — with this plugin you can make your designs accessible and safe for people with photosensitive epilepsy and also stay ADA Compliant. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [LTR to RTL by Alon Gruss](alon.gruss+xdplug@gmail.com) — use Ctrl+h or Cmd+h to flip from LTR text to RTL. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
 

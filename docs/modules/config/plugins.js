@@ -71,7 +71,7 @@ const CONFIG = {
             logoClassName: '-logo-adp',
             description: `All the best design plugins for Sketch, Adobe XD, and Figma, gathered in one place.`,
             button: {
-                href: 'https://github.com/LisaDziuba/Awesome-Design-Tools',
+                href: 'https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md',
             },
         },
 

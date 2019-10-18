@@ -1102,12 +1102,6 @@ User research helps you understand user behaviors, needs, and motivations throug
 * [User Interviews](https://www.userinterviews.com/) — recruit participants from a community of 125,000 members based on profession, demographics, geography and more, for any kind of research.
 * [Zoom](https://zoom.us) — it's one of the best online meeting services.
 
-<p align="center" class="hidden-in-page">
-    <a href="https://flawlessapp.io/feedback?github">
-        <img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
-    </a>
-</p>
-
 </article>
 
 <article id="visual-debugging-tools">

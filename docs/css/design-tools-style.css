@@ -1111,7 +1111,7 @@ article ul {
 
 	.bar1, .bar2, .bar3 {
 		width: 22px;
-		height: 2px;
+		height: 3px;
 		background-color: var(--black);
 		margin: 6px 0;
 		transition: .4s;
@@ -1119,7 +1119,7 @@ article ul {
 
 	.hamburger-menu--change .bar1 {
 		width: 18px;
-		transform: rotate(-45deg) translate(-4px,6px);
+		transform: rotate(-45deg) translate(-5px,6px);
 	}
 
 	.hamburger-menu--change .bar2 {
@@ -1128,7 +1128,7 @@ article ul {
 
 	.hamburger-menu--change .bar3 {
 		width: 18px;
-		transform: rotate(45deg) translate(-5px,-8px);
+		transform: rotate(45deg) translate(-6px,-8px);
 	}
 
 	main {

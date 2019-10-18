@@ -30,14 +30,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 ## Table of Content
 
 * [Accesibility](#accesibility)
-* [Align & Arrange Plugins](#align--arrange)
+* [Align & Arrange Plugins](#align-arrange)
 * [Analytics](#analytics)
 * [Charts](#charts)
 * [Code Export](#code-export)
 * [Code Highlight](#code-highlight)
 * [Collaboration](#collaboration)
 * [Color Management](#color-management)
-* [Copy & Paste](#copy--paste)
+* [Copy & Paste](#copy-paste)
 * [Data Generation](#data-generation)
 * [Developers Handoff](#developers-handoff)
 * [Document Optimisation](#document-optimisation)
@@ -45,7 +45,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Layout & Padding](#dynamic-layout-and-padding)
 * [Export](#export)
 * [Generate UI](#generate-ui-element)
-* [Guides & Grids](#guides--grids)
+* [Guides & Grids](#guides-grids)
 * [Images Management](#images-management)
 * [Import](#import)
 * [Map Generation](#map-generation)
@@ -54,13 +54,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Plugin Development](#plugin-development)
 * [Plugin Managers](#plugin-managers)
 * [Plugins Collection](#plugins-collection)
-* [Presentation & Preview](#presentaiton--preview)
+* [Presentation & Preview](#presentation-preview)
 * [Prototyping](#prototyping)
 * [3D Perspective](#three-d-perspective)
 * [Rename Helper](#rename-helper)
 * [Resize](#resize)
 * [Selection Enhancement](#selection-enhancement)
-* [Shortcut & Keyboard](shortcut--keyboard)
+* [Shortcut & Keyboard](#shortcut--keyboard)
 * [State Management](#state-management)
 * [Style Management](#style-management)
 * [Symbols & Components](#symbols--components-management)
@@ -101,7 +101,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="align-and-arrange">
+<article id="align-arrange">
 
 ### Align & Arrange 
 * [Auto Arrange Artboards](https://github.com/srbsingh3/autoarrange) — Automatically arrange the order of your artboards in the layer list according to their position on the canvas. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -158,7 +158,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="analytics-and-user-research">
+<article id="analytics">
 
 ### Analytics
 * [Visualeyes](https://github.com/loceye/sketch-visualeyes) — Generate attention heatmaps in seconds ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -343,7 +343,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="copy-and-paste">
+<article id="copy-paste">
 
 ### Copy & Paste
 * [Copy to All](https://github.com/wuwa/sketch-copy-to-all) — sketch - copy to all artboards plugin ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -693,7 +693,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="guides-and-grids">
+<article id="guides-grids">
 
 ### Guides & Grids
 * [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch) — Add evenly distributed guides to artboards. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -779,7 +779,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="other-plugins">
+<article id="other">
 
 ### Other
 * [Tabula Rasa](https://github.com/avk/sketch-tabula-rasa) — Add blank backgrounds to transparent artboards ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -846,7 +846,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="pdf-export">
+<article id="pdf-export-plugins">
 
 ### PDF Export Plugins
 * [PDF Export](https://github.com/DWilliames/PDF-export-sketch-plugin) — Export all pages, current page or selected artboards into a PDF — based on a range of settings ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -897,7 +897,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="presentation-and-preview">
+<article id="presentation-preview">
 
 ### Presentaiton & Preview
 * [Timelapse](https://timelapsesketch.com) — Create beautiful high-speed videos of your work in Sketch and show off your progress. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1053,7 +1053,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="shortcut-and-keyboard">
+<article id="shortcut--keyboard">
 
 ### Shortcut & Keyboard
 * [Keygaroo](https://keygaroo.ixco.io/) — Keygaroo helps you learn keyboard shortcuts for the actions you use the most. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1115,7 +1115,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="symbols-and-component-management">
+<article id="symbols--components-management">
 
 ### Symbols & Components Management
 * [symbol-insert](https://github.com/lifeofmle/symbol-insert) — Simple plugin to insert Sketch symbols ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1247,7 +1247,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="translation-and-localization">
+<article id="translation--localization">
 
 ### Translation & Localization
 * [Qordoba for Sketch](https://www.qordoba.com) — Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1261,7 +1261,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="typeface-plugins">
+<article id="typeface">
 
 ### Typeface
 * [Datazier Lens](https://github.com/enriquezgomez/datazier-lens) — Inspect and sort your local font book ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

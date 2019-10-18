@@ -895,6 +895,7 @@ article ul {
 .promotion-banner__link {
 	flex: 0 0 auto;
 	border-radius: 18.5px;
+	border: none;
 	font-weight: 700;
 	padding: 0.5625rem 0.75rem;
 	color: #fff;

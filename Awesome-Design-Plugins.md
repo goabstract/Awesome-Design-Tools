@@ -56,7 +56,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Plugins Collection](#plugins-collection)
 * [Presentation & Preview](#presentaiton--preview)
 * [Prototyping](#prototyping)
-* [3D Perspective](#3d-perspective)
+* [3D Perspective](#three-d-perspective)
 * [Rename Helper](#rename-helper)
 * [Resize](#resize)
 * [Selection Enhancement](#selection-enhancement)

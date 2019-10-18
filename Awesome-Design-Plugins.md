@@ -1,6 +1,7 @@
 <div class="hidden-in-page">
 
-# Awesome Design Plugins
+# Awesome Design Plugins 
+#### [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -14,11 +15,11 @@
 
 ## How to Use and Contribute
 
-* Go through the Table of Contents and choose the plugin.
-* Search for a keyword or phrase (for example, "animation", "prototyping").
+* Now you are in **Awesome Design Plugins** section, if you need tools — go to [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools).
+* To find the tool, go through the Table of Contents or search for a keyword (for example, "animation", "prototyping").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-If you found some great plugins, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). We use such labels for plugins that support Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg), figma ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) and Adobe XD ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg), don't forget to add them. Now I'd love to see your suggestions!
+If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). Design tools should be submitted [here](https://github.com/LisaDziuba/Awesome-Design-Tools) and plugins in this file. We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
 
 </div>
 
@@ -76,12 +77,6 @@ If you found some great plugins, just send a Pull Request with respect to our [C
 </div>
 
 <main>
-
-<p align="center" class="hidden-in-page">
-    <a href="https://flawlessapp.io/feedback?github">
-        <img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
-    </a>
-</p>
 
 <article id="accesibility">
 
@@ -1454,5 +1449,13 @@ If you found some great plugins, just send a Pull Request with respect to our [C
 * [Bookmark](https://github.com/Arkkimaagi/Bookmark) — Bookmark your place and zoom in Sketch.app ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Artboardzoom](https://github.com/Arkkimaagi/ArtboardZoom) — "Zoom" to currently selected Artboard. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Custom Zoom](https://github.com/alexkaessner/custom-zoom-sketch) — Zoom your document to a custom zoom level. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+</article>
+
+<article id="addendum">
+
+### Addendum (Reference & Inspiration)
+
+Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tool, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Thanks for making this project awesome :)
 
 </article>

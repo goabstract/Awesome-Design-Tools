@@ -3,11 +3,15 @@
 # Awesome Design Plugins 
 #### [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
+<div class="hidden-in-page">
+
 <p align="center">
-    <a href="https://flawlessapp.io/feedback?github">
-        <img src="Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>
-    </a>
+  <a href="https://flawlessapp.io/designplugins">
+      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome%20Design%20Plugins.png" alt="Awesome-Design-Plugins"/>
+  </a>
 </p>
+
+</div>
 
 <p align="center">
 <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
@@ -79,6 +83,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <main>
 
 <article id="accesibility">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="https://adobe.ly/33HVSdf">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+ </a>
+</p>
+</div>
 
 ### Accesibility
 
@@ -159,6 +171,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="analytics">
+    
+<div class="hidden-in-page">
+<p align="center">
+   <a href="http://bit.ly/35I1q9q">
+       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
+   </a>
+</p>
+</div> 
 
 ### Analytics
 * [Visualeyes](https://github.com/loceye/sketch-visualeyes) — Generate attention heatmaps in seconds ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -191,6 +211,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="code-export">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2ZwUoEq">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+ </a>
+</p>
+</div>
 
 ### Code Export
 * [iosViews](https://github.com/Charimon/iosViews) — Sketch Plugin to generate iOS view code ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -226,6 +254,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="code-highlight">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2VQVTJ8">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+ </a>
+</p>
+</div>
 
 ### Code Highlight
 * [Sketch Syntax Highlighter](https://danielguillan.github.io/sketch-syntax-highlighter/) — Automatically highlight the syntax of any code snippet, right within Sketch. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -234,6 +270,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="collaboration">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2ZwUoEq">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+ </a>
+</p>
+</div>
 
 ### Collaboration
 * [Google Sheets Content Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin) — Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -467,6 +511,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="developers-handoff">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2ZwUoEq">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+ </a>
+</p>
+</div>
 
 ### Developers Handoff 
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -660,6 +712,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="generate-ui-element">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="https://adobe.ly/33HVSdf">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+ </a>
+</p>
+</div>
 
 ### Generate UI Element
 * [Radial Lines](https://github.com/herrhelms/radial-lines-sketch) — Generate lines originating from a certain coordinate of an artboard. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -858,6 +918,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="plugin-development">
+    
+<div class="hidden-in-page">
+<p align="center">
+   <a href="http://bit.ly/2VS36Zl">
+       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+   </a>
+</p>
+</div>
 
 ### Plugin Development
 * [Sketch DevTools](https://github.com/skpm/sketch-dev-tools) — See your plugin logs, inspect the state of Sketch documents, explore actions, and more ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -878,6 +946,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="plugins-collection">
+    
+<div class="hidden-in-page">
+<p align="center">
+  <a href="http://bit.ly/33KtOpN">
+      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
+  </a>
+</p>
+</div>
 
 ### Plugins Collection
 * [Utility Belt](https://github.com/frankko/UtilityBelt) — An always-expanding collection of simple, focused plugins for Sketch. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -898,6 +974,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="presentation-preview">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2VQVTJ8">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+ </a>
+</p>
+</div>
 
 ### Presentation & Preview
 * [Timelapse](https://timelapsesketch.com) — Create beautiful high-speed videos of your work in Sketch and show off your progress. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -917,6 +1001,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="prototyping">
+    
+<div class="hidden-in-page">
+<p align="center">
+  <a href="http://bit.ly/33KtOpN">
+      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
+  </a>
+</p>
+</div>
 
 ### Prototyping
 * [Protowire](https://protowire.com) — Adds prototyping to Sketch including transitions between screens and layer animation. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1331,6 +1423,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="user-flows">
+    
+<div class="hidden-in-page">
+<p align="center">
+   <a href="http://bit.ly/35I1q9q">
+       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
+   </a>
+</p>
+</div> 
 
 ### User Flows
 * [Flow Exporter](https://github.com/romannurik/Sketch-FlowExporter) — A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1349,6 +1449,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <article id="version-control">
 
+<div class="hidden-in-page">
+<p align="center">
+   <a href="http://bit.ly/2VS36Zl">
+       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+   </a>
+</p>
+</div>
+
 ### Version Control
 * [Abstract](https://www.goabstract.com/) — Abstract is a file management and version control tool for Sketch files ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin) — A Git client generating pretty diffs built right into Sketch. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1360,6 +1468,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="website-and-html-export">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2VQVTJ8">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+ </a>
+</p>
+</div>
 
 ### Website and HTML Export
 * [Sketch2Web](http://www.sketch2web.skuko.com) — Export your project to web in just one click. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

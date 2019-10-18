@@ -85,10 +85,11 @@ document.querySelector('.js-search-input').addEventListener('input', function(e)
 	const banner = document.querySelectorAll('.banner');
 	const promoBanner = document.querySelectorAll('.promo-banner');
 	const articleHeaders = document.querySelectorAll('main article > header');
-	const addendum = document.querySelector('#addendum');
+	// const addendum = document.querySelector('#addendum');
 	const welcome = document.querySelector('.welcome');
 	const promotionBanner = document.querySelectorAll('.promotion-banner-wrapper');
-	const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, addendum, welcome, ...promotionBanner];
+	const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, welcome, ...promotionBanner];
+	
 	if (inputContent.length > 0) {
 		elementsToHide.forEach(banner => banner.classList.add('-hidden'));
 	} else if (inputContent.length === 0) {
@@ -127,9 +128,9 @@ document.querySelectorAll('.nav a').forEach(button =>
 		const banner = document.querySelectorAll('.banner');
 		const promoBanner = document.querySelectorAll('.promo-banner');
 		const articleHeaders = document.querySelectorAll('main article > header');
-		const addendum = document.querySelector('#addendum');
+		// const addendum = document.querySelector('#addendum');
 		const welcome = document.querySelector('.welcome');
-		const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, addendum, welcome];
+		const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, welcome];
 		const paragraphs = document.querySelectorAll('main .tool');
 
 		// back to default view

@@ -31,7 +31,7 @@ const CONFIG = {
                 title: 'Awesome Design Plugins',
                 themeColor: '#028930',
                 description: 'Design plugins',
-                image: '',
+                image: 'https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-general.png',
                 siteURL: 'https://flawlessapp.io/designplugins',
             },
             favicon: {

@@ -92,12 +92,15 @@ const parseTweaks = (html, config) => {
 				title: 'SuperNova',
 				description: 'Convert any mobile design into full-fledged native applications',
 				link: {
-					href: 'https://supernova.io/?utm_source=flawless&utm_medium=partner&utm_campaign=ad',
+					href: 'http://bit.ly/2ZwUoEq',
 					className: '-supernova',
 					text: 'Try Supernova Studio',
 				},
 			},
-			['#code-export', '#collaboration', '#plugin-development']
+			[
+				'#code-export', '#collaboration', '#developers-handoff',
+				'#design-to-code-tools', '#collaboration-tools'
+			]
 		);
 		promotionBanner(
 			window,
@@ -107,12 +110,15 @@ const parseTweaks = (html, config) => {
 				title: 'Abstract',
 				description: 'We centralize design decisions, feedback, Sketch files, and specs for your team.',
 				link: {
-					href: '/123',
+					href: 'http://bit.ly/2VS36Zl',
 					className: '-abstract',
 					text: 'Get a free, 14-day trial',
 				},
 			},
-			['#version-control-plugins', '#design-handoff-tools', '#design-version-control']
+			[
+				'#version-control', '#plugin-development',
+				'#ui-design-tools', '#design-version-control', '#design-system-tools'
+			]
 		);
 		promotionBanner(
 			window,
@@ -122,12 +128,15 @@ const parseTweaks = (html, config) => {
 				title: 'ProtoPie',
 				description: 'Interactive prototyping for all digital products',
 				link: {
-					href: 'http://bit.ly/2Mbl9HW',
+					href: 'http://bit.ly/33KtOpN',
 					className: '-protopie',
 					text: 'Try for Free',
 				},
 			},
-			['#prototyping-plugins', '#dynamic-layout-and-padding', '#document-organisation-plugins']
+			[
+				'#prototyping', '#plugins-collection',
+				'#prototyping-tools', '#mockup-tools', '#user-flow-tools'
+			]
 		);
 		promotionBanner(
 			window,
@@ -137,12 +146,15 @@ const parseTweaks = (html, config) => {
 				title: 'Maze',
 				description: 'Maze is a user testing platform that turns your prototype into actionable insights.',
 				link: {
-					href: 'https://maze.design/?utm_source=promo&utm_medium=community_banner',
+					href: 'http://bit.ly/35I1q9q',
 					className: '-maze',
 					text: 'Try for Free',
 				},
 			},
-			['#analytics-and-user-research']
+			[
+				'#analytics-and-user-research', '#user-flows',
+				'#experience-monitoring', '#user-research-tools'
+			]
 		);
 		promotionBanner(
 			window,
@@ -156,12 +168,15 @@ const parseTweaks = (html, config) => {
 				// image2x: 'https://flawlessapp.io/images/designtools/porkbun/porkbun-logo@2x.png',
 				// image3x: 'https://flawlessapp.io/images/designtools/porkbun/porkbun-logo@3x.png',
 				link: {
-					href: 'https://porkbun.com/tld/design/?coupon=FLAWLESSPROJ1',
+					href: 'http://bit.ly/2VQVTJ8',
 					className: '-porkbun',
 					text: 'Get 1-year Free',
 				},
 			},
-			['#other-plugins']
+			[
+				'#website-and-html-export', '#code-highlight', '#presentation-and-preview',
+				'#screenshot-software', '#design-inspiration', '#illustrations'
+			]
 		);
 		promotionBanner(
 			window,
@@ -171,12 +186,15 @@ const parseTweaks = (html, config) => {
 				title: 'Adobe XD',
 				description: 'Design at the speed of thought.',
 				link: {
-					href: 'https://www.adobe.com/products/xd.html?utm_source=flawless&utm_medium=partner&utm_campaign=ad',
+					href: 'https://adobe.ly/33HVSdf',
 					className: '-xd',
 					text: 'Get a free, 14-day trial',
 				},
 			},
-			['#generative-ui']
+			[
+				'#generate-ui-element', 'accesibility',
+				'#animation-tools', '#tools-for-learning-design', '#design-handoff-tools'
+			]
 		);
 		return document.documentElement.outerHTML;
 }

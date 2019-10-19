@@ -2,16 +2,15 @@
 
 # Awesome Design Tools 
 #### [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
-<div class="hidden-in-page">
-<p align="center">
-  <a href="https://flawlessapp.io/designtools">
-      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>
-  </a>
-</p>
-</div>
 
 <p align="center">
-<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+    <a href="https://flawlessapp.io/designtools">
+        <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>
+    </a>
+</p>
+
+<p align="center">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
 ## How to Use and Contribute
@@ -109,16 +108,16 @@ Accessibility checking features are also available in VisBug from [Visual Debugg
 </article>
 
 <article id="animation-tools">
-    
-<div class="hidden-in-page">
-<p align="center">
- <a href="https://adobe.ly/33HVSdf">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
- </a>
-</p>
-</div>
 
 ### Animation Tools
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="https://adobe.ly/33HVSdf">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+        </a>
+    </p>
+</div>
 
 Animations guide people through the product friendly and smoothly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:
 
@@ -175,17 +174,15 @@ Augmented Reality is a technology that upgrades our real world, by adding a laye
 
 <article id="collaboration-tools">
 
-<div class="hidden-in-page">
-
-<p align="center">
-  <a href="http://bit.ly/2ZwUoEq">
-      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
-  </a>
-</p>
-
-</div>
-
 ### Collaboration Tools
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/2ZwUoEq">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+        </a>
+    </p>
+</div>
 
 Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier, save time and improve productivity. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
 
@@ -281,15 +278,15 @@ How do you provide and get feedback during the development process? This process
 
 <article id="design-handoff-tools">
 
-<div class="hidden-in-page">
-<p align="center">
- <a href="https://adobe.ly/33HVSdf">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
- </a>
-</p>
-</div>
-
 ### Design Handoff Tools
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="https://adobe.ly/33HVSdf">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+        </a>
+    </p>
+</div>
 
 Design handoff happens when designers finish the work and need to deliver designs to developers with all specs and assets. Design handoff tools allow to automatically generate styleguide, comment on the design, inspect elements. These tools minimize guesswork and improve the effectiveness of the design process.
 
@@ -310,16 +307,16 @@ You can also make design handoff within Relay, mentioned in the [Design Version 
 </article>
 
 <article id="design-inspiration">
-    
-<div class="hidden-in-page">
-<p align="center">
- <a href="http://bit.ly/2VQVTJ8">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
- </a>
-</p>
-</div>
 
 ### Design Inspiration
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/2VQVTJ8">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+        </a>
+    </p>
+</div>
 
 The creative process can be tough. So if ideas don’t come to your mind right away, try to search for inspiration in the work of other designers. These design inspiration sites feature design patterns, user flows, email markups and creative solutions of popular companies and great products:
 
@@ -357,16 +354,16 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 </article>
 
 <article id="design-system-tools">
-    
-<div class="hidden-in-page">
-<p align="center">
-   <a href="http://bit.ly/2VS36Zl">
-       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
-   </a>
-</p>
-</div>
 
 ### Design System Tools
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/2VS36Zl">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+        </a>
+    </p>
+</div>
 
 I bet you heard about Design Systems, as it’s a pretty trendy topic. Design systems provide consistent, robust design patterns to keep design and development in sync. They are essentially collections of rules, constraints, and principles, implemented in design and code. Here you can find tools to build, maintain and organize your own design system.
 
@@ -395,18 +392,15 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 
 <article id="design-to-code-tools">
     
-   
+### Design to Code Tools   
+
 <div class="hidden-in-page">
-
-<p align="center">
-  <a href="http://bit.ly/2ZwUoEq">
-      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
-  </a>
-</p>
-
+    <p align="center">
+      <a href="http://bit.ly/2ZwUoEq">
+          <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+      </a>
+    </p>
 </div>
-
-### Design to Code Tools
 
 Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don’t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.
 
@@ -431,16 +425,16 @@ Everyone can learn development but it takes time and effort. If you need a websi
 </article>
 
 <article id="design-version-control">
-   
-<div class="hidden-in-page">
-<p align="center">
-   <a href="http://bit.ly/2VS36Zl">
-       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
-   </a>
-</p>
-</div>
 
 ### Design Version Control
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/2VS36Zl">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+        </a>
+    </p>
+</div>
 
 Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:
 
@@ -465,15 +459,15 @@ Development browsers have features that help developers and designers create and
 
 </article>
 
-<article id="experience-monitoring">
-    
 <div class="hidden-in-page">
-<p align="center">
-   <a href="http://bit.ly/35I1q9q">
-       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
-   </a>
-</p>
+    <p align="center">
+        <a href="http://bit.ly/35I1q9q">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
+        </a>
+    </p>
 </div>
+
+<article id="experience-monitoring">
 
 ### Experience Monitoring
 
@@ -615,16 +609,16 @@ You can also handle icons with Specify, which is mentioned in the [Design System
 </article>
 
 <article id="illustrations">
-    
-<div class="hidden-in-page">
-<p align="center">
- <a href="http://bit.ly/2VQVTJ8">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
- </a>
-</p>
-</div>
 
 ### Illustrations
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/2VQVTJ8">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+        </a>
+    </p>
+</div>
 
 Illustrations can be used on your landing page, blog posts, inside your app or email campaign. They make your design live and playful. While drawing good illustration is a task of a skilled graphic designer, you can grab free SVG images & illustrations from very kind people in our community:
 
@@ -688,15 +682,15 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 <article id="mockup-tools">
 
-<div class="hidden-in-page">
-<p align="center">
-  <a href="http://bit.ly/33KtOpN">
-      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
-  </a>
-</p>
-</div>
-
 ### Mockup Tools
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/33KtOpN">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
+        </a>
+    </p>
+</div>
 
 A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:
 
@@ -772,15 +766,15 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 
 </article>
 
-<article id="prototyping-tools">
-    
 <div class="hidden-in-page">
-<p align="center">
-  <a href="http://bit.ly/33KtOpN">
-      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
-  </a>
-</p>
+    <p align="center">
+        <a href="http://bit.ly/33KtOpN">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
+        </a>
+    </p>
 </div>
+
+<article id="prototyping-tools">
 
 ### Prototyping Tools
 
@@ -813,23 +807,24 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 </div>
 
-<p align="center" class="hidden-in-page">
+<!-- <p align="center" class="hidden-in-page">
     <a href="https://flawlessapp.io/feedback?github">
         <img src="flawless-feedback.png" alt="Awesome-Design-Tools"/>
     </a>
-</p>
+</p> -->
 
 </article>
 
-<article id="screenshot-software">
-    
 <div class="hidden-in-page">
-<p align="center">
- <a href="http://bit.ly/2VQVTJ8">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
- </a>
-</p>
+    <p align="center">
+        <a href="http://bit.ly/2VQVTJ8">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+        </a>
+
+    </p>
 </div>
+
+<article id="screenshot-software">
 
 ### Screenshot Software
 
@@ -976,15 +971,15 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 </article>
 
-<article id="tools-for-learning-design">
-    
 <div class="hidden-in-page">
-<p align="center">
- <a href="https://adobe.ly/33HVSdf">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
- </a>
-</p>
+    <p align="center">
+        <a href="https://adobe.ly/33HVSdf">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+        </a>
+    </p>
 </div>
+
+<article id="tools-for-learning-design">
 
 ### Tools for Learning Design
 
@@ -997,16 +992,15 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
 </article>
 
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/2VS36Zl">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+        </a>
+    </p>
+</div>
 
 <article id="ui-design-tools">
-
-<div class="hidden-in-page">
-<p align="center">
-   <a href="http://bit.ly/2VS36Zl">
-       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
-   </a>
-</p>
-</div>
 
 ### UI Design Tools
 
@@ -1035,15 +1029,15 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 
 </article>
 
-<article id="user-flow-tools">
-    
 <div class="hidden-in-page">
-<p align="center">
-  <a href="http://bit.ly/33KtOpN">
-      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
-  </a>
-</p>
+    <p align="center">
+        <a href="http://bit.ly/33KtOpN">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
+        </a>
+    </p>
 </div>
+
+<article id="user-flow-tools">
 
 ### User Flow Tools
 
@@ -1067,15 +1061,15 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 
 </article>
 
-<article id="user-research-tools">
-    
 <div class="hidden-in-page">
-<p align="center">
-   <a href="http://bit.ly/35I1q9q">
-       <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
-   </a>
-</p>
+    <p align="center">
+        <a href="http://bit.ly/35I1q9q">
+        <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
+    </a>
+    </p>
 </div>
+
+<article id="user-research-tools">
 
 ### User Research Tools
 User research helps you understand user behaviors, needs, and motivations through various qualitative and quantitative methods (interviews, observation, forms, etc). These user research tools can be useful for you:

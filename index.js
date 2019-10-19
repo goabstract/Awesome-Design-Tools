@@ -33,7 +33,7 @@ const writeHtml = (html, fileToWrite, isProduction = true) => {
 		removeComments: true,
 	});
 	const chooseVersion = isProduction ? minified : html;
-	fs.writeFile(fileToWrite, minified, function(err, data) {
+	fs.writeFile(fileToWrite, html, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});
@@ -186,7 +186,7 @@ const parseTweaks = (html, config) => {
 				link: {
 					href: 'https://adobe.ly/33HVSdf',
 					className: '-xd',
-					text: 'Get a free, 14-day trial',
+					text: 'Use For Free',
 				},
 			},
 			[

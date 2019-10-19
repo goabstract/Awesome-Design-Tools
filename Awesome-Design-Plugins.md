@@ -87,7 +87,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <div class="hidden-in-page">
     <p align="center">
         <a href="https://adobe.ly/33HVSdf">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD%20(1).png" alt="Abobe XD"/>
         </a>
     </p>
 </div>
@@ -711,7 +711,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <div class="hidden-in-page">
     <p align="center">
         <a href="https://adobe.ly/33HVSdf">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD%20(1).png" alt="Abobe XD"/>
         </a>
     </p>
 </div>

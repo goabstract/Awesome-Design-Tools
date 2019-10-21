@@ -279,7 +279,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Google Sheets Content Sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin) — Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sync](https://github.com/nolastan/sync.sketchplugin) — Use Google Sheets to sync typography across your team. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Dapollo](https://www.yuque.com/dapollo/group/welcome) — Design and Development Platform(一站式设计开发工作台) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-* [Prott Sketch Plugin](https://github.com/goodpatch/Prott-Sketch-Plugin) — Sync Sketch artboards to Prott like a boss. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Prott Sketch Plugin](https://github.com/goodpatch/Prott-Sketch-Plugin) — sync Sketch artboards to Prott like a boss. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Plot](https://plotapp.co) — Collaborate with your design team in a new way ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Frontify Plugin](https://github.com/Frontify/sketch) — Connecting your brand and design worlds ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Sync](https://sensive.co) — Create a collaboration hub for your Sketch files. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

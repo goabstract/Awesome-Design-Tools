@@ -915,7 +915,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VS36Zl">
+        <a href="http://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -1445,7 +1445,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VS36Zl">
+        <a href="http://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>

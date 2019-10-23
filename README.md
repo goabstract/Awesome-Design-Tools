@@ -109,15 +109,15 @@ Accessibility checking features are also available in VisBug from [Visual Debugg
 
 <article id="animation-tools">
 
-### Animation Tools
-
 <div class="hidden-in-page">
     <p align="center">
-        <a href="https://adobe.ly/33HVSdf">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
+        <a href="http://bit.ly/33Q3AC0">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
 </div>
+
+### Animation Tools
 
 Animations guide people through the product friendly and smoothly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:
 
@@ -177,11 +177,11 @@ Augmented Reality is a technology that upgrades our real world, by adding a laye
 ### Collaboration Tools
 
 <div class="hidden-in-page">
-    <p align="center">
-        <a href="http://bit.ly/2ZwUoEq">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
-        </a>
-    </p>
+<p align="center">
+ <a href="http://bit.ly/2ZwUoEq">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+ </a>
+</p>
 </div>
 
 Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier, save time and improve productivity. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
@@ -359,7 +359,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VS36Zl">
+        <a href="http://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -395,11 +395,11 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 ### Design to Code Tools   
 
 <div class="hidden-in-page">
-    <p align="center">
-      <a href="http://bit.ly/2ZwUoEq">
-          <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
-      </a>
-    </p>
+<p align="center">
+ <a href="http://bit.ly/2ZwUoEq">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+ </a>
+</p>
 </div>
 
 Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don’t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.
@@ -430,7 +430,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VS36Zl">
+        <a href="http://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -530,6 +530,14 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 
 You can also handle fonts with Specify, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) section.
 
+</div>
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/33Q3AC0">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+        </a>
+    </p>
 </div>
 
 </article>
@@ -809,16 +817,15 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 </article>
 
-<div class="hidden-in-page">
-    <p align="center">
-        <a href="http://bit.ly/2VQVTJ8">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
-        </a>
-
-    </p>
-</div>
-
 <article id="screenshot-software">
+    
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2VQVTJ8">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+ </a>
+</p>
+</div>
 
 ### Screenshot Software
 
@@ -988,7 +995,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VS36Zl">
+        <a href="http://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>

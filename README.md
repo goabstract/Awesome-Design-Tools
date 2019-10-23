@@ -393,7 +393,6 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 <article id="design-to-code-tools">
     
 ### Design to Code Tools   
-
 <div class="hidden-in-page">
     <p align="center">
       <a href="http://bit.ly/2ZwUoEq">
@@ -401,7 +400,6 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
       </a>
     </p>
 </div>
-
 Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don’t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.
 
 * [Anima](https://www.animaapp.com/) — a web app with a Sketch plugin that converts Sketch to HTML. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -817,7 +815,9 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 </article>
 
-<div class="hidden-in-page">
+<article id="screenshot-software">
+    
+    <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
@@ -825,8 +825,6 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
     </p>
 </div>
-
-<article id="screenshot-software">
 
 ### Screenshot Software
 

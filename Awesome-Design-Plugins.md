@@ -29,7 +29,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 ## Table of Content
 
-* [Accesibility](#accesibility)
+* [Accessibility](#accessibility)
 * [Align & Arrange Plugins](#align--arrange)
 * [Analytics](#analytics)
 * [Charts](#charts)
@@ -78,9 +78,9 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <main>
 
-<article id="accesibility">
+<article id="accessibility">
 
-### Accesibility
+### Accessibility
 
 <div class="hidden-in-page">
     <p align="center">

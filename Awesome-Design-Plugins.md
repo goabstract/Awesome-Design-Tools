@@ -8,12 +8,10 @@
       <a href="https://flawlessapp.io/designplugins">
           <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome%20Design%20Plugins.png" alt="Awesome-Design-Plugins"/>
       </a>
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+    <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
     </p>
 </div>
-
-<p align="center">
-<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-</p>
 
 ## How to Use and Contribute
 

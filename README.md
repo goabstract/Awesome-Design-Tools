@@ -109,6 +109,8 @@ Accessibility checking features are also available in VisBug from [Visual Debugg
 
 <article id="animation-tools">
 
+### Animation Tools
+
 <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33Q3AC0">
@@ -116,8 +118,6 @@ Accessibility checking features are also available in VisBug from [Visual Debugg
         </a>
     </p>
 </div>
-
-### Animation Tools
 
 Animations guide people through the product friendly and smoothly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:
 
@@ -818,16 +818,16 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 </article>
 
 <article id="screenshot-software">
-    
-<div class="hidden-in-page">
-<p align="center">
- <a href="http://bit.ly/2VQVTJ8">
-     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
- </a>
-</p>
-</div>
 
 ### Screenshot Software
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/2VQVTJ8">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+        </a>
+    </p>
+</div>
 
 Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:
 

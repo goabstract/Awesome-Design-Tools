@@ -133,3 +133,52 @@ document.querySelectorAll('.nav a').forEach(button =>
 	})
 );
 
+// handle modal window for filtering by application
+
+document.querySelector('.js-open-modal-filter').addEventListener('click', (e) => {
+	e.target.classList.toggle('-active');
+	document.querySelector('.sort-tool-modal').classList.toggle('-hidden')
+});
+
+// filter by application logic
+
+function sortByApplication(event) {
+	// toggle styles for button that was handled;
+	const { target } = event;
+	target.classList.toggle('-active');
+
+	const targetAttr = target.getAttribute('app');
+	const allLabels = document.querySelectorAll(`.label[for="${targetAttr}"]`);
+    const buttons = [...document.querySelectorAll('.sort-tool-modal__btn-choose')];
+    const targetIsActive = target.classList.contains('-active');
+
+    const sortedButtons = buttons.filter(button => button.classList.contains('-active'))
+    const activeApps = sortedButtons.map(button => button.getAttribute('app'));
+
+	allLabels.forEach((label) => {
+		const toolContainer = label.parentElement.parentElement.parentElement.parentElement;
+		const list = toolContainer.parentElement;
+		const sectionContainer = list.parentElement;
+        const attr = label.getAttribute('for');
+        if (activeApps.includes(attr)) {
+            toolContainer.classList.remove('-hidden');
+        } else {
+            toolContainer.classList.add('-hidden');
+		}
+		// const arr = [...toolContainer.parentElement].filter(tool => !tool.classList.contains('hidden'));
+		// console.log(toolContainer.parentElement.childElementCount);
+		const arr = [...list.children].filter((tool) => !tool.classList.contains('-hidden'));
+		if (arr.length === 0) {
+			sectionContainer.classList.add('-hidden');
+		} else {
+			sectionContainer.classList.remove('-hidden');
+		}
+	});
+
+
+}
+
+
+document.querySelectorAll('.sort-tool-modal__btn-choose').forEach((button) => {
+	button.addEventListener('click', sortByApplication);
+})

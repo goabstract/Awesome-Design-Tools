@@ -87,7 +87,7 @@ const parseTweaks = (html, config) => {
 			{
 				className: '-supernova',
 				logo: '-supernova',
-				title: 'SuperNova',
+				title: 'Supernova',
 				description: 'Convert any mobile design into full-fledged native applications',
 				link: {
 					href: 'http://bit.ly/2ZwUoEq',
@@ -108,13 +108,13 @@ const parseTweaks = (html, config) => {
 				title: 'Abstract',
 				description: 'We centralize design decisions, feedback, Sketch files, and specs for your team.',
 				link: {
-					href: 'http://bit.ly/2VS36Zl',
+					href: 'https://www.abstract.com/campaigns/collaboration/?&utm_medium=Partner-Advertising&utm_source=PA-Native-Digital&utm_campaign=CY19-PA-FlawlessApp-1018-Sept12&utm_term=designplugins&utm_content=Sponsored',
 					className: '-abstract',
 					text: 'Get a free, 14-day trial',
 				},
 			},
 			[
-				'#version-control', '#plugin-development',
+				'#version-control', '#plugin-development', '#animation-tools', '#gradient-tools',
 				'#ui-design-tools', '#design-version-control', '#design-system-tools'
 			]
 		);
@@ -191,7 +191,7 @@ const parseTweaks = (html, config) => {
 			},
 			[
 				'#generate-ui-element', '#accesibility',
-				'#animation-tools', '#tools-for-learning-design', '#design-handoff-tools'
+				'#tools-for-learning-design', '#design-handoff-tools'
 			]
 		);
 		return document.documentElement.outerHTML;

@@ -25,7 +25,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </div>
 
-<header class='header header-top -blue'></header>
+<header class='header header-top -mint'></header>
 
 <div class="nav">
 
@@ -58,7 +58,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Plugins Collection](#plugins-collection)
 * [Presentation & Preview](#presentation--preview)
 * [Prototyping](#prototyping)
-* [3D Perspective](#3d-perspective)
+* [3D Perspective](#three-d-perspective)
 * [Rename Helper](#rename-helper)
 * [Resize](#resize)
 * [Selection Enhancement](#selection-enhancement)
@@ -1019,7 +1019,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <article id="three-d-perspective">
 
-### 3D Perspective
+### Three D Perspective
 * [Sketch Isometric](https://github.com/sureskumar/sketch-isometric) — Generate Isometric views from Artboards and Rectangles. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Angle](https://designcode.io/angle) — Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Magic Mirror](http://magicmirror.design) — Perspective Transformation for Sketch Artboards ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

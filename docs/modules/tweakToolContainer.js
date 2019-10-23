@@ -32,6 +32,7 @@ const createLabel = (title, className) => `
 	<div
 		class="label label--${className}"
 		title="this plugin is for ${title}"
+		for="${className}"
 	>
 		${title}
 	</div>	

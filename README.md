@@ -24,7 +24,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </div>
 
 <header class='header header-top -blue'></header>
-
 <div class="nav">
 
 ## Table of Content
@@ -380,7 +379,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [Specify](https://www.specifyapp.com/) — a tool to create, scale and maintain a design system.
 * [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
-* [Toolabs](https://www.toolabs.com/) — #designsystems and #components based design, prototype and development tool.
+* [Toolabs](https://www.toolabs.com/) — design systems and components based design, prototype and development tool. It's not public yet but you can apply to the early access.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
 <div class="banner banner--yellow">

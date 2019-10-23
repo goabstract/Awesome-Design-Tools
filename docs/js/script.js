@@ -156,7 +156,8 @@ function sortByApplication(event) {
 
 	console.log(activeApps);
 
-	ga('send', 'event', 'Awesome design Plugins', 'Click', 'State of Platforms', activeApps.join('-'));
+	ga('send', 'event', 'Awesome design Plugins - Filter', 'Click', 'State of Platforms', activeApps.join('-'));
+	ga('send', 'event', 'Awesome design Plugins - Filter', 'Click', 'Platform Name', targetAttr);
 
 	allLabels.forEach((label) => {
 		const toolContainer = label.parentElement.parentElement.parentElement.parentElement;
@@ -183,4 +184,27 @@ function sortByApplication(event) {
 
 document.querySelectorAll('.sort-tool-modal__btn-choose').forEach((button) => {
 	button.addEventListener('click', sortByApplication);
+})
+
+document.querySelectorAll('.tool').forEach((tool) => {
+	tool.addEventListener('click', (e) => {
+		e.stopPropagation();
+		const target = e.currentTarget;
+		const title = target.children[1].children[0].children[0].textContent;
+		const categoryName = target.parentElement.parentElement.id;
+		const platforms = [...target.children[1].children[0].children[1].children].map(a => a.getAttribute('for'))
+
+		ga('send', 'event', 'Awesome design Plugins - Plugin', 'Click', 'Title', title);
+		ga('send', 'event', 'Awesome design Plugins - Plugin', 'Click', 'CategoryName', categoryName);
+		ga('send', 'event', 'Awesome design Plugins - Plugin', 'Click', 'Platforms', platforms.join('-'));
+	}, true);
+})
+
+document.querySelectorAll('.nav ul li a').forEach((a) => {
+	a.addEventListener('click', (e) => {
+		const { target } = e;
+		const title = target.innerText;
+
+		ga('send', 'event', 'Awesome design Plugins - Categories', 'Click', 'Title', title);
+	}, true);
 })

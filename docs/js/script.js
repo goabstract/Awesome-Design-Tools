@@ -1,3 +1,6 @@
+const chooseMd = document.location.href.split('/').pop().includes('plugin') ? 'Plugins' : 'Tools'
+
+
 function toggleMenuChange() {
 	document.querySelector('.nav').classList.toggle('nav--visible');
 	document.querySelector('.hamburger-menu').classList.toggle('hamburger-menu--change');
@@ -156,8 +159,8 @@ function sortByApplication(event) {
 
 	console.log(activeApps);
 
-	ga('send', 'event', 'Awesome design Plugins - Filter (State of Platforms)', 'Click', activeApps.join('-'));
-	ga('send', 'event', 'Awesome design Plugins - Filter (Clicked Platform Name)', 'Click', targetAttr);
+	ga('send', 'event', `Awesome design ${chooseMd} - Filter (State of Platforms)`, 'Click', activeApps.join('-'));
+	ga('send', 'event', `Awesome design ${chooseMd} - Filter (Clicked Platform Name)`, 'Click', targetAttr);
 
 	allLabels.forEach((label) => {
 		const toolContainer = label.parentElement.parentElement.parentElement.parentElement;
@@ -194,9 +197,9 @@ document.querySelectorAll('.tool').forEach((tool) => {
 		const categoryName = target.parentElement.parentElement.id;
 		const platforms = [...target.children[1].children[0].children[1].children].map(a => a.getAttribute('for'))
 
-		ga('send', 'event', 'Awesome design Plugins - Plugin (Title)', 'Click', title);
-		ga('send', 'event', 'Awesome design Plugins - Plugin (CategoryName)', 'Click', categoryName);
-		ga('send', 'event', 'Awesome design Plugins - Plugin (Platform)', 'Click', platforms.join('-'));
+		ga('send', 'event', `Awesome design ${chooseMd} - Plugin (Title)`, 'Click', title);
+		ga('send', 'event', `Awesome design ${chooseMd} - Plugin (CategoryName)`, 'Click', categoryName);
+		ga('send', 'event', `Awesome design ${chooseMd} - Plugin (Platform)`, 'Click', platforms.join('-'));
 	}, true);
 })
 
@@ -205,6 +208,6 @@ document.querySelectorAll('.nav ul li a').forEach((a) => {
 		const { target } = e;
 		const title = target.innerText;
 
-		ga('send', 'event', 'Awesome design Plugins - Category (Title)', 'Click', title);
+		ga('send', 'event', `wesome design ${chooseMd} - Category (Title)`, 'Click', title);
 	}, true);
 })

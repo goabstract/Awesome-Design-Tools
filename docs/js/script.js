@@ -150,10 +150,13 @@ function sortByApplication(event) {
 	const targetAttr = target.getAttribute('app');
 	const allLabels = document.querySelectorAll(`.label[for="${targetAttr}"]`);
     const buttons = [...document.querySelectorAll('.sort-tool-modal__btn-choose')];
-    const targetIsActive = target.classList.contains('-active');
 
     const sortedButtons = buttons.filter(button => button.classList.contains('-active'))
     const activeApps = sortedButtons.map(button => button.getAttribute('app'));
+
+	console.log(activeApps);
+
+	ga('send', 'event', 'Awesome design Plugins', 'Click', 'State of Platforms', activeApps.join('-'));
 
 	allLabels.forEach((label) => {
 		const toolContainer = label.parentElement.parentElement.parentElement.parentElement;
@@ -165,8 +168,7 @@ function sortByApplication(event) {
         } else {
             toolContainer.classList.add('-hidden');
 		}
-		// const arr = [...toolContainer.parentElement].filter(tool => !tool.classList.contains('hidden'));
-		// console.log(toolContainer.parentElement.childElementCount);
+
 		const arr = [...list.children].filter((tool) => !tool.classList.contains('-hidden'));
 		if (arr.length === 0) {
 			sectionContainer.classList.add('-hidden');

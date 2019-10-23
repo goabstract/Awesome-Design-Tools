@@ -205,6 +205,6 @@ document.querySelectorAll('.nav ul li a').forEach((a) => {
 		const { target } = e;
 		const title = target.innerText;
 
-		ga('send', 'event', 'Awesome design Plugins - Categories', 'Click', 'Title', title);
+		ga('send', 'event', 'Awesome design Plugins - Category (Title)', 'Click', title);
 	}, true);
 })

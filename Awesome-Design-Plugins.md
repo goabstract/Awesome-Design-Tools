@@ -515,7 +515,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 ### Developers Handoff 
 * [Sketch Measure](https://github.com/utom/sketch-measure) — Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Marketch](http://tudou527.github.io/marketch/) — Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-* [Sympli](https://sympli.io) — Perfect your collaboration with Sympli. Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Sympli](https://sympli.io) — Perfect your collaboration with Sympli. Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch) — Sync Sketch designs to Avocode. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Inker8](https://github.com/inker8/sketch-plugin) — A spec exporter for Sketch which can copy text/css/svg icons with only one click. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Storyboard](https://github.com/BriteSnow/sketch-storyboard) — Export a full story flow and dev spec in one shortcut. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1456,6 +1456,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Plant](https://plantapp.io) — Version control for designers ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Git Pro](https://github.com/xuming/sketch-git-pro) — Git tools for sketch. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Time Machine](https://www.figma.com/c/plugin/734492262527930956) — Time Machine saves and organizes work that you want to look back on. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Versions](https://versions.sympli.io) — Full-featured version control tool for designers. Works with GitHub, GitLab, Bitbucket and Azure Devops ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 </article>
 

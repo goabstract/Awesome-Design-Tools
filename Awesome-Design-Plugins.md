@@ -501,6 +501,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [ContentGenerator](andreea.marica11@yahoo.com) — Content Generator plugin helps you generate ramdomised content for your design. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Data Populator](feedback@datapopulator.com) — A plugin to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [QR Code Maker for XD](agata@chuwa-print.co.jp) — Create QR Code in the ​current document. This plugin will work 8 bit binary mode with UTF-8. The error level will set low. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [UI Faces](https://uifaces.co) — avatars for design mockups. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
 

@@ -111,7 +111,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<article id="align-arrange">
+<article id="align--arrange">
 
 ### Align & Arrange 
 * [Auto Arrange Artboards](https://github.com/srbsingh3/autoarrange) — automatically arrange the order of your artboards in the layer list according to their position on the canvas. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

@@ -177,11 +177,11 @@ Augmented Reality is a technology that upgrades our real world, by adding a laye
 ### Collaboration Tools
 
 <div class="hidden-in-page">
-    <p align="center">
-        <a href="http://bit.ly/2ZwUoEq">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
-        </a>
-    </p>
+<p align="center">
+ <a href="http://bit.ly/2ZwUoEq">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+ </a>
+</p>
 </div>
 
 Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier, save time and improve productivity. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
@@ -393,13 +393,15 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 <article id="design-to-code-tools">
     
 ### Design to Code Tools   
+
 <div class="hidden-in-page">
-    <p align="center">
-      <a href="http://bit.ly/2ZwUoEq">
-          <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
-      </a>
-    </p>
+<p align="center">
+ <a href="http://bit.ly/2ZwUoEq">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
+ </a>
+</p>
 </div>
+
 Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don’t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.
 
 * [Anima](https://www.animaapp.com/) — a web app with a Sketch plugin that converts Sketch to HTML. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -817,13 +819,12 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 <article id="screenshot-software">
     
-    <div class="hidden-in-page">
-    <p align="center">
-        <a href="http://bit.ly/2VQVTJ8">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
-        </a>
-
-    </p>
+<div class="hidden-in-page">
+<p align="center">
+ <a href="http://bit.ly/2VQVTJ8">
+     <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
+ </a>
+</p>
 </div>
 
 ### Screenshot Software

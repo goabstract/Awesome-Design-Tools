@@ -9,7 +9,7 @@ const editHead = ({ document }, title, meta, icons, isProduction) => {
         fonts,
         styleInner,
         styleExternal,
-        analytics
+        analytics,
     } = Templates;
 
     if (isProduction !== false) {

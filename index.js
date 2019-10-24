@@ -115,8 +115,9 @@ const parseTweaks = (html, config) => {
 			},
 			[
 				'#version-control', '#plugin-development', '#animation-tools', '#gradient-tools',
-				'#ui-design-tools', '#design-version-control', '#design-system-tools', '#visual-debugging-tools',
-				'#accesibility', '#copy--paste', '#map-generation'
+				'#ui-design-tools', '#design-version-control', '#design-system-tools',
+				'#accessibility', '#copy--paste', '#map-generation',
+				'#visual-debugging-tools'
 			]
 		);
 		promotionBanner(

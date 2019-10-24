@@ -596,7 +596,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Auto Layout](https://animaapp.github.io/Auto-Layout/) — Responsive design inside Sketch. Design for all screen sizes on one artboard. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) — A plugin that integrates constraints in Sketch to lay out layers. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect) — Plugin for Sketch for handling layout and sizing of layers automatically based on their names. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-* [Pointbreak](https://pointbreak.protowire.com) — Add breakpoints to artboards so you can have mobile and desktop designs on the one artboard. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Compo](https://github.com/romashamin/compo-sketch) — Makes it easier to work with interface components in Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Toggle Constrain Proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) — Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Method](https://github.com/KikeSz/Method-Sketch-Plugin) — Tool to apply your methodology systems ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1022,7 +1021,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <article id="prototyping">
 
 ### Prototyping
-* [Protowire](https://protowire.com) — Adds prototyping to Sketch including transitions between screens and layer animation. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Browser Preview](https://github.com/FreakLand/sketch-browser-preview) — Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [AnimateMate](https://github.com/Creatide/AnimateMate) — Create your animations directly in Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Prototypes Invision ↔︎ Sketch](https://github.com/mathieudutour/prototypes-invision-sketch) — Translate your prototyping links back and forth between Sketch and Invision ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

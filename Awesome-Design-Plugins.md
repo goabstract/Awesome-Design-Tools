@@ -403,6 +403,8 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <article id="data-generation">
 
+### Data Generation
+
 <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33Q3AC0">
@@ -411,7 +413,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
     </p>
 </div>
 
-### Data Generation
 * [Iconscout](https://github.com/iconscout/icondrop) — get access to 2 million+ icons, illustration and stock images right into your design app. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [liveplanet-sketch-datasupplier](https://github.com/Craigtut/liveplanet-sketch-datasupplier) — supply's real data from Live Planet's api to sketch for testing designs ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [jerryipsum](https://github.com/vinceangeloni/jerryipsum) — a Seinfeld data plugin for Sketch. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -806,6 +807,8 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <article id="import">
 
+### Import
+
 <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33Q3AC0">
@@ -814,7 +817,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
     </p>
 </div>
 
-### Import
 * [Stash](https://www.stash.diamonds) — Import artboards from Stash to Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Bolt](http://boltplugin.com/) — Import screenshots faster ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard) — Import SVG files as Artboards. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -927,6 +929,8 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <article id="plugin-development">
 
+### Plugin Development
+
 <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33Q3AC0">
@@ -935,7 +939,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
     </p>
 </div>
 
-### Plugin Development
 * [Sketch DevTools](https://github.com/skpm/sketch-dev-tools) — See your plugin logs, inspect the state of Sketch documents, explore actions, and more ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 * [Get It](https://www.figma.com/c/plugin/739958206151827292) — Get It helps in building Figma plugins by letting you prototype pieces of your plugin in Figma and copy their verbose syntax to your clipboard. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)

@@ -84,8 +84,8 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="https://adobe.ly/33HVSdf">
-            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD%20(1).png" alt="Abobe XD"/>
+        <a href="http://bit.ly/33Q3AC0">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
 </div>
@@ -402,6 +402,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </article>
 
 <article id="data-generation">
+
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/33Q3AC0">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+        </a>
+    </p>
+</div>
 
 ### Data Generation
 * [Iconscout](https://github.com/iconscout/icondrop) — get access to 2 million+ icons, illustration and stock images right into your design app. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -798,6 +806,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 <article id="import">
 
+<div class="hidden-in-page">
+    <p align="center">
+        <a href="http://bit.ly/33Q3AC0">
+            <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
+        </a>
+    </p>
+</div>
+
 ### Import
 * [Stash](https://www.stash.diamonds) — Import artboards from Stash to Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Bolt](http://boltplugin.com/) — Import screenshots faster ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -909,6 +925,8 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
+<article id="plugin-development">
+
 <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33Q3AC0">
@@ -916,8 +934,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
         </a>
     </p>
 </div>
-
-<article id="plugin-development">
 
 ### Plugin Development
 * [Sketch DevTools](https://github.com/skpm/sketch-dev-tools) — See your plugin logs, inspect the state of Sketch documents, explore actions, and more ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

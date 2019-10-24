@@ -79,16 +79,17 @@ const tweakToolContainer = ({ document }) => {
 		tool.classList.add('tool');
 		// wrap description into a paragraph
 		const title = tool.innerHTML.split(' — ')[0];
+		const targetBlankTitle = `${title.split('">')[0]}" target="_blank">${title.split('">')[1]}`
 		const descriptionFromMarkdown = tool.innerHTML.split(' — ')[1];
 		const description = `<p>${capitalizeFirstLetter(descriptionFromMarkdown)}</p>`;
 		let toolLink = title.split('href="')[1].split('"')[0];
 		// const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/;
 		toolLink.includes('')
 		tool.innerHTML = `
-			<a href="${toolLink}" class="tool__asset">${makeTextLogo(title)}</a>
+			<a href="${toolLink}" class="tool__asset" target="_blank">${makeTextLogo(title)}</a>
 			<div class="tool__description">
 				<header class="tool__description__header">
-					${title}
+					${targetBlankTitle}
 					<div class="label-wrapper">
 						${addLabel(tool)}
 					</div>

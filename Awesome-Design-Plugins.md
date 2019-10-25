@@ -49,6 +49,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Images Management](#images-management)
 * [Import](#import)
 * [Map Generation](#map-generation)
+* [Mockup Plugins](#mockup-plugins)
 * [Other](#other)
 * [PDF Export](#pdf-export-plugins)
 * [Plugin Development](#plugin-development)
@@ -845,6 +846,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Map Maker](https://www.figma.com/c/plugin/731312569747199418) — Map Maker allows you to make a customized map blazing fast. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 * [Maps generator](https://github.com/boopeshmahendran/AdobeXD-maps/blob/master/README.md) — Generate maps using the Google Maps API. Enter a place name or latitude and longitude and click Generate Map. It's that simple! You can also change the Map Type, Zoom Level and add Custom Styles. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+
+</article>
+
+<article id="mockup-plugins">
+
+### Mockup Plugins
+* [Artboard Studio Mockups](https://www.figma.com/c/plugin/750673765607708804/Artboard-Studio-Mockups) — Get access to more than 5300 world-class quality Artboard Studio mockup items right inside your Figma files. Easily render Figma frames into real-life product mockups with a click of a button. More items are added to our ever-growing library every day. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 </article>
 

@@ -407,8 +407,8 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Anima](https://www.animaapp.com/) — a web app with a Sketch plugin that converts Sketch to HTML. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Blocs](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
+* [Draftbit](https://draftbit.com/) — visually design and build mobile apps directly from your browser.
 * [Grapedrop](https://grapedrop.com/) — design your components, web projects and publish them instantly online, with an easy to use editor.
-* [Mason](https://www.trymason.com/core) — a feature-building platform where modern product teams design, build, and deploy front-end features together.
 * [Mobirise](https://mobirise.com/) — an offline drag and drop website builder software that is based on Bootstrap 3/4 and \ AMP. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [PageCloud](https://www.pagecloud.com/) — the fastest and most customizable website builder that allows anyone to create their ideal website.
 * [PaintCode](https://www.paintcodeapp.com) — vector drawing app that instantly converts drawings into Swift, Objective-C, JavaScript or Java code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

@@ -677,6 +677,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 * [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 * [Logo Rank](https://brandmark.io/logo-rank/) — upload your logo to see how it rates on a number of objective measures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Wizlogo](https://wizlogo.com/) — create a logo with simple and affordable tool backed by professional designers.
+* [Canva](https://www.canva.com/templates/search/logos/) — Many template of logos , so you can edit some logo to make new logo
 
 
 

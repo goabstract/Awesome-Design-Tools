@@ -235,6 +235,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 * [Color by Cloudflare](https://cloudflare.design/color/) — a tool to preview palettes against UI elements, cycle through accessible color combos and reate palettes manually, via URL import, or generatively.
 * [Color Deck](https://color.obscuredetour.com/) — a HSL driven color palette collection. It's also open-source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/obscuredetour/color-deck)
 * [Color Hexa](https://www.colorhexa.com/) — free color tool providing information about any color and generating matching color palettes for designs.
+* [Color Hunt](https://colorhunt.co/) — free and open platform for color inspiration with thousands of trendy hand-picked color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ColorKit](https://colorkit.io) — a tool for blending colors and generating a color's shades and tints. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Color Leap](https://colorleap.app) — take a leap through time and see the colors of history. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colorpicker](https://colorpicker.crea-th.at/) — a complete and open-source colors manipulation tool with picking. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
@@ -260,7 +261,6 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Viz Palette](https://projects.susielu.com/viz-palette) — color picker for data visualizations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Color Hunt](https://colorhunt.co/) — free and open platform for color inspiration with thousands of trendy hand-picked color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

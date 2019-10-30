@@ -373,6 +373,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [EOS Design System](https://www.eosdesignsystem.com) — an open source and customizable built on top of Bootstrap following the Atomic Design concept. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Eva Design System](https://eva.design/) — customizable design system, available for Sketch with Mobile and Web component libraries. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Frontify](https://frontify.com/) — create graphical guidelines, patterns libraries, design systems.
+* [Interplay](https://interplayapp.com/) — connect design and engineering around a single source of truth. The tool is not publicly available yet (beta).
 * [Lingo](https://www.lingoapp.com/) — create a shared asset library with your entire team. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Lucid](https://lucid.style/) — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
 * [Modulz](https://www.modulz.app/) — design, build, document and publish your design system—without writing code.

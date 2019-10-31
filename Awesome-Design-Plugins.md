@@ -178,6 +178,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 ### Analytics
 
 * [Visualeyes](https://github.com/loceye/sketch-visualeyes) — generate attention heatmaps in seconds ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Useberry](https://www.useberry.com) — User testing feedback and users’ behavior insights with heatmaps, video recordings, user flows, time bars and follow-up questions.  ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Userlytics](https://www.userlytics.com/faq) — allows you to easily configure and create a user experience test directly from your XD prototype so you can watch and listen to your target Persona interact with and answer questions. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [UserTesting](support@usertesting.com) — the UserTesting plugin enables you to seamlessly transition from designing a digital experience to soliciting immediate customer validation. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [User journey](https://github.com/mcoulthurst/xd-user-journey/blob/master/README.md) — this plugin renders a user journey map from external CSV text data. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)

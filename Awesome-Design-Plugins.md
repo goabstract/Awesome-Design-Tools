@@ -117,6 +117,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Sequence Artboard Names](https://github.com/tbrasington/Sequence-Sketch-Artboards) — simple sequencing of all artboards within a Sketch Document ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Align To Grid](https://github.com/pravdomil/sketch-align-to-grid) — let's align selection to grid ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Groupie](https://github.com/aparajita/sketch-groupie) — sketch plugin providing commands to align layers with their parent group ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Sketch Guides](http://guides.pratikshah.website/) — Allows you to quickly generate guides for a selected element and helps you achieve web development's famous grid (column) behaviour in Sketch. [sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6) — arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Organize Symbols](https://github.com/marianomike/sketch-organizesymbols) — a Sketch plugin that arranges symbol artboards ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [BaseAlign](https://github.com/abynim/BaseAlign) — a Sketch Plugin to align Text Layers by their baselines ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -596,7 +597,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Auto Layout](https://animaapp.github.io/Auto-Layout/) — Responsive design inside Sketch. Design for all screen sizes on one artboard. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) — A plugin that integrates constraints in Sketch to lay out layers. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect) — Plugin for Sketch for handling layout and sizing of layers automatically based on their names. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-* [Pointbreak](https://pointbreak.protowire.com) — Add breakpoints to artboards so you can have mobile and desktop designs on the one artboard. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Compo](https://github.com/romashamin/compo-sketch) — Makes it easier to work with interface components in Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Toggle Constrain Proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) — Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Method](https://github.com/KikeSz/Method-Sketch-Plugin) — Tool to apply your methodology systems ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1022,7 +1022,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <article id="prototyping">
 
 ### Prototyping
-* [Protowire](https://protowire.com) — Adds prototyping to Sketch including transitions between screens and layer animation. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Browser Preview](https://github.com/FreakLand/sketch-browser-preview) — Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [AnimateMate](https://github.com/Creatide/AnimateMate) — Create your animations directly in Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Prototypes Invision ↔︎ Sketch](https://github.com/mathieudutour/prototypes-invision-sketch) — Translate your prototyping links back and forth between Sketch and Invision ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -1215,12 +1214,14 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Reorient path](mr.flashi@gmail.com) — Reset the path rotation without affecting the shape. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Reverse Button Fill](https://github.com/masa-sumimoto/adobe-xd-reverse-button-fill) — A plugin that reverse fill of a text and a rectangle ( or a ellipse ). This plugin is intended to be used for button-like elements. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Swap Position](https://github.com/boopeshmahendran/AdobeXD-Swap-Positions) — Swap the position of two selected nodes ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [Toolabs DSM](https://www.toolabs.com/xdplugin) — a stateful design system manager which lets you link design tokens to design elements in your Adobe XD documents and make them themeable by defining system state variations, with no need to copy and paste your artboards. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
 
 <article id="symbols--components-management">
 
 ### Symbols & Components Management
+* [Symbol Browser](http://symbol-browser.pratikshah.website/) — A new way to browse your symbols. Make the most of your Design System by bringing symbols and UI Sticker sheet together. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [symbol-insert](https://github.com/lifeofmle/symbol-insert) — Simple plugin to insert Sketch symbols ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Symbol-Merger](https://github.com/franklymrshankly/Symbol-Merger) — A Sketch plugin that merges duplicate symbols ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Disconnector](https://github.com/njcrowther/Disconnector) — Quickly disconnect all symbols from a selection ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

@@ -83,7 +83,6 @@ const parseTweaks = (html, config) => {
 		removeListInAddendum(window);
 		addHeader(window, title, logoClassName, nav, isTool);
 		addAllPromoBanners(window);
-		console.log(document.innerHTML);
 		return document.documentElement.outerHTML;
 }
 

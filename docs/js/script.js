@@ -74,7 +74,6 @@ const automaticScroll = () => {
 automaticScroll();
 
 // search input
-
 String.prototype.capitalize = function() {
 	return this.charAt(0).toUpperCase() + this.slice(1)
 }
@@ -113,38 +112,26 @@ document.querySelector('.js-search-input').addEventListener('input', function(e)
 
 // add event for nav button when clicking on it while searching
 
-document.querySelectorAll('.nav a').forEach(button =>
+document.querySelectorAll('.nav a').forEach((button) =>
 	button.addEventListener('click', (e) => {
 		e.preventDefault();
-		// make empty input
+		if (window.innerWidth)
+		// make an empty input
 		document.querySelector('.js-search-input').value = '';
 
 		// scroll a bit less due to nav fixed positioning
 		window.scrollTo(0, document.querySelector(e.target.getAttribute('href')).offsetTop - 90);
 
-		const banner = document.querySelectorAll('.banner');
-		const promoBanner = document.querySelectorAll('.promo-banner');
-		const articleHeaders = document.querySelectorAll('main article > header');
-		// const addendum = document.querySelector('#addendum');
-		const welcome = document.querySelector('.welcome');
-		const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, welcome];
-		const paragraphs = document.querySelectorAll('main .tool');
-
-		// back to default view
-		elementsToHide.forEach(banner => banner.classList.remove('-hidden'));
-		paragraphs.forEach(p => p.classList.remove('-hidden'));
 	})
 );
 
 // handle modal window for filtering by application
-
 document.querySelector('.js-open-modal-filter').addEventListener('click', (e) => {
 	e.target.classList.toggle('-active');
 	document.querySelector('.sort-tool-modal').classList.toggle('-hidden')
 });
 
 // filter by application logic
-
 function sortByApplication(event) {
 	// toggle styles for button that was handled;
 	const { target } = event;

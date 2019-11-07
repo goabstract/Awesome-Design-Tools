@@ -657,6 +657,7 @@ Information architecture helps designers organize and structure content inside w
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — сreate beautiful diagrams and designs with this powerful and easy to use app.![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
 * [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.
+* [WriteMaps](https://writemaps.com/) - create sitemaps that impress! Plan out the pages and content for your next website project in a visual, fun, and beautiful manner.
 
 </article>
 

@@ -175,13 +175,13 @@ Augmented Reality is a technology that upgrades our real world, by adding a laye
 
 ### Collaboration Tools
 
-<div class="hidden-in-page">
+#(<div class="hidden-in-page">
 <p align="center">
  <a href="http://bit.ly/2ZwUoEq">
      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
  </a>
 </p>
-</div>
+</div>)
 
 Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier, save time and improve productivity. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
 

@@ -5,7 +5,9 @@ const addContributeButtonForAddendum = ({ document }) => {
 	const classNames = ['btn', 'btn-contribute', 'image-gh'];
 	classNames.map(className => button.classList.add(className));
 	button.innerHTML = 'Contribute on GitHub';
-	article.appendChild(button);
+	if (article) {
+		article.appendChild(button);
+	}
 }
 
 module.exports = addContributeButtonForAddendum;

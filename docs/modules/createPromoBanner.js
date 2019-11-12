@@ -1,8 +1,8 @@
-const HtmlParts = require('./HtmlParts');
+const Templates = require('./Templates');
 
 const createPromoBanner = ({ document }, link = 'https://flawlessapp.io/feedback') => {
     const banner = document.createElement('a');
-    const { promoFlawlessFeedbackBanner } = HtmlParts;
+    const { promoFlawlessFeedbackBanner } = Templates;
     banner.classList.add('promo-banner');
     banner.classList.add('promo-banner--flawless-feedback');
     banner.href = link;
@@ -15,7 +15,12 @@ const createPromoBanner = ({ document }, link = 'https://flawlessapp.io/feedback
         '#visual-debugging-tools',
     ];
 
-    bannerParents.map(parent => document.querySelector(parent).appendChild(banner.cloneNode(true)));
+    try {
+        bannerParents.map(parent => document.querySelector(parent) && document.querySelector(parent).appendChild(banner.cloneNode(true)));
+    } catch(err) {
+        console.log(err);
+    } 
+
 }
 
 module.exports = createPromoBanner;

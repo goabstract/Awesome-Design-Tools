@@ -4999,6 +4999,21 @@ article ul {
 			</div>
 		</li>
 <li class="tool">
+			<a href="https://interplayapp.com/" class="tool__asset" target="_blank" style="background-color: hsl(198.8, 88%, 89%); color: rgb(145, 196, 219);">I</a>
+			<div class="tool__description">
+				<header class="tool__description__header">
+					<a href="https://interplayapp.com/" target="_blank">Interplay</a>
+					<div class="label-wrapper">
+						
+					</div>
+				</header>
+				<p>Connect design and engineering around a single source of truth. The tool is not publicly available yet (beta).</p>
+				<div class="tag-wrapper">
+					
+				</div>
+			</div>
+		</li>
+<li class="tool">
 			<a href="https://www.lingoapp.com/" class="tool__asset" target="_blank" style="background-color: hsl(198.8, 88%, 89%); color: rgb(145, 196, 219);">L</a>
 			<div class="tool__description">
 				<header class="tool__description__header">
@@ -12989,7 +13004,6 @@ const automaticScroll = () => {
 automaticScroll();
 
 // search input
-
 String.prototype.capitalize = function() {
 	return this.charAt(0).toUpperCase() + this.slice(1)
 }
@@ -13028,38 +13042,26 @@ document.querySelector('.js-search-input').addEventListener('input', function(e)
 
 // add event for nav button when clicking on it while searching
 
-document.querySelectorAll('.nav a').forEach(button =>
+document.querySelectorAll('.nav a').forEach((button) =>
 	button.addEventListener('click', (e) => {
 		e.preventDefault();
-		// make empty input
+		if (window.innerWidth)
+		// make an empty input
 		document.querySelector('.js-search-input').value = '';
 
 		// scroll a bit less due to nav fixed positioning
 		window.scrollTo(0, document.querySelector(e.target.getAttribute('href')).offsetTop - 90);
 
-		const banner = document.querySelectorAll('.banner');
-		const promoBanner = document.querySelectorAll('.promo-banner');
-		const articleHeaders = document.querySelectorAll('main article > header');
-		// const addendum = document.querySelector('#addendum');
-		const welcome = document.querySelector('.welcome');
-		const elementsToHide = [...banner, ...promoBanner, ...articleHeaders, welcome];
-		const paragraphs = document.querySelectorAll('main .tool');
-
-		// back to default view
-		elementsToHide.forEach(banner => banner.classList.remove('-hidden'));
-		paragraphs.forEach(p => p.classList.remove('-hidden'));
 	})
 );
 
 // handle modal window for filtering by application
-
 document.querySelector('.js-open-modal-filter').addEventListener('click', (e) => {
 	e.target.classList.toggle('-active');
 	document.querySelector('.sort-tool-modal').classList.toggle('-hidden')
 });
 
 // filter by application logic
-
 function sortByApplication(event) {
 	// toggle styles for button that was handled;
 	const { target } = event;

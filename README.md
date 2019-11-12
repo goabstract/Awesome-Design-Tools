@@ -410,6 +410,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 * [Blocs](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
 * [Draftbit](https://draftbit.com/) — visually design and build mobile apps directly from your browser.
+* [EasyLogic Studio](https://www.easylogic.studio/) — fantastic css+svg design tool, also it is converted into code as shown.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Grapedrop](https://grapedrop.com/) — design your components, web projects and publish them instantly online, with an easy to use editor.
 * [Mobirise](https://mobirise.com/) — an offline drag and drop website builder software that is based on Bootstrap 3/4 and \ AMP. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [PageCloud](https://www.pagecloud.com/) — the fastest and most customizable website builder that allows anyone to create their ideal website.
@@ -455,9 +456,11 @@ Developers actively use version control tools for a long time, probably since 20
 
 Development browsers have features that help developers and designers create and test websites and apps.
 
-* [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster.
-* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps.
+* [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster. 
+* [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Litmus](https://litmus.com/) — an email campaign creation platform that, amongst other things, lets you see how HTML emails will appear in a wide variety of email clients.
+* [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps. 
+
 
 </article>
 
@@ -560,6 +563,7 @@ You can see gradient colors are everywhere — UI, branding, illustration, typog
 * [Egg Gradients](https://www.eggradients.com/) — a color collection page which includes shades of 12 different colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Grabient](https://www.grabient.com/) — beautiful and simple UI for generating web gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [GradientsList](https://www.gradientslist.com) — largest crowdsourced collection of gradients, with daily contributions from users on [Gradients Maker for iOS](https://itunes.apple.com/app/apple-store/id1442380225?pt=117877769&ct=gh&mt=8) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Gradient Generator](https://colordesigner.io/gradient-generator) — a tool that generates a stepped gradient between two colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Gradient Hunt](https://gradienthunt.com/) — a free and open platform for colour inspiration with thousands of trendy hand-made colour gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Gradients Guru](http://gradientsguru.com/) — blend mode background images & beautiful background gradients for your UI. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [HtmlColours](https://htmlcolors.com/) — realize how easy and beautiful is to create gradients with this gradients generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -657,6 +661,7 @@ Information architecture helps designers organize and structure content inside w
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — сreate beautiful diagrams and designs with this powerful and easy to use app.![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
 * [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.
+* [WriteMaps](https://writemaps.com/) - create sitemaps that impress! Plan out the pages and content for your next website project in a visual, fun, and beautiful manner.
 
 </article>
 
@@ -809,6 +814,7 @@ A prototype is a simple experimental design of a proposed solution. It should he
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
 * [Prott](https://prottapp.com/) — an easy to use and intuitive prototyping tool, promotes team collaboration.
 * [Uizard](https://uizard.io/) — transform wireframes into high-fidelity interactive prototypes, customize style systems, export to Sketch, export to HTML/CSS code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Useberry](https://www.useberry.com/) — a usability testing tool that allows importing prototypes from InVision, AdodeXD, Sketch, Marvel and getting users’ behavior insights with heatmaps, video recordings, user flows, time bars and answers of follow-up questions.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">

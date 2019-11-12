@@ -282,13 +282,13 @@ How do you provide and get feedback during the development process? This process
 
 ### Design Handoff Tools
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="https://adobe.ly/33HVSdf">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
         </a>
     </p>
-</div>
+</div> -->
 
 Design handoff happens when designers finish the work and need to deliver designs to developers with all specs and assets. Design handoff tools allow to automatically generate styleguide, comment on the design, inspect elements. These tools minimize guesswork and improve the effectiveness of the design process.
 
@@ -312,13 +312,13 @@ You can also make design handoff within Relay, mentioned in the [Design Version 
 
 ### Design Inspiration
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
-</div>
+</div> -->
 
 The creative process can be tough. So if ideas don’t come to your mind right away, try to search for inspiration in the work of other designers. These design inspiration sites feature design patterns, user flows, email markups and creative solutions of popular companies and great products:
 
@@ -398,13 +398,13 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
     
 ### Design to Code Tools   
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
 <p align="center">
  <a href="http://bit.ly/2ZwUoEq">
      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
  </a>
 </p>
-</div>
+</div> -->
 
 Everyone can learn development but it takes time and effort. If you need a website or an app right now and you don’t want to hire a developer, pay attention to the website builders. Such design to code tools will help you to make a portfolio, simple landing or an app pretty fast and beautiful.
 
@@ -466,13 +466,13 @@ Development browsers have features that help developers and designers create and
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/35I1q9q">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="experience-monitoring">
 
@@ -628,13 +628,13 @@ You can also handle icons with Specify, which is mentioned in the [Design System
 
 ### Illustrations
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
-</div>
+</div> -->
 
 Illustrations can be used on your landing page, blog posts, inside your app or email campaign. They make your design live and playful. While drawing good illustration is a task of a skilled graphic designer, you can grab free SVG images & illustrations from very kind people in our community:
 
@@ -701,13 +701,13 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 ### Mockup Tools
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
-</div>
+</div> -->
 
 A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:
 
@@ -783,13 +783,13 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="prototyping-tools">
 
@@ -831,13 +831,13 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 ### Screenshot Software
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
-</div>
+</div> -->
 
 Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:
 
@@ -982,13 +982,13 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="https://adobe.ly/33HVSdf">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD%20(1).png" alt="Abobe XD"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="tools-for-learning-design">
 
@@ -1040,13 +1040,13 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="user-flow-tools">
 
@@ -1072,13 +1072,13 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/35I1q9q">
         <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
     </a>
     </p>
-</div>
+</div> -->
 
 <article id="user-research-tools">
 
@@ -1136,13 +1136,13 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 * [Whimsical Wireframes](https://whimsical.co/wireframes/) — instant wireframing at your fingertips. Rich library of configurable elements like buttons, inputs, checkboxes.
 * [1200px Grid System](https://1200px.com/) — helps you build a grid system for much wider website designs than the 960-pixel style.
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
 <p align="center">
  <a href="https://adobe.ly/33HVSdf">
      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD.png" alt="Abobe XD"/>
  </a>
 </p>
-</div>
+</div> -->
 
 </article>
 

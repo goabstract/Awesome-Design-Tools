@@ -455,9 +455,11 @@ Developers actively use version control tools for a long time, probably since 20
 
 Development browsers have features that help developers and designers create and test websites and apps.
 
-* [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster.
-* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps.
+* [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster. 
+* [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Litmus](https://litmus.com/) — an email campaign creation platform that, amongst other things, lets you see how HTML emails will appear in a wide variety of email clients.
+* [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps. 
+
 
 </article>
 

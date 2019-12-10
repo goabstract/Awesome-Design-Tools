@@ -1356,6 +1356,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <article id="translation--localization">
 
 ### Translation & Localization
+* [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin) — translate content on pages and artboards into multiple languages before programming starts. Quickly generate language-specific assets. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Qordoba for Sketch](https://www.qordoba.com) — Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Translation](https://github.com/hoai265/Language-Sketch-Plugin) — A Sketch plugin for easy multi-language design ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 

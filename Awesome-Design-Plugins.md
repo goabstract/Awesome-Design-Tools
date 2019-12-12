@@ -205,13 +205,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2ZwUoEq">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="code-export">
 
@@ -248,13 +248,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="code-highlight">
 
@@ -264,13 +264,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2ZwUoEq">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="collaboration">
 
@@ -513,13 +513,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2ZwUoEq">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="developers-handoff">
 
@@ -714,13 +714,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="https://adobe.ly/33HVSdf">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Adobe%20XD%20(1).png" alt="Abobe XD"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="generate-ui-element">
 
@@ -958,13 +958,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="plugins-collection">
 
@@ -986,13 +986,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="presentation--preview">
 
@@ -1013,13 +1013,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
     
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="prototyping">
 
@@ -1437,13 +1437,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/35I1q9q">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
         </a>
     </p>
-</div> 
+</div>  -->
 
 <article id="user-flows">
 
@@ -1483,13 +1483,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="website--html-export">
 

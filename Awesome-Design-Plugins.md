@@ -200,7 +200,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Chart](https://www.figma.com/c/plugin/734590934750866002) — Chart is a plugin for Figma that uses real or random data to create the most popular charts. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [simpleflow](https://www.figma.com/c/plugin/751821593330638172) — SimpleFlow makes it easy to create flowchart with customize theme, you can choose the color, the dashed style or even the curvature of the flowchart. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Datavizer](https://www.figma.com/c/plugin/736737028247625415) — Create a bar chart, scatter plot, or line chart easily with your own data. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Odin Chart](https://app.odinchart.com/faq) — Odin Chart is _the_ tool for chart and map design in Adobe XDBring your own spreadsheet or use randomly generated data to place your designs in XD.This plugin requires a free account with Odin Chart. Sign up is easy and can be done through the plugin. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>

@@ -66,7 +66,7 @@ If you found some great design conference, just send a Pull Request with respect
 * [The UX Conference](https://theuxconf.com/) — design conference that’s not about trends & buzzwords, but collaboration between designers and communication between each other: internal company politics, presenting the value of design and speaking the same language with different stakeholders. // March 2-3 // London, UK 
 * [Leading Design San Francisco](https://leadingdesign.com/conferences/sanfran-2020) — brings together experts who lead design teams, oversee design direction and instill a culture of design within their organizations. // March 4-6 // San Francisco, USA
 * [SXSW Interactive](https://www.sxsw.com/conference/design/) — it covers all aspects, from futuristic product design to design-thinking approaches that can be applied to numerous other disciplines, businesses, and organizations. This programming will examine how design informs our interactions, shapes our experiences, and plays a critical role in problem-solving. // March 13-22 // Austin, USA
-* [UX Copenhagen](https://uxcopenhagen.com/) —  two-day conference for professionals working with UX design. You will hear about some of the newest trends in UX and Design, presented by a diverse panel of speakers ranging from gurus to people new to the field. // March 30-31 // Copenhagen, Denmark
+* [UX Copenhagen](https://uxcopenhagen.com/) — a two-day conference for professionals working with UX design. You will hear about some of the newest trends in UX and Design, presented by a diverse panel of speakers ranging from gurus to people new to the field. // March 30-31 // Copenhagen, Denmark
 * [AIGA Design Conference](https://designconference.aiga.org/) — brings the design community together in a once-in-a-lifetime, cross-disciplinary exchange of ideas about the changing world of design.  // March 30 - April 1 // Pittsburgh, USA`
 
 </article>
@@ -90,10 +90,10 @@ If you found some great design conference, just send a Pull Request with respect
 
 * [UX Burlington](https://www.uxburlington.com/) — an annual single-day conference, focused on what it really takes to build great digital user experiences on the web, in apps, and beyond.  May 1 // Burlington, USA
 * [Pixel Up!](https://pixelup.co.za/) — South Africa's premier UX and design conference that brings together UX and UI designers, UX writers, researchers, and product managers.  / May 4-6 // Cape Town, South Africa
-* [HOW Design Live](https://www.howdesignlive.com/) — is a 4-day conference and 3-day expo for design, marketing and creative professionals, with a focus on in-house practitioners in major corporate brands and design firms. // May 4-7 // Boston, Massachusetts
+* [HOW Design Live](https://www.howdesignlive.com/) — a four-day conference and 3-day expo for design, marketing and creative professionals, with a focus on in-house practitioners in major corporate brands and design firms. // May 4-7 // Boston, Massachusetts
 * [UXLx](https://www.ux-lx.com/) — four days of inspiring talks and hands-on workshops featuring top industry speakers. // May 19-22 // Lisbon, Portugal
 * [webinale](https://webinale.de/en) — the conference for product owners, web designers, and frontend coders. It combines user experience with code and offers a variety of topics that are important for digital professionals nowadays. // May 25-29 // Berlin, Germany
-* [UX London](https://2020.uxlondon.com/) — three day UX event by Clearleft, combining inspirational talks with in-depth workshops presented by some of the industry’s biggest names.  May 27-29 // London, UK
+* [UX London](https://2020.uxlondon.com/) — a three-day UX event by Clearleft, combining inspirational talks with in-depth workshops presented by some of the industry’s biggest names.  May 27-29 // London, UK
 
 </article>
 
@@ -134,9 +134,9 @@ If you found some great design conference, just send a Pull Request with respect
 ### September 
 
 * [SmashingConf](https://smashingconf.com/freiburg-2020) — friendly, inclusive events that are focused on real-world problems and solutions. Their focus is on front-end and UX but we cover everything web, be it UI design or machine learning. // September 7-8 // Freiburg, Germany
-* [Circles](https://circlesconference.com/) — 3-day creative design conference, bringing together designers and makers from around the globe. Learning from transformative thinkers and connecting with like-minded innovators, it provides a space where you’ll be challenged to push yourself in the creative process. // September 10-11 // Richardson, USA
+* [Circles](https://circlesconference.com/) — a three-day creative design conference, bringing together designers and makers from around the globe. Learning from transformative thinkers and connecting with like-minded innovators, it provides a space where you’ll be challenged to push yourself in the creative process. // September 10-11 // Richardson, USA
 * [dConstruct](https://2020.dconstruct.org/) — // September 11 // Brighton, UK
-* [Digital Labin](https://digitalab.in/) — a 2 day ICT conference bringing you top of the line keynote speakers in web, mobile and software design and development. Additionally, we are happy to have professional workshops, many networking activities and a party to remember. // September 25-26 // Labin, Croatia
+* [Digital Labin](https://digitalab.in/) — a two-day ICT conference bringing you top of the line keynote speakers in web, mobile and software design and development. Additionally, we are happy to have professional workshops, many networking activities and a party to remember. // September 25-26 // Labin, Croatia
 
 </article>
 
@@ -144,12 +144,12 @@ If you found some great design conference, just send a Pull Request with respect
   
 ### October 
 
-* [SmashingConf]() — // September 7-8 // New York, USA
-* [Adobe MAX]() — Adobe annual events where you can learn the latest Adobe announcements, attend 300+ sessions, labs, creativity workshops and network with each other.  // October 19-21 // Los Angeles, CA
-* [eattle Interactive Conference]() — // October 20-22 // Seattle, WA
-* [Brand New Conference]() — // October 22-23 // Austin, Texas
-* [Design Thinkers]() — // October 24-25 // Toronto, CA
-* [Creative Works]() — // October 2020 // Memphis, TN
+* [Adobe MAX](https://max.adobe.com/) — Adobe's annual events where you can learn the latest Adobe announcements, attend 300+ sessions, labs, creativity workshops and network with each other. // October 19-21 // Los Angeles, USA
+* [SmashingConf](https://smashingconf.com/ny-2020/) — an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy and real-life case studies. // October 20-21 // New York, USA
+* [Seattle Interactive Conference](https://seattleinteractive.com/) — is a celebration of the incredible work happening at the intersection of technology, creativity and industry. They spotlight innovation in experience, design, and strategy. They believe in the power of creative thinking, and that data and technology can be leveraged to help us make better, intentional choices. // October 20-22 // Seattle, USA
+* [Brand New Conference](https://underconsideration.com/brandnewconference/) — a two-day event on corporate and brand identity with some of today’s most active and influential practitioners from around the world. // October 22-23 // Austin, USA
+* [Design Thinkers](https://designthinkers.com/) — Canada's largest annual graphic design conference, connecting designers from around the world. // October 24-25 // Toronto, Canada
+* [Creative Works](https://conference.creativeworks.co/) — a conference is for creative professionals who are serious about their craft and want to sharpen their skills and learn how others work. Dozens of talks, workshops, vendors, and afterparties that encourage inspiration, connection, and growth among creative professionals. // October 2020 // Memphis, USA
 
 
 </article>

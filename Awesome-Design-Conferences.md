@@ -43,7 +43,7 @@ If you found some great design conference, just send a Pull Request with respect
 
 * [In/Visible Talks](https://invisibletalks.com/conference-2020/) — a conference for creative professionals that celebrates the art of design. It focuses on fresh takes and honest talks about the process, inspiration, and challenges behind the creative practice. // January 16 // San Francisco, USA
 * [Awwwards Conference Tokyo](https://conference.awwwards.com/tokyo/) — a digital thinkers conference is coming to Tokyo! It brings you the hottest topics and newest technologies on User Experience, UI Design, Web Design and Development, Animation, Technology, Branding, Trends, Creativity and much more. // January 22-24 // Tokyo, Japan
-* [New Adventures](https://newadventuresconf.com/2020/New Adventures) — a digital design conference where you'll explore speculative and critical design, radical inclusivity, climate, sustainability, and much more. // January 22-23 // Nottingham, UK
+* [New Adventures](https://newadventuresconf.com/2020/) — a digital design conference where you'll explore speculative and critical design, radical inclusivity, climate, sustainability, and much more. // January 22-23 // Nottingham, UK
 
 </article>
 

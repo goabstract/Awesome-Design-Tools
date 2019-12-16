@@ -101,14 +101,13 @@ If you found some great design conference, just send a Pull Request with respect
   
 ### June
 
-* [CreativePro Week]() — graphic designers and Adobe Creative Cloud users // June 1-5 // Austin, Texas
-* [#UXRConf]() — // June 3-5 // Toronto, Canada 
-* [99U]() — // June 3-5 // New York, NY
-* [Fluxible]() — // June 6-7 // Waterloo, Canada
-* [SmashingConf]() — // June 9-10 // Austin, USA
-* [Dsgnday]() — // June 11 // Amsterdam, Netherlands
-* [UX Healthcare]() — // June 24-26 // Amsterdam, Netherlands
-* [ICON11: The Illustration Conference]() — // June 28-July 1 // Kansas City, Missouri
+* [CreativePro Week](https://creativeproweek.com/) — event for graphic designers and Adobe Creative Cloud users. Whether you work in print or digital publishing, you’ll learn techniques and best practices you can take home and start using immediately to improve your productivity. // June 1-5 // Austin, USA
+* [Fluxible](https://www.fluxible.ca/) — a gathering of people who share an interest in user experience design and the fields with which it intersects. Fluxible is an inclusive, cooperative environment where everyone is welcomed, open dialogue is encouraged, and all perspectives are appreciated. // June 1-7 // Waterloo, Canada
+* [UXR Collective](https://uxrconference.com/) — brings together people from across the globe who are committed to championing their users, surfacing better insights, and bettering the tech ecosystem. // June 3-5 // Toronto, Canada 
+* [99U](https://conference.99u.com/) — Adobe’s career resource and annual conference, helping creatives of all stripes supercharge their work and make their ideas happen. // June 3-5 // New York, USA
+* [SmashingConf](https://smashingconf.com/austin-2020) — an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy, internationalization, designing for mobile, HTML email and real-life case studies. // June 9-10 // Austin, USA
+* [Dsgnday](https://dsgnday.nl/) — a full-day conference with eight presentations about web design and user experience. Expect plenty of practical advice on designing for the web—on any device. // June 11 // Amsterdam, Netherlands
+* [ICON11: The Illustration Conference](https://theillustrationconference.org/) — gathering of illustrators, designers, educators, representatives, and art buyers exploring illustration today. // June 28-July 1 // Kansas City, USA
 
 </article>
 
@@ -116,9 +115,8 @@ If you found some great design conference, just send a Pull Request with respect
   
 ### July
 
-* [Design/Content]() — // July 15-17 // Vancouver, BC 
-* [Haven Conference]() — // July 16-18 // Atlanta, Georgia
-* [SIGGRAPH]() — interactive designers and game developers // July 19-23 // Washington, D.C
+* [Design/Content](https://content.design/) — the conference for designers & content strategists. Hear from industry leaders about crafting experiences and telling stories that shape the future of the web. A day of workshops, two days of talks, and thoughtful extras in one of the most beautiful cities. // July 15-17 // Vancouver, Canada
+* [SIGGRAPH](https://s2020.siggraph.org/) —  the forum where inspiration creates progress. Collaborate with our forward-thinking community to find the most transformative advancements across computer graphics and interactive techniques. // July 19-23 // Washington, USA
 
 </article>
 
@@ -126,8 +124,7 @@ If you found some great design conference, just send a Pull Request with respect
   
 ### August 
 
-* [UX & Digital Design Week]() — creatives, UX designers and product managers // August 10-14 // London, UK 
-* [Loupe 2020]() — product and app designers // August 19-21 // Amsterdam, Netherlands
+* [Loupe 2020](https://www.framer.com/loupe/#signup) — a conference from Framer on interactive design and creative coding. // August 19-21 // Amsterdam, Netherlands
 
 
 </article>
@@ -136,11 +133,10 @@ If you found some great design conference, just send a Pull Request with respect
   
 ### September 
 
-* [SmashingConf]() — // September 7-8 // Freiburg, Germany
-* [dConstruct]() — // September 11 // Brighton, UK
-* [UX Healthcare]() — // September 17-18 // Frankfurt, Germany
-* [Digital Labin]() — // September 25-26 // Labin, Croatia
-* [Circles]() — // September 25-26 // Richardson, TX
+* [SmashingConf](https://smashingconf.com/freiburg-2020) — friendly, inclusive events that are focused on real-world problems and solutions. Their focus is on front-end and UX but we cover everything web, be it UI design or machine learning. // September 7-8 // Freiburg, Germany
+* [Circles](https://circlesconference.com/) — 3-day creative design conference, bringing together designers and makers from around the globe. Learning from transformative thinkers and connecting with like-minded innovators, it provides a space where you’ll be challenged to push yourself in the creative process. // September 10-11 // Richardson, USA
+* [dConstruct](https://2020.dconstruct.org/) — // September 11 // Brighton, UK
+* [Digital Labin](https://digitalab.in/) — a 2 day ICT conference bringing you top of the line keynote speakers in web, mobile and software design and development. Additionally, we are happy to have professional workshops, many networking activities and a party to remember. // September 25-26 // Labin, Croatia
 
 </article>
 
@@ -149,7 +145,7 @@ If you found some great design conference, just send a Pull Request with respect
 ### October 
 
 * [SmashingConf]() — // September 7-8 // New York, USA
-* [Adobe MAX]() — // October 19-21 // Los Angeles, CA
+* [Adobe MAX]() — Adobe annual events where you can learn the latest Adobe announcements, attend 300+ sessions, labs, creativity workshops and network with each other.  // October 19-21 // Los Angeles, CA
 * [eattle Interactive Conference]() — // October 20-22 // Seattle, WA
 * [Brand New Conference]() — // October 22-23 // Austin, Texas
 * [Design Thinkers]() — // October 24-25 // Toronto, CA

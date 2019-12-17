@@ -34,7 +34,7 @@ If you found some great UI Kit, just send a Pull Request with respect to our [Co
 
 
 
-We decided to share goodies for those of you who work with UI design or want to start.
+We decided to share goodies for those of you who work with UI design or want to start.[![smartphone-mobile-phone-svgrepo-com.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)](https://github.com/chialab/a11ygator-app)
 
 Prepared UI elements, screens, components or entirely app concepts, packed in a single UI Kit is a great option to begin with. You can modify any UI Kit to fit your needs and goals. All components and screens are easily editable, like navigation bars, buttons, login forms. You would need to have design tools, like Sketch App, Adobe XD, Studio or Figma to open the kits. The good news, you can use its free trials from the official websites.
 

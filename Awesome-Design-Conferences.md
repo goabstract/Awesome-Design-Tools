@@ -49,35 +49,41 @@ If you found some great design conference, just send a Pull Request with respect
 <article id="january">
 
 ### January
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
+| [Workshop: Getting started with Sketch App](https://www.sketch.com/community/groups/munich/?event=2020-01-15)| a meetup for designers interested in Sketch. Join it to share knowledge, discover tricks, plugins and new workflows or see how others utilise the powerful tool. | January 15 | München, Germany |
+| [CLT Sketch Meetup](https://www.sketch.com/community/groups/charlotte/?event=2020-01-15) | an official Sketch meetup for designers and developers in Charlotte. Share knowledge, trade tips, and hear about new plugins and resources. Meet local designers and members of the Sketch team, learn more about the app and have fun with likeminded people. | January 15 | Charlotte, USA |
 | [In/Visible Talks](https://invisibletalks.com/conference-2020/) | a conference for creative professionals that celebrates the art of design. It focuses on fresh takes and honest talks about the process, inspiration, and challenges behind the creative practice. | January 16 | San Francisco, USA |
+| [Sketch Dallas January Meetup Event](https://www.sketch.com/community/groups/dallas/?event=2020-01-21) | an official Sketch meetup for designers and developers in Dallas. Share knowledge, trade tips, and hear about new plugins and resources. Meet local designers, learn more about the app and have fun with likeminded people. | January 21 | Dallas, USA |
 | [Awwwards Conference Tokyo](https://conference.awwwards.com/tokyo/) | a digital thinkers conference is coming to Tokyo! It brings you the hottest topics and newest technologies on User Experience, UI Design, Web Design and Development, Animation, Technology, Branding, Trends, Creativity and much more. | January 22-24 | Tokyo, Japan |
 | [New Adventures](https://newadventuresconf.com/2020/) | a digital design conference where you'll explore speculative and critical design, radical inclusivity, climate, sustainability, and much more. | January 22-23 | Nottingham, UK |
+| [Workshop: How to master Sketch & Design Systems](https://www.sketch.com/community/groups/munich/?event=2020-01-23) | a meetup for designers interested in Sketch. Share knowledge, discover tricks, plugins and new workflows or see how others utilise the powerful tool. | January 23 | München, Germany |
+| [Humanising Design](https://www.meetup.com/figma-africa/events/267044435/) | Figma's meetup where you'll dive into cognitive UI/UX principles that can be used to create delightful experiences for users. | January 25 | Lagos, Nigeria |
 
 </article>
 
 <article id="february">
-
+        
 ### February
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [IxDA](https://interaction20.ixda.org/) | a mix of workshops, talks, and hands-on experiences aimed at inspiring designers around the world. It brings together the brightest minds in design, science, philosophy, psychology, and business. | February 2-7 | Milan, Italy |
 | [Pause Fest](https://www.pausefest.com.au/) | a festival for business and creativity with a mission to bring diverse intelligence together to fuel the next generation forward. | February 5-7 | Melbourne, Australia |
 | [Outcome](http://outcomeconf.com/) | a conference that talks about startups, products, UX and design from a storytelling perspective. | February 8 | Chandigarh, India |
+| [Sketch Dallas February Meetup Event](https://www.sketch.com/community/groups/dallas/?event=2020-02-11) | an official Sketch meetup for designers and developers in Dallas. Share knowledge, trade tips, and hear about new plugins and resources. Meet local designers, learn more about the app and have fun with likeminded people. | February 11 | Dallas, USA |
 | [Brand New: First Round](https://underconsideration.com/firstround/) | a one-day showcase of original presentations made to clients showing initial design explorations for logo, identity, and branding projects. | February 14 | Portland, USA |
+| [Figma Africa Enugu Meetup](https://www.meetup.com/figma-africa/events/266832410/) | Figma's event where you'll explore places where people could go and get resources and inspiration for their design and finally.| February 15 | Lagos, Nigeria | 
 | [UXistanbul](https://uxistanbul.org/) | the first UX conference of Turkey that gathers UX and Usability professionals from the world’s leading companies in Istanbul, to share their experiences. | February 18 | Istanbul, Turkey
 | [Awwwwards Conference Amsterdam](https://conference.awwwards.com/amsterdam) | a digital design awards platform for designers, developers, and digital dreamers. It brings you the hottest topics and newest technologies on User Experience, UI Design, Web Design and Development, Animation, Technology, Branding, Trends, Creativity and much more. | February 19-21 | Amsterdam, Netherlands |
 | [Mouvo](https://mouvo.cz/) | a festival presenting motion design in all its forms – as a creative field as well as an outlet for personal expression. | February 21-22 | Prague, Czech Republic |
 | [FITC Amsterdam 2020](https://fitc.ca/event/am20/) | groundbreaking design and tech event on the future of innovation, design and all the cool stuff in between. | February 24-25 | Amsterdam, Netherlands |
-
 
 </article>
 
 <article id="march">
   
 ### March
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [The UX Conference in London](https://theuxconf.com/) | design conference that’s not about trends & buzzwords, but collaboration between designers and communication between each other: internal company politics, presenting the value of design and speaking the same language with different stakeholders. | March 2-3 | London, UK |
 | [Leading Design San Francisco](https://leadingdesign.com/conferences/sanfran-2020) | brings together experts who lead design teams, oversee design direction and instill a culture of design within their organizations. | March 4-6 | San Francisco, USA |
@@ -93,7 +99,7 @@ If you found some great design conference, just send a Pull Request with respect
 <article id="april">
   
 ### April
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [UIArchConf](http://uiarchconf.com/) | a conference and training event for those who work as UI Architects. Here you'll explore the various aspects of UI Architecture and the massive role a UI architect plays in an organization. | April 1-3 | New Orleans, USA |
 | [Creative South](https://www.creativesouth.com/) | a weekend of creative thinking, collaboration, and exploration. Enjoy workshops, talks focused on process & experience, and networking in the design community. | April 2-4 | Columbus, USA |
@@ -112,7 +118,7 @@ If you found some great design conference, just send a Pull Request with respect
 <article id="may">
   
 ### May 
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [UX Burlington](https://www.uxburlington.com/) | an annual single-day conference, focused on what it really takes to build great digital user experiences on the web, in apps, and beyond. | May 1 | Burlington, USA |
 | [Pixel Up!](https://pixelup.co.za/) | South Africa's premier UX and design conference that brings together UX and UI designers, UX writers, researchers, and product managers. | May 4-6 | Cape Town, South Africa |
@@ -128,7 +134,7 @@ If you found some great design conference, just send a Pull Request with respect
 <article id="june">
   
 ### June
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [CreativePro Week](https://creativeproweek.com/) | event for graphic designers and Adobe Creative Cloud users. Whether you work in print or digital publishing, you’ll learn techniques and best practices you can take home and start using immediately to improve your productivity. | June 1-5 | Austin, USA |
 | [Fluxible](https://www.fluxible.ca/) | a gathering of people who share an interest in user experience design and the fields with which it intersects. Fluxible is an inclusive, cooperative environment where everyone is welcomed, open dialogue is encouraged, and all perspectives are appreciated. | June 1-7 | Waterloo, Canada |
@@ -145,7 +151,7 @@ If you found some great design conference, just send a Pull Request with respect
 <article id="july">
   
 ### July
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [Design/Content](https://content.design/) | the conference for designers & content strategists. Hear from industry leaders about crafting experiences and telling stories that shape the future of the web. A day of workshops, two days of talks, and thoughtful extras in one of the most beautiful cities. | July 15-17 | Vancouver, Canada |
 | [SIGGRAPH](https://s2020.siggraph.org/) | the forum where inspiration creates progress. Collaborate with our forward-thinking community to find the most transformative advancements across computer graphics and interactive techniques. | July 19-23 | Washington, USA |
@@ -155,16 +161,16 @@ If you found some great design conference, just send a Pull Request with respect
 <article id="august">
   
 ### August 
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
-| [Loupe 2020](https://www.framer.com/loupe/#signup) | a conference from Framer on interactive design and creative coding. | August 19-21 | Amsterdam, Netherlands |
+| [Loupe2020](https://www.framer.com/loupe/#signup) | a conference from Framer on interactive design and creative coding. Talks from designers, prototypers, and developers on the way they work and their creative process. There are also Framer X workshops so that attendees can get some practical stuff at the end of the conference. | August 19-21 | Amsterdam, Netherlands |
 
 </article>
 
 <article id="september">
   
 ### September 
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [SmashingConf](https://smashingconf.com/freiburg-2020) | friendly, inclusive events that are focused on real-world problems and solutions. Their focus is on front-end and UX but we cover everything web, be it UI design or machine learning. | September 7-8 | Freiburg, Germany |
 | [Circles](https://circlesconference.com/) | a three-day creative design conference, bringing together designers and makers from around the globe. Learning from transformative thinkers and connecting with like-minded innovators, it provides a space where you’ll be challenged to push yourself in the creative process. | September 10-11 | Richardson, USA |
@@ -176,7 +182,7 @@ If you found some great design conference, just send a Pull Request with respect
 <article id="october">
   
 ### October 
-| Name | About | Date | Place |
+| Name | About | Dates | Location |
 |---|---|---|---|
 | [Adobe MAX](https://max.adobe.com/) | Adobe's annual events where you can learn the latest Adobe announcements, attend 300+ sessions, labs, creativity workshops and network with each other. | October 19-21 | Los Angeles, USA |
 | [SmashingConf](https://smashingconf.com/ny-2020/) | an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy and real-life case studies. | October 20-21 | New York, USA |

@@ -39,109 +39,90 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 
 ### iOS 11 UI Kits
-*  [Design+Code iOS 11 UI Kit](https://designcode.io/ios11-ui-kit?ref=mediumflawless) — a comprehensive Sketch kit tailored to Apple’s Human Interface Guidelines (HIG). It contains text styles, resizable nested symbols and even a set of dark theme components. The naming convention of each component follows Apple Developer Documentation. You can easily customize the colours, icons, and content as you wish and everything will be fully adaptive! ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+* [Design+Code iOS 11 UI Kit](https://designcode.io/ios11-ui-kit?ref=mediumflawless) — a comprehensive Sketch kit tailored to Apple’s Human Interface Guidelines (HIG). It contains text styles, resizable nested symbols and even a set of dark theme components. The naming convention of each component follows Apple Developer Documentation. You can easily customize the colours, icons, and content as you wish and everything will be fully adaptive! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [iOS 11 Screens & Components](https://medium.com/r/?url=https%3A%2F%2Fiosdesignkit.io%2Fios-11-gui%2F) — a huge collection of iOS 11 core components and over 60 (x2) selected screens. As well as a previous UI Kit, this one is done according to Apple’s HIG and has designs for iPhone X & iPhone 8. Sketch files are made with nested symbols and contain text styles with resizing options specified. Available for Sketch and Figma. ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [iOS 11 Screens & Components](https://medium.com/r/?url=https%3A%2F%2Fiosdesignkit.io%2Fios-11-gui%2F) — a huge collection of iOS 11 core components and over 60 (x2) selected screens. As well as a previous UI Kit, this one is done according to Apple’s HIG and has designs for iPhone X & iPhone 8. Sketch files are made with nested symbols and contain text styles with resizing options specified. Available for Sketch and Figma. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
-* [iOS 11 GUI for Sketch App]() - this kit contains iOS 11 designs, including 22 screens, 10 keyboards, fully vector elements and 100% vector shapes that are fully layered, organized and grouped. It’s an excellent resource for anyone starting a new design project for iOS 11.
+* [iOS 11 GUI for Sketch App](https://www.sketchappsources.com/free-source/2774-ios-11-gui-sketch-freebie-resource.html) - this kit contains iOS 11 designs, including 22 screens, 10 keyboards, fully vector elements and 100% vector shapes that are fully layered, organized and grouped. It’s an excellent resource for anyone starting a new design project for iOS 11. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+ ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* iOS 11 iPhone GUI by Facebook - a comprehensive set of files for Origami, Sketch & Photoshop providing you all needed to get started with iPhone X app. Facebook team also created Origami components that mirror the behaviour of the most important UI elements in iOS 11 as well as recreating elements found in the public release of iOS 11.
+* [iOS 11 iPhone GUI by Facebook](https://facebook.design/ios11) - a comprehensive set of files for Origami, Sketch & Photoshop providing you all needed to get started with iPhone X app. Facebook team also created Origami components that mirror the behaviour of the most important UI elements in iOS 11 as well as recreating elements found in the public release of iOS 11. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* iOS 11 UI kit for Adobe XD - if you're learning or working with Adobe XD, you will enjoy this little iOS 11 UI kit. Adobe XD kit includes 12 different screens, featuring some default iOS 11 designs like the Control Panel, Lock Screen and several AppStore screens. Not as big as all previous ones but still useful.
+
+* [iOS 11 UI kit for Adobe XD](https://www.xdguru.com/ios-11-ui-kit-xd/) - if you're learning or working with Adobe XD, you will enjoy this little iOS 11 UI kit. Adobe XD kit includes 12 different screens, featuring some default iOS 11 designs like the Control Panel, Lock Screen and several AppStore screens. Not as big as all previous ones but still useful. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 
 ### UI Kits for social apps
-*  Bronze UI Kit - a clean and customizable UI Kit with signup, login, user profile, blog screens and templates for articles. You would love its adventure colour scheme, shots and typography. Available in Photoshop format with a free Google fonts. This kit is not purely for iOS platform, but its design is so vibrant!
+* [Bronze UI Kit](https://dribbble.com/shots/3405444-FREE-UI-KIT-BRONZE) - a clean and customizable UI Kit with signup, login, user profile, blog screens and templates for articles. You would love its adventure colour scheme, shots and typography. Available in Photoshop format with a free Google fonts. This kit is not purely for iOS platform, but its design is so vibrant! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Mail UI Kit - InVision is releasing a lot of UI kits! Mail is the most recent cross-platform UI Kit for social apps. It’s made for desktop, mobile, tablet, and smartwatch formats. So it will very useful if you want to make a cross-platform app. Available for Sketch & Photoshop in 3 colours.
+* [Mail UI Kit](https://www.invisionapp.com/blog/free-ui-kit-for-sketch-and-photoshop-mail/?ref=flawlessapp) - InVision is releasing a lot of UI kits! Mail is the most recent cross-platform UI Kit for social apps. It’s made for desktop, mobile, tablet, and smartwatch formats. So it will very useful if you want to make a cross-platform app. Available for Sketch & Photoshop in 3 colours. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Snap UI Kit - Fresh and colourful mobile UI Kit for photo sharing app, available in Sketch format. It includes over 50 screens and a lot of beautiful elements, from buttons, search bars, sliders to camera elements and notification bars. This kit can be a huge-time saver if you are planning to implement a photo app. Prepared by Marvel folks.
+* [Snap UI Kit](https://blog.marvelapp.com/snap-free-mobile-ui-kit-sketch/?ref=flawlessapp) - Fresh and colourful mobile UI Kit for photo sharing app, available in Sketch format. It includes over 50 screens and a lot of beautiful elements, from buttons, search bars, sliders to camera elements and notification bars. This kit can be a huge-time saver if you are planning to implement a photo app. Prepared by Marvel folks. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Moon heart UI Kit It’s Adobe XD kit for an image sharing app. The kit has 23 app screens with different categories: Login, Register, Boost Message, Slideshow, Social images explorers, Gift, Vote and much more. The kit is very colorful and optimized for iPhone X. Oh, and the Kit name is so romantic :)
+* [Moon heart UI Kit](https://www.xdguru.com/moon-heart-free-ui-kit/) - It’s Adobe XD kit for an image sharing app. The kit has 23 app screens with different categories: Login, Register, Boost Message, Slideshow, Social images explorers, Gift, Vote and much more. The kit is very colorful and optimized for iPhone X. Oh, and the Kit name is so romantic :) ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 
 ### Travel UI Kits
-*  Travel App UI Kit - Travel-inspired UI Kit with 15+ well-organized mobile screens for login, county view, place information, photos, map and much more. It’s packed with a clean design and stunning photos of your next dream destination. Available in Sketch format.
+* [Travel App UI Kit](https://www.behance.net/gallery/57717777/Free-Travel-app-UI-Kit) - Travel-inspired UI Kit with 15+ well-organized mobile screens for login, county view, place information, photos, map and much more. It’s packed with a clean design and stunning photos of your next dream destination. Available in Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-* Navigo UI Kit - It is UI Kit for the transportation & travel app with social profiles. I loved its colour scheme, nice travel photos and overall great looking designs. Navigo is a huge kit with 60 screens organized in 6 categories: Main App, Onboarding, Activity & Profiles, Stats, Info. Navigo is optimized for iPhone X resolution and available in Adobe XD format.
-Travel Guide App UI Kit
-*  The app concept has been designed for the iPhone X to showcase a better use of Location Filter and Travel cards. It’s not typical UI Kit but rather a real app concept, which is available for personal use. It has more than 10 brightly-design screens and animations, all prepared for .sketch format.
-*  [Travelisto UI Kit] - Travelisto is representing an imaginary travel app with over 22 iOS screens designed in vector format. Available in White and Dark versions for Sketch App.
+* [Navigo UI Kit](https://dribbble.com/shots/4137786-Navigo-UI-Kit) - It is UI Kit for the transportation & travel app with social profiles. I loved its colour scheme, nice travel photos and overall great looking designs. Navigo is a huge kit with 60 screens organized in 6 categories: Main App, Onboarding, Activity & Profiles, Stats, Info. Navigo is optimized for iPhone X resolution and available in Adobe XD format.
+Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Harmony UI Kit
-*  Location-oriented mobile app concept to find, share and rate hiking places around you. Harmony includes over 10 iOS ready core screens designed in vector format and based on symbols. While it’s not so big, it’s made using a pretty cool colour scheme. So worth checking out.
+* [Travel Guide App UI Kit](https://www.uplabs.com/posts/ui-ux-for-travel-guide-app-kit) - The app concept has been designed for the iPhone X to showcase a better use of Location Filter and Travel cards. It’s not typical UI Kit but rather a real app concept, which is available for personal use. It has more than 10 brightly-design screens and animations, all prepared for .sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+* [Travelisto UI Kit](https://dribbble.com/shots/3624797-Travelisto-UI-Kit-For-Sketch) - Travelisto is representing an imaginary travel app with over 22 iOS screens designed in vector format. Available in White and Dark versions for Sketch App. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+* [Harmony UI Kit](https://www.sketchappsources.com/free-source/2657-harmony-ui-kit-sketch-freebie-resource.html) - Location-oriented mobile app concept to find, share and rate hiking places around you. Harmony includes over 10 iOS ready core screens designed in vector format and based on symbols. While it’s not so big, it’s made using a pretty cool colour scheme. So worth checking out. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 ### Food recipes UI Kits
-*  Delicious UI Kit
-*  UI Kit for a food recipes app. It includes 11 pixel-perfect screens in Sketch format. The meals in this UI Kit are so tasty! Actually, all UI kits in this category are simple, nice looking and can be used for your first learning app.
+* [Delicious UI Kit](https://dribbble.com/shots/2449517-Delicious-Free-Sketch-UI-Kit) - UI Kit for a food recipes app. It includes 11 pixel-perfect screens in Sketch format. The meals in this UI Kit are so tasty! Actually, all UI kits in this category are simple, nice looking and can be used for your first learning app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  iOS Recipes App UI Kit
-*  Nice iOS UI Kit with 11 screens for the recipe or cooking app (prepared for Sketch format). Simplicity and minimalism at its best!
+* [iOS Recipes App UI Kit](https://dribbble.com/shots/2661249-Recipes-App-UI-Kit-Freebie) - Nice iOS UI Kit with 11 screens for the recipe or cooking app (prepared for Sketch format). Simplicity and minimalism at its best! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  1357 Recipe App UI Kit
-*  Designed with user experience in mind, this elegant UI Kit consists of 25 basic screens. It has not only cooking recipes screens but also layouts for Menu, Search, Community, Quotes & 9 more pages. Available in Sketch format.
+* [1357 Recipe App UI Kit](https://dribbble.com/shots/2654096-1357-Recipe-app-UI-Kit) - Designed with user experience in mind, this elegant UI Kit consists of 25 basic screens. It has not only cooking recipes screens but also layouts for Menu, Search, Community, Quotes & 9 more pages. Available in Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Edacious — Food App UI Kit
-*  Edacious has an interesting story. It was a paid project but the client decided that he doesn’t need it anymore. So creative designers from Bangladesh decided to make a free UI Kit from it. They shared 1 landing page and 18 iOS screens, that forms a food-inspired mobile app. Available in .psd format.
+* [Edacious — Food App UI Kit](https://freebiescafe.com/edacious-food-app-ui-kit/) - Edacious has an interesting story. It was a paid project but the client decided that he doesn’t need it anymore. So creative designers from Bangladesh decided to make a free UI Kit from it. They shared 1 landing page and 18 iOS screens, that forms a food-inspired mobile app. Available in .psd format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 ### Chat & Messenger UI Kits
-*  Mochi — Chat UI Kit
-*  This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Moments, Profile, QR Code and more. So it’s a really unique Sketch kit!
+* [Mochi — Chat UI Kit](https://www.sketchappsources.com/free-source/2893-mochi-chat-ui-kit-app-sketch-freebie-resource.html) - This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Moments, Profile, QR Code and more. So it’s a really unique Sketch kit! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  iOS WeChat UI Kit
-*  This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Chat, Moments, Profile, QR Code and more. Available for Sketch format.
+* [iOS WeChat UI Kit](https://www.sketchappsources.com/free-source/1933-wechat-ui-kit-sketch-freebie-resource.html) - This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Chat, Moments, Profile, QR Code and more. Available for Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Telegram iOS UI Kit
-*  Did you know that Telegram is a very popular messaging app in Russian-speaking countries? So if work with these markets and need to make Telegram bot, this UI kit will be in help. It includes 6 Telegram app views: Contacts, Contact Search, Contact Search — Query, Bot Welcome, Charts, and Dialog (available in Sketch format). Also, it comes with extensive Symbols.
+* [Telegram iOS UI Kit](https://www.sketchappsources.com/free-source/2824-telegram-ios-ui-kit-sketch-freebie-resource.html) - Did you know that Telegram is a very popular messaging app in Russian-speaking countries? So if work with these markets and need to make Telegram bot, this UI kit will be in help. It includes 6 Telegram app views: Contacts, Contact Search, Contact Search — Query, Bot Welcome, Charts, and Dialog (available in Sketch format). Also, it comes with extensive Symbols. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Ego — Messenger UI Kit
-*  Ego is not purely iOS UI kit, but it’s very clean and useful if you need to work with Russian copy. All texts there are done for a Russian-speaking chat app. The kit has 20 well-designed mobile screens, minimalistic icons, and cool colour pallet. Prepared for Adobe XD.
-*  Messenger Platform Design Kit
-*  Official UI Kit for Facebook Messaging bot, which includes components for both conversational and GUI-based experiences. Available for Sketch.
+* [Ego — Messenger UI Kit](https://www.xdguru.com/ego-free-messenger-ui-kit/) - Ego is not purely iOS UI kit, but it’s very clean and useful if you need to work with Russian copy. All texts there are done for a Russian-speaking chat app. The kit has 20 well-designed mobile screens, minimalistic icons, and cool colour pallet. Prepared for Adobe XD. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+* [Messenger Platform Design Kit](https://developers.facebook.com/docs/messenger-platform/design-resources/design-kit) - Official UI Kit for Facebook Messaging bot, which includes components for both conversational and GUI-based experiences. Available for Sketch. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 ### eCommerce UI Kits
-*  Minimal Chic Kit
-*  It’s a stylish mobile UI Kit designed for iOS. It’s perfect for anyone looking to create an e-commerce mobile app as it has views for product category pages and product pages, as well as the usual account settings and login screens. Available in Adobe XD format.
+* [Minimal Chic Kit](https://dribbble.com/shots/3221507-Minimal-Chic-Free-UI-Kit) - It’s a stylish mobile UI Kit designed for iOS. It’s perfect for anyone looking to create an e-commerce mobile app as it has views for product category pages and product pages, as well as the usual account settings and login screens. Available in Adobe XD format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Portal freebie
-*  A sample of a mobile portal app built for Sketch. It has a focus on big, bold heading typography and is visually stunning when paired with full-screen background images. An awesome little freebie!
+* [iOS WeChat UI Kit](https://visualhierarchy.co/shop/product/portal-freebie/) - A sample of a mobile portal app built for Sketch. It has a focus on big, bold heading typography and is visually stunning when paired with full-screen background images. An awesome little freebie! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Wilhelm iOS UI Kit
-*  Customizable UI Kit, which containing six categories: Walkthrough, Sign in / Sign Up, Menu, Reading, ecommerce, Media player. It has various Sketch screens, which will suit both ecommerce mobile project or social app.
+* [Wilhelm iOS UI Kit](https://www.sketchappsources.com/free-source/1862-wilhelm-ios-ui-kit-sketch-freebie-resource.html) - Customizable UI Kit, which containing six categories: Walkthrough, Sign in / Sign Up, Menu, Reading, ecommerce, Media player. It has various Sketch screens, which will suit both ecommerce mobile project or social app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Helen UI Kit
-*  Helen is a professionally designed iOS ecommerce UI Kit for Sketch and Photoshop. All elements well organized into 11+ high-quality screens. Perfect fit for a fashion clothing app.
+* [Helen UI Kit](https://freedesignresources.net/helen-free-ios-ecommerce-ui-kit/) - Helen is a professionally designed iOS ecommerce UI Kit for Sketch and Photoshop. All elements well organized into 11+ high-quality screens. Perfect fit for a fashion clothing app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Mcommerce UI Kit
-*  One more ecommerce UI kit with 120+ screens. As makers mentioned, Mercatus was inspired by 1980’s casual culture, European designer clothes and modern minimal aesthetics. The Sketch kit looks very stylish and clean. So you definitely can use as inspiration for your next ecommerce app.
+* [Mcommerce UI Kit](https://www.sketchappsources.com/free-source/2012-mercatus-mcommerce-ui-kit-sketch-freebie-resource.html) - One more ecommerce UI kit with 120+ screens. As makers mentioned, Mercatus was inspired by 1980’s casual culture, European designer clothes and modern minimal aesthetics. The Sketch kit looks very stylish and clean. So you definitely can use as inspiration for your next ecommerce app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 ###  More cool UI Kits
-*  iOS 11 Place UI Kit
-*  If you’re planning to make ARKit mobile app, check this funny UI kit done by our good friend Volodymyr Kurbatov. It contains 22 iOS 11 screens and vector icons (sample free version). Place Kit has everything you might need: lists, catalogues, maps, tips and all types of camera views for every stage of AR experience (such as scanning, placing, and interacting). Made in .sketch format for iPhone X resolution.
+* [iOS 11 Place UI Kit](https://dribbble.com/shots/4217050-Place-UI-Kit-The-future-of-augmented-reality-mobile-apps) - If you’re planning to make ARKit mobile app, check this funny UI kit done by our good friend Volodymyr Kurbatov. It contains 22 iOS 11 screens and vector icons (sample free version). Place Kit has everything you might need: lists, catalogues, maps, tips and all types of camera views for every stage of AR experience (such as scanning, placing, and interacting). Made in .sketch format for iPhone X resolution. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Movies App UI Kit
-*  Colourful movies based iOS UI Kit, which includes over 30 screens with fully customizable layouts and layers (for Sketch). It is designed for iPhone X and available both in English and Chinese. Pretty good start for your movie app!
+* [Movies App UI Kit](https://www.sketchappsources.com/free-source/3074-movies-app-ui-kit-sketch-freebie-resource.html) - Colourful movies based iOS UI Kit, which includes over 30 screens with fully customizable layouts and layers (for Sketch). It is designed for iPhone X and available both in English and Chinese. Pretty good start for your movie app! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Elements: iOS UI kit by Sketch
-*  Designers at Sketch made an amazing job! Their iOS UI kit contains five different themes, 35 templates and more than 175 Symbols. This kit has all needed Sketch screens for Food, Social, Music, Photography, and Travel iOS apps. Everything is easy to customize, from colours to Symbols and beyond. This kit will definitely help you speed up your workflow!
+* [Elements: iOS UI kit by Sketch](https://sketchapp.com/elements) - Designers at Sketch made an amazing job! Their iOS UI kit contains five different themes, 35 templates and more than 175 Symbols. This kit has all needed Sketch screens for Food, Social, Music, Photography, and Travel iOS apps. Everything is easy to customize, from colours to Symbols and beyond. This kit will definitely help you speed up your workflow! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Holo Music Dark and Light Kits
-*  It’s very colourful and modern UI kit for a music app, done in dark and light themes. The free version has screens for a playlist and a player, available in Sketch format. Not so huge but nice-looking :)
+* [Holo Music Kits](https://sketchrepo.com/free-sketch/holo-music-app-kit-freebie/) - It’s very colourful and modern UI kit for a music app, done in dark and light themes. The free version has screens for a playlist and a player, available in Sketch format. Not so huge but nice-looking :) ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Wonep Calling App
-*  Pretty cool UI Kit of a complete iOS app for making international calls. Sketch file includes over 30 unique screens and several UX flows: Onboarding, Recent Calls and Contacts, Dialing, Billing, Selecting Favorites. It also has a Principle file with animation to clarify the user experience through the app.
+* [Wonep Calling App](https://dribbble.com/shots/2942774-Wonep-International-Calling-App-UI-Kit-Freebie) - Pretty cool UI Kit of a complete iOS app for making international calls. Sketch file includes over 30 unique screens and several UX flows: Onboarding, Recent Calls and Contacts, Dialing, Billing, Selecting Favorites. It also has a Principle file with animation to clarify the user experience through the app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Banking UI Kit
-*  Neat banking themed UI kit for Sketch with 50 screens, ready to prototype templates, dozens of icons and buttons. It looks very fresh & clean and will be a great starting point for anyone wanting to create an online banking experience. Done with love by Marvel folks.
+* [Banking UI Kit](https://blog.marvelapp.com/free-banking-ui-kit-for-sketch/) - Neat banking themed UI kit for Sketch with 50 screens, ready to prototype templates, dozens of icons and buttons. It looks very fresh & clean and will be a great starting point for anyone wanting to create an online banking experience. Done with love by Marvel folks. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Personal Finance UI Kit
-*  I loved playful style of this finance UI kit. The app concert covers managing your income, finding ATM’s near you, sending money to family & friends and many more. It’s Adobe XD UI kit with 40+ screens for iPhone 6,7 and X layouts.
+* [Personal Finance UI Kit](https://freebiesupply.com/free-adobe-xd/adobe-xd-ui-personal-finance/) - I loved playful style of this finance UI kit. The app concert covers managing your income, finding ATM’s near you, sending money to family & friends and many more. It’s Adobe XD UI kit with 40+ screens for iPhone 6,7 and X layouts. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  Real Estate App UI Kit
-*  Very clean UI Kit with 25 artboards organized in 8 pages and categories: Onboarding, Sign In, Permissions, Home, Discovery, and Posts. Available in Sketch format.
+* [Real Estate App UI Kit](https://dribbble.com/shots/3296162-Free-Real-Estate-App-Ui-Kit-Sketch) - Very clean UI Kit with 25 artboards organized in 8 pages and categories: Onboarding, Sign In, Permissions, Home, Discovery, and Posts. Available in Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-*  DO UI Kit
-*  Colourful kit for to-do app with over 130 screens, 10 complete themes, and 250+ components to mix. This kit has totally everything: calendar, walk-through, groups, list, timeline, settings, navigation and much more! It’s retina-ready and available for Sketch, Photoshop and Craft. Kudos to InVision team!
+* [DO UI Kit](https://www.invisionapp.com/do?ref=flawlessapp) - Colourful kit for to-do app with over 130 screens, 10 complete themes, and 250+ components to mix. This kit has totally everything: calendar, walk-through, groups, list, timeline, settings, navigation and much more! It’s retina-ready and available for Sketch, Photoshop and Craft. Kudos to InVision team! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 
 

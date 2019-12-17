@@ -5,6 +5,15 @@
 
 </div>
 
+<p align="center">
+        <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome%20Design%20Conferences.png" alt="Awesome-Design-Conferences"/>
+    </a>
+</p>
+
+<p align="center">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
+
 ## How to Use and Contribute
 
 * Now you are in **Awesome Design Conferences** section, if you need tools & plugins — go to [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) & [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md).

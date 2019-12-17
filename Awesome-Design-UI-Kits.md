@@ -32,11 +32,43 @@ If you found some great UI Kit, just send a Pull Request with respect to our [Co
 
 ## Table of Content
 
+## Table of Content
+
+* [iOS 11 UI Kits](#ios-11-ui-kits)
+* [Social Apps](#social-apps)
+* [Travel](#travel)
+* [Food](#food)
+* [Fashion](#fashion)
+* [Chat & Messenger](#chat--messenger)
+* [eCommerce](#ecommerce)
+* [Movies](#movies)
+* [More Cool UI Kits](#more-cool-ui-kits)
+* [Finance](#finance)
+* [Crypto](#align--arrange)
+* [Health](#health)
+* [Design Systems](#design-systems)
+* [Dashboard](#dashboard)
+* [Music](#music)
+* [Dating](#dating)
+* [Music](#music)
+* [Home](#home)
+* [Todos](#todos)
+* [Blog](#blog)
+* [Taxi](#taxi)
+* [Chars & Wireframes](#charts--wireframes)
+* [Onboarding](#onboarding)
+* [Pets](#pets)
+* [Courses](#courses)
+
+</div>
+
+<main>
 
 We decided to share goodies for those of you who work with UI design or want to start.
 
 Prepared UI elements, screens, components or entirely app concepts, packed in a single UI Kit is a great option to begin with. You can modify any UI Kit to fit your needs and goals. All components and screens are easily editable, like navigation bars, buttons, login forms. You would need to have design tools, like Sketch App, Adobe XD, Studio or Figma to open the kits. The good news, you can use its free trials from the official websites.
 
+<article id="ios-11-ui-kits">
 
 ### iOS 11 UI Kits
 * [Design+Code iOS 11 UI Kit](https://designcode.io/ios11-ui-kit?ref=mediumflawless) — a comprehensive Sketch kit tailored to Apple’s Human Interface Guidelines (HIG). It contains text styles, resizable nested symbols and even a set of dark theme components. The naming convention of each component follows Apple Developer Documentation. You can easily customize the colours, icons, and content as you wish and everything will be fully adaptive! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -51,8 +83,11 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 * [iOS 11 UI kit for Adobe XD](https://www.xdguru.com/ios-11-ui-kit-xd/) - if you're learning or working with Adobe XD, you will enjoy this little iOS 11 UI kit. Adobe XD kit includes 12 different screens, featuring some default iOS 11 designs like the Control Panel, Lock Screen and several AppStore screens. Not as big as all previous ones but still useful. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
+</article>
 
-### UI Kits for social apps
+<article id="social-apps">
+
+### Social Apps
 * [Bronze UI Kit](https://dribbble.com/shots/3405444-FREE-UI-KIT-BRONZE) - a clean and customizable UI Kit with signup, login, user profile, blog screens and templates for articles. You would love its adventure colour scheme, shots and typography. Available in Photoshop format with a free Google fonts. This kit is not purely for iOS platform, but its design is so vibrant! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 * [Mail UI Kit](https://www.invisionapp.com/blog/free-ui-kit-for-sketch-and-photoshop-mail/?ref=flawlessapp) - InVision is releasing a lot of UI kits! Mail is the most recent cross-platform UI Kit for social apps. It’s made for desktop, mobile, tablet, and smartwatch formats. So it will very useful if you want to make a cross-platform app. Available for Sketch & Photoshop in 3 colours. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
@@ -61,8 +96,11 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 * [Moon heart UI Kit](https://www.xdguru.com/moon-heart-free-ui-kit/) - It’s Adobe XD kit for an image sharing app. The kit has 23 app screens with different categories: Login, Register, Boost Message, Slideshow, Social images explorers, Gift, Vote and much more. The kit is very colorful and optimized for iPhone X. Oh, and the Kit name is so romantic :) ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
+</article>
 
-### Travel UI Kits
+<article id="travel">
+
+### Travel
 * [Travel App UI Kit](https://www.behance.net/gallery/57717777/Free-Travel-app-UI-Kit) - Travel-inspired UI Kit with 15+ well-organized mobile screens for login, county view, place information, photos, map and much more. It’s packed with a clean design and stunning photos of your next dream destination. Available in Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 * [Flight App](https://dribbble.com/shots/4909311-Flight-App-Freebie?ref=uistore.design) - Another freebie from Pixelz Studio. Grab it and enjoy. We'll share Freebie every Friday, so stay tuned ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
@@ -88,7 +126,11 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Free Travel App Ui Kit](https://www.behance.net/gallery/57717777/Free-Travel-App-UIUX-Kit?ref=uistore.design) - There are 15+ carefully designed mobile screens by 7ninjas ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
-### Food recipes UI Kits
+</article>
+
+<article id="food">
+
+### Food
 * [Delicious UI Kit](https://dribbble.com/shots/2449517-Delicious-Free-Sketch-UI-Kit) - UI Kit for a food recipes app. It includes 11 pixel-perfect screens in Sketch format. The meals in this UI Kit are so tasty! Actually, all UI kits in this category are simple, nice looking and can be used for your first learning app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 * [iOS Recipes App UI Kit](https://dribbble.com/shots/2661249-Recipes-App-UI-Kit-Freebie) - Nice iOS UI Kit with 11 screens for the recipe or cooking app (prepared for Sketch format). Simplicity and minimalism at its best! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
@@ -105,13 +147,21 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [1357 Recipe App UI Kit](https://dribbble.com/shots/2654096-1357-Recipe-app-UI-Kit?ref=uistore.design) - Modern and elegant eCommerce UI Kit for Sketch with 25 basic screens in your next project. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+</article>
+
+<article id="fashion">
+
 ### Fashion
 
 * [Fashion Influencer UI Kit for Adobe XD](https://www.behance.net/gallery/75193163/Fashion-Influencer-UI-Kit-for-Adobe-XD?ref=uistore.design) - The UI Kit itself is #MadeInAdobeXD and is available for free. It features a ton of goodies for you to use in your next design projects! Don't miss out! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 * [Fashion Editorial UI Kit for Adobe XD](https://www.behance.net/gallery/65315257/Fashion-Editorial-UI-Kit-for-Adobe-XD?ref=uistore.design) - This editorial and e-commerce UI Kit features 18 different design pages and more than 120 various components. This UI kit is built to help users create fashion editorial, as well as designer marketplace, apps, and websites. It features elements for a homepage, product grid, single product page, and blog. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
-### Chat & Messenger UI Kits
+</article>
+
+<article id="chat--messenger">
+
+### Chat & Messenger
 * [Mochi — Chat UI Kit](https://www.sketchappsources.com/free-source/2893-mochi-chat-ui-kit-app-sketch-freebie-resource.html) - This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Moments, Profile, QR Code and more. So it’s a really unique Sketch kit! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 * [iOS WeChat UI Kit](https://www.sketchappsources.com/free-source/1933-wechat-ui-kit-sketch-freebie-resource.html) - This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Chat, Moments, Profile, QR Code and more. Available for Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
@@ -136,7 +186,11 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Wonep - Internationl Calling App UI Kit](https://gumroad.com/l/plZM?ref=uistore.design) - UI kit represents a complete iOS app for making affordable international calls. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
-### eCommerce UI Kits
+</article>
+
+<article id="ecommerce">
+
+### eCommerce
 
 * [Fusion eCommerce UI Kit](https://pixelbuddha.net/freebie/fusion-e-commerce-uI-kit) - Get ready for something absolutely fresh for your E-commerce app ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
@@ -188,9 +242,17 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Helen Free iOS Ecommerce Ui Kit](https://gumroad.com/l/helen) - Helen is a wonderful, professionally designed iOS ecommerce UI Kit for Sketch and Photoshop. All elements well organized into 11+ high-quality screens. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+</article>
+
+<article id="movies">
+
 ### Movies
 
 * [Movies App UI Kit](https://www.sketchappsources.com/free-source/3074-movies-app-ui-kit-sketch-freebie-resource.html) - Colourful movies based iOS UI Kit, which includes over 30 screens with fully customizable layouts and layers (for Sketch). It is designed for iPhone X and available both in English and Chinese. Pretty good start for your movie app! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+</article>
+
+<article id="more-cool-ui-kits">
 
 ### More cool UI Kits
 
@@ -310,6 +372,10 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 * [Smartwatch UI Kit for Adobe XD](https://dribbble.com/shots/4137938-Smartwatch-UI-Kit-for-Adobe-XD?ref=uistore.design) - Completely free and fully customizable Smartwatch UI Kit for Adobe XD ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
 * [Ares UI Kit](https://dribbble.com/shots/5826072-Ares-Ui-Kit-Free-Resource?ref=uistore.design) - As a way to contribute to the community I am making a new UI Kit available through Sketch. Feel free to use it and improve it as much as you want. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+</article>
+
+<article id="finance">
+
 ### Finance
 
 * [Budget Planner: Onboarding Screens UI Kit](https://dribbble.com/shots/7999624-Budget-Planner-Onboarding-Screens-Freebie?ref=uistore.design) - Minimal and clean onboarding screens design, 22 screens for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) 
@@ -324,6 +390,9 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Free Finance UI Kit](https://www.behance.net/gallery/57211229/Free-Finance-UI-Kit?ref=uistore.design) - Kickstart your project or just have fun with it. Designed by 7ninjas ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+</article>
+
+<article id="crypto">
 
 ### Crypto
 
@@ -333,9 +402,17 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Coinbase - Web Dashboard Ui Kit](https://www.behance.net/gallery/88851653/Web-Dashboard-UI-Kit-Freebie?ref=uistore.design) - Web Dashboard UI Kit: For Admin, User, and Agents. Dark & Light version. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
+</article>
+
+<article id="health">
+
 ### Health
 
 * [Fresh Food UI Kit for Adobe XD](https://dribbble.com/shots/7979808-Fresh-Food-UI-Kit?ref=uistore.design) - Fresh Food is an App UI Kit created with Adobe XD that aims to make identifying and ordering healthy foods effortless. The UI kit includes: a suite of assets and icons, mobile and desktop formatted screens, a dark mode version, and plenty of fruits and vegetables! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+
+</article>
+
+<article id="fitness">
 
 ### Fitness
 
@@ -347,9 +424,17 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [App Design System Freebie](https://dribbble.com/shots/5857209-App-Design-System-Freebie?ref=uistore.design) - At this moment, the app considers 64 different sports, each one with photos and a custom designed icon (that you will find inside this file), that helps with the identification of each one. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+</article>
+
+<article id="design-systems">
+
 ### Design Systems
 
 * [Carbon Design System](https://github.com/ibm/carbon-design-kit) - Carbon is the design system for IBM Cloud products. It is a series of individual styles, components, and guidelines used for creating unified UI. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+</article>
+
+<article id="dashboard">
 
 ### Dashboard
 
@@ -357,7 +442,9 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Goge Africa - UI Kit for Figma](https://www.behance.net/gallery/87261153/E-learning-UI-Kit-Free-Download?ref=uistore.design) - 38+ screens and design elements e.g Landing-page, Quicklinks-page, Ecommerce, Dashboard... ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) 
 
+</article>
 
+<article id="music">
 
 ### Music
 
@@ -373,15 +460,23 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Holo Music Kits](https://sketchrepo.com/free-sketch/holo-music-app-kit-freebie/) - It’s very colourful and modern UI kit for a music app, done in dark and light themes. The free version has screens for a playlist and a player, available in Sketch format. Not so huge but nice-looking :) ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
+</article id="dating">
+
 ### Dating
 
 * [Dating App UI Kit for Sketch](https://www.instamobile.io/app-templates/dating-app-design-ui-kit?ref=uistore.design) - Free dating app design UI kit in Sketch, to fast track the design of your next mobile dating app. With beautiful UI elements and a well thought out UX, this dating app contains more than 30 carefully crafted screens. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
+</article>
+
+<article id="music">
 
 ### Music
 
 * [Music App UI Kit for Adobe XD](https://www.behance.net/gallery/86624751/Free-Music-App-UI-Kit-for-Adobe-XD?ref=uistore.design) - The Music App UI Kit is a component-based UI Kit designed exclusively for Adobe XD by Unmesh Gite. If you are struggling with creating great user-interfaces, then this kit will give your designs a great boost. This Kit features fully-customizable components, including UI elements, colours, typography. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
 
+</article>
+
+<article id="home">
 
 ### Home
 
@@ -397,6 +492,10 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Happ - Smart Home App UI Kit for Adobe XD](https://dribbble.com/shots/6513000-Smart-Home-App-Free-UI-Kit?ref=uistore.design) - Free UI Kit includes dashboard, usage graph, device control, add device, timer, etc ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
+</article>
+
+<article id="todos">
+
 ### Todos
 
 * [Aking To-Do List App Free UI Kit](https://dribbble.com/shots/6481270-Aking-to-do-list-app-UI-Kit-Freebie?ref=uistore.design) - Aking is a simple to-do list and an task management app which helps you complete yours. Though you are sharing a food list with your relatives, working on a project or making plan to go on holiday, Aking will help you take note easily, share and complete all the to-do list ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
@@ -407,17 +506,29 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Planguru Free Mobile UI Kit](/downloads/planguru_freebie.sketch) - In Netguru we love sharing design ideas with other people ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
+</article>
+
+<article id="blog">
+
 ### Blog
 
 * [UI Blog Kit Template for Sketch](https://logwork.com/blog/downloads/free-sketch-ui-kit-templates?ref=uistore.design) - Multiple post design types, customized headers and footers. Fully responsive with 12 columns bootstrap grid (1170px). ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 * [Write - Free UI Kit for Sketch and Adobe XD](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD?ref=uistore.design) - Introducing Write a UI Kit for Sketch and Adobe XD with 15 iOS app screens designed in vector format, based on symbols. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+</article>
+
+<article id="taxi">
+
 ### Taxi
 
 * [Taxi App UI Kit for Figma](https://www.gulp.space/?ref=uistore.design) - 40+ Figma UI elements which covers the main flows of a taxi app. 13 car type icons. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 * [Green Taxi Free App UI Kit](https://www.behance.net/gallery/81233987/Green-Taxi-Free-UI-Kit-for-Adobe-XD?ref=uistore.design) - Minimal and clean app design for Adobe XD, 15 screens for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+
+</article>
+
+<article id="charts--wireframes">
 
 ### Charts & Wireframes
 
@@ -436,20 +547,35 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Wirez Free Wireframe Kit](http://wirez.fikristudio.com/?ref=uistore.design) - Free wireframe kit to help UX/UI designer (or anyone) create faster low fidelity wireframe. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+</article>
+
+<article id="onboarding">
+
 ### Onboarding
 
 * [Handyman App UI Kit For Adobe XD](https://dribbble.com/shots/5366541-Handyman-app-UI-kit-for-XD-FREEBIE?ref=uistore.design) - Including 7 iPhone X screens and 2 onboarding illustration. It's designed in Adobe XD. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
 * [App Onboarding Walkthrough Screens](https://www.behance.net/gallery/71937425/Free-App-Onboarding-Walkthrough-screens?ref=uistore.design) - Elegant and clean illustrations for any kind of app. Easy to edit. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
- 
+</article>
+
+<article id="pets">
+
 ### Pets
  
 * [Pawtastic UI Kit for Adobe XD](https://www.behance.net/gallery/62932019/Pawtastic-UI-Kit-for-Adobe-XD?ref=uistore.design) - Pawtastic is a whimsical e-commerce UI kit and web app prototype that's dead simple to customize. The kit combines a fun and informative marketing one pager, a multi-step booking process, and a beautiful dashboard. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 * [Doglife UI Kit Free for Adobe XD](https://www.behance.net/gallery/73935801/Doglife-Ui-Kit-Free-for-Adobe-XD?ref=uistore.design) - Doglife is an app for dogs and dogs lovers, who loves to share photos of their dogs and dog's lifestyle. Minimal and clean app design, ready for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
+</article>
+
+<article id="courses">
+
 ### Courses 
 
 * [Plexus - Free Adobe XD UI Kit](https://www.behance.net/gallery/77258767/Plexus-Free-Adobe-XD-UI-kit?ref=uistore.design) - A mobile UI kit for online courses. Light & Dark theme to choose. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 * [Online Courses UI Kit](https://dribbble.com/shots/5083162-Online-Courses-UI-Kit?ref=uistore.design) - Minimal and clean app design, includes 3 screens ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+</article>
+
+</main>

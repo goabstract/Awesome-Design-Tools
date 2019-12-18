@@ -144,8 +144,6 @@ function sortByApplication(event) {
     const sortedButtons = buttons.filter(button => button.classList.contains('-active'))
     const activeApps = sortedButtons.map(button => button.getAttribute('app'));
 
-	console.log(activeApps);
-
 	ga('send', 'event', `Awesome design ${chooseMd} - Filter (State of Platforms)`, 'Click', activeApps.join('-'));
 	ga('send', 'event', `Awesome design ${chooseMd} - Filter (Clicked Platform Name)`, 'Click', targetAttr);
 
@@ -172,9 +170,9 @@ function sortByApplication(event) {
 }
 
 
-document.querySelectorAll('.sort-tool-modal__btn-choose').forEach((button) => {
-	button.addEventListener('click', sortByApplication);
-})
+document.querySelectorAll('.sort-tool-modal__btn-choose').forEach((button) =>
+	button.addEventListener('click', sortByApplication)
+);
 
 document.querySelectorAll('.tool').forEach((tool) => {
 	tool.addEventListener('click', (e) => {
@@ -195,6 +193,6 @@ document.querySelectorAll('.nav ul li a').forEach((a) => {
 		const { target } = e;
 		const title = target.innerText;
 
-		ga('send', 'event', `wesome design ${chooseMd} - Category (Title)`, 'Click', title);
+		ga('send', 'event', ` Awesome design ${chooseMd} - Category (Title)`, 'Click', title);
 	}, true);
 })

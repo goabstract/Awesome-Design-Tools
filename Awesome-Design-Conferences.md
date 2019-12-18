@@ -1,7 +1,9 @@
 <div class="hidden-in-page">
 
 # Awesome Design Conferences
-#### [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) & [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) & [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md)
+* [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
+* [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md)
 
 </div>
 

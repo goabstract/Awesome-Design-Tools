@@ -113,6 +113,7 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 * [Meetio UI Kit for Adobe XD](https://www.behance.net/gallery/72907227/Meetio-UI-Kit?ref=uistore.design) — Say hi to the Meetio UI Kit for @Adobe XD. More than 80 screens, very unique and yet customizable for your needs! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
+* [YouTube Redesign Concept](https://craftwork.design/youtube-redesign/?ref=uistore.design) — Introducing concept on YouTube redesign. In the new version of this web service, we made it more clear and minimalistic, so any user who will visit the website will easily manage to use it. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 
 </article>
@@ -192,7 +193,8 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Chat Messaging UI Kit for Sketch](https://getstream.io/chat/ui-kit/?ref=uistore.design) — Craft a beautiful chat app UI design with our high fidelity Chat UI kit for Sketch. Chat interfaces for live chat, team collaboration, messaging, customer support and gaming are included. Design your responsive chat interface with all the essential elements required for fully interactive chat experiences. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
-* [YouTube Redesign Concept](https://craftwork.design/youtube-redesign/?ref=uistore.design) — Introducing concept on YouTube redesign. In the new version of this web service, we made it more clear and minimalistic, so any user who will visit the website will easily manage to use it. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [9GAG Redesign UI Kit](https://dribbble.com/shots/5362269-9GAG-UI-KIT-FREEBIE?ref=uistore.design) — Go crazy and use the UI Kit on your next project to create kickass products from highly customisable screens like Feed, Profile, Login, Notifications and a lot more to go with anything you can imagine. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
 
 </article>
 
@@ -248,8 +250,6 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 * [Stickers Shop App UI Kit](https://dribbble.com/shots/5511411-Freebie-Stickers-Shop-App-Ui?ref=uistore.design) — Stickers Shop app for the new iPad Pro. Know that the images from the preview image are not included due to copyright infringement, and are changed for tyles. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 * [Bouncer - Ecommerce UI Kit for Adobe XD](https://www.behance.net/gallery/77037027/Bouncer-Ecommerce-UI-Kit-Adobe-XDhttps://bisenbaev.com/?ref=uistore.design) — Free Adobe XD UI Kit for Ecommerce Projects ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
-
-* [xPider- Landing Page UI Kit](https://store.thefarhan.com/downloads/free-landing-page-ui-kit-xpider/?ref=uistore.design) — xPider is a Website UI Kit and digital product landing page, built with Sketch to make your life easier than ever. Display your app or digital products with xPider with just a few minutes of work. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 * [Shopping App Free UI Kit](https://dribbble.com/shots/6531942-Shopping-App-Free-UI-Kit?ref=uistore.design) — Minimal and clean shopping app design, 5 screens for you to get started ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
@@ -319,6 +319,9 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Dome Design System Framework](https://www.behance.net/gallery/66637931/Dome-Design-System-Framework?ref=uistore.design) — Dome is a set of styles and symbols that allow you to create a design system from scratch. You will find shapes, states, graphic treatment of images are defined as styles and also a complete set of text styles (6 headlines, 10 text styles and buttons) easily editable and customizable. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
+* [Liquid Design System](https://www.merck.design/?ref=uistore.design) — Use Liquid to create and develop digital products to make science faster, treatments more personalized, and everyday work more enjoyable. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+
+
 </article>
 
 <article id="calling-app">
@@ -346,12 +349,53 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 ### Watch
 
-
-</article>
 * [Apple Watch UI Kit 2.0](https://janlosert.com/store/watch-ui-kit.html?ref=uistore.design) — Pack of 10+ App Concepts for Apple Watch with over 5500 Downloads! All screens ready for both 38 & 42mm Apple Watch resolutions. The full package comes with a Apple Watch icon guide as well. Compatible with Sketch 41, Photoshop CC 2015 and later ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 * [Smartwatch UI Kit for Adobe XD](https://dribbble.com/shots/4137938-Smartwatch-UI-Kit-for-Adobe-XD?ref=uistore.design) — Completely free and fully customizable Smartwatch UI Kit for Adobe XD ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
 
+</article>
+
+<article id="components">
+
+### Components 
+
+* [cursorOS - original macos cursors](http://cursoros.com/?ref=uistore.design) — This is a collection of original macOS cursors, identical as possible without changes in style. Use them in your Design Systems, User flows, UI Kits, Prototypes, and other design stuff. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+
+* [Free Ultimate UI Elements](https://dribbble.com/shots/4981844-Free-Ui-Elements?ref=uistore.design) — Minimal and clean UI design ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+* [Cookie Banner UI Kit for Adobe XD](https://www.behance.net/gallery/86606285/Cookie-Banner-UI-Kit-for-Adobe-XD?ref=uistore.design) — This UI kit makes it a cinch for designers to easily incorporate relevant privacy-warning modals into their interfaces. The kit includes numerous modals for both desktop and mobile uses cases, giving designers many choices for their projects. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
+
+* [Component States UI Kit for Adobe XD](https://letsxd.com/states?ref=uistore.design) — States have hit Adobe XD and to help sprinkle some inspiration on your projects, I'm releasing this UI kit with buttons, icons, toggles, animations, and more. I've also included a few real-world examples so you can view states in action. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+
+* [Urano Sketch](https://uranosketch.com/?ref=uistore.design) — 30+ Components for Sketch For FREE ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
+
+</article>
+
+<article id="headers">
+
+### Headers
+* [HeaderZ - Free UI Kit](https://www.behance.net/gallery/81976229/HeaderZ-FREE-UI-KIT?ref=uistore.design) — 20 Free Headers to kickstart your next web design project. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+* [Head: Free Sketch Header Starter Kit](https://www.stefanopeschiera.com/head-ui-kit?ref=uistore.design) — Head is a free high-quality user interface kit includes 6 modern headers designed for Sketch. Kickstart your website with some hand-crafted ideas for your header. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
+
+</article>
+
+<article id="toolkit">
+
+### Toolkit
+
+* [Shards UI Kit](https://dribbble.com/shots/3931508-Shards-A-Free-Modern-UI-Kit-based-on-Bootstrap-4?ref=uistore.design) — A free and modern UI toolkit for web makers based on the popular Bootstrap 4 (final) framework. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
+</article>
+
+<article id="landing-page">
+
+### Landing Page
+* [Free UI Kit Landing Page](https://www.ls.graphics/free/ui-kit-landing-page) — Free UI Kit Landing Page is a huge design tool of handcrafted UI components. More than 80 layouts in popular categories, style guide, icons and elements. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
+</article>
 
 
 <article id="more-cool-ui-kits">
@@ -360,17 +404,12 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [iOS 11 Place UI Kit](https://dribbble.com/shots/4217050-Place-UI-Kit-The-future-of-augmented-reality-mobile-apps) — If you’re planning to make ARKit mobile app, check this funny UI kit done by our good friend Volodymyr Kurbatov. It contains 22 iOS 11 screens and vector icons (sample free version). Place Kit has everything you might need: lists, catalogues, maps, tips and all types of camera views for every stage of AR experience (such as scanning, placing, and interacting). Made in .sketch format for iPhone X resolution. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
-* [Vehirent UI Kit](https://dribbble.com/shots/5374414--Vehirent-sketch-freebie?ref=uistore.design) — 10 iOS interface screens. It depicts map, filtering, ride history, payments and settings. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
-
 * [Uplabs App UI Design](https://dribbble.com/shots/5350462-Uplabs-Redesign?ref=uistore.design) — Uplabs Homepage UI Redesign ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) 
 
 * [Mint - Free Sketch UI Kit](https://www.behance.net/gallery/61196753/Mint-Free-Sketch-UI-Kit?ref=uistore.design) — Unique styling to begin design projects for websites ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 * [Elements](https://sketchapp.com/elements) — A free iOS UI kit, brought to you by Sketch ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [Shards UI Kit](https://dribbble.com/shots/3931508-Shards-A-Free-Modern-UI-Kit-based-on-Bootstrap-4?ref=uistore.design) — A free and modern UI toolkit for web makers based on the popular Bootstrap 4 (final) framework. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
-
-* [Free UI Kit Landing Page](https://www.ls.graphics/free/ui-kit-landing-page) — Free UI Kit Landing Page is a huge design tool of handcrafted UI components. More than 80 layouts in popular categories, style guide, icons and elements. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 * [Vera Block Free UI Kit](http://vera.kkuistore.com/) — Each screen and component is made carefully and easily customized for any project. This product will speed up your work in mobile design. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
@@ -394,19 +433,11 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [MNML iOS UI Kit](https://ui8.net/products/mnml) — Multi-purpose iOS UI Kit for Sketch, Figma, PS & Adobe XD. Designed by UI8.net ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
-* [DO UI Kit](https://www.invisionapp.com/do?ref=flawlessapp) — Colourful kit for to-do app with over 130 screens, 10 complete themes, and 250+ components to mix. This kit has totally everything: calendar, walk-through, groups, list, timeline, settings, navigation and much more! It’s retina-ready and available for Sketch, Photoshop and Craft. Kudos to InVision team! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
-
 * [Ant Design](https://ant.design/docs/spec/download) — A design system with values of Nature and Determinacy for better user experience of enterprise applications ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
-* [Cookie Banner UI Kit for Adobe XD](https://www.behance.net/gallery/86606285/Cookie-Banner-UI-Kit-for-Adobe-XD?ref=uistore.design) — This UI kit makes it a cinch for designers to easily incorporate relevant privacy-warning modals into their interfaces. The kit includes numerous modals for both desktop and mobile uses cases, giving designers many choices for their projects. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
-
-* [Component States UI Kit for Adobe XD](https://letsxd.com/states?ref=uistore.design) — States have hit Adobe XD and to help sprinkle some inspiration on your projects, I'm releasing this UI kit with buttons, icons, toggles, animations, and more. I've also included a few real-world examples so you can view states in action. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 * [Argon Mobile UI Kit](https://ui8.net/products/argon-mobile-ui-kit?ref=uistore.design) — Argon Mobile UI Kit accelerates the design process and helps you swiftly create fresh and complex designs. All the components are designed to look great together, following the same design pattern. Each screen is fully customizable, exceptionally easy to use and carefully assembled in Sketch, Figma, Adobe XD ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 * [Basic UX for Invision Studio](https://watracz.com/project/basicux?ref=uistore.design) — The final deliverable was a family of 4 products that you can download and use for free. Just download InVision Studio, open their App Store and search for 128 Outline Icons, eCommerce Wireframe Kit, User Interface Kit and Web Wireframe Kit. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![invision-studio.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg) 
-
-* [HeaderZ - Free UI Kit](https://www.behance.net/gallery/81976229/HeaderZ-FREE-UI-KIT?ref=uistore.design) — 20 Free Headers to kickstart your next web design project. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 * [Non Profit UI Kit for Adobe XD](https://www.behance.net/gallery/71348061/Non-profit-UI-Kit?ref=uistore.design) — The kit has seven responsive web page templates in all, along with dozens of reusable components. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
@@ -414,31 +445,15 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Figma Starter Kit](https://gumroad.com/l/figma-uikit?ref=uistore.design) — Get a jump start on your Figma projects. Limited to basic components, it's a great way to get started without any clutter. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
-* [cursorOS - original macos cursors](http://cursoros.com/?ref=uistore.design) — This is a collection of original macOS cursors, identical as possible without changes in style. Use them in your Design Systems, User flows, UI Kits, Prototypes, and other design stuff. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Santa's Little Helper Free UI Kit](https://dribbble.com/shots/5716755-Free-UI-Kit-Santa-s-Little-Helper?ref=uistore.design) — Minimal and clean app design, ready for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 * [Atro Mobile UI Kit Freebie](https://dribbble.com/shots/5793014-Atro-Mobile-UI-kit-Freebie?ref=uistore.design) — Whatever you need a nudge to start work on your idea, find inspiration or just want to add Atro Mobile UI kit to your freebie toolbox, go ahead and grab this awesome mobile UI kit containing 12 beautiful handpicked screens for free. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
 
-* [Free Ultimate UI Elements](https://dribbble.com/shots/4981844-Free-Ui-Elements?ref=uistore.design) — Minimal and clean UI design ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Hue - Free Website and App Color Palettes](https://www.stefanopeschiera.com/hue-color-palettes?ref=uistore.design) — Hue is a collection of hand-picked color palettes for inspire your design and make beautiful website and app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)  
-
-* [Liquid Design System](https://www.merck.design/?ref=uistore.design) — Use Liquid to create and develop digital products to make science faster, treatments more personalized, and everyday work more enjoyable. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
-* [Head: Free Sketch Header Starter Kit](https://www.stefanopeschiera.com/head-ui-kit?ref=uistore.design) — Head is a free high-quality user interface kit includes 6 modern headers designed for Sketch. Kickstart your website with some hand-crafted ideas for your header. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 * [Product Design Kit for Figma](https://dribbble.com/shots/5652423-FREE-Product-Design-Kit-for-Figma?ref=uistore.design) — The ultimate design kit for Figma. Create high fidelity wireframes, user interfaces and style guides for your desktop products. It’s fully customizable and free. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
-* [Gravity - The UI Kit](https://dribbble.com/shots/5731753-Gravity-The-UI-Kit?ref=uistore.design) — Introducing Gravity — the product of experimentation and creative exploration. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![invision-studio.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg)
-
-* [Penman App UI Kit](https://medium.com/sketch-app-sources/penman-speak-your-notes-e8861bb679b7?ref=uistore.design) — Penman is an iOS notes app with the power of Speech To Text ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
-
-* [9GAG Redesign UI Kit](https://dribbble.com/shots/5362269-9GAG-UI-KIT-FREEBIE?ref=uistore.design) — Go crazy and use the UI Kit on your next project to create kickass products from highly customisable screens like Feed, Profile, Login, Notifications and a lot more to go with anything you can imagine. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
-
 * [Finder for iPad Concept](https://medium.muz.li/finder-for-ipad-concept-bringing-the-finder-and-new-advanced-multitasking-to-the-ipad-28a00e671ad8?ref=uistore.design) — Bringing the Finder and new advanced multitasking to the iPad. Experimentations with creating a Finder app for the iPad Pro with external storage management, Quick Look integration, column view, resizable sidebar, improved multitasking and dark mode. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![invision-studio.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg)
-
-* [Urano Sketch](https://uranosketch.com/?ref=uistore.design) — 30+ Components for Sketch For FREE ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 * [Responsive Resize UI Kit for Adobe XD](https://www.behance.net/gallery/72045189/Responsive-Resize-Kit?ref=uistore.design) — The kit comes packed with 14 screens, 164 components and everything is fully customizable and responsive. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
 
@@ -473,6 +488,8 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 * [Personal Finance UI Kit](https://freebiesupply.com/free-adobe-xd/adobe-xd-ui-personal-finance/) — I loved playful style of this finance UI kit. The app concert covers managing your income, finding ATM’s near you, sending money to family & friends and many more. It’s Adobe XD UI kit with 40+ screens for iPhone 6,7 and X layouts. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 * [Telco Skeumorph App for Sketch](https://dribbble.com/shots/8911189-Telco-Skeumorph-App-FREE-KIT?ref=uistore.design) — Minimal and clean app design, 12 screens for you to get started ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
+* [Gravity - The UI Kit](https://dribbble.com/shots/5731753-Gravity-The-UI-Kit?ref=uistore.design) — Introducing Gravity — the product of experimentation and creative exploration. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![invision-studio.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg)
 
 
 </article>
@@ -583,6 +600,11 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Planguru Free UI Kit](https://www.netguru.co/planguru-ui-kit-freebies?ref=uistore.design) — 18 beautiful screens designed in Sketch, ready for use in personal and professional projects ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
+* [Penman App UI Kit](https://medium.com/sketch-app-sources/penman-speak-your-notes-e8861bb679b7?ref=uistore.design) — Penman is an iOS notes app with the power of Speech To Text ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
+* [DO UI Kit](https://www.invisionapp.com/do?ref=flawlessapp) — Colourful kit for to-do app with over 130 screens, 10 complete themes, and 250+ components to mix. This kit has totally everything: calendar, walk-through, groups, list, timeline, settings, navigation and much more! It’s retina-ready and available for Sketch, Photoshop and Craft. Kudos to InVision team! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+
 </article>
 
 <article id="blog">
@@ -597,13 +619,15 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 <article id="taxi--cars">
 
-### Taxi & cars
+### Taxi & Cars
 
 * [Taxi App UI Kit for Figma](https://www.gulp.space/?ref=uistore.design) — 40+ Figma UI elements which covers the main flows of a taxi app. 13 car type icons. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 * [Green Taxi Free App UI Kit](https://www.behance.net/gallery/81233987/Green-Taxi-Free-UI-Kit-for-Adobe-XD?ref=uistore.design) — Minimal and clean app design for Adobe XD, 15 screens for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 * [Tesla Model Y - Concept UI Kit for Figma](https://dribbble.com/shots/6201044-Tesla-Model-Y-Concept-Ui-Freebie-Figma?ref=uistore.design) — Check some car configuration flow concepts and feel free to download it. Minimal and clean app design, 6 screens for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+
+* [Vehirent UI Kit](https://dribbble.com/shots/5374414--Vehirent-sketch-freebie?ref=uistore.design) — 10 iOS interface screens. It depicts map, filtering, ride history, payments and settings. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 
 </article>

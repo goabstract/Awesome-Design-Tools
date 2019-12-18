@@ -468,19 +468,16 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 * [Holo Music Kits](https://sketchrepo.com/free-sketch/holo-music-app-kit-freebie/) — It’s very colourful and modern UI kit for a music app, done in dark and light themes. The free version has screens for a playlist and a player, available in Sketch format. Not so huge but nice-looking :) ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
+* [Music App UI Kit for Adobe XD](https://www.behance.net/gallery/86624751/Free-Music-App-UI-Kit-for-Adobe-XD?ref=uistore.design) — The Music App UI Kit is a component-based UI Kit designed exclusively for Adobe XD by Unmesh Gite. If you are struggling with creating great user-interfaces, then this kit will give your designs a great boost. This Kit features fully-customizable components, including UI elements, colours, typography. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
+
+
+</article>
+
 <article id="dating">
 
 ### Dating
 
 * [Dating App UI Kit for Sketch](https://www.instamobile.io/app-templates/dating-app-design-ui-kit?ref=uistore.design) — Free dating app design UI kit in Sketch, to fast track the design of your next mobile dating app. With beautiful UI elements and a well thought out UX, this dating app contains more than 30 carefully crafted screens. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
-
-</article>
-
-<article id="music">
-
-### Music
-
-* [Music App UI Kit for Adobe XD](https://www.behance.net/gallery/86624751/Free-Music-App-UI-Kit-for-Adobe-XD?ref=uistore.design) — The Music App UI Kit is a component-based UI Kit designed exclusively for Adobe XD by Unmesh Gite. If you are struggling with creating great user-interfaces, then this kit will give your designs a great boost. This Kit features fully-customizable components, including UI elements, colours, typography. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) 
 
 </article>
 

@@ -64,6 +64,10 @@ const parseTweaks = (html, config) => {
 		} = config;
 
 		const isTool = document.querySelector('h1').textContent.split(' ')[2] === 'Tools' ? true : false;
+		const isPlugin = document.querySelector('h1').textContent.includes('Plugin') ? true : false;
+		const isKit = document.querySelector('h1').textContent.includes('Kits') ? true : false;
+
+		console.log(document.querySelector('h1').textContent, isKit);
 
 		// add color scheme
 		document.body.classList.add(bodyColorScheme);
@@ -82,7 +86,7 @@ const parseTweaks = (html, config) => {
 		removeAllImages(window);
 		addContributeButtonForAddendum(window);
 		removeListInAddendum(window);
-		addHeader(window, title, logoClassName, nav, isTool);
+		addHeader(window, title, logoClassName, nav, isTool, isPlugin, isKit);
 		addAllPromoBanners(window);
 		return document.documentElement.outerHTML;
 }

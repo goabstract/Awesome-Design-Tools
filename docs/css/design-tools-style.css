@@ -1128,6 +1128,10 @@ article ul {
 	text-transform: uppercase;
 }
 
+.sort-tool-modal__nav {
+	display: flex;
+}
+
 .sort-tool-modal__btn-choose {
 	position: relative;
 	padding-top: 7px;

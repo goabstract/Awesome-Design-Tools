@@ -1,9 +1,9 @@
 <div class="hidden-in-page">
 
 # Awesome Design UI Kits
-#### [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-#### [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
-#### [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md)
+* [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
+* [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md)
 
 </div>
 
@@ -26,7 +26,7 @@
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
 If you found some great UI Kit, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) 
-(they're very simple, please take a look). We use such labels for Sketch ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg), Adobe XD ![Adobe XD](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) and Figma ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) UI Kits, don't forget to add them. If UI Kit is purely for mobile design (both iOS and Android), please add mobile phone emoji 📱. Now I'd love to see your suggestions! 
+(they're very simple, please take a look). We use such labels for Sketch ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg), Adobe XD ![Adobe XD](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg), InVision Studio ![InVision Stusio](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg) and Figma ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) UI Kits, don't forget to add them. If UI Kit is purely for mobile design (both iOS and Android), please add mobile phone emoji 📱. Now I'd love to see your suggestions! 
 
 </div>
 
@@ -44,14 +44,14 @@ If you found some great UI Kit, just send a Pull Request with respect to our [Co
 * [Travel](#travel)
 * [Food](#food)
 * [Fashion](#fashion)
-* [Chat & Messenger](#chat--messenger)
+* [Chat](#chat)
+* [Messenger](#messenger)
 * [eCommerce](#ecommerce)
 * [Movies](#movies)
 * [More Cool UI Kits](#more-cool-ui-kits)
 * [Finance](#finance)
 * [Crypto](#crypto)
 * [Health](#health)
-* [Design Systems](#design-systems)
 * [Dashboard](#dashboard)
 * [Music](#music)
 * [Dating](#dating)
@@ -167,26 +167,16 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 </article>
 
-<article id="chat--messenger">
+<article id="chat">
 
-### Chat & Messenger
+### Chat
 * [Mochi — Chat UI Kit](https://www.sketchappsources.com/free-source/2893-mochi-chat-ui-kit-app-sketch-freebie-resource.html) — This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Moments, Profile, QR Code and more. So it’s a really unique Sketch kit! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
-
-* [iOS WeChat UI Kit](https://www.sketchappsources.com/free-source/1933-wechat-ui-kit-sketch-freebie-resource.html) — This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Chat, Moments, Profile, QR Code and more. Available for Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
-
-* [Telegram iOS UI Kit](https://www.sketchappsources.com/free-source/2824-telegram-ios-ui-kit-sketch-freebie-resource.html) — Did you know that Telegram is a very popular messaging app in Russian-speaking countries? So if work with these markets and need to make Telegram bot, this UI kit will be in help. It includes 6 Telegram app views: Contacts, Contact Search, Contact Search — Query, Bot Welcome, Charts, and Dialog (available in Sketch format). Also, it comes with extensive Symbols. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
 
 * [Mail - A free cross-platform UI kit](https://www.invisionapp.com/inside-design/design-resources/free-ui-kit-for-sketch-and-photoshop-mail?ref=uistore.design) — Tailor-made for desktop, mobile, tablet, and smartwatch formats, so your design looks its best on any device. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 * [App Login Screens UI Kit](https://dribbble.com/abhinavagr?ref=uistore.design) — Login Screens UI kit for Sketch to help you quickly design and build login flows. This freebie UI kit is available in both light and dark theme. Includes 20+ screens ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [Ego — Messenger UI Kit](https://www.xdguru.com/ego-free-messenger-ui-kit/) — Ego is not purely iOS UI kit, but it’s very clean and useful if you need to work with Russian copy. All texts there are done for a Russian-speaking chat app. The kit has 20 well-designed mobile screens, minimalistic icons, and cool colour pallet. Prepared for Adobe XD. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
-
-* [Messenger Platform Design Kit](https://developers.facebook.com/docs/messenger-platform/design-resources/design-kit) — Official UI Kit for Facebook Messaging bot, which includes components for both conversational and GUI-based experiences. Available for Sketch. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
-
 * [Chat Messaging UI Kit for Sketch](https://getstream.io/chat/ui-kit/?ref=uistore.design) — Craft a beautiful chat app UI design with our high fidelity Chat UI kit for Sketch. Chat interfaces for live chat, team collaboration, messaging, customer support and gaming are included. Design your responsive chat interface with all the essential elements required for fully interactive chat experiences. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
-
-* [Facebook Messenger UI Kit for Android](https://github.com/jonasleupe/MessengerUIKit?ref=uistore.design) — The free kit is not just a design clone, it's actually a well organized Sketch Library as well. It contains icons, colors, components, spacing elements, etc. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 * [Social UI Kit for Figma](https://dribbble.com/shots/6384317-Social-UI-Kit-Freebie-2-Dribbble-Invites?ref=uistore.design) — Minimal and clean UI Kit, 16 screens for you to get started ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
@@ -195,6 +185,25 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 * [Wonep - Internationl Calling App UI Kit](https://gumroad.com/l/plZM?ref=uistore.design) — UI kit represents a complete iOS app for making affordable international calls. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 </article>
+
+<article id="messenger">
+
+
+### Messenger
+
+* [Telegram iOS UI Kit](https://www.sketchappsources.com/free-source/2824-telegram-ios-ui-kit-sketch-freebie-resource.html) — Did you know that Telegram is a very popular messaging app in Russian-speaking countries? So if work with these markets and need to make Telegram bot, this UI kit will be in help. It includes 6 Telegram app views: Contacts, Contact Search, Contact Search — Query, Bot Welcome, Charts, and Dialog (available in Sketch format). Also, it comes with extensive Symbols. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+* [Facebook Messenger UI Kit for Android](https://github.com/jonasleupe/MessengerUIKit?ref=uistore.design) — The free kit is not just a design clone, it's actually a well organized Sketch Library as well. It contains icons, colors, components, spacing elements, etc. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+* [iOS WeChat UI Kit](https://www.sketchappsources.com/free-source/1933-wechat-ui-kit-sketch-freebie-resource.html) — This UI Kit provides many assets, icons, screens, and interactions for Chinese premier messaging app: WeChat, or Weixin. Provided in both English and Chinese, with support for main 4 tabs (Chat, Contacts, Discover, Me), official account pages, Chat, Moments, Profile, QR Code and more. Available for Sketch format. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+* [Ego — Messenger UI Kit](https://www.xdguru.com/ego-free-messenger-ui-kit/) — Ego is not purely iOS UI kit, but it’s very clean and useful if you need to work with Russian copy. All texts there are done for a Russian-speaking chat app. The kit has 20 well-designed mobile screens, minimalistic icons, and cool colour pallet. Prepared for Adobe XD. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+* [Messenger Platform Design Kit](https://developers.facebook.com/docs/messenger-platform/design-resources/design-kit) — Official UI Kit for Facebook Messaging bot, which includes components for both conversational and GUI-based experiences. Available for Sketch. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+
+
+</article>
+
 
 <article id="ecommerce">
 
@@ -434,14 +443,6 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 </article>
 
-<article id="design-systems">
-
-### Design Systems
-
-* [Carbon Design System](https://github.com/ibm/carbon-design-kit) — Carbon is the design system for IBM Cloud products. It is a series of individual styles, components, and guidelines used for creating unified UI. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
-</article>
-
 <article id="dashboard">
 
 ### Dashboard
@@ -583,4 +584,12 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 </article>
 
+<article id="addendum">
+
+### Addendum (Reference & Inspiration)
+
+Awesome Design UI Kits are curated by [Lisa Dziuba](https://twitter.com/LisaDziuba), [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) & [Vladimir Berezovsky](https://twitter.com/berezovskycom) from Flawless team. If you found some great design UI Kit, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). And thanks for making this project awesome :)
+
+</article>
 </main>
+

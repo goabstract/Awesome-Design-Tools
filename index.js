@@ -23,6 +23,7 @@ const addAllPromoBanners = require('./docs/modules/addAllPromoBanners');
 
 const designToolsConfig = require('./docs/modules/CONFIG.js');
 const designPluginsConfig = require('./docs/modules/config/plugins.js');
+const uiKitsConfig = require('./docs/modules/config/ui-kits.js');
 
 const writeHtml = (html, fileToWrite, isProduction = true) => {
 	const minified = minify(html, {
@@ -89,6 +90,11 @@ const parseTweaks = (html, config) => {
 Promise.all([readMd(designToolsConfig.markdownFile)])
 	.then(res => parseTweaks(res, designToolsConfig.main))
 	.then(res => writeHtml(res, designToolsConfig.index, true))
+
 	.then(() => Promise.all([readMd(designPluginsConfig.markdownFile)]))
 	.then(res => parseTweaks(res, designPluginsConfig.main))
-	.then(res => writeHtml(res, designPluginsConfig.index, false));
+	.then(res => writeHtml(res, designPluginsConfig.index, false))
+
+	.then(() => Promise.all([readMd(uiKitsConfig.markdownFile)]))
+	.then(res => parseTweaks(res, uiKitsConfig.main))
+	.then(res => writeHtml(res, uiKitsConfig.index, false))

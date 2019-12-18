@@ -64,6 +64,18 @@ const CONFIG = {
                     isActive: true,
                     className: '-plugin',
                 },
+                {
+                    title: 'UIKits',
+                    href: '/designkits',
+                    isActive: false,
+                    className: '-tool',
+                },
+                {
+                    title: 'Conferences',
+                    href: '/designconferences',
+                    isActive: false,
+                    className: '-plugin',
+                },
             ],
         },
         welcomeArticle: {

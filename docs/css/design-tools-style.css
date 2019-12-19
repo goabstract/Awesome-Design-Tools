@@ -13,6 +13,7 @@
 	--mint: #a7f5ce;
 	--feedback--bg: #ffffed;
 	--feedback--btn: #ffbb44;
+	--violet: #850289;
 }
 
 .clearfix:after {
@@ -123,6 +124,55 @@ body.-green .header-top__nav-item.-active {
 body.-green .tag {
 	background-color: var(--mint);
 	color: var(--green);
+}
+
+/* violet theme */
+body.-violet .btn-contribute,
+body.-violet .nav .active,
+body.-violet .nav .active:hover,
+body.-violet .nav .active:focus {
+	color: #ffffff;
+	background-color: var(--violet);
+}
+
+body.-violet .btn-contribute,
+body.-violet .banner-top {
+	background-color: var(--violet);
+}
+
+body.-violet .header-top__nav-item.-active {
+	border-top-color: var(--violet);
+}
+
+body.-violet .tool__asset {
+	background-color: var(--violet);
+}
+
+body.-violet .banner--yellow a:hover,
+body.-violet article h3 a {
+	color: var(--violet);
+}
+
+body.-violet .btn-contribute,
+body.-violet .nav .active,
+body.-violet .nav .active:hover,
+body.-violet .nav .active:focus {
+	color: #ffffff;
+	background-color: var(--violet);
+}
+
+body.-violet .btn-contribute,
+body.-violet .banner-top {
+	background-color: var(--violet);
+}
+
+body.-violet .header-top__nav-item.-active {
+	border-top-color: var(--violet);
+}
+
+body.-violet .tag {
+	background-color: var(--violet);
+	color: #fff;
 }
 
 body > ul li > a {
@@ -694,6 +744,10 @@ article ul {
 	background-color: #F2FAF5; 
 }
 
+.header.-violet {
+	background-color: #f2f5fa; 
+}
+
 .header-inner {
 	max-width: 1280px;
 	margin: 0 auto;
@@ -1138,6 +1192,10 @@ article ul {
 	background-image: url("data:image/svg+xml;charset=utf8,%3C?xml version='1.0' encoding='UTF-8'?%3E%3Csvg width='16px' height='13px' viewBox='0 0 16 13' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3C!-- Generator: Sketch 59.1 (86144) - https://sketch.com --%3E%3Ctitle%3Esearch-icon%3C/title%3E%3Cdesc%3ECreated with Sketch.%3C/desc%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' stroke-linecap='round' stroke-linejoin='round'%3E%3Cg id='awesome-design-plugins-v3-tools-filter-v3' transform='translate(-1236.000000, -36.000000)' fill-rule='nonzero' stroke='%2352B372' stroke-width='2'%3E%3Cg id='Group-5' transform='translate(1228.000000, 24.000000)'%3E%3Cg id='search-icon' transform='translate(9.000000, 13.000000)'%3E%3Cg id='Group-2'%3E%3Cline x1='0' y1='0.744318182' x2='14' y2='0.744318182' id='Path-2'%3E%3C/line%3E%3Cline x1='2' y1='5.74431818' x2='12' y2='5.74431818' id='Path-2'%3E%3C/line%3E%3Cline x1='5' y1='10.7443182' x2='9' y2='10.7443182' id='Path-2'%3E%3C/line%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 
+.header-top__sort-tool-btn.-violet::before {
+	background-image: none;
+}
+
 .header-top__sort-tool-btn.-mint {
 	background-color: #D2FAD7;
 	color: #028930;
@@ -1145,6 +1203,15 @@ article ul {
 
 .header-top__sort-tool-btn.-mint.-active {
 	border-color: #52B372;
+}
+
+.header-top__sort-tool-btn.-violet {
+	background-color: #f4d3f5;
+	color: var(--violet);
+}
+
+.header-top__sort-tool-btn.-violet.-active {
+	border-color: var(--violet);
 }
 
 .header-top__sort-tool-modal {

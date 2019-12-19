@@ -30,7 +30,7 @@ If you found some great UI Kit, just send a Pull Request with respect to our [Co
 
 </div>
 
-<header class='header header-top -mint'></header>
+<header class='header header-top -violet'></header>
 
 <div class="nav">
 

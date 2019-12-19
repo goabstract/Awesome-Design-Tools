@@ -22,14 +22,14 @@ const CONFIG = {
     promoFlawlessFeedbackBanner__link: 'https://flawlessapp.io/feedback',
     main: {
         title: 'Awesome Design UI Kits',
-        themeColor: '#F2FAF5',
-        bodyColorScheme: '-green',
+        themeColor: '#850289',
+        bodyColorScheme: '-violet',
         logoClassName: '-logo-adp',
         head: {
             title: 'Awesome Design UI Kits',
             meta: {
                 title: 'Awesome Design UI Kits',
-                themeColor: '#F2FAF5',
+                themeColor: '#850289',
                 description: 'Design kits',
                 image: 'https://flawlessapp.io/images/designtools/awesome-design-tools-sharable-image-general.png',
                 siteURL: 'https://flawlessapp.io/designplugins',

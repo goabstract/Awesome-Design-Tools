@@ -59,6 +59,7 @@ const addHeader = (
                                 <button type="button" class="sort-tool-modal__btn-choose -sketch label--sketch -active" app="sketch">Sketch</button>
                                 <button type="button" class="sort-tool-modal__btn-choose -figma label--figma -active" app="figma">Figma</button>
                                 <button type="button" class="sort-tool-modal__btn-choose -xd label--xd -active" app="xd">Adobe XD</button>
+                                <button type="button" class="sort-tool-modal__btn-choose -photoshop label--photoshop -active" app="photoshop">Photoshop</button>
                                 <button type="button" class="sort-tool-modal__btn-choose -mobile label--mobile -active" app="mobile">Mobile</button>
                                 <button type="button" class="sort-tool-modal__btn-choose -desktop label--desktop -active" app="desktop">Desktop</button>
                                 <button type="button" class="sort-tool-modal__btn-choose -web label--web -active" app="web">Web</button>

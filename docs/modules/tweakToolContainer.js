@@ -61,13 +61,15 @@ const addLabel = (tool) => {
 	let result = [];
 	const push = (title, className) => result.push(createLabel(title, className));
 
-	if (check('alt="sketch.svg"')) {
+	tool.innerHTML.includes('iOS 11 UI kit for Adobe XD') && console.log(tool.innerHTML);
+
+	if (check('alt="sketch.svg"') || check('alt="Sketch"')) {
 		push('Sketch', 'sketch');
 	}
-	if (check('alt="figma.svg"')) {
+	if (check('alt="figma.svg"') || check('alt="Figma"')) {
 		push('Figma', 'figma');
 	}
-	if (check('alt="adobe-xd.svg"')) {
+	if (check('alt="adobe-xd.svg"') || check('alt="Adobe XD"')) {
 		push('Adobe XD', 'xd');
 	}
 	if (check('alt="Mobile"')) {
@@ -78,6 +80,9 @@ const addLabel = (tool) => {
 	}
 	if (check('alt="Web"')) {
 		push('Web', 'web');
+	}
+	if (check('alt="Photoshop"')) {
+		push('Photoshop', 'photoshop');
 	}
 	return result.join(' ');
 }

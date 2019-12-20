@@ -24,7 +24,7 @@ const CONFIG = {
         title: 'Awesome Design UI Kits',
         themeColor: '#850289',
         bodyColorScheme: '-violet',
-        logoClassName: '-logo-adp',
+        logoClassName: '-logo-adk',
         head: {
             title: 'Awesome Design UI Kits',
             meta: {
@@ -61,17 +61,23 @@ const CONFIG = {
                 {
                     title: 'Plugins',
                     href: '/designplugins',
-                    isActive: true,
+                    isActive: false,
                     className: '-plugin',
+                },
+                {
+                    title: 'UI Kits',
+                    href: '/designkits',
+                    isActive: true,
+                    className: '-kit',
                 },
             ],
         },
         welcomeArticle: {
             title: 'Awesome Design UI Kits',
-            logoClassName: '-logo-adp',
+            logoClassName: '-logo-adk',
             description: `All the best design plugins for Sketch, Adobe XD, and Figma, gathered in one place.`,
             button: {
-                href: 'https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md',
+                href: 'https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md',
             },
         },
 

@@ -22,7 +22,7 @@ const addHeader = (
                         href=${item.href}
                         class="header-top__nav-item ${item.className} ${item.isActive ? '-active' : ''}"
                     >
-                        ${item.title}
+                        <span>${item.title}</span>
                     </a>
                 `).join(' ')
             }

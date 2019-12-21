@@ -21,7 +21,7 @@
 
 ## How to Use and Contribute
 
-* Now you are in **Awesome Design UI Kits** section.
+* Now you are in the **Awesome Design UI Kits** section.
 * To find the UI Kit, go through the Table of Contents or search for a keyword (for example, "social app", "travel").
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
@@ -38,7 +38,7 @@ If you found some great UI Kit, just send a Pull Request with respect to our [Co
 * [Blog](#blog)
 * [Calling App](#calling-app)
 * [Cards](#cards)
-* [Chars & Wireframes](#charts--wireframes)
+* [Charts & Wireframes](#charts--wireframes)
 * [Chat](#chat)
 * [Components](#components)
 * [Courses](#courses)
@@ -60,13 +60,13 @@ If you found some great UI Kit, just send a Pull Request with respect to our [Co
 * [Music](#music)
 * [Onboarding](#onboarding)
 * [Pets](#pets)
-* [Photo](#Photo)
+* [Photo](#photo)
 * [Social Apps](#social-apps)
-* [Style Guide](#style-guide)
+* [Style Guide](#style-guide)t
 * [Taxi & Cars](#taxi--cars)
 * [Todos](#todos)
 * [Travel](#travel)
-* [Watch](#Watch)
+* [Watch](#watch)
 
 </div>
 
@@ -84,18 +84,18 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 ### Blog
 
-* [UI Blog Kit Template for Sketch](https://logwork.com/blog/downloads/free-sketch-ui-kit-templates?ref=uistore.design) — Multiple post design types, customized headers and footers. Fully responsive with 12 columns bootstrap grid (1170px). ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [UI Blog Kit Template for Sketch](https://logwork.com/blog/downloads/free-sketch-ui-kit-templates) — this kit contains customized headers and footers, multiple post design types, Sketch design with over 150 symbols that are well-systematized, named and grouped. Take a look! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [Write - Free UI Kit for Sketch and Adobe XD](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD?ref=uistore.design) — Introducing Write a UI Kit for Sketch and Adobe XD with 15 iOS app screens designed in vector format, based on symbols. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Write - Free UI Kit for Sketch and Adobe XD](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD) — if you're going to create your own blog, check this UI Kit that will help you to organize your content well. It contains 15 different iOS app screens designed in vector format, based on symbols. Available for Sketch and Adobe XD. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 </article>
 
 <article id="calling-app">
 
 ### Calling App
-* [Wonep Calling App](https://dribbble.com/shots/2942774-Wonep-International-Calling-App-UI-Kit-Freebie) — Pretty cool UI Kit of a complete iOS app for making international calls. Sketch file includes over 30 unique screens and several UX flows: Onboarding, Recent Calls and Contacts, Dialing, Billing, Selecting Favorites. It also has a Principle file with animation to clarify the user experience through the app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+* [Wonep Calling App](https://dribbble.com/shots/2942774-Wonep-International-Calling-App-UI-Kit-Freebie) — pretty cool UI Kit of a complete iOS app for making international calls. Sketch file includes over 30 unique screens and several UX flows: Onboarding, Recent Calls and Contacts, Dialing, Billing, Selecting Favorites. It also has a Principle file with animation to clarify the user experience through the app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
-* [D-Caller Mobile UI Kit](https://dribbble.com/shots/4894365-D-Caller-Free-Mobile-UI-Kit-sketch?ref=uistore.design) — Clean and elegant App by Decojent, 6 screens for you to get started ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [D-Caller Mobile UI Kit](https://dribbble.com/shots/4894365-D-Caller-Free-Mobile-UI-Kit-sketch) — clean, simple and elegant mobile UI Kit for calling app, available in Sketch format. Oh, and I really like their typography and colors. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 </article>
 
@@ -103,13 +103,14 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 ### Cards
 
-* [eCommerce Cards Free Sketch UI Kit](https://dribbble.com/shots/3391013-E-commerce-free-sketch-ui-kit-Download-Now?ref=uistore.design) — Clean and minimal eCommerce Cards by Divan Raj ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Cards Pro Free UI Kit](https://dribbble.com/shots/4131097-Cards-Pro-Free-UI-Kit) — an amazing set of cards resource designs perfect for websites and mobile apps. Some of its resources include email sign up, captions, info card, calendar notification and more. Available in Photoshop. ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
-* [Cards Pro Free UI Kit](https://dribbble.com/shots/4131097-Cards-Pro-Free-UI-Kit?ref=uistore.design) — Unique styling to begin design projects for websites ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+* [Deck Card UI Kit](https://www.invisionapp.com/inside-design/design-resources/card-ui-kit-deck) — a beautiful cross-platform UI kit for designing card-based interfaces and media websites. Inside you'll find dozens of hand-crafted components, 45 UI templates in 6 different categories and over 200 UI elements for Sketch and Photoshop. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
-* [Deck Card UI Kit](https://www.invisionapp.com/inside-design/design-resources/card-ui-kit-deck) — A beautiful cross-platform UI kit for designing card-based interfaces and media websites ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+* [Card UI Kit](https://dribbble.com/shots/6423644-Card-UI-Kit) — a super flexible and simple card UI kit. It is available both in light and dark themes. Designed by Charles Patterson for InVision Studio. It is definitely worth a look! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![invision-studio.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg) 
 
-* [Card - Free UI Kit For InVision Studio](https://dribbble.com/shots/6423644-Card-UI-Kit?ref=uistore.design) — A simple card UI kit. That's it. That's the kit! Designed by Charles Patterson. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![invision-studio.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg) ![InVision Stusio](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg)
+* [eCommerce Cards Free Sketch UI Kit](https://dribbble.com/shots/3391013-E-commerce-free-sketch-ui-kit-Download-Now) — Clean and minimal eCommerce Cards by Divan Raj ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
 
 </article>
 
@@ -117,22 +118,17 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 ### Charts & Wireframes
 
-* [iOS Charts for Sketch](https://dribbble.com/shots/5344624-iOS-Charts-sketch-download?ref=uistore.design) — Minimal and clean chart design for iOS app, 12 screens for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
-* [Audi Freebie](https://dribbble.com/shots/4649600-Audi-Freebie?ref=uistore.design) — Minimal and clean app design, 6 screens for you to get started ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Greyhound - Free Flowchart Kit](https://greyhound.design/) — this kit contains fully customizable 200+ ready-to-use flowcharts in 11 categories. It'll help you to create beautiful sitemaps, wireframes, and prototypes for your web & mobile projects. Available for Figma and Sketch. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
-* [iOS WeChat UI Kit](https://visualhierarchy.co/shop/product/portal-freebie/) — A sample of a mobile portal app built for Sketch. It has a focus on big, bold heading typography and is visually stunning when paired with full-screen background images. An awesome little freebie! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg)
+* [Fluid - UI Flow & Diagrams](https://www.uistore.design/items/fluid-ui-flow-and-diagrams/) — a sketch library customizable with over 44 connectors to create user flow, diagrams, and sitemaps for mobile and web. Add notes and annotations to make your flows easy to read. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [Greyhound - Free Flowchart Kit](https://greyhound.design/?ref=uistore.design) — Greyhound - Free Flowcharts for Figma & Sketch App. Create beautiful sitemaps and wireframes with fully customizable 200+ ready-to-use flowcharts. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Kamartaj Gift Shop UI Kit](https://gumroad.com/l/kamartaj) — this UI kit with clean design, well-organized elements, and editable content. Made for both iPhone 8 and iPhone X and includes Adobe XD, Adobe Photoshop, Figma and Sketch file as well. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
-* [Fluid - UI Flow & Diagrams](?ref=uistore.design) — Fluid is a sketch library customizable with over 44 connectors to create user flow, diagrams and sitemaps for mobile and web. Add nodes and annotations to make your flows easy to read. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+* [Flowchart Kit for Sketch / Figma](http://uxflow.co/) — amazing UI kit for Sketch and Figma. Inside you'll find fully customizable and scalable vector elements and 3 pre-defined color themes for creating fast sitemaps and wireframes. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) 
 
-* [Kamartaj Gift Shop UI Kit](https://gumroad.com/l/kamartaj) — A gift shop full UI kit, made for both iPhone 8 and iPhone X. Designed by Shojol Islam. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [Wirez Free Wireframe Kit](https://www.uistore.design/items/wirez-free-wireframe-kit/) — a totally free wireframe GUI kit ideal for mobile apps (sketch sources), it’s packed with 64 different screens and 6 categories. It'll help UX/UI designers to create faster low fidelity wireframe. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [Flowchart Kit for Sketch / Figma](http://uxflow.co/) —  UI kit with fully customizable and scalable vector elements with 3 pre-defined color themes for creating fast sitemaps and wireframes.![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) 
-
-* [Wirez Free Wireframe Kit](http://wirez.fikristudio.com/?ref=uistore.design) — Free wireframe kit to help UX/UI designer (or anyone) create faster low fidelity wireframe. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
-* [Product Design Kit for Figma](https://dribbble.com/shots/5652423-FREE-Product-Design-Kit-for-Figma?ref=uistore.design) — The ultimate design kit for Figma. Create high fidelity wireframes, user interfaces and style guides for your desktop products. It’s fully customizable and free. ![Desktop](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/desktop.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Product Design Kit for Figma](https://dribbble.com/shots/5652423-FREE-Product-Design-Kit-for-Figma) — the ultimate design kit for Figma. Create high fidelity wireframes, user interfaces and style guides for your desktop products. It’s fully customizable and free. ![Desktop](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/desktop.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 </article>
 
@@ -567,6 +563,9 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 * [Tesla Model Y - Concept UI Kit for Figma](https://dribbble.com/shots/6201044-Tesla-Model-Y-Concept-Ui-Freebie-Figma?ref=uistore.design) — Check some car configuration flow concepts and feel free to download it. Minimal and clean app design, 6 screens for you to get started. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 * [Vehirent UI Kit](https://dribbble.com/shots/5374414--Vehirent-sketch-freebie?ref=uistore.design) — 10 iOS interface screens. It depicts map, filtering, ride history, payments and settings. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
+* [Audi Freebie](https://dribbble.com/shots/4649600-Audi-Freebie?ref=uistore.design) — Minimal and clean app design, 6 screens for you to get started ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
 
 </article>
 <article id="todos">

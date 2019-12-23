@@ -167,13 +167,13 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 </article>
 
-<div class="hidden-in-page">
+<!-- <div class="hidden-in-page">
     <p align="center">
         <a href="http://bit.ly/35I1q9q">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
         </a>
     </p>
-</div>
+</div> -->
 
 <article id="analytics">
 

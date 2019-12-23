@@ -2,17 +2,14 @@
 ### for Awesome Design Tools, Plugins, Design Conferences, UI Kits
 
 If you would like to contribute, just send a Pull Request. Please follow these rules:
-* Search previous suggestions before making a new one to prevent duplicates. 
+* Search previous suggestions before making a new one to prevent duplicates.
 * Try to make your Pull Request descriptive and check all questions in the PR template.
 * End all descriptions with a full stop/period and remove trailing whitespace.
 * Check spelling and grammar.
 * Please, add appropriate tags.
-
 * If you submit a design tool to the Awesome Design Tools repo, please put the tool in the alphabetical order. All tools are great, so we want to treat them equally. 
 * If you submit a design conference to the Awesome Design Conferences repo, please put the conference according to the date. The earliest conference should be first. It's just easy to perceive.
-
 * New categories are welcomed if you have 2+ tools, plugins, UI Kits, or conferences to submit to that category.
-
 
 
 ## 📍 One tool, plugin, UI Kit or conference can go only to one category

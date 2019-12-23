@@ -283,10 +283,8 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Sketch Sync](https://sensive.co) — Create a collaboration hub for your Sketch files. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Quopi](https://github.com/LukeFinch/Quopi) — Fetches copy from the comments on your Abstract branch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Kopie](https://kopie.io) — The copy editing tool for web and product design ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Figma Chat](https://www.figma.com/c/plugin/742073255743594050) — This plugin helps you to interact inside your files with other peoples. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Status](https://www.figma.com/c/plugin/742769304454952644) — When collaborating on features with multiple designers and developers, it can be hard to keep track of which designs are ready to be implemented and what is still a work in progress. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [GoProof](support@goproof.net) — The GoProof plugin for Adobe XD brings proofing and collaboration on prototypes into the GoProof ecosystem, enabling app and web designers to manage XD work alongside all their other Adobe Creative Cloud media in an effortless and natural workflow. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Slope](hello@goslope.com) — Slope is an easy way for teams to manage creative projects and tasks. With the Slope plugin, designers will be able to view a list of their tasks in XD that they are assigned to in Slope, and then request feedback or approval from stakeholders. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Bluescape](support@bluescape.com) — Interface with Bluescape, a visual collaboration platform, without having to leave Adobe Creative Cloud.- Export your Adobe designs directly to a workspace- Receive and respond to comments- Import images into your working document from BluescapeTo access the plugin, you will need a Bluescape account. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
@@ -345,7 +343,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Blender](https://github.com/bunnieabc/Blender) — A sketch plugin to create awesome gradient layers ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [GGradient](https://github.com/andex/ggradient) — Simple way to create perfect gradient ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [CoolHue](https://github.com/webkul/coolhue) — Coolest handpicked Gradient Palette for super amazing stuff ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Palette](https://www.figma.com/c/plugin/742549221432366731) — Palette helps you create the perfect color palette through machine learning from Colormind. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Image Palette](https://www.figma.com/c/plugin/731841207668879837) — Extracts a colour palette of 5 different colours from the selected images. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [uiGradients](https://www.figma.com/c/plugin/744909029427810418) — Adds gradients to groups, text and frames in single click. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -364,7 +361,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Photo to Palette](https://www.figma.com/c/plugin/744287694483504163) — Generates colour palette from selected images. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Navigator](https://www.figma.com/c/plugin/739558587628004077) — An easy way to find and apply color styles from your current document. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Shadow Picker](https://www.figma.com/c/plugin/744987207861965946) — Quickly apply various shadows to layers with just 2 clicks. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Instant Color](https://abdnahid.com) — Generate 470+ colors of Ant Design, Tailwind and Flutter in your artboard. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Random Colors by Alon Gruss](alon.gruss+xdplug@gmail.com) — Randomly generated color objects! ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [material palette](https://t.me/savedata_space) — on screen material palette ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
@@ -393,7 +389,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Paste Direct](https://github.com/yudiz-solutions/paste-direct) — Design like a guitarist! ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Proportional Replicator](https://github.com/AleLudovici/sketch-proportional-replicator) — This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Better Paste](https://github.com/kenmoore/Sketch-Better-Paste) — Paste like it was meant to be--into the artboard you're viewing. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Component Cloner](https://www.figma.com/c/plugin/736564662640346811) — With component cloner, you can select component instances you want to copy and they'll be assigned to a new copy of their original master component. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Blend](https://www.figma.com/c/plugin/735442706723922553) — Blend plugin allows you to copy any object along the path. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Paste to Fill](https://www.figma.com/c/plugin/740097744539225981) — Copy an image and paste it as a fill on your selected layers. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -470,7 +465,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [foodreau](https://github.com/maxdavid/sketch-foodreau) — a data supplier plugin for populating designs with real food recipes. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder) — easily use your digital assets from Brandfolder right within your favorite platform for digital design! ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Excel Content Sync](https://github.com/wousser/SketchExcelContentSync) — decouple and Sync multi-language content between Excel and Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Unsplash](https://www.figma.com/c/plugin/738454987945972471) — insert beautiful images from Unsplash straight into your designs. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Content Reel](https://www.figma.com/c/plugin/731627216655469013) — need content for your layouts? Content Reel helps you easily pull text strings, avatars and icons into your designs. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Lorem ipsum](https://www.figma.com/c/plugin/736000994034548392) — generate ‘Lorem ipsum’ to fill your text layers with dummy text. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -535,9 +529,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [AEIconizer](https://github.com/tadija/AEIconizer) — iOS icon generator plugin for Bohemian Coding Sketch app. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Zeplin](https://zeplin.io) — Zeplin Sketch Plugin. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [MockingBot](https://modao.cc/sketch) — MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Figma Measure](https://www.figma.com/c/plugin/739918456607459153) — A plugin for easy measurement of sizes. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [inker8](https://github.com/inker8/xd-plugin) — Export design spec to measure positions, copy CSS and export icons. Make writing CSS and UI fun. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
@@ -553,7 +545,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Mise En Place](https://github.com/madwaro/MiseEnPlace) — Mise En Place is a Sketch plug-in that helps you prep before you start cooking your designs. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Unused Style Remover](https://github.com/sonburn/unused-style-remover) — Remove unused layer and text styles. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Remove all Disabled Styles](https://github.com/ErikFontanel/sketch-remove-all-disabled-styles) — A simple plugin that removes all disabled styles from all layers in the current selection. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Delete Hidden Layers](https://www.figma.com/c/plugin/750292779381900360) — Delete all hidden layers (also locked) at current page except layers in components. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 </article>
@@ -570,7 +561,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Sketch Focus](https://sketchfocus.com) — A new plugin for Sketch that boosts your productivity by keeping you on-task. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Changelog](https://github.com/jacopocolo/changelog.sketchplugin) — A simple Sketch plugin to generate artboard-based changelogs ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [PinLog](https://github.com/zhongerxin/PinLog) — A plugin that would help you note your changeLog and can help other people to find the change in sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Todo](https://www.figma.com/c/plugin/747822968977461925) — Simple todo list plugin to check off your tasks inside Figma! ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Notepad](https://www.figma.com/c/plugin/739527655081183968) — Use Notepad to add a place for notes to your Figma documents. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Figma Format](https://www.figma.com/c/plugin/732774680197470712) — Figma Format let's you format your canvas by grouping them by the  names. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -579,7 +569,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Link to Documentation](https://www.figma.com/c/plugin/748783469068559194) — Open documentation pages from your components. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [work in progress](https://www.figma.com/c/plugin/761641569499378065) — The plugin quickly marks layouts which are in work or don’t approved finaly. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Visibility](https://www.figma.com/c/plugin/739089407370404321) — Changes the visibility of objects with a name that includes "~visibility" ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Page No](contact@starlit-studio.com) — Automatically insert page numbers into your artboards based on their arrangement. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Notes and Annotations](https://tourdexd.com/plugin/notes-and-annotations/) — With Notes and Annotations you can easily add interactive notes based on provided templates or create your own look and feel. With two simple buttons you can easily hide or show all notes in the entire document. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Bookmarks](https://www.derekknox.com/articles/bookmarks-adobe-xd-plugin) — Bookmark document zoom and pan locations.- Jump around large documents with ease- Jump to areas of interest when presenting designs, user flows, etc.- Jump to a bird's-eye view of all artboards in one view- Bookmarks persist in the document so they're shared with team members automatically- Nickname bookmarks for easier understanding of their zoom and pan location ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)

@@ -24854,10 +24854,12 @@ document.querySelectorAll('.nav a').forEach((button) =>
 );
 
 // handle modal window for filtering by application
-document.querySelector('.js-open-modal-filter').addEventListener('click', (e) => {
-	e.target.classList.toggle('-active');
-	document.querySelector('.sort-tool-modal').classList.toggle('-hidden')
-});
+if (document.querySelector('.js-open-modal-filter')) {
+	document.querySelector('.js-open-modal-filter').addEventListener('click', (e) => {
+		e.target.classList.toggle('-active');
+		document.querySelector('.sort-tool-modal').classList.toggle('-hidden')
+	});
+}
 
 // filter by application logic
 function sortByApplication(event) {

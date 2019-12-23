@@ -61,8 +61,6 @@ const addLabel = (tool) => {
 	let result = [];
 	const push = (title, className) => result.push(createLabel(title, className));
 
-	tool.innerHTML.includes('iOS 11 UI kit for Adobe XD') && console.log(tool.innerHTML);
-
 	if (check('alt="sketch.svg"') || check('alt="Sketch"')) {
 		push('Sketch', 'sketch');
 	}

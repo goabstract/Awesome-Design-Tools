@@ -1,5 +1,5 @@
 const getCssFile = require('./helpers/getCssFile');
-const CONFIG = require('./CONFIG');
+const CONFIG = require('./config/tools');
 
 const normalizeCss = getCssFile('normalize');
 const mainCss = getCssFile('design-tools-style');

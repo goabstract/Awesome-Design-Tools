@@ -21,7 +21,7 @@ const addHeader = require('./docs/modules/addHeader');
 const addAllPromoBanners = require('./docs/modules/addAllPromoBanners');
 
 
-const designToolsConfig = require('./docs/modules/CONFIG.js');
+const designToolsConfig = require('./docs/modules/config/tools.js');
 const designPluginsConfig = require('./docs/modules/config/plugins.js');
 const uiKitsConfig = require('./docs/modules/config/ui-kits.js');
 

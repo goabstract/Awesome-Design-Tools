@@ -66,7 +66,7 @@ Now I'd love to see your suggestions!
 * [Pets](#pets)
 * [Photo](#photo)
 * [Social Apps](#social-apps)
-* [Style Guide](#style-guide)t
+* [Style Guide](#style-guide)
 * [Taxi & Cars](#taxi--cars)
 * [Todos](#todos)
 * [Travel](#travel)

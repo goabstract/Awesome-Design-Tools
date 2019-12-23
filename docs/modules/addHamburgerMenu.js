@@ -1,5 +1,5 @@
 const addHamburgerMenu = ({ document }) => {
-	const body = document.querySelector('body');
+	const parent = document.querySelector('.header-inner');
 	const hamburger = document.createElement('div');
 	hamburger.classList.add('hamburger-menu');
 	hamburger.innerHTML = `
@@ -7,7 +7,7 @@ const addHamburgerMenu = ({ document }) => {
 		<div class="bar2"></div>
 		<div class="bar3"></div>
 	`;
-	body.appendChild(hamburger);
+	parent.appendChild(hamburger);
 }
 
 module.exports = addHamburgerMenu;

@@ -20,7 +20,7 @@ const addHeader = (
                 loop.map((item) => `
                     <a
                         href=${item.href}
-                        class="header-top__nav-item ${item.className} ${item.isActive ? '-active' : ''}"
+                        class="header-top__nav-item ${item.className} ${item.isActive ? '-open -active' : ''}"
                     >
                         <span>${item.title}</span>
                     </a>

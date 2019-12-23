@@ -196,3 +196,23 @@ document.querySelectorAll('.nav ul li a').forEach((a) => {
 		ga('send', 'event', ` Awesome design ${chooseMd} - Category (Title)`, 'Click', title);
 	}, true);
 })
+
+if (window.innerWidth >= 960) {
+	const active = document.querySelector('.header-top__nav-item.-active');
+	document.querySelectorAll('.header-top__nav-item').forEach((a) => {
+		a.onmouseover = (e) => {
+			if (!e.target.classList.contains('-active')) {
+				active.classList.remove('-open');
+			} else {
+				e.target.classList.add('-open');
+			}
+		}
+
+		a.onmouseout = (e) => {
+			if (!active.classList.contains('-open')) {
+				active.classList.add('-open');
+			}
+		}
+
+	})
+}

@@ -78,6 +78,7 @@ const parseTweaks = (html, config) => {
 		addLinksToNavigationElements(window);
 		tweakDescriptionOfArticleTopic(window);
 		tweakToolContainer(window);
+		addHeader(window, title, logoClassName, nav, isTool, isPlugin, isKit);
 		addHamburgerMenu(window);
 		addWelcomeArticle(window, welcomeArticle);
 		addScripts(window);
@@ -86,7 +87,6 @@ const parseTweaks = (html, config) => {
 		removeAllImages(window);
 		addContributeButtonForAddendum(window);
 		removeListInAddendum(window);
-		addHeader(window, title, logoClassName, nav, isTool, isPlugin, isKit);
 		addAllPromoBanners(window);
 		return document.documentElement.outerHTML;
 }

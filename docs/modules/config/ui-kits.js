@@ -12,7 +12,7 @@ const {
     favicon57,
     favicon32,
     favicon16,
-} = require('../favicon-adp'); 
+} = require('../favicon/favicon-adk'); 
 
 const CONFIG = {
 	markdownFile: `./Awesome-Design-UI-Kits.md`,

@@ -12,7 +12,7 @@ const {
     favicon57,
     favicon32,
     favicon16,
-} = require('../image'); 
+} = require('../favicon/favicon-adt'); 
 
 const CONFIG = {
 	markdownFile: `./README.md`,
@@ -63,6 +63,12 @@ const CONFIG = {
                     href: '/designplugins',
                     isActive: false,
                     className: '-plugin',
+                },
+                {
+                    title: 'UI Kits',
+                    href: '/designkits',
+                    isActive: false,
+                    className: '-kit',
                 },
             ],
         },

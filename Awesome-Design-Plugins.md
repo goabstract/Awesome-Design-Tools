@@ -915,7 +915,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </div>
 
 * [Sketch DevTools](https://github.com/skpm/sketch-dev-tools) — See your plugin logs, inspect the state of Sketch documents, explore actions, and more ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Get It](https://www.figma.com/c/plugin/739958206151827292) — Get It helps in building Figma plugins by letting you prototype pieces of your plugin in Figma and copy their verbose syntax to your clipboard. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Inspector](https://www.figma.com/c/plugin/760351147138040099) — Speed up plugin development with an easy way to view and explore node properties. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Node Inspector](https://www.figma.com/c/plugin/758276196886757462) — View and copy node properties for plugin development. This plugin is only useful for plugin developers. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -952,9 +951,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Automate Sketch](https://github.com/Ashung/Automate-Sketch) — Make Sketch more efficient. A lot of useful plugins in one. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Kitchen](https://github.com/ant-design/kitchen) — Make your design work delicious 🍽 ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [SketchPlugins](https://github.com/eachandother/SketchPlugins) — Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Powerful Tools](https://www.figma.com/c/plugin/740040684939274087) — This plugin contains a couple of tools that enpower you to fill your design with random dates, IDs, numbers, Chinese names or English names. It also includes a color palette and a mirror that connects an image to a certain frame. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Resco for XD](https://www.resco.net/contact-support/) — Resco for XD plugin is for users that use customization tool Woodford by Resco. You can export images, create color themes and generate main app icon for stores. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
@@ -978,7 +975,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [represent.](https://getrepresent.com) — Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Preview](https://github.com/marcisme/sketch-preview) — This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Quick Presentation](https://github.com/timothywhalin/Sketch-Quick-Presentation) — A Sketch plugin to quickly share multiple artboards with an optional title. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Masker](https://www.figma.com/c/plugin/743170618365358883) — Masker allows you to easily overlay devices on selected layers in your project. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Autocover](https://www.figma.com/c/plugin/742583620684903056) — Figma currently creates a screenshot from the first page of your design document. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [File Thumbnails](https://www.figma.com/c/plugin/743199058431264556) — Create beautiful thumbnails for your projects to make your Figma file grid more convenient, fast and easier on the eyes. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1000,7 +996,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Sketch Browser Preview](https://github.com/FreakLand/sketch-browser-preview) — Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [AnimateMate](https://github.com/Creatide/AnimateMate) — Create your animations directly in Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Prototypes Invision ↔︎ Sketch](https://github.com/mathieudutour/prototypes-invision-sketch) — Translate your prototyping links back and forth between Sketch and Invision ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Marvel Prototyping](https://www.figma.com/c/plugin/733702238760085035) — Seamlessly sync frames from Figma to new or existing Marvel projects, allowing you to quickly create prototypes or get audio and video feedback using our new User Testing feature. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Figmotion](https://www.figma.com/c/plugin/733025261168520714) — Figmotion is an animation tool built right in Figma. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
@@ -1012,11 +1007,9 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Sketch Isometric](https://github.com/sureskumar/sketch-isometric) — Generate Isometric views from Artboards and Rectangles. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Angle](https://designcode.io/angle) — Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Magic Mirror](http://magicmirror.design) — Perspective Transformation for Sketch Artboards ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Roto](https://www.figma.com/c/plugin/733184376355671573) — Roto extrudes and rotates shapes in 3D. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [SkewDat](https://www.figma.com/c/plugin/741472919529947576) — Live skew any shape and fine-tune with simple non-destructive controls. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Easometric](https://www.figma.com/c/plugin/750743440401413268) — With Easometric it is really easy to create isometric layers & groups. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Rotato](https://rotato.xyz/help) — Get your designs on the screens of photorealistic 3D iPhones and other devices. MacOS app on rotato.xyz. Not available for Windows yet. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
@@ -1041,7 +1034,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Page Numbers](https://github.com/gotomedia/Sketch-PageNumbers) — Sketch plugin for adding page numbers to artboards. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Number Artboards](https://github.com/radermacher/sketch-number-artboards-by-position) — Sketch plugin to number artboards in order of position. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Paginate](https://github.com/jorgemartins/sketch-paginate) — Add page numbers to artboards. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Enumerator](https://www.figma.com/c/plugin/732772204922128885) — Rename and number your frames based on their x,y position ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Layer Names Transfom](https://www.figma.com/c/plugin/734746297902924375) — This plugin will help you to quickly transform the names of your layers. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [namespaces](https://www.figma.com/c/plugin/739106292828562948) — Plugin for automating formatting of page names, frames, components, layers, etc. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1074,7 +1066,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [FlipSize](https://github.com/apertureless/sketch-flip-size) — Flip the size of any artboard or shape ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [fit-to-parent](https://github.com/dannymcclain/fit-to-parent) — Sketch plugin that lets you fit a layer to its parent's width, height, or both. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [PinIt](https://github.com/acollurafici/PinIt) — A collection of Resizing Shortcuts. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Button Resizer](https://www.figma.com/c/plugin/740127005583346577) — Resize your button to fit its label width. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Icon Resizer](https://www.figma.com/c/plugin/739117729229117975) — Resize icons into a standard size and bounding box on your design. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Aspects](https://www.figma.com/c/plugin/739222456238688882) — AboutAspects is a little plugin that helps resize selected elements to fit a certain aspect ratio. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1084,7 +1075,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Resize to Frame](https://www.figma.com/c/plugin/753968999663099454) — Select items to resize them to their parent's size (Horizontally, Vertically or Both). ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Proportional Scale](https://www.figma.com/c/plugin/756895186298946525) — Easily resize your shapes with all other attributes resizing proportionally. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Reset Size](https://www.figma.com/c/plugin/748762621505012566) — Plugin for quick access to the resetting size of the instances. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Fit to Artboard](https://github.com/valentindb/fit-to-artboard/blob/master/README.md) — Resize shapes to fit the artboard in no time, using 2 simple custom keyboard shortcuts ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Print Artboard](https://bitbucket.org/adiladdiya/print-artboard) — Create or resize artboard using common or documents sizes (A3, A4, A5, legal, letter, custom ...), unite (mm, in...) and resolution you need. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Nudge and Resize](https://github.com/craigmdennis/adobe-xd-nudge-and-resize/) — Add menu items for nudging and resizing objects (8px by default) so they can be controlled by keyboard shortcuts. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
@@ -1113,7 +1103,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Transpose](https://github.com/wescraig/Transpose) — Transpose your selection and set pixel margins between elements. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Artboard History](https://github.com/jan-patrick/sketch_artboard-history) — A Sketch plugin to switch faster between your latest artboards. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Reverse](https://github.com/lucaorio/sketch-reverse) — Reverse the position or depth of selected elements. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Similayer](https://www.figma.com/c/plugin/735733267883397781) — This plugin takes Figma’s in-built ‘Select all with...’ command to the next level. Select similar layers; based on a whole range of properties. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Find & Focus](https://www.figma.com/c/plugin/739978920241977182) — A simple plugin to search for layers in your document. The plugin will select the layers containing your text and zoom to fit them. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Select Inverse for Real](https://www.figma.com/c/plugin/739031302880873832) — Inverts your selection within the context of the parent group/frame. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1121,7 +1110,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Select Parent](https://www.figma.com/c/plugin/742536097587262088) — Select Parent, lets you quickly select the parent object of whatever you have selected. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Replace Nodes](https://www.figma.com/c/plugin/748537235829892910) — Replace Nodes plugin replaces selected nodes with the copied node. Basically this plugin does paste over selection while removing the original selection. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Send to Top](https://www.figma.com/c/plugin/740593880490123393) — Take any selection and send it to the top of the layer stack. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [SelectMenu](https://sttk3.com/contact) — Select Same: Selecting and executing one item will select items with the same name, class, component instance, position, etc. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Selection](info@paolobiagini.com) — Selection is a command-like plugin for selecting objects with the same properties. It supports local selections inside single Artboards, Repeat Grids and groups, as well as global selections across multiple Artboards. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Go to Next Artboard](https://github.com/iamsolarplexus/adobexd-goToNextArtboard) — This plugin allows easy keyboard navigation from currently selected* artboard to the previous (Ctrl+Alt+Z) or next (Ctrl+Alt+C) artboard. Each movement finishes by zooming the artboard to fit.*Note: to allow for a series of movements, "current selection" is only used for the first movement, and isn't used again until a new selection is detected. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
@@ -1228,7 +1216,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [SymbolNameSync](https://github.com/griffin-stewie/SymbolNameSync) — This plugin gives you syncing names between Symbol masters and its instances. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Symbol Legend](https://github.com/amimagid/sketch-symbol-legend) — This plugin provides indexing of Symbols in your artboard with a detailed legend. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [symbol-overlay-toggle](https://github.com/uxcourt/overlaytoggler) — A Sketch plug-in to seek specific style names in library-sourced symbols and toggle the styles. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Instance Finder](https://www.figma.com/c/plugin/741895659787979282) — Find all Instances of a Component used in your file. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Locator](https://www.figma.com/c/plugin/741935812012883481) — Locator helps you find all instances of a component and enables you to jump to each individual instance. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Component Page](https://www.figma.com/c/plugin/749583881837062159) — This plugin enables you to create a component (like you would in Sketch) where the master moves to a dedicated page leaving an instance in place. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1238,7 +1225,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Send to Components Page](https://www.figma.com/c/plugin/749061307736645564) — If you prefer to keep your components on a separate page and are tired of carrying them manually, this plugin is for you. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Component Master Manager](https://www.figma.com/c/plugin/754404293457940119) — Component Master Manager is a simple plugin to collect, sort and group master components from selected pages to one page for organise your design system. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Create Component Inside](https://www.figma.com/c/plugin/754240053660034676) — Create components anywhere you want! You can use this plugin instead of the standard Create Component command. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Replacer](https://nurecas.com/replacer-a-plugin-for-adobe-xd) — Did you create multiple copies of an object without making them a symbol? And now, do you want to change it all, but have to go one by one? Fret no more, replacer will help replace individual vector objects and texts with one click. First select the object to be replaced and then select the object it has to be replaced with. Then run the plugin and all instances of the first object will be replaced by the second. Enjoy! ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
@@ -1290,7 +1276,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Sketch Count Text](https://github.com/joshkissel/sketch-count-text) — A Sketch plugin to count: characters, words, whitespace, and paragraphs ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [LaTeX Sketch Plugin](https://github.com/heytitle/latex-sketch-plugin) — This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [polyglot](https://github.com/fruitfrills/polyglot) — Text translations ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Find and Replace](https://www.figma.com/c/plugin/735072959812183643) — Search for texts on your page and replace them just like a text editor. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Change Text](https://www.figma.com/c/plugin/735148445325474400) — With Change Text, you can bulk edit the text contents of multiple layers, groups and frames. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Nisa Text Splitter](https://www.figma.com/c/plugin/739048247603902878) — Easy way to split your text/list into small text pieces. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1313,7 +1298,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Bullets](https://www.figma.com/c/plugin/734628505008435795) — Add custom bullets to your layers and create reusable list styles via the power of components. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Golden Line](https://www.figma.com/c/plugin/739046186899657111) — Change line height based on the Golden Ratio. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Content Buddy](https://www.figma.com/c/plugin/731260490045684148) — A Figma Plugin that makes replacing text content in multiple layers super easy for anyone. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [SplitText](https://github.com/yoshikinoko/SplitText) — Split Text by newlines, tabs, and commas.(To split text by tabs, copy and paste text from another editor.) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Clip Text](https://github.com/Raphael-D/xd-plugin/tree/master/clip-text) — Copy on clipboard planetext of selected texts. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Texts Selector](http://omoon.org) — By this plugin, you can select all text elements from selected items. You can easily change the font face, size, and color of multiple text elements at once. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
@@ -1332,10 +1316,8 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin) — translate content on pages and artboards into multiple languages before programming starts. Quickly generate language-specific assets. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Qordoba for Sketch](https://www.qordoba.com) — Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Sketch Translation](https://github.com/hoai265/Language-Sketch-Plugin) — A Sketch plugin for easy multi-language design ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Translate](https://www.figma.com/c/plugin/733062974250826253) — Translate helps you test your UI against different languages to see what may break by using the Yandex Translate API to translate your text layers into other languages. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Translator](https://www.figma.com/c/plugin/743218037112142643) — Translator instantly translates the text in your Figma designs into other langauges. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [World Ready](worldr@adobe.com) — World Ready plugin can be used to 1. Check layout of your artboards for localization readiness & 2. Generate localized artboards. After launching the plugin from the Plugins menu in XD, pick a translation service, choose the “Highlight” or “Translate” mode and select the languages to test. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Pseudo Localization](hello@raiken.io) — The pseudo-localization plugin generates a pseudo language localization based on your copy.  ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
@@ -1361,7 +1343,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Golden Ratio Line Height](https://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin) — Optimize your typography based on font size, line-height and width. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Font Size Checker](https://github.com/feb19/sketch-font-size-checker) — Text Size Validator for iOS or Android UI Designers. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Typesettings](https://github.com/buames/typesettings-sketch-plugin) — A quest for consistency ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Font Scale](https://www.figma.com/c/plugin/741231992144144738) — Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Better Font Picker](https://www.figma.com/c/plugin/739922281164562258) — Better Font Picker helps you select fonts with a preview of how it looks. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Font Replacer](https://www.figma.com/c/plugin/738840446766071906) — Font Replacer lets you easily replace font families and font styles. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1370,7 +1351,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Fix San Francisco](https://www.figma.com/c/plugin/742063658553085504) — automatically apply the correct font variant and tracking for selected texts using the San Francisco typeface. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Typograf](https://www.figma.com/c/plugin/745519632050796775) — Figma plugin for making good typographic text. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Missing Font Selector](https://www.figma.com/c/plugin/745394880974490845) — This tiny faceless plugin will find and select for you all layers with missing fonts on current page. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Global Font Replace](https://github.com/adamcoulombe/Global-Font-Replace-for-Adobe-XD) — Useful for replacing a font across an entire document. Select an item that has the font you want to copy, then, select an item that uses the font you want to replace. Then, voilà! ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [FindFont](https://nurecas.com/findfonts-a-plugin-for-adobe-xd) — Find all instances of a font style and replace it with another. First select a text field with the font to be replaced. Then select a text field with the font which will replace the former. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Typist](https://github.com/gioalo) — Typist is a typography tool that lets you create beautiful modular typography scales base on musical notes or any magical number (Golden Ratio). ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
@@ -1392,7 +1372,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Better Shadow](https://github.com/JJYing/Sketch-Better-Shadow) — Quickly generate multi-layered shadow to mimic non-linear decay. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Indigo.Design](https://cloud.indigo.design/resources) — Create, edit, and apply themes to your Indigo.Design UI Kit based designs and publish them as prototypes to the Indigo.Design cloud. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Iconify](https://github.com/iconify/iconify-sketch) — Iconify integration. Import MDI, FontAwesome, Jam, EmojiOne and many other icons to Sketch document. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Material Design Icons](https://www.figma.com/c/plugin/740272380439725040) — This plugins provides you instant easy access to the entire Material Design Icons library. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Feather Icons](https://www.figma.com/c/plugin/744047966581015514) — Quick access to Feather icons in Figma. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Iconscout](https://www.figma.com/c/plugin/744098704933821409) — Iconscout allows you to insert millions of high quality icons, illustrations and stock photos right into Figma. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1400,13 +1379,11 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Social Media Image](https://www.figma.com/c/plugin/750116735703341112) — Cheat sheet on Social Media image sizes. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Hero Patterns for Figma](https://www.figma.com/c/plugin/743134103711120154) — This plugin brings the amazing collection of patterns called Hero patterns by Steve Schoger. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Interplay](https://www.figma.com/c/plugin/736368164448889527) — Interplay connects with your design system code repository to let you access and use your design system code components right within Figma. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Ready Mobile Components for Adobe XD](http://fluidtech.in/ready) — The plugin helps you to generate the basic general purpose components which are commonly used. You can further carve these components to your choice by just changing the styles. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Bullet](hasankaz@hotmail.com) — Bullets plugin as name suggests helps you to add round, square bullets as well as ordered list to your text layers. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Personas](https://tourdexd.com/plugin/personas/) — Create beautiful and customizable personas with different layouts and image styles. Crafting personas has never been easier and more fun. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [unDraw](https://xd.undraw.co) — Beautiful illustrations for your client and personal design projects, without attribution. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
-* [Stipo Components Library for XD](https://www.udesly.com/help-center/) — Stipo lets you store all components of your XD design in one library to access anytime, anywhere. You can save your components by tags, title, descriptions and make them easy to explore through the Stipo Library ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
-* [NIBM Icon Hamburger](https://github.com/pradeep-sanjaya/adobe-xd-plugin-c91a5b5d/issues/new) — Add hamburger icon to your art board ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [Stipo Components Library for XD](https://www.udesly.com/help-center/) — Stipo lets you store all components of your XD design in one library to access anytime, anywhere. You can save your components by tags, title, descriptions and make them easy to explore through the Stipo Library ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)* [NIBM Icon Hamburger](https://github.com/pradeep-sanjaya/adobe-xd-plugin-c91a5b5d/issues/new) — Add hamburger icon to your art board ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
 
@@ -1429,7 +1406,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Primary Sync](https://github.com/Primary-app/primary-sync) — Sync your Sketch designs with Primary's user flows and design documents. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Userflows](https://github.com/faridsabitov/Sketch-user-flows) — Plugin for generating easy to use user flows in Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows) — Plugin for generating easy to use connection flow arrows in Sketch ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Autoflow](https://www.figma.com/c/plugin/733902567457592893) — Autoflow makes it easy to draw flows. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Wireframe](https://www.figma.com/c/plugin/742764242781786818) — Wireframe plugin is the best for creating beautiful user flow prototypes and basic structures in Figma so no other kits, files or skills required! ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
@@ -1482,7 +1458,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Protoship Codegen Sketch Client](https://github.com/protoship/codegen-sketch-client) — Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [davinci_vip](https://github.com/dvcdv/dvc_sketch_plugin) — Export the metadata of the sketch file and then use it for web layout (absolute) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Get Margins](https://github.com/peterwooley/get-margins) — Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [HtmlGenerator](https://www.figma.com/c/plugin/753195897635985866) — HtmlGenerator renders any selection into its HTML equivalent with its associated CSS, all indented and separated for you to copy and paste. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 
 </article>
@@ -1528,7 +1503,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Sketch Show Bounding Boxes](https://github.com/pravdomil/Sketch-Show-Bounding-Boxes) — Sketch plugin that shows bounding boxes of all layers ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Fix Sketch Trackpad Speed](https://github.com/pravdomil/FixSketchTrackpadSpeed) — Speed up your scrolling across all artboards ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [SketchTurbo](https://github.com/usagimaru/SketchTurbo) — A plugin for Sketch that adjusts scroll speed on a canvas. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
-
 * [Figma Walker](https://www.figma.com/c/plugin/732773762837487095) — Figma Walker is a new launcher for Figma. You can take any actions you want from a single input field. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Pixel Perfect](https://www.figma.com/c/plugin/741300632449121669) — Forgot to turn back on Snap to Pixel Grid? Not a problem. Select any layers you want to snap back to the pixel grid, and presto, their position and size are rounded back to nice round numbers. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Roller · Design Linter · Toybox](https://www.figma.com/c/plugin/751892393146479981) — Roller is the first ever Design Linter - giving you the power to automatically find and fix style inconsistencies in your files. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
@@ -1540,7 +1514,6 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Split Shape](https://www.figma.com/c/plugin/746565487016656360) — Split your shapes, text layers, groups and frames into multiple instances. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Spellchecker](https://www.figma.com/c/plugin/738839069237725273) — Speller helps to find and correct spelling errors in Russian, Ukrainian or English text. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Spelll - Spell Check for Figma](https://www.figma.com/c/plugin/754026612866636376) — This plugin gives Figma a spell-checking super powers similar to that of Google Docs. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
-
 * [Experience Generator](https://www.unykvis.com/en/contactos) — Generate entire groups of artboards for each experience and device selected with every artboard needed for that specific experience, and defined sizes for the device resolution.  By combining several experience and device selections, it's able to create complex workflows in a matter of seconds. Support: suporte@unykvis.com ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Artboard Quick Navigate](https://github.com/peterflynn/xd-artboard-quicknav) — Quickly jump view between artboards, searching by name.This plugin is open source and under 200 lines of code! ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 

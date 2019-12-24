@@ -1284,6 +1284,13 @@ article ul {
 	color: #028930;
 }
 
+.header.-mint .sort-tool-modal__btn-choose.-active {
+	background-image: none; 
+	background-color: #f4d3f5;
+	border-color: var(--violet);
+	color: var(--violet);
+}
+
 @media(max-width: 767px) {
 	
 	.banner-top {

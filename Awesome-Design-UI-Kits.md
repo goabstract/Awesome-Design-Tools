@@ -173,7 +173,7 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 * [Ares UI Kit](https://dribbble.com/shots/5826072-Ares-Ui-Kit-Free-Resource) — well-done UI Kit available through Sketch. Feel free to use it and improve it as much as you want. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-* [Tetrisly](https://tetrisly.com/) — probably the most organized and smartest Sketch component library for professionals. Start wireframing faster or use this Starter Kit to create Design System ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+* [Tetrisly](https://tetrisly.com/) — probably the most organized and smartest Sketch component library for professionals. Start wireframing faster or use this Starter Kit to create Design System. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
 
 </article>
 <article id="courses">

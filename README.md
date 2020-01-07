@@ -595,11 +595,11 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome)
 * [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello)
 * [Freepik](https://www.freepik.com) — collection of exclusive freebies and all graphic resources that you need for your projects.
-* [Iconset](https://iconset.io/) — Free, cross-platform and fast SVG icon organizer working on Mac and Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Iconscout](https://iconscout.com/) — get high-quality Icons, Illustrations and Stock photos at one place.
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Iconmonstr](https://iconmonstr.com/) — discover 4412+ free icons in 305 collections.Big and continuously growing source of simple icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Iconset](https://iconset.io/) — free, cross-platform and fast SVG icon organizer working on Mac and Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Icon Store](https://iconstore.co/) — a library of free vector icons for personal and commercial projects, designed by first-class designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ICONSVG](https://iconsvg.xyz/) — a tool to simplify the process of finding and generating common icons for your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Icons8](https://icons8.com/icons) — free iOS, Android and Windows styled icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

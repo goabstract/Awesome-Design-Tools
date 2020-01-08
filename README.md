@@ -599,6 +599,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 * [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 * [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Iconmonstr](https://iconmonstr.com/) — discover 4412+ free icons in 305 collections.Big and continuously growing source of simple icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Iconset](https://iconset.io/) — free, cross-platform and fast SVG icon organizer working on Mac and Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Icon Store](https://iconstore.co/) — a library of free vector icons for personal and commercial projects, designed by first-class designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ICONSVG](https://iconsvg.xyz/) — a tool to simplify the process of finding and generating common icons for your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Icons8](https://icons8.com/icons) — free iOS, Android and Windows styled icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

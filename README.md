@@ -13,6 +13,7 @@
 
 <p align="center">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+    <a href="https://gitpod.io/#https://github.com/LisaDziuba/Awesome-Design-Tools"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/></a>
 </p>
 
 ## How to Use and Contribute
@@ -22,6 +23,12 @@
 * Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
 If you found some great design tool or plugin, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) (they're very simple, please take a look). Design tools should be submitted here and plugins in [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md) file. We use such labels for free ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg), open source ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) and Mac only ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) tools, don't forget to add them. Now I'd love to see your suggestions!
+
+### Contribute online with a single click
+
+You can use gitpod(a free online vs code like ide) for contributing online. With a single click it will launch a ready to code workspace with all the dependencies pre-installed so that you can start contributing straight away.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 </div>
 

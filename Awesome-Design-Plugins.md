@@ -698,6 +698,7 @@ If you found some great design tool or plugin, just send a Pull Request concerni
 * [Sisense Blox Template](https://support.sisense.com) — Create Sisense BloX JSON template by selecting your designed items then Ctrl-option-C on Mac and Ctrl-alt-C on a PC, then paste it on Sisense+BloX and you are done!. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Artboard Deep Link](alexdobras@gmail.com) — Fast obtain the exact web link (URL) of the selected artboard for you to paste it in a browser to see your project directly opening at that. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Artboard for PDF](shingo2000@gmail.com) — Create artboards for exporting as PDF files. You Can Select Size (A3 - B5) and Orientation (Landscape or Portrait). ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [XD2Sketch](https://xd2sketch.com) — Export XD files directly to Sketch using our converter. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
 

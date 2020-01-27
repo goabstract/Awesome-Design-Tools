@@ -139,7 +139,7 @@ If you found some great design conference, just send a Pull Request with respect
 ### June
 | Name | About | Dates | Location |
 |---|---|---|---|
-| [CreativePro Week](https://creativeproweek.com/) | event for graphic designers and Adobe Creative Cloud users. Whether you work in print or digital publishing, you’ll learn techniques and best practices you can take home and start using immediately to improve your productivity. | June 1-5 | Austin, USA |
+| [CreativePro Week](https://creativeproweek.com/) | the HOW-TO conference for creative professionals who design, create, or edit in Adobe InDesign, Photoshop, Illustrator, Microsoft PowerPoint, and other creative tools. | June 1-5 | Austin, USA |
 | [Fluxible](https://www.fluxible.ca/) | a gathering of people who share an interest in user experience design and the fields with which it intersects. Fluxible is an inclusive, cooperative environment where everyone is welcomed, open dialogue is encouraged, and all perspectives are appreciated. | June 1-7 | Waterloo, Canada |
 | [UXR Collective](https://uxrconference.com/) | brings together people from across the globe who are committed to championing their users, surfacing better insights, and bettering the tech ecosystem. | June 3-5 | Toronto, Canada |
 | [99U Conference](https://conference.99u.com/) | Adobe’s career resource and annual conference, helping creatives of all stripes supercharge their work and make their ideas happen. | June 3-5 | New York, USA |

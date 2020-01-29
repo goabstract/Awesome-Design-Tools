@@ -42,6 +42,7 @@ If you found some great design conference, just send a Pull Request with respect
 * [August](#august)
 * [September](#september)
 * [October](#october)
+* [December](#december)
 
 </div>
 
@@ -107,6 +108,7 @@ If you found some great design conference, just send a Pull Request with respect
 | [Creative South](https://www.creativesouth.com/) | a weekend of creative thinking, collaboration, and exploration. Enjoy workshops, talks focused on process & experience, and networking in the design community. | April 2-4 | Columbus, USA |
 | [The Y Conference](https://sandiego.aiga.org/programs/y-conference/) | a national-caliber design conference. It brings together industry thinkers, innovators, and change-makers for two days of creativity and collaboration. | April 3-4 | San Diego, USA |
 | [Offset](https://www.iloveoffset.com/) | a three-day creative conference. Celebrating creativity and bringing together the best in International and Irish creative talent in graphic design, illustration, street and fine art, film, photography, moving image and much, much more. | April 3-5 | Dublin, Ireland |
+| [An Event Apart Washington, D.C.](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | April 13-15 | Washington, D.C., USA |
 | [Crop Baton Rouge](https://www.cropcons.com/) | a two-day celebration of creativity, community, inspiration, learning & more. Find out inspiring talks and knowledge dropping workshops together with vendors, live events, live music, after-parties. | April 16-18 | Baton Rouge, USA |
 | [Design Week Portland](https://designportland.org/festival/2020) | celebrates design as their city’s most promising cultural and economic resource. Their purpose is to explore process, craft, and practice across disciplines through a city’s vibrant design programming. | April 18-24 | Portland, USA |
 | [FITC Toronto 2020](https://fitc.ca/event/to20/) | an event showcasing the best the world has to offer in design, digital development, media and innovation in creative technologies – it’s three days and nights of presentations, parties, installations and performances that unite and transform the industry. | April 19-21 | Toronto, Canada |
@@ -126,6 +128,7 @@ If you found some great design conference, just send a Pull Request with respect
 | [Pixel Up!](https://pixelup.co.za/) | South Africa's premier UX and design conference that brings together UX and UI designers, UX writers, researchers, and product managers. | May 4-6 | Cape Town, South Africa |
 | [HOW Design Live](https://www.howdesignlive.com/) | a four-day conference and 3-day expo for design, marketing and creative professionals, with a focus on in-house practitioners in major corporate brands and design firms. | May 4-7 | Boston, Massachusetts |
 | [and& Leuven](https://www.andleuven.com/en) | an innovation festival that brings together changemakers of today to inspire curious minds of all backgrounds. It provides a platform for interdisciplinary innovation that aims to transform our society & acts upon the challenges we face today. | May 6-9 | Leuven, Belgium |
+| [An Event Apart Seattle](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | May 11-13 | Seattle, USA |
 | [Camp Digital](https://www.wearesigma.com/campdigital/2020/) | an inspirational conference that brings together the digital, design and UX communities for a series of seminars exploring the latest thinking in our industry. | May 13 | Manchester, UK |
 | [D&AD FESTIVAL 2020](https://www.dandad.org/en/d-ad-creative-advertising-design-festival/) | a three-day immersion in the world’s best craft, creativity and culture for the global creative industries. | May 19-21 | London, UK |
 | [UXLx](https://www.ux-lx.com/) | four days of inspiring talks and hands-on workshops featuring top industry speakers. | May 19-22 | Lisbon, Portugal |
@@ -148,6 +151,7 @@ If you found some great design conference, just send a Pull Request with respect
 | [SmashingConf](https://smashingconf.com/austin-2020) | an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy, internationalization, designing for mobile, HTML email and real-life case studies. | June 9-10 | Austin, USA |
 | [Dsgnday](https://dsgnday.nl/) | a full-day conference with eight presentations about web design and user experience. Expect plenty of practical advice on designing for the web—on any device. | June 11 | Amsterdam, Netherlands |
 | [ICON11: The Illustration Conference](https://theillustrationconference.org/) | gathering of illustrators, designers, educators, representatives, and art buyers exploring illustration today. | June 28-July 1 | Kansas City, USA |
+| [An Event Apart Boston](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | June 29-July 1 | Boston, USA |
 
 </article>
 
@@ -166,6 +170,7 @@ If you found some great design conference, just send a Pull Request with respect
 ### August 
 | Name | About | Dates | Location |
 |---|---|---|---|
+| [An Event Apart Minneapolis](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | August 17-19 | Minneapolis, USA |
 | [Loupe2020](https://www.framer.com/loupe/#signup) | a conference from Framer on interactive design and creative coding. Talks from designers, prototypers, and developers on the way they work and their creative process. There are also Framer X workshops so that attendees can get some practical stuff at the end of the conference. | August 19-21 | Amsterdam, Netherlands |
 
 </article>
@@ -183,16 +188,27 @@ If you found some great design conference, just send a Pull Request with respect
 </article>
 
 <article id="october">
-  
+        
 ### October 
 | Name | About | Dates | Location |
 |---|---|---|---|
+| [An Event Apart Orlando](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | October 5-7 | Orlando, USA |
 | [Adobe MAX](https://max.adobe.com/) | Adobe's annual events where you can learn the latest Adobe announcements, attend 300+ sessions, labs, creativity workshops and network with each other. | October 19-21 | Los Angeles, USA |
 | [SmashingConf](https://smashingconf.com/ny-2020/) | an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy and real-life case studies. | October 20-21 | New York, USA |
 | [Seattle Interactive Conference](https://seattleinteractive.com/) | is a celebration of the incredible work happening at the intersection of technology, creativity and industry. They spotlight innovation in experience, design, and strategy. They believe in the power of creative thinking, and that data and technology can be leveraged to help us make better, intentional choices. | October 20-22 | Seattle, USA
 | [Brand New Conference](https://underconsideration.com/brandnewconference/) | a two-day event on corporate and brand identity with some of today’s most active and influential practitioners from around the world. | October 22-23 | Austin, USA
 | [Design Thinkers](https://designthinkers.com/) | Canada's largest annual graphic design conference, connecting designers from around the world. | October 24-25 | Toronto, Canada |
 | [Creative Works](https://conference.creativeworks.co/) | a conference is for creative professionals who are serious about their craft and want to sharpen their skills and learn how others work. Dozens of talks, workshops, vendors, and afterparties that encourage inspiration, connection, and growth among creative professionals. | October 2020 | Memphis, USA |
+
+</article>
+
+<article id="december">
+        
+### December 
+| Name | About | Dates | Location |
+|---|---|---|---|
+| [An Event Apart San Francisco](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | December 14-16 | San Francisco, USA |
+
 
 
 </article>

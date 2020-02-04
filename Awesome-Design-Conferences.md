@@ -170,6 +170,7 @@ If you found some great design conference, just send a Pull Request with respect
 ### August 
 | Name | About | Dates | Location |
 |---|---|---|---|
+| [RAD Summit 2020](https://radsummit.co/) | the camp-style conference for people who build awesome products. rad summit is a colorado experience built specifically for designers, product managers, artists, leaders, devs, entrepreneurs, and people who love the fresh smell of pine. | August 13-16 | Denver, CO |
 | [An Event Apart Minneapolis](https://aneventapart.com/) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | August 17-19 | Minneapolis, USA |
 | [Loupe2020](https://www.framer.com/loupe/#signup) | a conference from Framer on interactive design and creative coding. Talks from designers, prototypers, and developers on the way they work and their creative process. There are also Framer X workshops so that attendees can get some practical stuff at the end of the conference. | August 19-21 | Amsterdam, Netherlands |
 

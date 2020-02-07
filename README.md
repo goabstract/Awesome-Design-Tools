@@ -457,11 +457,11 @@ Developers actively use version control tools for a long time, probably since 20
 
 </article>
 
-<article id="development-browsers">
+<article id="development-tools">
 
 ### Development Tools
 
-This section mentions developmenttools and browsers. Development browsers have features that help developers and designers create and test websites and apps.
+This section mentions development tools and browsers. Development browsers have features that help developers and designers create and test websites and apps.
 
 - [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster.
 - [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

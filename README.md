@@ -41,7 +41,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Design System Tools](#design-system-tools)
 * [Design to Code Tools](#design-to-code-tools)
 * [Design Version Control](#design-version-control)
-* [Development tools](#development-tools)
+* [Development Tools](#development-tools)
 * [Experience Monitoring](#experience-monitoring)
 * [Font Tools](#font-tools)
 * [Gradient Tools](#gradient-tools)
@@ -467,8 +467,6 @@ This section mentions developmenttools and browsers. Development browsers have f
 * [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Litmus](https://litmus.com/) — an email campaign creation platform that, amongst other things, lets you see how HTML emails will appear in a wide variety of email clients.
 * [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps. 
-
-Among other development tools:
 * [Storybook](https://storybook.js.org/) - an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Styleguidist](https://github.com/styleguidist/react-styleguidist) - isolated React component development environment with a living style guide. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 

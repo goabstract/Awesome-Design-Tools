@@ -1,39 +1,63 @@
 const addHeader = (
-    { document },
-    title = 'Awesome Design Tools',
-    logo,
-    nav,
-    isTool = false,
-    isPlugin = false,
-    isKit = false,
+  { document },
+  title = 'Awesome Design Tools',
+  logo,
+  nav,
+  isTool = false,
+  isPlugin = false,
+  isKit = false
 ) => {
-    const header = document.querySelector('.header-top');
-    const { loop } = nav;
+  const header = document.querySelector('.header-top');
+  header.classList.add('header-top--hide-banner');
+  const { loop } = nav;
 
-    header.innerHTML = `
+  const defineProductName = () =>
+    (isTool && `Awesome Design Tools`) ||
+    (isPlugin && `Awesome Design Plugins`) ||
+    (isKit && `Awesome Design Kits`);
+
+  header.innerHTML = `
+        <div class="banner-top banner-abstract">
+            <header>
+                <div class="abstract-logo"></div>
+                <a href="http://flawlessapp.io/designtools/joinsabstract" class="banner__text">
+                    ${defineProductName()} as a part of Flawless App family joins Abstract!
+                </a>
+            </header>
+            <footer class="banner__close-wrapper">
+                <button class="banner__close">Close Banner</button>
+            </footer>
+        </div>
         <div class="header-inner">
             <div class="logo">
                 <div class="logo__asset ${logo}"></div>
                 <div class="logo__title">${title}</div>
             </div>
-            <nav class="header-top__nav">${
-                loop.map((item) => `
+            <nav class="header-top__nav">${loop
+              .map(
+                item => `
                     <a
                         href=${item.href}
-                        class="header-top__nav-item ${item.className} ${item.isActive ? '-open -active' : ''}"
+                        class="header-top__nav-item ${item.className} ${
+                  item.isActive ? '-open -active' : ''
+                }"
                     >
                         <span>${item.title}</span>
                     </a>
-                `).join(' ')
-            }
+                `
+              )
+              .join(' ')}
             </nav>
             ${
-                isTool ? `
+              isTool
+                ? `
                     <input type="text" placeholder="Search for tool…" class="header-top__input-search js-search-input">
-                ` : ``
+                `
+                : ``
             }
             ${
-                isPlugin ? `
+              isPlugin
+                ? `
                     <div class="header-top__view-setup">
                         <input type="text" placeholder="Search for plugin…" class="header-top__input-search js-search-input">
                         <button type="button" class="header-top__sort-tool-btn js-open-modal-filter -mint">Filter</button>
@@ -46,10 +70,12 @@ const addHeader = (
                             </form>
                         </div>
                     </div>  
-                ` : ``
+                `
+                : ``
             }
             ${
-                isKit ? `
+              isKit
+                ? `
                     <div class="header-top__view-setup">
 			            <input type="text" placeholder="Search for plugin…" class="header-top__input-search js-search-input">
                         <button type="button" class="header-top__sort-tool-btn js-open-modal-filter -violet">Filter</button>
@@ -66,10 +92,11 @@ const addHeader = (
                                 </form>
                         </div>
 			        </div>    
-                ` : ``
+                `
+                : ``
             }
         </div>
 	`;
-}
+};
 
 module.exports = addHeader;

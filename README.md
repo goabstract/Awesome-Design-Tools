@@ -16,6 +16,23 @@
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
+## Awesome Design Tools as a part of Flawless App family joins Abstract!
+
+Today, we’re excited to announce that Flawless App has joined [Abstract](https://www.abstract.com), a design delivery platform that brings visibility, accountability, measurability, and predictability to design.
+
+Flawless App was our first company, and we’re proud of everything that we’ve achieved with our 5-person team.
+
+Since 2015, we’ve launched powerful tools for designers and developers — among them are [Flawless App](https://flawlessapp.io/), [Reduce](https://flawlessapp.io/reduceapp), [Flawless Feedback](https://flawlessapp.io/feedback). We’ve also invested a lot of love and care into community-driven initiatives. Awesome Design Tools is one of them.
+
+#### So what’s next?
+Our team has joined Abstract and is focused on building out the [Abstract SDK](https://sdk.goabstract.com), bringing developers’ experience forward. One unbelievable journey has finished and the new one has just begun. And if you want to know more about the future of Awesome Design Tools, [please keep reading our FAQ](https://flawlessapp.io/designtools/joinsabstract).
+
+<p align="center">
+    <a href="https://flawlessapp.io/designtools/joinsabstract">
+        <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/awesome-design-tools-joins-abstract-cover.png" alt="Awesome-Design-Tools-Joins-Abstract"/>
+    </a>
+</p>
+
 ## How to Use and Contribute
 
 - Now you are in the **Awesome Design Tools** section, if you need plugins — go to [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md).

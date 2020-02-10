@@ -754,7 +754,9 @@ article ul {
 .banner-abstract .banner__text {
   padding-left: 1rem;
 }
-
+.banner-abstract .banner__text a:visited {
+  color: #fff;
+}
 .banner-abstract .abstract-logo {
   position: relative;
   width: 35px;

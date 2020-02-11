@@ -296,6 +296,7 @@ If you found some great design tool or plugin, just send a Pull Request concerni
 <article id="color-management">
 
 ### Color Management
+* [Adjustments](https://www.figma.com/c/plugin/798711644668166520/Adjustments) - HSL color adjustment plugin for Figma. Tweak hue, saturation and lightness values of multiple selected objects simultaneously. ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [sketch-retain-text-color](https://github.com/johnmcclumpha/sketch-retain-text-color) — retain the original color of text layers when applying a Text Style. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [color-locator](https://github.com/anavarromartin/sketch-color-locator) — find all instances of a HEX color. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [add-colors-to-palette](https://github.com/johnmcclumpha/sketch-add-colors-to-palette) — quickly and easily add colors from the fills of selected layers in a Sketch file to the document palette. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

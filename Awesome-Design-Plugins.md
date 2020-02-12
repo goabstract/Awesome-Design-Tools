@@ -109,7 +109,7 @@ If you found some great design tool or plugin, just send a Pull Request concerni
 * [RTLPLZ - RTL Support](https://www.figma.com/c/plugin/742121299910255177) — write RTL text in Figma with fewer tears. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [Epilepsy Blocker](https://www.figma.com/c/plugin/746367992714028465) — with this plugin you can make your designs accessible and safe for people with photosensitive epilepsy and also stay ADA Compliant. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [LTR to RTL by Alon Gruss](alon.gruss+xdplug@gmail.com) — use Ctrl+h or Cmd+h to flip from LTR text to RTL. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
-
+* [Func Creatives by Yaron Elharar](https://sugarsweetapps.com/func-creatives/) — Adds custom shortcuts to Adobe XD, plus voice commands on Windows. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 </article>
 
 <article id="align--arrange">

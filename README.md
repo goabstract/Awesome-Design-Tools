@@ -266,6 +266,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 - [Colorwise](https://www.colorwise.io/) — search through the color palettes of the most voted products on Product Hunt. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colour Cafe](https://www.instagram.com/colours.cafe/) — colors inspiration that has selected a modern color palette on Instagram. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colourcode](https://colourco.de/) — an online designer tool, which allows you to easily and intuitively combine colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ColorsWall/](https://colorswall.com/) — place to store your color palettes or easy generate. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Coolors](https://coolors.co/) — the super-fast color scheme generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Culrs](https://culrs.com/#/) — thoughtfully crafted and easy-to-use color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Geenes](https://geenes.app) — a tool to create harmonious color themes with code and sketch file export.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -417,7 +418,7 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 </article>
 
 <article id="design-to-code-tools">
-    
+
 ### Design to Code Tools
 
 <!-- <div class="hidden-in-page">

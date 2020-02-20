@@ -263,6 +263,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 - [Color Leap](https://colorleap.app) — leap through time and see the colors of history. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colorpicker](https://colorpicker.crea-th.at/) — a complete and open-source color manipulation tool with picking. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [ColorSlurp](http://colorslurp.com/) — the ultimate color productivity booster for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [ColorsWall/](https://colorswall.com/) — place to store your color palettes or easy generate. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colorwise](https://www.colorwise.io/) — search through the color palettes of the most voted products on Product Hunt. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colour Cafe](https://www.instagram.com/colours.cafe/) — colors inspiration that has selected a modern color palette on Instagram. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colourcode](https://colourco.de/) — an online designer tool, which allows you to easily and intuitively combine colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -417,7 +418,7 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 </article>
 
 <article id="design-to-code-tools">
-    
+
 ### Design to Code Tools
 
 <!-- <div class="hidden-in-page">

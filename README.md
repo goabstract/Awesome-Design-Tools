@@ -513,6 +513,7 @@ Listening to users is important but seeing the real usage is even more crucial. 
 - [Heatly](https://www.heatlyanalytics.com) — free heatmap tools to understand the website's user experience better. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Hotjar](https://www.hotjar.com/) — see how visitors are using your website and collect user feedback.
 - [Inspectlet](https://www.inspectlet.com/) — record videos of your visitors as they use your site, so you can see everything they do.
+- [LiveSession](https://livesession.io) - high-quality user's session replay analytics.
 - [LogRocket](https://www.logrocket.com/) — see what users do on your site, helping you reproduce bugs and fix issues faster.
 - [Mixpanel](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
 - [Mouseflow](https://mouseflow.com/) — record mouse cursor movements.

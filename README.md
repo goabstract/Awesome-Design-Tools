@@ -211,6 +211,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 - [Appear.in](https://appear.in/) — a simple video collaboration tool.
 - [Asana](https://asana.com/) — the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.
 - [Basecamp](https://basecamp.com/) — the project management suite designed to organize employees, delegate tasks, and monitor progress right from one place.
+- [Freedcamp](https://freedcamp.com/) — the most innovative way to manage projects, completely free... forever.
 - [Droplr](https://droplr.com/) — screenshot, file sharing and screencasts to help you capture and explain your ideas.
 - [Filestage](https://filestage.io/) — an agile content approval software that helps you to review videos, designs, and documents with clients and co-workers.
 - [Float](https://www.float.com/) — a tool to plan your projects and schedule your team’s time all in one place.

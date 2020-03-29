@@ -879,7 +879,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
 * [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
 * [Humane by Design](https://humanebydesign.com/) - a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.
-* [Design System by Figma] (https://www.designsystems.com/) - Figma publication for design systems creators, designers, developers, and managers
+* [Design System] (https://www.designsystems.com/) - Figma publication for design systems creators, designers, developers, and managers
 </article>
 
 

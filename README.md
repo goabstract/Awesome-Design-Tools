@@ -340,6 +340,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 * [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Symbol Design System](https://symboldesign.co/) — design System for Sketch based on atomic elements.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
+* [Design System by Figma] (https://www.designsystems.com/) - A Figma publication for design systems creators, designers, developers, and managers.
 
 <div class="banner banner--yellow">
 
@@ -879,7 +880,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
 * [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
 * [Humane by Design](https://humanebydesign.com/) - a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.
-* [Design System] (https://www.designsystems.com/) - Figma publication for design systems creators, designers, developers, and managers
+
 </article>
 
 

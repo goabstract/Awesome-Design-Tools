@@ -878,6 +878,8 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 * [Laws of UX](https://lawsofux.com/) — a collection of the maxims and principles that designers can consider when building user interfaces. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.
 * [Sketch Master](https://sketchmaster.com/) — a collection of video training courses for professionals learning Sketch.
+* [Humane by Design](https://humanebydesign.com/) - a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.
+* [Design System by Figma] (https://www.designsystems.com/) - Figma publication for design systems creators, designers, developers, and managers
 </article>
 
 

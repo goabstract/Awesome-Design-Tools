@@ -372,6 +372,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [pttrns](https://pttrns.com/) — design patterns for popular mobile apps.
 - [Really Good Emails](https://reallygoodemails.com/) — 4,150+ handpicked email design. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ReallyGoodUX](https://www.reallygoodux.io/) — screenshots, and examples of great UX from real mobile and web products. Discover the best UX examples—including onboarding tours and walkthroughs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Saas Landing Page](https://saaslandingpage.com/) — iscover the best landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Saas Pages](https://saaspages.xyz/) — a collection of the best landing pages with a focus on copywriting and design. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [The Design Team](https://thedesignteam.io/) — comics about a design team for a tech startup in Silicon Valley.
 - [Typewolf](https://www.typewolf.com/) — helps designers choose the perfect font combination for their next design project.

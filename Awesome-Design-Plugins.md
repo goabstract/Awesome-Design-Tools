@@ -180,6 +180,7 @@ If you found some great design tool or plugin, just send a Pull Request concerni
 
 ### Analytics
 
+* [Attention Insight](https://www.attentioninsight.com) — improve design performance with pre-launch analytics. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![Adobe XD](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Visualeyes](https://github.com/loceye/sketch-visualeyes) — generate attention heatmaps in seconds. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Useberry](https://www.useberry.com/integrations/adobe-xd/) — user testing feedback and users’ behavior insights with heatmaps, video recordings, user flows, time bars and follow-up questions.  ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Userlytics](https://www.userlytics.com/faq) — allows you to easily configure and create a user experience test directly from your XD prototype so you can watch and listen to your target Persona interact with and answer questions. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)

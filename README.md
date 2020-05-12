@@ -790,7 +790,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 
 With a rise of “no code tools”, everyone with a laptop can build and launch a project. These tools help designers and makers create websites, apps, and even games. No code tools allow to automate routine tasks and can be used without a development background. Take a look at the tools here and if you need more — check Design to Code section.
 
-- [Bubble](https://bubble.is/) — build and host web applications without having to write code or hire a team of engineers.
+- [Bubble](https://bubble.io/) — build and host web applications without having to write code or hire a team of engineers.
 - [Carrd](https://carrd.co/) — simple, free, fully responsive one-page sites for pretty much anything. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Coda](https://coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Kodika.io](https://kodika.io) — build iOS apps with Kodika no code app builder for Mac & iPad, capable of creating powerful apps with Drag & Drop. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

@@ -797,6 +797,7 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 - [PageXL](https://pagexl.com/) — a simple one-page website builder for quickly creating landing pages and online stores. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Retool](https://tryretool.com/) — gives you building blocks and you can build tools much faster.
+- [sheet2api](https://sheet2api.com/) — create an API from Google Sheets or Excel Online Spreadsheets, no coding required.
 - [Sheet2Site](https://www.sheet2site.com/) — create a website from Google Sheets without writing code.
 - [Shopify](https://www.shopify.com/) — one platform with all the e-commerce and point of sale features you need to start, run, and grow your business.
 - [Thunkable](https://thunkable.com/) — a drag-and-drop tool for anyone to build native mobile apps.

@@ -225,6 +225,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 * [Colorwise](https://www.colorwise.io/) — search through the color palettes of the most voted products on Product Hunt. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colour Cafe](https://www.instagram.com/colours.cafe/) — colours inspiration that have selected modern colour palette in Instagram. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Colourcode](https://colourco.de/) — online designer tool, which allows you to easily and intuitively combine colours. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [СombineCOLORS](https://combinecolors.com) — mix colors online. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Coolors](https://coolors.co/) — the super-fast color scheme generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Culrs](https://culrs.com/#/) — thoughtfully crafted and easy-to-use color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Geenes](https://geenes.app) — a tool to create harmonious color themes with code and sketch file export.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

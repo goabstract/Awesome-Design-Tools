@@ -94,6 +94,7 @@ If you found some great design tool or plugin, just send a Pull Request concerni
 </div>
 
 * [Stark](http://www.getstark.co) — ensure your design is accessible and high contrast for every type of color blindness. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
+* [Cluse](https://cluse.cc) — a free and open-source Sketch plugin that allows you to test the color contrast of your design for accessibility and adjust colors without interrupting your workflow. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Color Contrast Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) — a Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Check Contrast](https://github.com/lifeofmle/check-contrast) — allows you to select layers in Sketch and get realtime feedback about the contrast ratio. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Contrast](https://github.com/romannurik/Sketch-Contrast#readme) — a Sketch plugin to show a pass/fail type contrast report. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)

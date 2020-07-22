@@ -562,6 +562,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [Web Font Preview](https://webfontpreview.com/) — preview Google Font pairings with components and site templates. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/jonaskay/webfontpreview)
 - [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [WordMarkIt](https://wordmark.it/) — displays your written word/phrase with all the fonts which are already installed on your computer. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [FontGet](https://www.fontget.com/) — variety of fonts all sorted neatly with tags. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">
 

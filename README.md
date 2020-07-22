@@ -547,6 +547,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [Fontown](https://www.fontown.com/en) — a typographic tool with a nonstop growing font catalog which facilitates designer workflow.
 - [Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fonts Arena](https://fontsarena.com/) — curated typography website with high-quality free fonts, done-for-you research articles, free alternatives to premium fonts, news, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [FontGet](https://www.fontget.com/) — variety of fonts all sorted neatly with tags. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FontSelf](https://www.fontself.com) — an extension for Illustrator and Photoshop CC that lets you turn any lettering into OpenType fonts in minutes!
 - [FontSpark](https://fontspark.app/) — a simple tool to help designers quickly find the best fonts for their projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Font Squirrel](https://www.fontsquirrel.com/fonts/acherus-grotesque) — download free fonts with wide collections.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

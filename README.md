@@ -704,6 +704,7 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 Information architecture helps designers organize and structure content inside websites, mobile apps, and other software. So users will understand product functionality and will find everything needed. These information architecture tools should allow you to create visual sitemaps and to improve your website content structure:
 
 - [DYNO Mapper](https://dynomapper.com/) — organize website projects using visual sitemaps, content inventory, content audit, content planning, daily keyword tracking, and website accessibility testing.
+- [Octopus.do](https://octopus.do) — visual sitemap builder. Build your website structure in real-time and rapidly share it to collaborate with your team or clients.
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — сreate beautiful diagrams and designs with this powerful and easy to use app.![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
 - [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.

@@ -208,7 +208,6 @@ Augmented Reality is a technology that upgrades our real world, by adding a laye
 Looking to try some tools for agile design and development collaboration? Good idea because such tools make the lives of designers and developers much easier, save time and improve productivity. Well, you know all that in Slack-driven era. Here you'll find the best collaboration tools for product teams:
 
 - [Airtable](https://airtable.com/) — part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
-- [Appear.in](https://appear.in/) — a simple video collaboration tool.
 - [Asana](https://asana.com/) — the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.
 - [Basecamp](https://basecamp.com/) — the project management suite designed to organize employees, delegate tasks, and monitor progress right from one place.
 - [Droplr](https://droplr.com/) — screenshot, file sharing and screencasts to help you capture and explain your ideas.

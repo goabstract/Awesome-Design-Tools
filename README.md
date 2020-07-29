@@ -685,6 +685,7 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 
 - [Absurd Design](https://absurd.design) — free surrealist illustrations for your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Blobmaker](https://www.blobmaker.app/) — create vector blob illustrations in the browser, with varying colour, complexity and contrast. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Blush](https://blush.design/) — create, mix and customize illustrations made by artists around the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 - [Humaaans](https://www.humaaans.com/) — a free library to mix-&-match illustrations of people. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Illustration by Pngtree](https://pngtree.com/illustration-design) — over 13142 professionally designed illustrations of different styles.
 - [IRA Design](https://iradesign.io/) — create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

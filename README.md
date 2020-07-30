@@ -763,6 +763,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Artboard Studio](https://artboard.studio/) — online graphic design application mainly focused on product mockups.
 - [Cleanmock](https://cleanmock.com) — create stunning mockups using the latest device frames like iPhone & custom backgrounds.
 - [Craftwork Design](https://craftwork.design/) — free and premium high-quality digital products that make your work faster and easier.
+- [Device Shots](https://deviceshots.com) — a tool that helps you create beautiful device mockups with the screenshot of your website or mobile application, for free.
 - [Devices by Facebook](https://facebook.design/devices) — images and Sketch files of popular devices. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Dimmy.club](https://dimmy.club/) — device mockup generator for your website and app screenshots.
 - [Frrames](https://frrames.com/) — Frrames mockups is perfectly crafted responsive windows mockups for your ideal presentation.

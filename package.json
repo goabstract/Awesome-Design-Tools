@@ -26,7 +26,7 @@
     "html-minifier": "^3.5.21",
     "i": "^0.3.6",
     "jsdom": "^14.1.0",
-    "npm": "^6.13.4",
+    "npm": "^6.14.6",
     "tinycolor2": "^1.4.1"
   },
   "dependencies": {

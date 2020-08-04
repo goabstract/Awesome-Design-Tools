@@ -404,6 +404,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 
 I bet you heard about Design Systems, as it’s a pretty trendy topic. Design systems provide consistent, robust design patterns to keep design and development in sync. They are essentially collections of rules, constraints, and principles, implemented in design and code. Here you can find tools to build, maintain and organize your design system.
 
+- [Brandy](https://www.trybrandy.com/) — create brand guidelines and asset libraries to share with your team.
 - [Cabana](https://cabanadesignsystem.com/) — a Premium Design System for Sketch that helps you create amazing products faster than ever before.
 - [Catalog](https://www.catalog.style/) — a living style guide for digital products, combining design documentation with real live components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Design System Manager](https://www.invisionapp.com/design-system-manager/) — Invision's design system manager.

@@ -1,4 +1,4 @@
-const createLinkForID = require('./createLinkForID');
+const createLinkForID = require('./helpers/createLinkForID');
 
 const tweakDescriptionOfArticleTopic = ({ document }) => {
 	const topics = document.querySelectorAll('main > article');

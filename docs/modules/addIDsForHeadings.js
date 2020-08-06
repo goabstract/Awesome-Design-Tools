@@ -1,4 +1,4 @@
-const createLinkForID = require('./createLinkForID');
+const createLinkForID = require('./helpers/createLinkForID');
 
 const addIDsForHeadings = ({ document }) => {
 	const categoryTitles = document.querySelectorAll('body > h3');

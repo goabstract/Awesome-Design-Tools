@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 17 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>5B108AAF-111D-43D8-B969-BD9A55E68A64</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="awesome-design-plugins-v3" transform="translate(-863.000000, -611.000000)">
+            <g id="content" transform="translate(520.000000, 469.000000)">
+                <g id="design-tool-item" transform="translate(0.000000, 135.000000)">
+                    <g id="sketch-support-tag" transform="translate(336.000000, 1.000000)">
+                        <g id="sketch-2" transform="translate(7.000000, 6.000000)">
+                            <g id="a-link" transform="translate(0.030421, 5.389709)" fill="#EA6C00">
+                                <polygon id="a" points="3.42344211 0 8.45186316 9.59302326 0 0"></polygon>
+                            </g>
+                            <g id="b-link" transform="translate(12.640842, 10.186221) scale(-1, 1) translate(-12.640842, -10.186221) translate(8.346105, 5.389709)" fill="#EA6C00">
+                                <polygon id="b" points="3.42344211 0 8.45186316 9.59302326 0 0"></polygon>
+                            </g>
+                            <g id="c-link" transform="translate(3.453684, 5.389709)" fill="#FDAD00">
+                                <polygon id="c" points="0 0 10.0568421 0 5.02842105 9.59302326"></polygon>
+                            </g>
+                            <g id="d-link" transform="translate(3.453684, 0.073256)" fill="#FDD231">
+                                <polygon id="d" points="5.02842105 0 0.264663158 0.490813953 0 5.31645349"></polygon>
+                            </g>
+                            <g id="e-link" transform="translate(10.915789, 2.776744) scale(-1, 1) translate(-10.915789, -2.776744) translate(8.321053, 0.073256)" fill="#FDD231">
+                                <polygon id="e" points="5.02842105 0 0.264663158 0.490813953 0 5.31645349"></polygon>
+                            </g>
+                            <g id="f-link" transform="translate(15.056632, 3.005930) scale(-1, 1) translate(-15.056632, -3.005930) translate(13.177684, 0.564070)" fill="#FDAD00">
+                                <polygon id="f" points="0 4.82563953 3.68810526 0 3.42344211 4.82563953"></polygon>
+                            </g>
+                            <g id="g-link" transform="translate(0.030421, 0.564070)" fill="#FDAD00">
+                                <polygon id="g" points="0 4.82563953 3.68810526 0 3.42344211 4.82563953"></polygon>
+                            </g>
+                            <g id="h-link" transform="translate(3.453684, 0.073256)" fill="#FEEEB7">
+                                <polygon id="h" points="5.02842105 0 0 5.31645349 10.0568421 5.31645349"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

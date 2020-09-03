@@ -455,7 +455,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 - [PaintCode](https://www.paintcodeapp.com) — vector drawing app that instantly converts drawings into Swift, Objective-C, JavaScript or Java code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Pinegrow](https://pinegrow.com/) — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
 - [px.div](https://www.pxdiv.com) — a proper site build tool for developers and designers.
-- [pxCode](https://www.pxcode.io/) - a no-code tool can make Sketch to responsive React/ React Native / HTML code 10x faster.
+- [pxCode](https://www.pxcode.io/) -  export responsive, quality & ready to integrate ReactJS / HTML code from Sketch.
 - [Readymag](https://readymag.com/) — a visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 - [Sparkle](https://sparkleapp.com/) — the easiest way to make a real website, no code, no jargon. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [STUDIO](https://studio.design/) — design from scratch, collaborate in real-time and publish websites.

@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "markdown-it": "^8.4.2",
-    "showdown": "^1.9.0"
+    "showdown": "^1.9.1"
   }
 }

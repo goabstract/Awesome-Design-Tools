@@ -728,6 +728,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 - [Design Evo](https://www.designevo.com/) — a large collection of vector icons and shapes help you design custom logos easily. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Free Logo Design](https://www.freelogodesign.org/) — create stunning professional logos in seconds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Graphic Springs](https://www.graphicsprings.com/) — choose from a gallery of vector format logo templates, categorized by industry. Edit the graphics and texts of your template, then download it.
+- [Logo Bot](https://logo.bot/) - use AI to swiftly build a logo for your new company. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Logo Design Team](https://www.logodesignteam.com/) — offers affordable professional custom logo design and brand design services.
 - [Logojoy](https://logojoy.com/) — uses artificial intelligence to instantly generate unique logo ideas for your business.
 - [Logo Lab](https://logolab.app/home) — put your logo to the test with automated visual experiments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

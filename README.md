@@ -637,6 +637,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 - [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 - [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Iconmonstr](https://iconmonstr.com/) — discover 4412+ free icons in 305 collections.Big and continuously growing source of simple icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [IconSear.ch](https://iconsear.ch/search.html) - search engine with over 50,000 SVG icons indexed. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Iconset](https://iconset.io/) — free, cross-platform and fast SVG icon organizer working on Mac and Windows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Icon Store](https://iconstore.co/) — a library of free vector icons for personal and commercial projects, designed by first-class designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ICONSVG](https://iconsvg.xyz/) — a tool to simplify the process of finding and generating common icons for your project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -737,6 +738,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 - [Logo My Way](https://www.logomyway.com/) — choose from 600 custom logo designs from creative designers worldwide.
 - [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 - [Logo Rank](https://brandmark.io/logo-rank/) — upload your logo to see how it rates on a number of objective measures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Wizlogo](https://wizlogo.com/) — create a logo with a simple and affordable tool backed by professional designers.
 
 <div class="banner banner--yellow">

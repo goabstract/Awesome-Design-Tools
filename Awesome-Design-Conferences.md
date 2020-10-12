@@ -42,6 +42,7 @@ If you found some great design conference, just send a Pull Request with respect
 * [August](#august)
 * [September](#september)
 * [October](#october)
+* [November](#november)
 * [December](#december)
 
 </div>
@@ -201,6 +202,15 @@ If you found some great design conference, just send a Pull Request with respect
 | [Brand New Conference](https://underconsideration.com/brandnewconference/) | a two-day event on corporate and brand identity with some of today’s most active and influential practitioners from around the world. | October 22-23 | Austin, USA
 | [Design Thinkers](https://designthinkers.com/) | Canada's largest annual graphic design conference, connecting designers from around the world. | October 24-25 | Toronto, Canada |
 | [Creative Works](https://conference.creativeworks.co/) | a conference is for creative professionals who are serious about their craft and want to sharpen their skills and learn how others work. Dozens of talks, workshops, vendors, and afterparties that encourage inspiration, connection, and growth among creative professionals. | October 2020 | Memphis, USA |
+
+</article>
+
+<article id="november">
+        
+### November 
+| Name | About | Dates | Location |
+|---|---|---|---|
+| [Austin Design Week](https://austindesignweek.org/) | from graphic design to architecture, digital design to fashion, and more, ADW brings together creatives across disciplines and across Austin to share their talents, projects, ideas, and unique perspectives while inviting in the larger community (in Austin and beyond). This year going DIGITAL! | November 9-13 | Austin, Texas USA |
 
 </article>
 

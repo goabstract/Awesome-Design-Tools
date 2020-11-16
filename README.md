@@ -25,6 +25,7 @@ Flawless App was our first company, and we’re proud of everything that we’ve
 Since 2015, we’ve launched powerful tools for designers and developers — among them are [Flawless App](https://flawlessapp.io/), [Reduce](https://flawlessapp.io/reduceapp), [Flawless Feedback](https://flawlessapp.io/feedback). We’ve also invested a lot of love and care into community-driven initiatives. Awesome Design Tools is one of them.
 
 #### So what’s next?
+
 Our team has joined Abstract and is focused on building out the [Abstract SDK](https://sdk.goabstract.com), bringing developers’ experience forward. One unbelievable journey has finished and the new one has just begun. And if you want to know more about the future of Awesome Design Tools, [please keep reading our FAQ](https://flawlessapp.io/designtools/joinsabstract).
 
 <p align="center">
@@ -238,7 +239,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 - [Workzone](https://www.workzone.com/) — a simple, powerful project management software.
 - [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
 - [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track the project’s progress, and brainstorm new ideas.
-- [zipBoard](https://zipboard.co) — an online visual bug tracking and website annotation tool 
+- [zipBoard](https://zipboard.co) — an online visual bug tracking and website annotation tool
 - [Zulip](https://zulipchat.com/) — combines the immediacy of real-time chat with an email threading model, helping to focus on important conversations while ignoring irrelevant ones. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 <div class="banner banner--yellow">
@@ -1155,6 +1156,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 - [JotForm](https://www.jotform.com) — create online forms, get an email for each response, collect data. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Lookback](https://lookback.io/) — remotely run, record, and take notes for your user research sessions, either with a live product or with a prototype.
 - [MineTime](https://minetime.ai) — a free calendar app with smart scheduling and time analytics features. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Persona Guide](https://persona.guide) — create and share a reference guide of personas + empathy maps with your team.
 - [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes.
 - [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
 - [Sticktail](https://sticktailapp.com/) — a platform for centralizing, finding and sharing user insights within your organization.
@@ -1163,6 +1165,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 - [Wufoo](https://www.wufoo.com) — сreate forms, collect data and payments and automate your workflows.
 - [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
 - [UserBit](https://userbitapp.com/) — a platform of real-time research tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
+- [Userforge](https://userforge.com/) — create personas, linked user stories, and visual context maps to help show the who, what, and where of your project.
 - [User Interviews](https://www.userinterviews.com/) — recruit participants from a community of 125,000 members based on profession, demographics, geography and more, for any kind of research.
 - [Zoom](https://zoom.us) — it's one of the best online meeting services.
 

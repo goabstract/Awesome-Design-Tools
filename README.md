@@ -771,6 +771,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Lstore Graphics](https://www.ls.graphics/) — free and premium mockups, UI/UX tools, scene creators for busy designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mediamodifier](https://mediamodifier.com) — create impressive product mockups in seconds.
 - [Mockflow](https://www.mockflow.com/) — the quickest way to brainstorm user interface ideas.
+- [Mockup Mark](https://www.mockupmark.com/) — create T-shirt and clothing mockups for social media and E-commerce.
 - [Mockup World](https://www.mockupworld.co/) — tons of free and legal, fully layered, easily customizable photo realistic PSDs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mockups For Free](https://mockupsforfree.com/) — free design resources, PSD files for graphic and web designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mockuuups](https://mockuuups.studio/) — drag-and-drop tool for creating beautiful app previews or any marketing materials.

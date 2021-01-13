@@ -532,6 +532,7 @@ Listening to users is important but seeing the real usage is even more crucial. 
 - [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
 - [Smartlook](https://www.smartlook.com) — user session replay and user engagement analytics.
 - [Usabilla](https://usabilla.com) — build future-proof customer experiences by asking the right questions at the right time.
+- [UXtweak Session Recording](https://www.uxtweak.com/session-recording-tool) — stop guessing how to improve your website. Record and watch what users are doing on your site. Capture more user interaction data than with any other analytics tools.
 
 </article>
 
@@ -715,6 +716,8 @@ Information architecture helps designers organize and structure content inside w
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) — сreate beautiful diagrams and designs with this powerful and easy to use app.![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [OptimalSort](https://www.optimalworkshop.com/optimalsort) — card sorting tool that allows you to understand how people categorize content in your UI.
 - [Treejack](https://www.optimalworkshop.com/treejack) — upload your proposed sitemap to see how a user would move through your site.
+- [UXtweak Card Sorting](https://www.uxtweak.com/card-sort-tool) — organize your website content to perfection. Create intuitive navigation menus where users will no longer be lost.
+- [UXtweak Tree Testing](https://www.uxtweak.com/treetest-tool) — make your navigation menu intuitive. Quickly evaluate the findability of topics in your navigation menu.
 - [WriteMaps](https://writemaps.com/) — create sitemaps that impress! Plan out the pages and content for your next website project in a visual, fun, and beautiful manner.
 
 </article>
@@ -1160,10 +1163,11 @@ User research helps you understand user behaviors, needs, and motivations throug
 - [Sticktail](https://sticktailapp.com/) — a platform for centralizing, finding and sharing user insights within your organization.
 - [Survey Monkey](https://www.surveymonkey.com/) — online survey tool to capture the voices and opinions of the people who matter most to you.
 - [Typeform](https://www.typeform.com/) — use a simple drag-and-drop interface to create any kind of form, survey, or questionnaire, and even take credit card payments.
-- [Wufoo](https://www.wufoo.com) — сreate forms, collect data and payments and automate your workflows.
-- [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
 - [UserBit](https://userbitapp.com/) — a platform of real-time research tools for your team. Tag/code interviews and feedback, capture insights, create personas, visual sitemaps and more.
 - [User Interviews](https://www.userinterviews.com/) — recruit participants from a community of 125,000 members based on profession, demographics, geography and more, for any kind of research.
+- [UXtweak Unmoderated Testing](https://www.uxtweak.com/unmoderated-usability-testing-tool) — test the usability of your website quickly, effectively and with real users. Record, watch and listen to user actions and reveal the weaknesses in your design.
+- [Wufoo](https://www.wufoo.com) — сreate forms, collect data and payments and automate your workflows.
+- [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.
 - [Zoom](https://zoom.us) — it's one of the best online meeting services.
 
 </article>

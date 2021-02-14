@@ -453,6 +453,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 - [PageCloud](https://www.pagecloud.com/) — the fastest and most customizable website builder that allows anyone to create their ideal website.
 - [PaintCode](https://www.paintcodeapp.com) — vector drawing app that instantly converts drawings into Swift, Objective-C, JavaScript or Java code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Pinegrow](https://pinegrow.com/) — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
+- [Plasmic](https://www.plasmic.app/) — a powerful visual design tool that works deeply with real-world codebases. Create responsive pages and complex components in a fast, easy-to-use, modern design tool; optionally extend with code; and publish to production sites and apps. Includes a best-in-class Figma-to-code importer. ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 - [px.div](https://www.pxdiv.com) — a proper site build tool for developers and designers.
 - [Readymag](https://readymag.com/) — a visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
 - [Sparkle](https://sparkleapp.com/) — the easiest way to make a real website, no code, no jargon. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -875,7 +876,7 @@ A prototype is a simple experimental design of a proposed solution. It should he
 
 <div class="banner banner--yellow">
 
-You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the [UI Design Tools section](#ui-design-tools).
+You can also do prototyping with Figma, Adobe XD, Sketch, InVision Studio, and Plasmic which are mentioned in the [UI Design Tools section](#ui-design-tools).
 
 </div>
 

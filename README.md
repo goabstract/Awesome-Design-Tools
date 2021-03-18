@@ -784,6 +784,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [SceneLab](https://scenelab.io) — create realistic mockups and customized brand designs online.
 - [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
+- [Screenstab](https://www.screenstab.com) — instantly turn ordinary screenshots into bold, striking image assets.
 - [Screenzy](https://screenzy.io) — instantly transform your pictures and screenshots into beautiful mockups ready to be shared on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Screeener](https://github.com/zehfernandes/screeener) — use this app to insert a bunch of images to a keynote file, using the mockup you choose.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.

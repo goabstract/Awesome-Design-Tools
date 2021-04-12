@@ -1,0 +1,36 @@
+{
+  "name": "Awesome-Design-Tools",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">     <a href=\"https://flawlessapp.io/feedback?github\">     \t<img src=\"Awesome-design-tools-cover.png\" alt=\"Awesome-Design-Tools\"/>     </a> </p>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "PRODUCTION=false node index.js",
+    "production": "PRODUCTION=true node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berezovskycom/Awesome-Design-Tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berezovskycom/Awesome-Design-Tools/issues"
+  },
+  "homepage": "https://github.com/berezovskycom/Awesome-Design-Tools#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "html-minifier": "^3.5.21",
+    "i": "^0.3.6",
+    "jsdom": "^14.1.0",
+    "npm": "^6.13.4",
+    "tinycolor2": "^1.4.1"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "showdown": "^1.9.1"
+  }
+}

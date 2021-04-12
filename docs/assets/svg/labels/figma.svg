@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="15px" viewBox="0 0 10 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>E4D6A3B6-10C8-463E-8A77-596D7A5CC2CE</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="awesome-design-plugins-v3" transform="translate(-792.000000, -611.000000)">
+            <g id="content" transform="translate(520.000000, 469.000000)">
+                <g id="design-tool-item" transform="translate(0.000000, 135.000000)">
+                    <g id="figma-support-tag" transform="translate(265.000000, 1.000000)">
+                        <g id="figma-1" transform="translate(7.000000, 6.000000)">
+                            <path d="M2.5,15 C3.88,15 5,13.88 5,12.5 L5,10 L2.5,10 C1.12,10 0,11.12 0,12.5 C0,13.88 1.12,15 2.5,15 Z" id="path0_fill" fill="#0ACF83"></path>
+                            <path d="M0,7.5 C0,6.12 1.12,5 2.5,5 L5,5 L5,10 L2.5,10 C1.12,10 0,8.88 0,7.5 Z" id="path1_fill" fill="#A259FF"></path>
+                            <path d="M0,2.5 C0,1.12 1.12,0 2.5,0 L5,0 L5,5 L2.5,5 C1.12,5 0,3.88 0,2.5 Z" id="path1_fill_1_" fill="#F24E1E"></path>
+                            <path d="M5,0 L7.5,0 C8.88,0 10,1.12 10,2.5 C10,3.88 8.88,5 7.5,5 L5,5 L5,0 Z" id="path2_fill" fill="#FF7262"></path>
+                            <path d="M10,7.5 C10,8.88 8.88,10 7.5,10 C6.12,10 5,8.88 5,7.5 C5,6.12 6.12,5 7.5,5 C8.88,5 10,6.12 10,7.5 Z" id="path3_fill" fill="#1ABCFE"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

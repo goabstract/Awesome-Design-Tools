@@ -725,6 +725,7 @@ Information architecture helps designers organize and structure content inside w
 
 A logo is the starting point of your brand identity. It reflects the product mission, functionality and brand message. Ideally, the logo creates a strong connection between your product and the users. Logo design is an art, as well as many other design disciplines. With the right logo design tools, this art can be done right a bit faster.
 
+- [BrandCrowd Logo Maker](https://www.brandcrowd.com/logo-maker) — the largest DIY logo library in the world.
 - [Design Evo](https://www.designevo.com/) — a large collection of vector icons and shapes help you design custom logos easily. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Free Logo Design](https://www.freelogodesign.org/) — create stunning professional logos in seconds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Graphic Springs](https://www.graphicsprings.com/) — choose from a gallery of vector format logo templates, categorized by industry. Edit the graphics and texts of your template, then download it.

@@ -536,6 +536,7 @@ If you found some great design tool or plugin, just send a Pull Request concerni
 * [MockingBot](https://modao.cc/sketch) — MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 * [Figma Measure](https://www.figma.com/c/plugin/739918456607459153) — a plugin for easy measurement of sizes. ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 * [inker8](https://github.com/inker8/xd-plugin) — export design spec to measure positions, copy CSS and export icons. Make writing CSS and UI fun. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [CoDesign](https://codesign.qq.com/download) - generates assets and specs automatically for seamless collaboration and provides access to your team icons and materials. ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) ![photoshop.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/photoshop.svg)
 
 </article>
 

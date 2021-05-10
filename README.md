@@ -210,6 +210,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 - [Airtable](https://airtable.com/) — part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
 - [Asana](https://asana.com/) — the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.
 - [Basecamp](https://basecamp.com/) — the project management suite designed to organize employees, delegate tasks, and monitor progress right from one place.
+- [CoDesign](https://codesign.qq.com/) - seamlessly connects Product Manager, Designer, Engineer, Business Analyst and other stakeholders, to help the team improve collaboration efficiency, ensure design quality, managing shared design assets effectively.
 - [Freedcamp](https://freedcamp.com/) — the most innovative way to manage projects, completely free... forever.
 - [Droplr](https://droplr.com/) — screenshot, file sharing and screencasts to help you capture and explain your ideas.
 - [Excalidraw](https://excalidraw.com/) — a whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)

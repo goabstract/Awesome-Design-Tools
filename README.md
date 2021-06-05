@@ -594,6 +594,7 @@ You can see gradient colors are everywhere — UI, branding, illustration, typog
 - [Blend](http://www.colinkeany.com/blend/) — create and customize beautiful CSS3 gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colorffy](https://www.colorffy.com/) — get CSS, images, UI previews or create own gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colors & Fonts](https://www.colorsandfonts.com/) — a curated library of colors, gradients and fonts for digital designers and web developers.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ColorGradient](https://colorgradient.dev/) — a free gradient generator. Let's you create simple and more complex gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ColorSpace](https://mycolor.space/) — the perfect matching color scheme for your next project! Generate nice color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ColorSpark](https://colorspark.app/gradient) — helps designers find unique colors and striking gradient combinations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Cool Backgrounds](https://coolbackgrounds.io/) — explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites.

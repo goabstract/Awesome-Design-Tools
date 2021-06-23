@@ -362,6 +362,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [Creative Portfolios](http://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.
 - [Design Hunt](https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8) — a daily collection of the best products, apps, and inspirations for all creatives. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Dribbble](https://dribbble.com/) — an online community for showcasing user-made artwork. A great resource to get inspired by others work.
+- [Eagle App](https://en.eagle.cool/) — a easy to use file manager and tag editor to organize all your inspirations all in one place. Supports all major font, source, image, RAW, video, 3D, audio, and office files.
 - [Ficture](https://ficture.design/) — a font in use archive that will inspire you. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Inspiration UI](http://inspirationui.com/) — a community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Hover States](https://hoverstat.es/) — showcase great work from the bleeding edge of digital culture for, and with, the creative community.
@@ -544,7 +545,6 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [BeFonts](https://befonts.com/) — a Decent collection of free fonts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Behance Free Fonts](https://www.behance.net/search/?search=free%20font) — a list of free fonts uploaded on Behance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [DaFont](https://www.dafont.com/) — archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Eagle App](https://en.eagle.cool/) — a easy to use file manager and tag editor for font, source, image, RAW, video, 3D, audio, and office files.
 - [Emotype](http://emotype.webflow.io/) — makes it easy to find fonts based on the emotions you want to convey on your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontbase](https://fontba.se/) — font management made easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FontFabric](https://www.fontfabric.com/) — gorgeous interface and good collection. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

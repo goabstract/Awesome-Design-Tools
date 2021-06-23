@@ -362,6 +362,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [Creative Portfolios](http://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.
 - [Design Hunt](https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8) — a daily collection of the best products, apps, and inspirations for all creatives. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Dribbble](https://dribbble.com/) — an online community for showcasing user-made artwork. A great resource to get inspired by others work.
+- [Eagle App](https://en.eagle.cool/) — a easy to use file manager and tag editor to organize all your inspirations all in one place. Supports all major font, source, image, RAW, video, 3D, audio, and office files.
 - [Ficture](https://ficture.design/) — a font in use archive that will inspire you. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Inspiration UI](http://inspirationui.com/) — a community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Hover States](https://hoverstat.es/) — showcase great work from the bleeding edge of digital culture for, and with, the creative community.

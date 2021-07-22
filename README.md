@@ -117,6 +117,8 @@ Accessibility is the practice of creating websites and apps usable for all peopl
 - [tota11y](http://khan.github.io/tota11y/) — an accessibility visualization toolkit. Interesting fact: inside the tool name you can see "a11y". It's an abbreviation of accessibility as "a" followed by 11 more letters, followed by "y". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox. It's a web accessibility checker. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [90 Examples](http://clrs.cc/a11y/) — a free collection of accessible color themes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [iColorpalette](https://icolorpalette.com) - Create, Browse or Export (aco, ase, svg, png, pdf) color palettes by color or themes.
+- [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, Color schemes, tints, tones, Pantone match, color blending and huge Color palettes collection.
 
 <div class="banner banner--yellow">
 

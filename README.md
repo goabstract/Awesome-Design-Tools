@@ -701,6 +701,8 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 - [Squircley](https://squircley.app/) - all you need to start creating beautiful SVG squircles. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [unDraw](https://undraw.co) — a collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Wannapik](https://www.wannapik.com/) — a collection of free illustrations, vector images, photos, and animations for any use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [3D Bay](https://clouddevs.com/3dbay/) — a collection of high-quality, royalty-free 3D illustrations for personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
 
 </article>
 

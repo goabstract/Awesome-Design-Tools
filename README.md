@@ -403,7 +403,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 
 I bet you heard about Design Systems, as it’s a pretty trendy topic. Design systems provide consistent, robust design patterns to keep design and development in sync. They are essentially collections of rules, constraints, and principles, implemented in design and code. Here you can find tools to build, maintain and organize your design system.
 
-- [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
+- [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Cabana](https://cabanadesignsystem.com/) — a Premium Design System for Sketch that helps you create amazing products faster than ever before.
 - [Catalog](https://www.catalog.style/) — a living style guide for digital products, combining design documentation with real live components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Design System Manager](https://www.invisionapp.com/design-system-manager/) — Invision's design system manager.
@@ -495,11 +495,13 @@ Developers actively use version control tools for a long time, probably since 20
 This section mentions development tools and browsers. Development browsers have features that help developers and designers create and test websites and apps.
 
 - [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster.
+- [Components.studio](https://components.studio/) — in-browser IDE to code components (including web components) in isolation with 76 templates available, supporting stories and tests. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Litmus](https://litmus.com/) — an email campaign creation platform that, amongst other things, lets you see how HTML emails will appear in a wide variety of email clients.
 - [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps.
 - [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Styleguidist](https://github.com/styleguidist/react-styleguidist) — isolated React component development environment with a living style guide. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [WebComponents.dev](https://webcomponents.dev/) — in-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
     
 <div class="banner banner--yellow">
 

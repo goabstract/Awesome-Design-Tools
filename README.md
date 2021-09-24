@@ -403,6 +403,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 
 I bet you heard about Design Systems, as it’s a pretty trendy topic. Design systems provide consistent, robust design patterns to keep design and development in sync. They are essentially collections of rules, constraints, and principles, implemented in design and code. Here you can find tools to build, maintain and organize your design system.
 
+- [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
 - [Cabana](https://cabanadesignsystem.com/) — a Premium Design System for Sketch that helps you create amazing products faster than ever before.
 - [Catalog](https://www.catalog.style/) — a living style guide for digital products, combining design documentation with real live components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Design System Manager](https://www.invisionapp.com/design-system-manager/) — Invision's design system manager.
@@ -499,6 +500,12 @@ This section mentions development tools and browsers. Development browsers have 
 - [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps.
 - [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Styleguidist](https://github.com/styleguidist/react-styleguidist) — isolated React component development environment with a living style guide. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+    
+<div class="banner banner--yellow">
+
+You can also develop components in isolation, test them and vizualise them using stories with Backlight, which is mentioned in the [Design System Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-system-tools) section.
+
+</div>
 
 </article>
 

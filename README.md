@@ -948,6 +948,7 @@ Often marketing teams need well-design materials. It can be different banners, p
 
 - [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert!
 - [Crello](https://crello.com/) — create own designs: posts, covers, graphics, and posters using the best software on the web.
+- [DynaPictures](https://dynapictures.com/) — Generate social media banners from a spreadsheet. ![free.svg]
 - [Pablo by Buffer](https://pablo.buffer.com/) — design engaging images for your social media posts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

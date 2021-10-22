@@ -356,9 +356,11 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [Httpster](https://httpster.net/) — an inspiration resource showcasing rocking websites made by people from all over the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [H69.Design](https://www.h69.design/) — landing page colletions & Free resources for designers.
 - [Lapa Ninja](https://www.lapa.ninja/) — landing page design inspiration from around the web. 1800+ landing page examples and updated daily.
+- [MaxiBestOf](https://maxibestof.one/) — best websites inspiration feed.
 - [Microcopy Inspirations](https://www.microcopyinspirations.com) — curated examples of good microcopy on websites and apps.
 - [Mobile Patterns](https://www.mobile-patterns.com/) — a design inspirational library featuring finest UI UX Patterns (iOS and Android).
 - [Mobbin](https://mobbin.design/) — browse mobile design patterns for popular apps. Explore common user flows such as onboarding, account sign up and log in, core functionality, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Nicely done](https://nicelydone.club/) — library of 10,000+ SaaS marketing pages and product patterns examples and user flows.
 - [One Page Love](https://onepagelove.com/gallery) — a collection of beautiful unique One Page websites for website design inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Owwly](https://owwly.com/feed/inspirations) — home for digital products crafted with passion to design.
 - [Page Flows](https://pageflows.com/) — user flow videos and screenshots to inspire you when you're stuck. Discover mobile and web design patterns for over 160 different tasks. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -374,8 +376,6 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, searching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Waveguide](https://www.waveguide.io/) — a design knowledge bank with thousands of artificially enriched examples of product and brand experience (examples of Mobile App, Landing pages, eCommerce, CX/UX Patterns).
 - [Web Design Museum](https://www.webdesignmuseum.org/) — over 1,200 carefully selected web sites that show web design trends between the years 1994 and 2006.
-- [Nicely done](https://nicelydone.club/) — Library of 10,000+ SaaS marketing pages and product patterns examples and user flows
-- [MaxiBestOf](https://maxibestof.one/) — Best websites inspiration feed
 
 </article>
 

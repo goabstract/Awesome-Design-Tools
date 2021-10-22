@@ -374,6 +374,8 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, searching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Waveguide](https://www.waveguide.io/) — a design knowledge bank with thousands of artificially enriched examples of product and brand experience (examples of Mobile App, Landing pages, eCommerce, CX/UX Patterns).
 - [Web Design Museum](https://www.webdesignmuseum.org/) — over 1,200 carefully selected web sites that show web design trends between the years 1994 and 2006.
+- [Nicely done](https://nicelydone.club/) — Library of 10,000+ SaaS marketing pages and product patterns examples and user flows
+- [MaxiBestOf](https://maxibestof.one/) — Best websites inspiration feed
 
 </article>
 

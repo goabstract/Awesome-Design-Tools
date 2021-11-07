@@ -896,7 +896,7 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:
 
-- [Calipio](https://calipio.com/) — a desktop screen recorder you simply start from your browser and get the sharing link right away. Recordings are E2E encrypted and 20mins are free.
+- [Calipio](https://calipio.com/) — a desktop screen recorder you simply start from your browser and get the sharing link right away. Recordings are E2E encrypted, and 20mins are free. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Camtasia](https://www.techsmith.com/video-editor.html) — a screen recorder that comes with a full-blown built-in editor.
 - [CleanShot](https://getcleanshot.com) — capture your screen in a superior way with a built-in annotation tool and Quick Access Overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs.
@@ -1011,7 +1011,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 - [Reshot](https://www.reshot.com/) — a massive library of handpicked free stock photos you won’t find elsewhere. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ShotStash](https://shotstash.com/) — thousands of free high-resolution CC0 photos and videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SkitterPhoto](https://skitterphoto.com/) — a wide variety of stock photos and are released under Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Smint.io Content Buying](https://www.smint.io/enterprise-content-buying/about/) - Purchase image, video, sound or text across all major stock content providers.
+- [Smint.io Content Buying](https://www.smint.io/enterprise-content-buying/about/) - purchase image, video, sound or text across all major stock content providers.
 - [Startup Stock Photos](http://startupstockphotos.com/) — free photos for startups, bloggers and publishers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [StockSnap.io](https://stocksnap.io/) — a large selection of free stock photos and high-resolution images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [StyledStock](https://styledstock.co/) — free feminine stock photography for every woman entrepreneur. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

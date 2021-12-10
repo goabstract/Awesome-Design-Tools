@@ -238,7 +238,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 - [Workzone](https://www.workzone.com/) — a simple, powerful project management software.
 - [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
 - [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track the project’s progress, and brainstorm new ideas.
-- [zipBoard](https://zipboard.co) — an online visual bug tracking and website annotation tool 
+- [zipBoard](https://zipboard.co) — an online visual bug tracking and website annotation tool
 - [Zulip](https://zulipchat.com/) — combines the immediacy of real-time chat with an email threading model, helping to focus on important conversations while ignoring irrelevant ones. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 <div class="banner banner--yellow">
@@ -446,6 +446,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 - [Anima](https://www.animaapp.com/) — a web app with a Sketch plugin that converts Sketch to HTML. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Blocs](https://blocsapp.com/) — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Bootstrap Studio](https://bootstrapstudio.io/) — a powerful web design tool for creating responsive websites using the Bootstrap framework.
+- [Brainboard](https://www.brainboard.co) - visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure.
 - [Draftbit](https://draftbit.com/) — visually design and build mobile apps directly from your browser.
 - [EasyLogic Studio](https://www.easylogic.studio/) — fantastic css+svg design tool, also it is converted into code as shown.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Grapedrop](https://grapedrop.com/) — design your components, web projects and publish them instantly online, with an easy to use editor.

@@ -208,6 +208,8 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 * [Goge Africa - UI Kit for Figma](https://www.behance.net/gallery/87261153/E-learning-UI-Kit-Free-Download) — 38+ screens and design elements e.g Landing-page, Quicklinks-page, Ecommerce, Dashboard... ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) 
 
+* [Materio - Material Design Figma aDMIN Dashboard UI Kit](https://dribbble.com/shots/17587794-Materio-Figma-Admin-Dashboard-UI-Kit) — 5 carefully crafted apps, 3 real-life dashboards, dark & light layouts, 100+ pages, and many more ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![figma.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) 
+    
 * [Velocity UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/) — Meet Velocity, a UI kit and complete design system for an imaginary self-driving car company. Borrow, remix, and remake for your own app. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) ![invision-studio.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg)
 
 </article>

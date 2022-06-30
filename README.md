@@ -989,6 +989,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 - [Death to Stock](https://deathtothestockphoto.com/) — paid-for stock photo service with a mailing list for occasional free packs, and a focus on not looking like stock photography.
 - [FoodiesFeed](https://foodiesfeed.com/) — thousands of beautiful realistic free food pictures in high resolution. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FreePhotos.cc](https://freephotos.cc/) — free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Freepik](https://www.freepik.com/) — plenty of stock photography and mockups that are free with attribution. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Freestocks.org](http://freestocks.org/) — high quality photos all released under Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Gratisography](https://gratisography.com) — a collection of free high-resolution pictures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Jay Mantri](https://jaymantri.com/) — 7 new photos released every Thursday under the Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

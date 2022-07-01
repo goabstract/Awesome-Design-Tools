@@ -1094,6 +1094,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 - [Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. Made by InVision.
 - [TwitPile](https://twitpile.com) — creates tiled images out of Twitter followers, interests and lists. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Visily](https://www.visily.ai/) — a collaborative design tool that enables anyone, regardless of their design skills, to create beautiful app designs with little effort.
 - [Voiceflow](https://www.voiceflow.com) — prototype, design and deploy real apps for Amazon Alexa & Google Home.
 
 </article>

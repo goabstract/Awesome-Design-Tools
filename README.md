@@ -143,10 +143,9 @@ Animations guide people through the product friendly and smoothly. Live interact
 - [After Effects](https://www.adobe.com/products/aftereffects.html) — digital visual effects, motion graphics, and compositing application developed by Adobe.
 - [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
 - [Dokyu Motion](https://3dmybusiness.com) — simplifies motion design in After Effects so any editor can tell stories that won′t be ignored.
-- [Flare](https://www.2dimensions.com/about-flare) — a powerful design and animation tool, which allows designers and developers to create animations for their app or game. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Flow](https://createwithflow.com/) — a professional animation tool for Sketch designs that also exports production-ready code for iOS, Web or SVG files. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [GSAP](https://greensock.com/) — a suite of tools for scripted, high-performance HTML5 animations in all major browsers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Haiku Animator](https://www.haikuforteams.com/) — keyframe-based animation connecting your UI tools to code that developers can easily use.
+- [Haiku Animator](https://www.haikuanimator.com/) — keyframe-based animation connecting your UI tools to code that developers can easily use.
 - [Keyshape](https://www.keyshapeapp.com/) — 2D animation tool that allows for animated SVG export.
   ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -157,6 +156,7 @@ Animations guide people through the product friendly and smoothly. Live interact
 - [Naker.Back](https://app.naker.io/back) — integrate an interactive background for free to draw more attention to your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Naker.Story](https://naker.io/naker-story.html) — make your web content interactive to engage your visitors like never before thanks to 3D. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [OFFEO](https://offeo.com/) — an online video maker for small businesses to create video ads like the Big Brands without the big budget. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Rive](https://flare.rive.app/) — a powerful design and animation tool, which allows designers and developers to create animations for their app or game. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [StorySwag](https://storyswag.co) — create stylish animated posts for Instagram and Facebook in just a few taps, all from your mobile phone. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Spirit](https://spiritapp.io/) — the animation tool that helps you to create and manage the animations real-time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Stylie](https://jeremyckahn.github.io/stylie/) — a web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)

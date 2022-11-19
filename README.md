@@ -368,6 +368,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [Httpster](https://httpster.net/) — an inspiration resource showcasing rocking websites made by people from all over the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [H69.Design](https://www.h69.design/) — landing page colletions & Free resources for designers.
 - [Lapa Ninja](https://www.lapa.ninja/) — landing page design inspiration from around the web. 1800+ landing page examples and updated daily.
+- [Landings](https://landings.dev) - curated directory of hundreds of great looking landing page examples that you can filter by different categories.
 - [Mobile Patterns](https://www.mobile-patterns.com/) — a design inspirational library featuring finest UI UX Patterns (iOS and Android).
 - [Mobbin](https://mobbin.design/) — browse mobile design patterns for popular apps. Explore common user flows such as onboarding, account sign up and log in, core functionality, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [One Page Love](https://onepagelove.com/gallery) — a collection of beautiful unique One Page websites for website design inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

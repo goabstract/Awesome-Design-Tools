@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/berezovskycom/Awesome-Design-Tools#readme",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "html-minifier": "^3.5.21",
     "i": "^0.3.6",
     "jsdom": "^14.1.0",

@@ -1224,6 +1224,7 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 - [Tinkercad](https://www.tinkercad.com) — a free, easy-to-use app for 3D design, electronics, and coding. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Vectary](https://www.vectary.com/) — create beautiful 3D models with our drag and drop 3D modeling tool.
 - [3D Slash](https://www.3dslash.net) — 3D modeling tool, available on all devices and all OS, online and offline.
+- [3D House Planner](https://www.3dhouseplanner.com) — a free web application specially oriented to design houses and apartments.
 
 </article>
 

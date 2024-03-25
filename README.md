@@ -550,6 +550,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 - [FontPair](https://fontpair.co/) — a simple tool that helps you pair Google Fonts together. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontown](https://www.fontown.com/en) — a typographic tool with a nonstop growing font catalog which facilitates designer workflow.
+- [Gearhuts.com](https://gearhuts.com/)/en) — a typographic tool with a nonstop growing font catalog which facilitates designer workflow.
 - [Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fonts Arena](https://fontsarena.com/) — curated typography website with high-quality free fonts, done-for-you research articles, free alternatives to premium fonts, news, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FontGet](https://www.fontget.com/) — variety of fonts all sorted neatly with tags. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

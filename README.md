@@ -768,6 +768,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Devices by Facebook](https://facebook.design/devices) — images and Sketch files of popular devices. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Dimmy.club](https://dimmy.club/) — device mockup generator for your website and app screenshots.
 - [Frrames](https://frrames.com/) — Frrames mockups is perfectly crafted responsive windows mockups for your ideal presentation.
+- [JPEG To PDF](https://jpegtopdf.io/) — Create print-ready PDF mockups from your images, in browser.
 - [Lstore Graphics](https://www.ls.graphics/) — free and premium mockups, UI/UX tools, scene creators for busy designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mediamodifier](https://mediamodifier.com) — create impressive product mockups in seconds.
 - [Mockflow](https://www.mockflow.com/) — the quickest way to brainstorm user interface ideas.

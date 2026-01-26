@@ -897,6 +897,7 @@ Taking screenshots is a typical task in the design & development workflow. So th
 
 - [Camtasia](https://www.techsmith.com/video-editor.html) — a screen recorder that comes with a full-blown built-in editor.
 - [CleanShot](https://getcleanshot.com) — capture your screen in a superior way with a built-in annotation tool and Quick Access Overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [Capty](https://capty.app) — professional screen capture and recording for macOS with built-in video editor, zoom effects, and annotation tools. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs.
 - [Collabshot](https://www.collabshot.com/) — take and collaborate on screenshots in real-time with your coworkers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Gifox](https://gifox.io) — delightful GIF recording and sharing app. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

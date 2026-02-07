@@ -257,6 +257,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 
 - [BrandColors](https://brandcolors.net/) — the biggest collection of official brand color codes around. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Calcolor](https://calcolor.co) — a web-based color palette management tool which provides a new way to interact with digital colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ColorForge](https://simplereally.github.io/color-forge/) — a free browser-based color palette generator with real-time preview, export to CSS/SCSS, and shareable palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community. Made by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Color by Cloudflare](https://cloudflare.design/color/) — a tool to preview palettes against UI elements, cycle through accessible color combos and create palettes manually, via URL import, or generatively.
@@ -548,6 +549,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [Fontbase](https://fontba.se/) — font management made easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FontFabric](https://www.fontfabric.com/) — gorgeous interface and good collection. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
+- [FontForge](https://simplereally.github.io/font-forge/) — a free browser-based font pairing tool that helps designers find and preview harmonious Google Font combinations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FontPair](https://fontpair.co/) — a simple tool that helps you pair Google Fonts together. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontown](https://www.fontown.com/en) — a typographic tool with a nonstop growing font catalog which facilitates designer workflow.
 - [Fonts](https://fonts.adobe.com/fonts) — thousands of beautiful fonts by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

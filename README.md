@@ -661,6 +661,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 - [Twemoji](https://twemoji.twitter.com/) — Twitter’s open-source emoji has you covered for all your project's emoji needs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Unicons](https://iconscout.com/unicons) — 1000+ pixel-perfect vector icons for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [VisualPharm](https://visualpharm.com/) — free SVG Icons with super-fast search and free Coke. Built for fun by Icons8. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Woopicx](https://woopicx.com/collection/basic3d) — 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
 - [Xicons](https://www.xicons.co/) — free vector icons, that update every 10 days. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Zwicon](https://www.zwicon.com/) — handcrafted icon set for your next project. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 

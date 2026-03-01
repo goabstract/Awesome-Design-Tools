@@ -158,7 +158,7 @@ Animations guide people through the product friendly and smoothly. Live interact
 - [Naker.Story](https://naker.io/naker-story.html) — make your web content interactive to engage your visitors like never before thanks to 3D. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [OFFEO](https://offeo.com/) — an online video maker for small businesses to create video ads like the Big Brands without the big budget. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [StorySwag](https://storyswag.co) — create stylish animated posts for Instagram and Facebook in just a few taps, all from your mobile phone. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-- [Shortodella](https://shortodella.com/) — AI Video Generator & Image Generator with a canvas editor. Design images, edit with AI chat commands, generate videos, and remove backgrounds.
+- [Shortodella](https://shortodella.com/) — AI Video Generator & Image Generator with a canvas editor. Design images, edit with AI chat commands, generate videos, and remove backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Spirit](https://spiritapp.io/) — the animation tool that helps you to create and manage the animations real-time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Stylie](https://jeremyckahn.github.io/stylie/) — a web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -1018,6 +1018,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 - [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Shortodella](https://shortodella.com/) — free AI-generated images and creative assets with a canvas editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 
@@ -1037,6 +1038,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 - [Videezy](https://www.videezy.com/) — download millions of free and premium stock footage and motion graphics instantly.
 - [Videvo](https://www.videvo.net/) — offers a large selection of HD video clips, motion graphics, and free stock footage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [123RF](https://www.123rf.com/) — over 100,000 daily new content & 24/7 online support.
+- [Shortodella](https://shortodella.com/) — free AI-generated videos and creative assets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

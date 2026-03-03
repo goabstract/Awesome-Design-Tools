@@ -356,6 +356,7 @@ You can also make a design handoff within Relay, mentioned in the [Design Versio
 
 The creative process can be tough. So if ideas don’t come to your mind right away, try to search for inspiration in the work of other designers. These design inspiration sites feature design patterns, user flows, email markups and creative solutions of popular companies and great products:
 
+- [A1 Gallery](https://www.a1.gallery) — hand-curated gallery of 1,000+ websites with filtering across technology stack, font, style, colour, creator, type, and category — all combinable. Updated daily. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Behance](https://www.behance.net/) — an online platform to showcase & discover creative work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from Daily UI & beyond. Based on Dribbble shots, 14419 handpicked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

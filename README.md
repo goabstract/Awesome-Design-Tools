@@ -499,6 +499,7 @@ This section mentions development tools and browsers. Development browsers have 
 - [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps.
 - [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Styleguidist](https://github.com/styleguidist/react-styleguidist) — isolated React component development environment with a living style guide. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ZapTools](https://zaptools.web.app) — a collection of 117+ free browser-based developer and design tools including CSS generators, color tools, SVG optimizer, image compressor and more. No signup required. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

@@ -308,6 +308,7 @@ How do you provide and get feedback during the development process? This process
 
 - [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [GoVisually](https://govisually.com) — online proofing, design review & approval software.
+- [onUI](https://onui.dev/) — a browser extension for annotation-first UI pair programming with AI agents. Annotate, draw, and leave feedback directly on any live website or web app with MCP integration for Claude Code, Cursor, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/onllm-dev/onUI)
   <div class="banner banner--yellow">
 
 </article>

@@ -495,6 +495,7 @@ This section mentions development tools and browsers. Development browsers have 
 
 - [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster.
 - [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ImageMinify](https://github.com/Moresl/ImageMinify) — a free, open-source batch image compression tool for Windows, supporting JPEG, PNG, and WebP formats with MozJPEG and imagequant integration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/Moresl/ImageMinify)
 - [Litmus](https://litmus.com/) — an email campaign creation platform that, amongst other things, lets you see how HTML emails will appear in a wide variety of email clients.
 - [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps.
 - [Storybook](https://storybook.js.org/) — an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

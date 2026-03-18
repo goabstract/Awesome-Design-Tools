@@ -983,6 +983,7 @@ Sound design is an art of creating a soundscape for a site, app, movie, game or 
 
 Need a high-quality photo for iOS app or new banner? You can always shoot it yourself or borrow from the stock photo sites. Luckily, there are hundreds of beautiful, free stock photos and royalty-free images that you can use for any project:
 
+- [NanoBanana2](https://nanobanana2.com) — Free AI image generator with trend-aware templates and multiple AI models. Supports text-to-image, editing, background removal, and upscaling.
 - [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Duotone](https://duotone.shapefactory.co/) — free duotone images to use in any project, or make custom duotone images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Death to Stock](https://deathtothestockphoto.com/) — paid-for stock photo service with a mailing list for occasional free packs, and a focus on not looking like stock photography.

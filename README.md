@@ -255,6 +255,7 @@ You can also have design collaboration into [InVision Freehand](https://www.invi
 
 If you are looking for an eyedropper tool, color identifier or color capture, check this section. With the color pickers mentioned here, you will be able to create new color combinations and define great ones. Almost all of these tools are free:
 
+- [Anytools](https://anytools.io) — a free, browser-based suite of 40+ utilities including color palette generator, gradient builder, contrast checker, and color converter, alongside developer tools and calculators. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [BrandColors](https://brandcolors.net/) — the biggest collection of official brand color codes around. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Calcolor](https://calcolor.co) — a web-based color palette management tool which provides a new way to interact with digital colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

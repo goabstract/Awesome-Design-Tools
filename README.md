@@ -906,6 +906,7 @@ Taking screenshots is a typical task in the design & development workflow. So th
 - [Lighshot](https://itunes.apple.com/us/app/lightshot-screenshot/id526298438) — taking quick captures of your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [OBS](https://obsproject.com/) — open source software for video recording and live streaming. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+- [PageShot](https://pageshot.site) — free webpage screenshot API that renders any URL as PNG. No API key required. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [ScreenFlow](http://www.telestream.net/screenflow/overview.htm) — video editing and screen recording
   software for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -948,6 +949,7 @@ Often marketing teams need well-design materials. It can be different banners, p
 
 - [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert!
 - [Crello](https://crello.com/) — create own designs: posts, covers, graphics, and posters using the best software on the web.
+- [OGForge](https://ogforge.dev) — free Open Graph image generator API for creating social media preview images programmatically. No API key required. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pablo by Buffer](https://pablo.buffer.com/) — design engaging images for your social media posts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

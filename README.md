@@ -774,6 +774,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Mockup World](https://www.mockupworld.co/) — tons of free and legal, fully layered, easily customizable photo realistic PSDs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mockups For Free](https://mockupsforfree.com/) — free design resources, PSD files for graphic and web designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mockuuups](https://mockuuups.studio/) — drag-and-drop tool for creating beautiful app previews or any marketing materials.
+- [Picefy](https://picefy.davrapps.dev) — transform screenshots into polished device mockups with custom backgrounds, shadows, and padding. Free, no signup, 100% in-browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mock Video](https://www.mock.video/) — instantly create mockups by adding a device frame to your videos.
 - [Moqups](https://moqups.com/) — helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.
 - [Original Mockups](https://originalmockups.com/) — high-quality mockups for Photoshop that make your designs stand out.

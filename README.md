@@ -5,6 +5,7 @@
 - [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
 - [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md)
 - [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for design workflow orchestration, automated creative tool management, and multi-agent coordination. MIT licensed.
 
 <p align="center">
     <a href="https://flawlessapp.io/designtools">

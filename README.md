@@ -84,6 +84,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 - [Visual Debugging Tools](#visual-debugging-tools)
 - [Wireframing Tools](#wireframing-tools)
 - [3D Modeling Software](#three-d-modeling-software)
+- [AI Design Skills & Personas](#ai-design-skills--personas)
 
 </div>
 
@@ -1224,6 +1225,16 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 - [Tinkercad](https://www.tinkercad.com) — a free, easy-to-use app for 3D design, electronics, and coding. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Vectary](https://www.vectary.com/) — create beautiful 3D models with our drag and drop 3D modeling tool.
 - [3D Slash](https://www.3dslash.net) — 3D modeling tool, available on all devices and all OS, online and offline.
+
+</article>
+
+<article id="ai-design-skills--personas">
+
+### AI Design Skills & Personas
+
+AI skills and personas are reusable instructions that teach AI agents how to perform specific design tasks. These marketplaces help designers discover and share AI-powered workflows:
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) — open marketplace for discovering, sharing, and selling AI skills and personas built on the open-source OpenClaw standard.
 
 </article>
 

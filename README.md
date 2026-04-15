@@ -461,6 +461,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 - [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
 - [Wix](https://www.wix.com/) — the easiest and fullest-featured website builder, that allows you to create your own highly customized site.
 - [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever.
+- [Mimic AI](https://github.com/miapre/mimic-ai) — transforms HTML into Figma using only your design system, enforcing correct component usage and falling back safely when needed, while improving accuracy with every build. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 </article>
 

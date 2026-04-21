@@ -834,6 +834,7 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 - [Pixel art to CSS](https://www.pixelartcss.com/) — pixel art animation and drawing web app powered by React. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Poxi](http://app.poxi.rocks/) — a flat pixel art editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Pyxel Edit](https://pyxeledit.com/) — a pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+- [Ugh.design](https://ugh.design/) — real-time dither design generator with multiple algorithms (Atkinson, Floyd-Steinberg, halftone and more), parameter controls, and SVG/PNG export. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

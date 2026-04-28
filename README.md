@@ -491,6 +491,8 @@ Developers actively use version control tools for a long time, probably since 20
 
 ### Development Tools
 
+- [30tools](https://30tools.com) — 660+ free browser-based tools including CSS gradient generator, box-shadow editor, color converter, image compressor, favicon generator, and more. Open source. ![free](https://github.com/nicedoc/awesome-design-tools/blob/master/Media/free.svg) ![open-source](https://github.com/nicedoc/awesome-design-tools/blob/master/Media/open-source.svg)
+
 This section mentions development tools and browsers. Development browsers have features that help developers and designers create and test websites and apps.
 
 - [Blisk](https://blisk.io) — provides a development workspace to develop and test modern web applications twice faster.

@@ -253,6 +253,10 @@ You can also have design collaboration into [InVision Freehand](https://www.invi
 
 ### Color Picker Tools
 
+- [TinyTools — Color Palette Generator](https://tinytools-smoky.vercel.app/color-palette/) - Generate analogous, complementary, triadic, monochromatic palettes from any base color. Export as CSS, Tailwind, JSON, SCSS. Free, no signup.
+- [TinyTools — Favicon Generator](https://tinytools-smoky.vercel.app/favicon-generator/) - Complete favicon set (16/32/48/96/180/192/512 PNGs + manifest.json) from text, emoji, or image. Downloads as ZIP. Free, no signup.
+- [TinyTools — OG Image Generator](https://tinytools-smoky.vercel.app/og-image-generator/) - Make beautiful 1200×630 social card images for Twitter/LinkedIn/Facebook. 8 templates, 8 themes, pure browser canvas. Free, no signup.
+
 If you are looking for an eyedropper tool, color identifier or color capture, check this section. With the color pickers mentioned here, you will be able to create new color combinations and define great ones. Almost all of these tools are free:
 
 - [BrandColors](https://brandcolors.net/) — the biggest collection of official brand color codes around. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -1234,3 +1238,4 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Thanks for making this project awesome :)
 
 </article>
+

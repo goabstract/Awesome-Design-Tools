@@ -257,6 +257,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 
 - [BrandColors](https://brandcolors.net/) — the biggest collection of official brand color codes around. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Calcolor](https://calcolor.co) — a web-based color palette management tool which provides a new way to interact with digital colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Chinese Color Atlas](https://github.com/chroma-cathy/chinese-color-atlas) — open-source Chinese traditional color palette with design tokens, CSS variables, Tailwind theme, Figma samples, and Procreate swatches. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Chroma](https://chroma.spencerhamm.com/) — free web app which allows you to identify the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Color](https://color.adobe.com/explore/?filter=most-popular&time=month) — create color schemes with the color wheel or browse thousands of color combinations from the Color community. Made by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Color by Cloudflare](https://cloudflare.design/color/) — a tool to preview palettes against UI elements, cycle through accessible color combos and create palettes manually, via URL import, or generatively.

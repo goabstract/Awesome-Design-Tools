@@ -1055,6 +1055,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 - [Design+Code](https://designcode.io/) — complete courses about the best tools and design systems.
 - [DesignerUp](https://designerup.co/) — a collection of self-paced courses and mentorship to help you master Product Design (UI/UX).
 - [Figma Training](https://www.figmatraining.com) — a crash course all about Figma, for UI designers.
+- [Gesturo](https://gesturo.fr) — gesture drawing app with 1,900+ live model photos, precise timer (30s-10min), animation and cinema modes. Helps designers, illustrators and concept artists build a daily figure drawing habit. Native apps for Mac, Windows, iOS, Android. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Interaction Design Foundation](https://www.interaction-design.org/) — a website that is the industry well known for learning UX/UI skills.
 - [Laws of UX](https://lawsofux.com/) — a collection of the maxims and principles that designers can consider when building user interfaces. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Learn UX](https://learnux.io/) — a complete approach to learning UI & UX Tools.

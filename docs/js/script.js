@@ -12,10 +12,6 @@ function toggleMenuChange() {
     .classList.toggle('hamburger-menu--change');
 }
 
-document.querySelector('.hamburger-menu').onclick = function() {
-  toggleMenuChange();
-};
-
 
 class Nav {
   constructor(navElements, activeClass) {

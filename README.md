@@ -214,6 +214,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 - [Droplr](https://droplr.com/) — screenshot, file sharing and screencasts to help you capture and explain your ideas.
 - [Excalidraw](https://excalidraw.com/) — a whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Filestage](https://filestage.io/) — an agile content approval software that helps you to review videos, designs, and documents with clients and co-workers.
+- [eResource Scheduler](https://www.eresourcescheduler.com/) — an all-in-one resource management software that combines scheduling, capacity planning, timesheets, and reporting to keep projects on track.
 - [Float](https://www.float.com/) — a tool to plan your projects and schedule your team’s time all in one place.
 - [Gallery](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with screenshots. It makes it easier to monitor the productivity of remote employees and manage projects.

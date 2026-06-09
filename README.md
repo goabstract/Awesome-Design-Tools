@@ -546,6 +546,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [DaFont](https://www.dafont.com/) — archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Emotype](http://emotype.webflow.io/) — makes it easy to find fonts based on the emotions you want to convey on your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontbase](https://fontba.se/) — font management made easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [FontBoxDL](https://fontboxdl.com/) — a free font library with 60,000+ typefaces plus font tools (fancy text, font-to-SVG for Cricut), instant download, no signup. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FontFabric](https://www.fontfabric.com/) — gorgeous interface and good collection. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
 - [FontPair](https://fontpair.co/) — a simple tool that helps you pair Google Fonts together. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

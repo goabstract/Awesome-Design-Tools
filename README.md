@@ -624,6 +624,7 @@ You can also create and audit gradients with Leonardo, which is mentioned in the
 
 As well as fonts, icons are used in every design. These basic elements support and guide many user actions inside the product. Without a doubt, icons are a vital element in user navigation. While making those small design elements is hard and time-consuming, you can get thousands of vector icons for personal and commercial use.
 
+- [AI Logo Collection](https://ailogocollection.com) — free SVG & PNG logos for 300+ AI companies including OpenAI, Anthropic, Midjourney, and more. ![free.svg](Media/free.svg)
 - [Animaticons](http://animaticons.co/) — a growing set of beautiful, high-resolution, animated GIF icons that you can customize.
 - [CoreUI Icons](https://coreui.io/icons/) — premium designed free icon set with marks in SVG, Webfont and raster formats. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Digital Nomad Icons](http://digitalnomadicons.com/) — lifestyle icon & emoji pack for your next project. 25 high-resolution flat icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

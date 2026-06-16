@@ -783,6 +783,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Rotato](https://www.rotato.xyz/) — animated 3D mockups for your app designs. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [SceneLab](https://scenelab.io) — create realistic mockups and customized brand designs online.
 - [Screely](https://www.screely.com/) — quickly frame web page designs into a minimalist browser window. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Screenshot Resizer](https://screenshotresizer.com/) — resize iPhone and iPad screenshots to App Store Connect sizes, add device frames, backgrounds and marketing text, all in the browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ScreenSpace](https://www.screenspace.io/) — 3D devices videos for motion designer.
 - [Screenzy](https://screenzy.io) — instantly transform your pictures and screenshots into beautiful mockups ready to be shared on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Screeener](https://github.com/zehfernandes/screeener) — use this app to insert a bunch of images to a keynote file, using the mockup you choose.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

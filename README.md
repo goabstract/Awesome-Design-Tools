@@ -308,7 +308,8 @@ How do you provide and get feedback during the development process? This process
 
 - [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [GoVisually](https://govisually.com) — online proofing, design review & approval software.
-  <div class="banner banner--yellow">
+- - [imgi](https://imgi.co) — compare two images with a before/after slider to review edits and gather visual feedback. Permanent share link, embed, and GIF/MP4 export. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+  -   <div class="banner banner--yellow">
 
 </article>
 

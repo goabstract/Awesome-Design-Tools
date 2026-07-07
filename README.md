@@ -981,6 +981,7 @@ Sound design is an art of creating a soundscape for a site, app, movie, game or 
 
 ### Stock Photos Tools
 
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG image converter that runs entirely in the browser. No signup, no upload, no installation.
 Need a high-quality photo for iOS app or new banner? You can always shoot it yourself or borrow from the stock photo sites. Luckily, there are hundreds of beautiful, free stock photos and royalty-free images that you can use for any project:
 
 - [Burst](https://burst.shopify.com/) — free stock photos for websites and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

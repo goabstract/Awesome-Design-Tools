@@ -788,6 +788,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Screeener](https://github.com/zehfernandes/screeener) — use this app to insert a bunch of images to a keynote file, using the mockup you choose.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 - [shotsnapp](https://shotsnapp.com/) — create beautiful device mockup presentation for your digital app and website design.
+- [TextFaker](https://textfaker.com/) — create realistic iPhone-style text message screenshots for app demos, lessons, stories, and UI mockups. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/IgorShadurin/textfaker.com)
 - [The Mockup Club](https://themockup.club/) — a directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Threed](http://threed.io/) — generate custom 3D Device Mockups in your Browser.
 - [UI Store Design](https://www.uistore.design/) — 200+ free handpicked design resources for Sketch, Figma, Adobe XD, InVision Studio, Photoshop, Illustrator CC. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

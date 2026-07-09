@@ -817,6 +817,9 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 
 </article>
 
+
+- [MergeFrame](https://mergeframe.com) — free online image grid tool for combining images into clean, customizable grids with 4K export. No signup, no watermark, all processing happens locally. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
 <article id="pixel-art-tools">
 
 ### Pixel Art Tools

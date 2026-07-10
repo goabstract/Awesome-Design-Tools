@@ -761,6 +761,7 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 A mockup is a visual way of representing the product. While a wireframe mostly represents a product’s structure, a mockup shows how the product is going to look like. These mockup tools that help you create and collaborate on mockups, wireframes, diagrams, and prototypes:
 
+- [App Doodler](https://doodler.copymyui.com/) — create multilingual App Store screenshot sets from reusable layouts and translation files. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/IgorShadurin/app-doodler)
 - [Artboard Studio](https://artboard.studio/) — online graphic design application mainly focused on product mockups.
 - [Cleanmock](https://cleanmock.com) — create stunning mockups using the latest device frames like iPhone & custom backgrounds.
 - [Craftwork Design](https://craftwork.design/) — free and premium high-quality digital products that make your work faster and easier.

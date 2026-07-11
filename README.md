@@ -382,6 +382,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [Typewolf](https://www.typewolf.com/) — helps designers choose the perfect font combination for their next design project.
 - [UI Garage](https://uigarage.net/) — the one-stop shop for designers, developers, and marketers to find inspiration, tools and the best resources.
 - [UI Sources](https://www.uisources.com/) — over 500+ interactions from the best designed and top-grossing apps on the App Store today. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [UIZZE](https://uizze.com/) — public catalog of real web and iOS product UI for developer and AI-agent design inspiration; full access adds hosted MCP workflows for design contracts and validation.
 - [UI Recipes](https://uirecipes.com/) — weekly 15 min lessons on UI design from the hottest apps.
 - [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, searching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Waveguide](https://www.waveguide.io/) — a design knowledge bank with thousands of artificially enriched examples of product and brand experience (examples of Mobile App, Landing pages, eCommerce, CX/UX Patterns).

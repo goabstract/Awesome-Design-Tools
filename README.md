@@ -775,6 +775,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Mockups For Free](https://mockupsforfree.com/) — free design resources, PSD files for graphic and web designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mockuuups](https://mockuuups.studio/) — drag-and-drop tool for creating beautiful app previews or any marketing materials.
 - [Mock Video](https://www.mock.video/) — instantly create mockups by adding a device frame to your videos.
+- [Moonshot](https://ameeramer.github.io/) — wrap screenshots in device frames and gradient backdrops, entirely in the browser with nothing uploaded.
 - [Moqups](https://moqups.com/) — helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.
 - [Original Mockups](https://originalmockups.com/) — high-quality mockups for Photoshop that make your designs stand out.
 - [Overframe for Mac](https://overframe.xyz/) — record your prototype & app with device frame overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

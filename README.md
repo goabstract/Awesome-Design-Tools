@@ -101,7 +101,7 @@ Accessibility is the practice of creating websites and apps usable for all peopl
 - [AChecker](https://achecker.ca) — accessibility testing web app used to evaluate HTML content for accessibility problems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) — accessibility testing tool for web content (bookmarklet). It will automatically detect accessibility issues, give suggestions to improve online accessibility and check 508 compliance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/SSAgov/ANDI)
 - [Axe](https://www.deque.com/axe/) — accessibility engine designed to work on all modern browsers and with whatever tools, frameworks, libraries, and environments you use today. It's an automated accessibility testing tool for developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/dequelabs/axe-core)
-- [ColorBox](http://www.colorbox.io/) — a web app that algorithmically builds accessible color systems. Done by the Lyft Design team. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ColorBox](https://www.colorbox.io/) — a web app that algorithmically builds accessible color systems. Done by the Lyft Design team. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colorable](https://colorable.jxnblk.com/) — a free web-based contrast tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Color Oracle](https://colororacle.org/) — a free color blindness simulator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Contrast](https://usecontrast.com/) — a macOS app for designers and developers to get quick access to WCAG color contrast ratios. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -110,13 +110,13 @@ Accessibility is the practice of creating websites and apps usable for all peopl
 - [Inclusive Design](https://www.microsoft.com/design/inclusive/) — a methodology and a set of tools provided by the Microsoft team.
 - [Hex Naw](https://hexnaw.com/) — helps you to test entire color systems for contrast and accessibility. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Leonardo](https://leonardocolor.io) - generate color palettes by desired WCAG contrast ratio. Open source web tool & npm module for designers and engineers. Made by Adobe. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg)
-- [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting. It's an accessibility developer tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+- [PA11Y](https://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting. It's an accessibility developer tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://www.github.com/michelf/sim-daltonism/)
 - [Stark](https://getstark.co/) — a paid Sketch plugin that will let you simulate different types of color blindness. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Toptal’s Color Filter](https://www.toptal.com/designers/colorfilter) — lets you test your website and shows you how people with different color blindness will see your pages. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [tota11y](http://khan.github.io/tota11y/) — an accessibility visualization toolkit. Interesting fact: inside the tool name you can see "a11y". It's an abbreviation of accessibility as "a" followed by 11 more letters, followed by "y". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [tota11y](https://khan.github.io/tota11y/) — an accessibility visualization toolkit. Interesting fact: inside the tool name you can see "a11y". It's an abbreviation of accessibility as "a" followed by 11 more letters, followed by "y". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [WAVE](https://wave.webaim.org/) — allows you to evaluate web content for accessibility issues directly within Chrome and Firefox. It's a web accessibility checker. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [90 Examples](http://clrs.cc/a11y/) — a free collection of accessible color themes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [90 Examples](https://clrs.cc/a11y/) — a free collection of accessible color themes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">
 
@@ -132,7 +132,7 @@ Accessibility checking features are also available in VisBug from the [Visual De
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33Q3AC0">
+        <a href="https://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -198,7 +198,7 @@ Augmented Reality is a technology that upgrades our real world, by adding a laye
 <!---
 <div class="hidden-in-page">
 <p align="center">
- <a href="http://bit.ly/2ZwUoEq">
+ <a href="https://bit.ly/2ZwUoEq">
      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
  </a>
 </p>
@@ -262,12 +262,12 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 - [Color by Cloudflare](https://cloudflare.design/color/) — a tool to preview palettes against UI elements, cycle through accessible color combos and create palettes manually, via URL import, or generatively.
 - [Color Deck](https://color.obscuredetour.com/) — an HSL driven color palette collection. It's also open-source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/obscuredetour/color-deck)
 - [Color Hexa](https://www.colorhexa.com/) — free color tool providing information about any color and generating matching color palettes for designs.
-- [Color Hex Picker](http://colorhexpicker.com/) - a tool for getting the name of any color from any image. You also get the HEX code and RGB value for the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Color Hex Picker](https://colorhexpicker.com/) - a tool for getting the name of any color from any image. You also get the HEX code and RGB value for the color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Color Hunt](https://colorhunt.co/) — free and open platform for color inspiration with thousands of trendy hand-picked color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ColorKit](https://colorkit.io) — a tool for blending colors and generating a color's shades and tints. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Color Leap](https://colorleap.app) — leap through time and see the colors of history. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colorpicker](https://colorpicker.crea-th.at/) — a complete and open-source color manipulation tool with picking. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-- [ColorSlurp](http://colorslurp.com/) — the ultimate color productivity booster for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [ColorSlurp](https://colorslurp.com/) — the ultimate color productivity booster for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [ColorsWall/](https://colorswall.com/) — place to store your color palettes or easy generate. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colorwise](https://www.colorwise.io/) — search through the color palettes of the most voted products on Product Hunt. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colour Cafe](https://www.instagram.com/colours.cafe/) — colors inspiration that has selected a modern color palette on Instagram. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -276,16 +276,16 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 - [Culrs](https://culrs.com/#/) — thoughtfully crafted and easy-to-use color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Geenes](https://geenes.app) — a tool to create harmonious color themes with code and sketch file export.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Image Color Picker](https://image-color.com) — image color picker and color scheme generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Instant Eyedropper](http://instant-eyedropper.com/) — a minimalist eyedropper tool for windows, supports multiple color formats for both designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Just Color Picker](http://annystudio.com/software/colorpicker/) — Free portable offline color picker and color editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Khroma](http://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
+- [Instant Eyedropper](https://instant-eyedropper.com/) — a minimalist eyedropper tool for windows, supports multiple color formats for both designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Just Color Picker](https://annystudio.com/software/colorpicker/) — Free portable offline color picker and color editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Khroma](https://khroma.co/) — AI-based tool to generate color palettes based on your preferences.
 - [Material Colors Native](https://github.com/BafS/Material-Colors-native) — Google's material design color palette in the form of a mac app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Material Design Palette Generator](https://materialpalettes.com/) — get perfect Material Design color palettes from any hex color. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Paletton](https://paletton.com) — a designer tool for creating color combinations that work together well. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Picular](https://picular.co/) — a rocket fast primary color generator using Google's image search. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pigment](https://pigment.shapefactory.co/) — a color palette generator with innumerable color configurations suggested by the app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pikka](https://itunes.apple.com/us/app/pikka-color-picker/id1195076754) — color picker & color schemes generator for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-- [React Color](http://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome. It‘s free and open-source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/casesandberg/react-color/)
+- [React Color](https://casesandberg.github.io/react-color/) — a collection of color pickers from Sketch, Photoshop, Chrome. It‘s free and open-source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/casesandberg/react-color/)
 - [Sip](https://sipapp.io/) — a better way to collect, organize and share colors. Global eyedropper tool for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
@@ -348,7 +348,7 @@ You can also make a design handoff within Relay, mentioned in the [Design Versio
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VQVTJ8">
+        <a href="https://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
@@ -358,12 +358,12 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 
 - [Behance](https://www.behance.net/) — an online platform to showcase & discover creative work. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from Daily UI & beyond. Based on Dribbble shots, 14419 handpicked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Creative Portfolios](http://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.
+- [Collect UI](https://collectui.com/) — a platform for your daily inspiration collected from Daily UI & beyond. Based on Dribbble shots, 14419 handpicked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Creative Portfolios](https://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.
 - [Design Hunt](https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8) — a daily collection of the best products, apps, and inspirations for all creatives. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Dribbble](https://dribbble.com/) — an online community for showcasing user-made artwork. A great resource to get inspired by others work.
 - [Ficture](https://ficture.design/) — a font in use archive that will inspire you. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Inspiration UI](http://inspirationui.com/) — a community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Inspiration UI](https://inspirationui.com/) — a community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Hover States](https://hoverstat.es/) — showcase great work from the bleeding edge of digital culture for, and with, the creative community.
 - [Httpster](https://httpster.net/) — an inspiration resource showcasing rocking websites made by people from all over the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [H69.Design](https://www.h69.design/) — landing page colletions & Free resources for designers.
@@ -383,7 +383,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [UI Garage](https://uigarage.net/) — the one-stop shop for designers, developers, and marketers to find inspiration, tools and the best resources.
 - [UI Sources](https://www.uisources.com/) — over 500+ interactions from the best designed and top-grossing apps on the App Store today. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [UI Recipes](https://uirecipes.com/) — weekly 15 min lessons on UI design from the hottest apps.
-- [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, searching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [UX Archive](https://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, searching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Waveguide](https://www.waveguide.io/) — a design knowledge bank with thousands of artificially enriched examples of product and brand experience (examples of Mobile App, Landing pages, eCommerce, CX/UX Patterns).
 - [Web Design Museum](https://www.webdesignmuseum.org/) — over 1,200 carefully selected web sites that show web design trends between the years 1994 and 2006.
 
@@ -395,7 +395,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33Q3AC0">
+        <a href="https://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -435,7 +435,7 @@ We can also add to this in Sketch, Figma, UXPin and Framer X ([Framer X Team Sto
 
 <!-- <div class="hidden-in-page">
 <p align="center">
- <a href="http://bit.ly/2ZwUoEq">
+ <a href="https://bit.ly/2ZwUoEq">
      <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/SuperNova.png" alt="Supernova"/>
  </a>
 </p>
@@ -470,7 +470,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33Q3AC0">
+        <a href="https://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -479,7 +479,7 @@ Everyone can learn development but it takes time and effort. If you need a websi
 Developers actively use version control tools for a long time, probably since 2005 (Git first release). Using a version control system is no brainer for dev teams, while the design version control system appeared only recently. This market is rapidly developing and we expect to see even more in version control for designers:
 
 - [Abstract](https://www.abstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
-- [Folio](http://folioformac.com/) — a simple version control system for design teams based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [Folio](https://folioformac.com/) — a simple version control system for design teams based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Kactus](https://kactus.io/) — design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Plant](https://plantapp.io/) — Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Relay for Figma](https://relay.graphics/) — Relay pushes your latest assets from Figma directly to your codebase (not released yet).
@@ -504,7 +504,7 @@ This section mentions development tools and browsers. Development browsers have 
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/35I1q9q">
+        <a href="https://bit.ly/35I1q9q">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
         </a>
     </p>
@@ -544,7 +544,7 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [BeFonts](https://befonts.com/) — a Decent collection of free fonts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Behance Free Fonts](https://www.behance.net/search/?search=free%20font) — a list of free fonts uploaded on Behance. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [DaFont](https://www.dafont.com/) — archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Emotype](http://emotype.webflow.io/) — makes it easy to find fonts based on the emotions you want to convey on your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Emotype](https://emotype.webflow.io/) — makes it easy to find fonts based on the emotions you want to convey on your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontbase](https://fontba.se/) — font management made easy. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FontFabric](https://www.fontfabric.com/) — gorgeous interface and good collection. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fontface Ninja](https://fontface.ninja/) — browser extension to discover what fonts are being used on any website.
@@ -558,10 +558,10 @@ Fonts are commonly used for making the web a more beautiful place. It’s an ess
 - [Font Squirrel](https://www.fontsquirrel.com/fonts/acherus-grotesque) — download free fonts with wide collections.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Google Fonts](https://fonts.google.com/) — making the web more beautiful, fast, and open through great typography. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) — a hassle way to self-host Google Fonts. It‘s free and open-source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/majodev/google-webfonts-helper/)
-- [LostType](http://losttype.com/) — the first Pay-What-You-Want type foundry.
+- [LostType](https://losttype.com/) — the first Pay-What-You-Want type foundry.
 - [Measure](https://chrome.google.com/webstore/detail/measure/bbompmbliibpeaaloikpoahdokhjdmeg) — measure typographic line lengths with this browser extension for Chrome. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [RightFont](https://rightfontapp.com/) — font managing app, helps preview, sync, install and organize fonts over iCloud, Dropbox or Google Drive. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-- [Sans Forgetica](http://sansforgetica.rmit/) — a downloadable font that is scientifically designed to help you remember your study notes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Sans Forgetica](https://sansforgetica.rmit/) — a downloadable font that is scientifically designed to help you remember your study notes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Size Calculator](https://sizecalc.com/) — calculate the perceived size using viewing distance and physical size of the printed typography. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Typeface](https://typefaceapp.com/) — font manager that improves your design workflow with live font previews and flexible tagging. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Wakamai Fondue](https://wakamaifondue.com/) — the tool that answers the question "what can my font do?". ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -577,7 +577,7 @@ You can also handle fonts with Specify, which is mentioned in the [Design System
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33Q3AC0">
+        <a href="https://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -591,7 +591,7 @@ You can also handle fonts with Specify, which is mentioned in the [Design System
 
 You can see gradient colors are everywhere — UI, branding, illustration, typography. A gradient is created by using two or more different colors to paint one element while gradually fading between them. It might look as a memorable, fresh and unique color. To make such a gradient for your design, use these gradient color palettes.
 
-- [Blend](http://www.colinkeany.com/blend/) — create and customize beautiful CSS3 gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Blend](https://www.colinkeany.com/blend/) — create and customize beautiful CSS3 gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colorffy](https://www.colorffy.com/) — get CSS, images, UI previews or create own gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Colors & Fonts](https://www.colorsandfonts.com/) — a curated library of colors, gradients and fonts for digital designers and web developers.![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ColorSpace](https://mycolor.space/) — the perfect matching color scheme for your next project! Generate nice color palettes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -605,7 +605,7 @@ You can see gradient colors are everywhere — UI, branding, illustration, typog
 - [GradientsList](https://www.gradientslist.com) — a largest crowdsourced collection of gradients, with daily contributions from users on [Gradients Maker for iOS](https://itunes.apple.com/app/apple-store/id1442380225?pt=117877769&ct=gh&mt=8) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Gradient Generator](https://colordesigner.io/gradient-generator) — a tool that generates a stepped gradient between two colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Gradient Hunt](https://gradienthunt.com/) — a free and open platform for color inspiration with thousands of trendy hand-made color gradients. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-- [Gradients Guru](http://gradientsguru.com/) — blend mode background images & beautiful background gradients for your UI. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Gradients Guru](https://gradientsguru.com/) — blend mode background images & beautiful background gradients for your UI. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [HtmlColours](https://htmlcolors.com/) — realize how easy and beautiful it is to create gradients with this gradient generator. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [UI Gradients](https://uigradients.com/) — handpicked collection of beautiful color gradients for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Web Gradients](https://webgradients.com/) — a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -624,14 +624,14 @@ You can also create and audit gradients with Leonardo, which is mentioned in the
 
 As well as fonts, icons are used in every design. These basic elements support and guide many user actions inside the product. Without a doubt, icons are a vital element in user navigation. While making those small design elements is hard and time-consuming, you can get thousands of vector icons for personal and commercial use.
 
-- [Animaticons](http://animaticons.co/) — a growing set of beautiful, high-resolution, animated GIF icons that you can customize.
+- [Animaticons](https://animaticons.co/) — a growing set of beautiful, high-resolution, animated GIF icons that you can customize.
 - [CoreUI Icons](https://coreui.io/icons/) — premium designed free icon set with marks in SVG, Webfont and raster formats. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-- [Digital Nomad Icons](http://digitalnomadicons.com/) — lifestyle icon & emoji pack for your next project. 25 high-resolution flat icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Digital Nomad Icons](https://digitalnomadicons.com/) — lifestyle icon & emoji pack for your next project. 25 high-resolution flat icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Essential Glyphs](https://interface.market/essential/basic-pack) — created to cover your needs in perfect-shaped icons. Adapted for small and large sizes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Feather Icons](https://feathericons.com/) — each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and readability. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Flaticon](https://www.flaticon.com/) — 1593000+ vector icons in SVG, PSD, PNG, EPS format or as icon font.
 - [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome)
-- [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello)
+- [Fontello](https://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello)
 - [Freepik](https://www.freepik.com) — collection of exclusive freebies and all graphic resources that you need for your projects.
 - [Iconscout](https://iconscout.com/) — get high-quality Icons, Illustrations and Stock photos at one place.
 - [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
@@ -653,8 +653,8 @@ As well as fonts, icons are used in every design. These basic elements support a
 - [Orion Icons](https://orioniconlibrary.com/all-icons) — SVG vector icons with an advanced interactive web app.
 - [Simple Icons](https://simpleicons.org/) — free SVG icons for popular brands. Simply click the icon you want, and the download should start automatically. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Share Icon](https://www.shareicon.net/) — more than 300 000 free download icons in different formats. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Streamline Emoji](http://emoji.streamlineicons.com/) — a free collection of 850 + vector emoji. The style is inspired by the japanese “Kawaii” (cute) style. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Svgsus](http://www.svgs.us/) — SVG icon management tool. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [Streamline Emoji](https://emoji.streamlineicons.com/) — a free collection of 850 + vector emoji. The style is inspired by the japanese “Kawaii” (cute) style. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Svgsus](https://www.svgs.us/) — SVG icon management tool. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [SVG Colorizer](https://www.iconshock.com/svg-color/) — a tool to automatically change the entire color palette of any given SVG icon pack intelligently keeping the shades, highlights & shadows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SVGRepo](https://www.svgrepo.com/) — a site with 300.000+ SVG Vectors and Icons.
 - [Tilda Icons](https://tilda.cc/free-icons/) — download free icons for landing pages. More than 700 vector icons, collected in 43 sets for business. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -678,7 +678,7 @@ You can also handle icons with Specify, which is mentioned in the [Design System
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VQVTJ8">
+        <a href="https://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
@@ -735,7 +735,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 - [Logo Maker](https://www.designhill.com/tools/logo-maker) by Designhill — generate 1000s of unique logos in only few minutes, without design expertise.
 - [Logo Makr](https://logomakr.com/) — design a logo for free, choose from hundreds of fonts and icons, then save a logo on the computer. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Logo My Way](https://www.logomyway.com/) — choose from 600 custom logo designs from creative designers worldwide.
-- [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
+- [Logo Package Express](https://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 - [Logo Rank](https://brandmark.io/logo-rank/) — upload your logo to see how it rates on a number of objective measures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Wizlogo](https://wizlogo.com/) — create a logo with a simple and affordable tool backed by professional designers.
 
@@ -753,7 +753,7 @@ You can also do your logo design with Adobe Photoshop, GIMP, Inkscape, Krita and
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33KtOpN">
+        <a href="https://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
@@ -789,7 +789,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Smartmockups](https://smartmockups.com/) — create stunning product mockups with just a few clicks.
 - [shotsnapp](https://shotsnapp.com/) — create beautiful device mockup presentation for your digital app and website design.
 - [The Mockup Club](https://themockup.club/) — a directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Threed](http://threed.io/) — generate custom 3D Device Mockups in your Browser.
+- [Threed](https://threed.io/) — generate custom 3D Device Mockups in your Browser.
 - [UI Store Design](https://www.uistore.design/) — 200+ free handpicked design resources for Sketch, Figma, Adobe XD, InVision Studio, Photoshop, Illustrator CC. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [UI8 — Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -825,21 +825,21 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 
 - [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Data Pixels](https://github.com/gmattie/Data-Pixels) — create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-- [Draw!](http://www.drawbang.com/) — open-source and free web-based pixel art and GIF editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+- [Draw!](https://www.drawbang.com/) — open-source and free web-based pixel art and GIF editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Grafx2](https://gitlab.com/GrafX2/grafX2) — a bitmap paint program inspired by the Amiga programs ​Deluxe Paint and Brilliance. Specialized in 256-color drawing. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [GraphicsGale](https://graphicsgale.com/us/) — has many pixel-art specific features, including palette control, selectively erasing colors, and tools for quickly replacing and trying new colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Goya](https://jackschaedler.github.io/goya/) — a pixel-art editor built on ClojureScript and Om. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Make 8 bit art](https://make8bitart.com/) — an open source and in-browser pixel art drawing tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/jennschiffer/make8bitart)
 - [Piskel](https://www.piskelapp.com/) — online editor for animated sprites & pixel art. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Pixel art to CSS](https://www.pixelartcss.com/) — pixel art animation and drawing web app powered by React. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-- [Poxi](http://app.poxi.rocks/) — a flat pixel art editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+- [Poxi](https://app.poxi.rocks/) — a flat pixel art editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Pyxel Edit](https://pyxeledit.com/) — a pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 
 </article>
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33KtOpN">
+        <a href="https://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
@@ -887,7 +887,7 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/2VQVTJ8">
+        <a href="https://bit.ly/2VQVTJ8">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Porkbun.png" alt="Porkbun"/>
         </a>
     </p>
@@ -907,7 +907,7 @@ Taking screenshots is a typical task in the design & development workflow. So th
 - [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12) — create screenshots, annotate and upload them to the cloud. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [OBS](https://obsproject.com/) — open source software for video recording and live streaming. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Quicktime](https://support.apple.com/quicktime) — a video player that you can use to record your screen. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-- [ScreenFlow](http://www.telestream.net/screenflow/overview.htm) — video editing and screen recording
+- [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) — video editing and screen recording
   software for Mac. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Screenie](https://www.thnkdev.com/Screenie/) — filter and search through images, change screenshot filetypes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [ScreenshotAPI.net](https://screenshotapi.net) — create pixel-perfect full page website screenshots. ![web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg)
@@ -916,7 +916,7 @@ Taking screenshots is a typical task in the design & development workflow. So th
 - [Shotty](https://meetshotty.com) — a menu bar app that helps you quickly find the screenshot you're looking for so you can drag and drop it into any application. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Snagit](https://www.techsmith.com/screen-capture.html) — capture images and video, create GIFs, annotate, edit, and share.
 - [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots) — Windows free screenshot tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Snappy](http://snappy-app.com/) — takes quick shots and organizes them for you into collections. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+- [Snappy](https://snappy-app.com/) — takes quick shots and organizes them for you into collections. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Teampaper Snap](https://teampaper.me/snap/) — allows you to take screenshots of a selected area. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 </article>
@@ -967,7 +967,7 @@ Sound design is an art of creating a soundscape for a site, app, movie, game or 
 - [Freesound](https://freesound.org/) — a collaborative database of Creative Commons Licensed sounds. Browse, download and share sounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Fugue Music](https://icons8.com/music) — download free background music for your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Max](https://cycling74.com/products/max/) — connect objects with virtual patch cords to create interactive sounds, graphics, and custom effects.
-- [Reaper](http://reaper.fm/) — import any audio and MIDI, synthesize, sample, compose, arrange, edit, mix, and master songs or any other audio projects.
+- [Reaper](https://reaper.fm/) — import any audio and MIDI, synthesize, sample, compose, arrange, edit, mix, and master songs or any other audio projects.
 - [Sonic Pi](https://sonic-pi.net/) — a live coding music synth. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SoundKit](https://soundkit.io/) — a UI sound library designed for all of your interface needs.
 - [UI Sounds](https://uisounds.prototypr.io/) — learn sound design for user interfaces by example.
@@ -988,7 +988,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 - [Death to Stock](https://deathtothestockphoto.com/) — paid-for stock photo service with a mailing list for occasional free packs, and a focus on not looking like stock photography.
 - [FoodiesFeed](https://foodiesfeed.com/) — thousands of beautiful realistic free food pictures in high resolution. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [FreePhotos.cc](https://freephotos.cc/) — free stock photos for commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Freestocks.org](http://freestocks.org/) — high quality photos all released under Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Freestocks.org](https://freestocks.org/) — high quality photos all released under Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Gratisography](https://gratisography.com) — a collection of free high-resolution pictures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Jay Mantri](https://jaymantri.com/) — 7 new photos released every Thursday under the Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Kaboom Pics](https://kaboompics.com/) — stock photos including abstract, city/architecture, fashion, food & landscapes. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -997,26 +997,26 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 - [LoremPixel](https://lorempixel.com/) — an API that serves stock photos at specified sizes and categories. Great for placeholder/user-generated content. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Magdeleine](https://magdeleine.co/) — free high-quality stock photos for your inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Moose](https://photos.icons8.com/) — don't search for stock photos, create them. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [MMT STock](http://mmtstock.com/) — high-resolution photos provided by Jeffrey Betts with Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [MMT STock](https://mmtstock.com/) — high-resolution photos provided by Jeffrey Betts with Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [New Old Stock](https://nos.twnsnd.co/) — a vintage photos from the public archives free of known copyright restrictions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Photo Creator](https://photos.icons8.com/creator) — a free tool for creating realistic stock photos on your demand. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Picography](https://picography.co/) — free stock photos by Dave Meier and various other photographers with Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pixabay](https://pixabay.com/) — sharing photos, illustrations, vector graphics, and film footage under a proprietary license. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Picjumbo](http://picjumbo.com/) — a collection of totally free photos for your commercial & personal works. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Picjumbo](https://picjumbo.com/) — a collection of totally free photos for your commercial & personal works. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pngtree](https://pngtree.com/) — millions of PNG images, backgrounds and vectors for free download. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [pxhere](https://pxhere.com/) — free image stock. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Reshot](https://www.reshot.com/) — a massive library of handpicked free stock photos you won’t find elsewhere. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [ShotStash](https://shotstash.com/) — thousands of free high-resolution CC0 photos and videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SkitterPhoto](https://skitterphoto.com/) — a wide variety of stock photos and are released under Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Startup Stock Photos](http://startupstockphotos.com/) — free photos for startups, bloggers and publishers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Startup Stock Photos](https://startupstockphotos.com/) — free photos for startups, bloggers and publishers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [StockSnap.io](https://stocksnap.io/) — a large selection of free stock photos and high-resolution images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [StyledStock](https://styledstock.co/) — free feminine stock photography for every woman entrepreneur. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [The Gender Spectrum Collection](https://broadlygenderphotos.vice.com/) — a stock photo library featuring images of trans and non-binary models that go beyond the clichés. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [UI Faces](https://uifaces.co/) — an aggregator that indexes various free avatar sources that you can use in your design mockups. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Zoommy](https://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 
@@ -1027,8 +1027,8 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 If you work with video-content, you will enjoy these high-quality, hand-curated stock videos. You'll find many good and free stock video sites below, which you can use on your website, in your ad campaigns or social media:
 
 - [Coverr](https://coverr.co/) — beautiful, free stock video footage for your homepage. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Life of Vids](http://www.lifeofvids.com/) — provides free stock videos, clips, and loops. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Mazwai](http://mazwai.com) — great collection of free creative commons HD video clips & footages. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Life of Vids](https://www.lifeofvids.com/) — provides free stock videos, clips, and loops. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Mazwai](https://mazwai.com) — great collection of free creative commons HD video clips & footages. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mixkit](https://mixkit.co/) — extraordinary Free HD videos. For you to use, completely free of charge. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Motion Places](https://www.motionplaces.com/) — a curated collection of beautiful footage you can use for your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pixabay](https://pixabay.com/) — it has more than 1.5 million royalty-free stock videos and photos shared by their community of creators. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -1063,7 +1063,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33Q3AC0">
+        <a href="https://bit.ly/33Q3AC0">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Abstract.png" alt="Abstract"/>
         </a>
     </p>
@@ -1100,7 +1100,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/33KtOpN">
+        <a href="https://bit.ly/33KtOpN">
             <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/ProtoPie.png" alt="ProtoPie"/>
         </a>
     </p>
@@ -1124,7 +1124,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 - [SQUID](https://uxmisfit.com/squid/) — create beautiful User Flows in Sketch in just minutes. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/) — a simple webapp to work out object interactions arranged in time sequence. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Whimsical](https://whimsical.co/) — easy to create flow charts, wireframes and sticky notes.
-- [Wireflow](http://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Wireflow](https://wireflow.co) — free, online and open source tool for creating beautiful user flow prototypes. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/vanila-io/wireflow) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [XMind: ZEN](https://www.xmind.net/zen/) — a brainstorming and mind mapping tool that can switch between outline and tree-chart. Link topics with other charts.
 - [yEd](https://www.yworks.com/products/yed) — free desktop tool for making diagrams. Usable for the wide variety of use cases. Auto-layout helps a lot when making flowcharts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
@@ -1132,7 +1132,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 
 <!-- <div class="hidden-in-page">
     <p align="center">
-        <a href="http://bit.ly/35I1q9q">
+        <a href="https://bit.ly/35I1q9q">
         <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Maze.png" alt="Maze"/>
     </a>
     </p>
@@ -1186,10 +1186,10 @@ User research helps you understand user behaviors, needs, and motivations throug
 A wireframe is a visual mockup that outlines the basic structure of the site or an app. It contains the most essential elements and the content, helping you easily explain ideas on design. Wireframes are a low-fidelity way of showing a design. This section is presented the best wireframing tools for a variety of use cases.
 
 - [Balsamiq Cloud](https://balsamiq.cloud/) — effortless UI sketching. Capture your ideas, collaborate on your designs, get everyone on board.
-- [BLOKK](http://www.blokkfont.com/) — a font for quick mock-ups and wireframing for clients who do not understand Latin. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [BLOKK](https://www.blokkfont.com/) — a font for quick mock-ups and wireframing for clients who do not understand Latin. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [CSS Grid Builder](https://cssgrid.cc/css-grid-builder.html) — with this tool there is no HTML part to the grid. The grid only becomes apparent when content (elements) are added and positioned according to the grid rules. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Gliffy](https://www.gliffy.com/) — a tool for creating the framework, UML diagrams, flowcharts, wireframes and more.
-- [Gridzzly](http://gridzzly.com/) — the easiest way to create custom grid paper printable. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Gridzzly](https://gridzzly.com/) — the easiest way to create custom grid paper printable. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Layoutit](https://grid.layoutit.com/) — a interface builder for CSS Grid & Bootstrap that wants to be the kick-off for your front-end developments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pidoco](https://pidoco.com/en) — software that lets you quickly create click-through wireframes and fully interactive UX prototypes.
 - [Wireframe.cc](https://wireframe.cc/) — a simple wireframing tool that doesn't get in your way. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

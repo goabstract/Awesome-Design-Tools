@@ -700,6 +700,7 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 - [Ouch](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Squircley](https://squircley.app/) - all you need to start creating beautiful SVG squircles. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [unDraw](https://undraw.co) — a collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [VectorElements](https://vectorelements.net/) — free and premium vector illustrations, SVG graphics, icons, and creative design assets for websites, apps, branding, and digital projects.
 - [Wannapik](https://www.wannapik.com/) — a collection of free illustrations, vector images, photos, and animations for any use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>

@@ -1081,6 +1081,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 - [Botmock](https://www.botmock.com) — design, prototype, and test voice and text conversational apps. Supports multiple platforms.
 - [CleverBrush](https://www.cleverbrush.com/) — a browser-based online vector editor and digital publishing tool which is possible to integrate to the page as JS component.
 - [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
+- [Free Image Merger](https://freeimagemerger.com/) — merge 2–20 images side by side, in grids, or freestyle. 100% free, client-side, no uploads. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [GIMP](https://www.gimp.org/) — a free & open-source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS, and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Illustrator](https://www.adobe.com/products/illustrator.html) — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile. Made by Adobe.

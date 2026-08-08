@@ -405,6 +405,7 @@ I bet you heard about Design Systems, as it’s a pretty trendy topic. Design sy
 
 - [Cabana](https://cabanadesignsystem.com/) — a Premium Design System for Sketch that helps you create amazing products faster than ever before.
 - [Catalog](https://www.catalog.style/) — a living style guide for digital products, combining design documentation with real live components. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+- [Constrainly](https://constrainly.com) — build color, typography, spacing, radius and shadow systems, then export them as AI-ready rules that Claude, Cursor and Copilot actually follow. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Design System Manager](https://www.invisionapp.com/design-system-manager/) — Invision's design system manager.
 - [DSK](https://rundsk.com) — short for “Design System Kit” – a workbench for collaboratively creating Design Systems. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [EOS Design System](https://www.eosdesignsystem.com) — an open-source and customizable built on top of Bootstrap following the Atomic Design concept. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)

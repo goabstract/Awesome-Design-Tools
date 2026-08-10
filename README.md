@@ -160,6 +160,7 @@ Animations guide people through the product friendly and smoothly. Live interact
 - [StorySwag](https://storyswag.co) — create stylish animated posts for Instagram and Facebook in just a few taps, all from your mobile phone. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Spirit](https://spiritapp.io/) — the animation tool that helps you to create and manage the animations real-time in the browser. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Stylie](https://jeremyckahn.github.io/stylie/) — a web-based graphical CSS3 animation tool. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+- [SVG to TGS](https://svgtotgs.com/) — a browser-based SVG animation editor that exports Telegram-ready TGS files for animated stickers and custom emoji.
 - [Tumult Hype](https://tumult.com/hype/) — the HTML5 animation/interactives creation app for macOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 <div class="banner banner--yellow">

@@ -737,6 +737,7 @@ A logo is the starting point of your brand identity. It reflects the product mis
 - [Logo My Way](https://www.logomyway.com/) — choose from 600 custom logo designs from creative designers worldwide.
 - [Logo Package Express](http://thelogopackage.com) — export and package dozens of logo variations and file types for your clients automatically in under 5 minutes.
 - [Logo Rank](https://brandmark.io/logo-rank/) — upload your logo to see how it rates on a number of objective measures. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Vector Boy](https://www.vector-boy.com/) — turns a photo or scan of a logo into clean SVG, PDF, EPS and DXF paths. It runs entirely in the browser, so the artwork is never uploaded to a server.
 - [Wizlogo](https://wizlogo.com/) — create a logo with a simple and affordable tool backed by professional designers.
 
 <div class="banner banner--yellow">

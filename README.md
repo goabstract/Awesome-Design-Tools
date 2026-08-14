@@ -291,7 +291,7 @@ If you are looking for an eyedropper tool, color identifier or color capture, ch
 - [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Tint & Shade Generator](https://maketintsandshades.com/) — display tints and shades of a given hex color in 10% increments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Viz Palette](https://projects.susielu.com/viz-palette) — color picker for data visualizations. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
+* [Paletzy](https://paletzy.com) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) — free browser-based image color picker and palette generator for extracting colors from images.
 <div class="banner banner--yellow">
 
 You can also create color palettes with Leonardo, which is mentioned in the [Accessibility Tools section](#accessibility-tools).

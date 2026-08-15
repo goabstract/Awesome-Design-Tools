@@ -1080,6 +1080,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 - [Akira](https://github.com/akiraux/Akira) — native Linux App for UI and UX Design built in Vala and Gtk. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Botmock](https://www.botmock.com) — design, prototype, and test voice and text conversational apps. Supports multiple platforms.
 - [CleverBrush](https://www.cleverbrush.com/) — a browser-based online vector editor and digital publishing tool which is possible to integrate to the page as JS component.
+- [DeerImage](https://deerimage.com/) — provides no-sign-up browser tools for compressing, converting, resizing and editing images locally. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 - [GIMP](https://www.gimp.org/) — a free & open-source imaging and graphic design software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Gravit](https://designer.io/) — a free vector design app, available for macOS, Windows, Linux, ChromeOS, and browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

@@ -383,6 +383,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 - [UI Garage](https://uigarage.net/) — the one-stop shop for designers, developers, and marketers to find inspiration, tools and the best resources.
 - [UI Sources](https://www.uisources.com/) — over 500+ interactions from the best designed and top-grossing apps on the App Store today. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [UI Recipes](https://uirecipes.com/) — weekly 15 min lessons on UI design from the hottest apps.
+- [UIZZE](https://github.com/uizze/uizze) — an anti-UI-slop reference and finish-gate system for coding agents, grounded in 800,000+ real web and iOS screens.
 - [UX Archive](http://uxarchive.com/) — browse more than 400 user flows across 120 mobile apps. Examine tasks such as booking, logging in, onboarding, purchasing, searching, and more. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Waveguide](https://www.waveguide.io/) — a design knowledge bank with thousands of artificially enriched examples of product and brand experience (examples of Mobile App, Landing pages, eCommerce, CX/UX Patterns).
 - [Web Design Museum](https://www.webdesignmuseum.org/) — over 1,200 carefully selected web sites that show web design trends between the years 1994 and 2006.

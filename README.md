@@ -1112,6 +1112,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 
 User flow is a series of steps a user takes to achieve a meaningful goal. It's a fast way to plan customer journey paths and improve UX. So if you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 
+- [diagram.now](https://diagram.now/) — a browser-based diagram editor for flowcharts, UML, BPMN, ER diagrams, cloud architecture and wireframes, with a Confluence Cloud app.
 - [Draw.io](https://www.draw.io/) — a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER, and network diagrams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Flowmapp](https://flowmapp.com/) — an online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 - [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

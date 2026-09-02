@@ -633,6 +633,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 - [Font Awesome](https://fontawesome.com/) — the web's most popular icon set and toolkit, also it's open source. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/FortAwesome/Font-Awesome)
 - [Fontello](http://fontello.com/) — tool to build custom fonts with icons, also open source. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/fontello/fontello)
 - [Freepik](https://www.freepik.com) — collection of exclusive freebies and all graphic resources that you need for your projects.
+- [IconMind](https://iconmind.dev/) — open source icon set of 2,400+ icons drawn on one 24px grid, in outline and duotone, with packages for React, Vue, Svelte and Flutter. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Iconscout](https://iconscout.com/) — get high-quality Icons, Illustrations and Stock photos at one place.
 - [Iconfinder](https://www.iconfinder.com) — a marketplace for vector icons (SVG). Icon sets available in IconJar format.
 - [IconJar](https://www.geticonjar.com/) — store all your icons in one icon manager. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

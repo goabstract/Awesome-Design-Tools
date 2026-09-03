@@ -65,6 +65,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 - [Gradient Tools](#gradient-tools)
 - [Icons Tools](#icons-tools)
 - [Illustrations](#illustrations)
+- [Image Tools](#image-tools)
 - [Information Architecture](#information-architecture)
 - [Logo Design](#logo-design)
 - [Mockup Tools](#mockup-tools)
@@ -701,6 +702,17 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 - [Squircley](https://squircley.app/) - all you need to start creating beautiful SVG squircles. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [unDraw](https://undraw.co) — a collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Wannapik](https://www.wannapik.com/) — a collection of free illustrations, vector images, photos, and animations for any use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+
+</article>
+
+<article id="image-tools">
+
+### Image Tools
+
+Convert, crop, resize, compress, and edit images without leaving the browser. These free tools help designers prepare assets for web, social, and print workflows:
+
+- [Squoosh](https://squoosh.app/) — compress and resize PNG, JPEG, WebP, or AVIF in the browser. Compare quality side by side before download. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/squoosh)
+- [Uwarp Image & Conversion](https://www.uwarp.design/tools/image-conversion) — convert, crop, resize, and edit images in the browser with 200+ free tools for format conversion (HEIC, JPG, PNG, WebP, GIF), GIF editing, background removal, and photo adjustments. Most processing stays on your device. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

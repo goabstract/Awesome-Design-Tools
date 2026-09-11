@@ -1051,6 +1051,7 @@ If you work with video-content, you will enjoy these high-quality, hand-curated 
 
 ### Tools for Learning Design
 
+- [aiux.courses](https://aiux.courses) — independently curated AI UX sources and courses for working designers (patterns, papers, people, paid paths).
 - [Design Better](https://www.designbetter.co/) — discover the best practices, stories, and insights from the world’s top design teams and leaders. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Design+Code](https://designcode.io/) — complete courses about the best tools and design systems.
 - [DesignerUp](https://designerup.co/) — a collection of self-paced courses and mentorship to help you master Product Design (UI/UX).

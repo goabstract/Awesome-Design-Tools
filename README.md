@@ -656,6 +656,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 - [Streamline Emoji](http://emoji.streamlineicons.com/) — a free collection of 850 + vector emoji. The style is inspired by the japanese “Kawaii” (cute) style. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Svgsus](http://www.svgs.us/) — SVG icon management tool. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [SVG Colorizer](https://www.iconshock.com/svg-color/) — a tool to automatically change the entire color palette of any given SVG icon pack intelligently keeping the shades, highlights & shadows. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [SVGicons](https://svgicons.com/) — searchable catalog of open-source SVG icons and icon sets with source and license context.
 - [SVGRepo](https://www.svgrepo.com/) — a site with 300.000+ SVG Vectors and Icons.
 - [Tilda Icons](https://tilda.cc/free-icons/) — download free icons for landing pages. More than 700 vector icons, collected in 43 sets for business. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Twemoji](https://twemoji.twitter.com/) — Twitter’s open-source emoji has you covered for all your project's emoji needs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

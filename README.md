@@ -916,6 +916,7 @@ Taking screenshots is a typical task in the design & development workflow. So th
 - [Shotty](https://meetshotty.com) — a menu bar app that helps you quickly find the screenshot you're looking for so you can drag and drop it into any application. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Snagit](https://www.techsmith.com/screen-capture.html) — capture images and video, create GIFs, annotate, edit, and share.
 - [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots) — Windows free screenshot tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Snapora](https://snapora.9nn.cn/) — capture screen regions, annotate screenshots, and pin images above other windows on Windows.
 - [Snappy](http://snappy-app.com/) — takes quick shots and organizes them for you into collections. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Teampaper Snap](https://teampaper.me/snap/) — allows you to take screenshots of a selected area. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 

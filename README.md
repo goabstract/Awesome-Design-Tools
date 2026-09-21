@@ -646,6 +646,7 @@ As well as fonts, icons are used in every design. These basic elements support a
 - [Ionicons](https://ionicons.com/) — beautifully crafted open source icons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Material Design Icons](https://materialdesignicons.com/) — free material design icons made possible by open source contributons. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Material Icons Library](https://icons.pixsellz.io/) — free collection of 1000+ icons for popular graphics tools. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Moa](https://moa.aoo.kr) — search and compare 56,000+ icons and emoji across 15 libraries, with multilingual search and license filters. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/resoliwan/moa)
 - [Motion](https://www.getmotion.io) — free, simple animated icon editor.
 - [Norde Source](https://norde.io/) — mac, Windows and Linux app to color and customize icon sets to fit your brand. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Noun Project](https://thenounproject.com/) — icons for everything.

@@ -950,6 +950,7 @@ Often marketing teams need well-design materials. It can be different banners, p
 - [Crello](https://crello.com/) — create own designs: posts, covers, graphics, and posters using the best software on the web.
 - [Pablo by Buffer](https://pablo.buffer.com/) — design engaging images for your social media posts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Refentra Social Image Resizer](https://refentra.com/tools/resize-image-for-social-media/) — creates several social-media image sizes in the browser, with crop-to-fill or no-crop padding and no file upload. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Stencil](https://getstencil.com/) — a graphic design tool that is all about creating social media images easily and quickly.
 

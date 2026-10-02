@@ -952,6 +952,7 @@ Often marketing teams need well-design materials. It can be different banners, p
 - [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Stencil](https://getstencil.com/) — a graphic design tool that is all about creating social media images easily and quickly.
+- [UseCOS Photo & Ratio Tools](https://usecos.app/tools/aspect-ratio-calculator) — free in-browser aspect ratio calculator and precise image resizer/compressor with social media and document presets. Runs 100% client-side with zero uploads. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 </article>
 

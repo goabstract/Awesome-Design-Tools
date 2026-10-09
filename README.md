@@ -770,6 +770,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [Frrames](https://frrames.com/) — Frrames mockups is perfectly crafted responsive windows mockups for your ideal presentation.
 - [Lstore Graphics](https://www.ls.graphics/) — free and premium mockups, UI/UX tools, scene creators for busy designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mediamodifier](https://mediamodifier.com) — create impressive product mockups in seconds.
+- [MockFlair](https://mockflair.com/) — a browser-based studio for framed poster mockups, with reusable looks and batch PNG/JPG exports.
 - [Mockflow](https://www.mockflow.com/) — the quickest way to brainstorm user interface ideas.
 - [Mockup World](https://www.mockupworld.co/) — tons of free and legal, fully layered, easily customizable photo realistic PSDs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Mockups For Free](https://mockupsforfree.com/) — free design resources, PSD files for graphic and web designers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

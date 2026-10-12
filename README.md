@@ -306,6 +306,7 @@ You can also create color palettes with Leonardo, which is mentioned in the [Acc
 
 How do you provide and get feedback during the development process? This process is usually pretty messy for many product teams, which caused product delays and time waste on back-and-forth communication. So if you wish to get fast and structural feedback on UI issues or visual bugs — take a look at this tool:
 
+- [Enhance](https://enhancelabs.ai) — a shared canvas for refining live prototypes with coding agents, editable screens and visual feedback.
 - [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [GoVisually](https://govisually.com) — online proofing, design review & approval software.
   <div class="banner banner--yellow">

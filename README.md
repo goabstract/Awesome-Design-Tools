@@ -968,6 +968,7 @@ Sound design is an art of creating a soundscape for a site, app, movie, game or 
 - [Fugue Music](https://icons8.com/music) — download free background music for your videos. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Max](https://cycling74.com/products/max/) — connect objects with virtual patch cords to create interactive sounds, graphics, and custom effects.
 - [Reaper](http://reaper.fm/) — import any audio and MIDI, synthesize, sample, compose, arrange, edit, mix, and master songs or any other audio projects.
+- [SFXMint](https://sfxmint.com/sets/ui-soft) — CC0 interface sound effects with browser previews and free individual downloads without signup; optional custom generation is separate.
 - [Sonic Pi](https://sonic-pi.net/) — a live coding music synth. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SoundKit](https://soundkit.io/) — a UI sound library designed for all of your interface needs.
 - [UI Sounds](https://uisounds.prototypr.io/) — learn sound design for user interfaces by example.

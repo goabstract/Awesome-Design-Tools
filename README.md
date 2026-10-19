@@ -18,6 +18,7 @@
 
 ## Awesome Design Tools as a part of Flawless App family joins Abstract!
 
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 Today, we’re excited to announce that Flawless App has joined [Abstract](https://www.abstract.com), a design delivery platform that brings visibility, accountability, measurability, and predictability to design.
 
 Flawless App was our first company, and we’re proud of everything that we’ve achieved with our 5-person team.

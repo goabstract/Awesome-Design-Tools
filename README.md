@@ -895,6 +895,7 @@ You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, wh
 
 Taking screenshots is a typical task in the design & development workflow. So these free and full-featured screenshot apps can help you capture a screen with ease. Some screen captures are macOS only, while others support both OS:
 
+- [AppScreen](https://appscreen.pro) — an App Store screenshot generator and editor.
 - [Camtasia](https://www.techsmith.com/video-editor.html) — a screen recorder that comes with a full-blown built-in editor.
 - [CleanShot](https://getcleanshot.com) — capture your screen in a superior way with a built-in annotation tool and Quick Access Overlay. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [CloudApp](https://www.getcloudapp.com/) — record videos, webcam, annotate screenshots, create GIFs.

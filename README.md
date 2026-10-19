@@ -147,6 +147,7 @@ Animations guide people through the product friendly and smoothly. Live interact
 - [Flow](https://createwithflow.com/) — a professional animation tool for Sketch designs that also exports production-ready code for iOS, Web or SVG files. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [GSAP](https://greensock.com/) — a suite of tools for scripted, high-performance HTML5 animations in all major browsers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Haiku Animator](https://www.haikuforteams.com/) — keyframe-based animation connecting your UI tools to code that developers can easily use.
+- [iArt](https://www.iart.ai/) — creates motion graphics from prompts and visual assets, with plain-language editing and MP4 export.
 - [Keyshape](https://www.keyshapeapp.com/) — 2D animation tool that allows for animated SVG export.
   ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [Kite Compositor](https://kiteapp.co/) — a powerful animation and prototyping application for Mac & iOS. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)

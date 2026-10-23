@@ -948,7 +948,9 @@ Often marketing teams need well-design materials. It can be different banners, p
 
 - [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert!
 - [Crello](https://crello.com/) — create own designs: posts, covers, graphics, and posters using the best software on the web.
+- [LookScene](https://lookscene.packscena.com/) — a personal AI photo-styling tool for hairstyles, outfits and portrait scenes; invitation-only preview with sign-in, consent and a limited three-credit trial.
 - [Pablo by Buffer](https://pablo.buffer.com/) — design engaging images for your social media posts. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Paper Texture](https://paper-texture.com/paper-texture-overlay/) — free guest browser editor for layering six AI-generated paper surfaces over an image; surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion.
 - [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [SocialSizes](https://socialsizes.io/) — provides designers with the best sizes to use for image and video content on social media. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Stencil](https://getstencil.com/) — a graphic design tool that is all about creating social media images easily and quickly.

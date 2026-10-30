@@ -1191,6 +1191,7 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 - [Gliffy](https://www.gliffy.com/) — a tool for creating the framework, UML diagrams, flowcharts, wireframes and more.
 - [Gridzzly](http://gridzzly.com/) — the easiest way to create custom grid paper printable. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Layoutit](https://grid.layoutit.com/) — a interface builder for CSS Grid & Bootstrap that wants to be the kick-off for your front-end developments. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [NeuralCanvas](https://github.com/nodaysidle/neural-canvas) — pen sketches to aligned wireframes on Linux, exported as SVG, PDF or PNG. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 - [Pidoco](https://pidoco.com/en) — software that lets you quickly create click-through wireframes and fully interactive UX prototypes.
 - [Wireframe.cc](https://wireframe.cc/) — a simple wireframing tool that doesn't get in your way. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Whimsical Wireframes](https://whimsical.co/wireframes/) — instant wireframing at your fingertips. Rich library of configurable elements like buttons, inputs, checkboxes.

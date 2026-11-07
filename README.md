@@ -1234,3 +1234,5 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Thanks for making this project awesome :)
 
 </article>
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).

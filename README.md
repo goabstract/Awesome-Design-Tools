@@ -1172,6 +1172,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 
 ### Visual Debugging Tools
 
+- [CalculatePPI](https://calculateppi.com/) — screen pixel density calculator and display sharpness specification reference for designers and developers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [LogRocket](https://logrocket.com/) — a tool to record what users do on your site so you can reproduce bugs and fix issues faster.
 - [PixelSnap](https://getpixelsnap.com) — the magical way to measure everything on your screen. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) — on any webpage: visually debug, quick inspect style and a11y, change CSS visually, click and drag elements around, and much more. [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/GoogleChromeLabs/ProjectVisBug) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)

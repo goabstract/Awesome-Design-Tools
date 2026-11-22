@@ -1115,6 +1115,7 @@ User flow is a series of steps a user takes to achieve a meaningful goal. It's a
 - [Draw.io](https://www.draw.io/) — a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER, and network diagrams. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Flowmapp](https://flowmapp.com/) — an online tool for creating sitemaps and user flows that helps you to effectively design and plan user experience.
 - [Google Drawings](https://docs.google.com/drawings/) — create diagrams and charts, for free; all within Google Docs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [JustSVG](https://justsvg.vercel.app/) — an open-source browser editor for architecture diagrams, flowcharts, and infographics, with editable SVG import and export. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/lwxyfer/justsvg)
 - [Lucidchart](https://www.lucidchart.com/) — an online tool for creating diagrams, flow charts, sitemaps, and more.
 - [MindNode](https://mindnode.com/) — a mind mapping app that makes brainstorming simple and easy. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [NinjaMock](https://ninjamock.com/) — wireframe and user flow online tool. Link your views and create logic flow prototype. All with freehand visual style.

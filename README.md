@@ -793,6 +793,7 @@ A mockup is a visual way of representing the product. While a wireframe mostly r
 - [UI Store Design](https://www.uistore.design/) — 200+ free handpicked design resources for Sketch, Figma, Adobe XD, InVision Studio, Photoshop, Illustrator CC. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [UI8 — Design Freebies](https://ui8.net/category/freebies) — epic design freebies to get you started. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Vector Mockups Library](https://mockups.kkuistore.com/) — free collection of presentation Mockups for Sketch, Figma & Photoshop. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [XShots](https://selfark.com/xshots/) — design localized app-store screenshot sets on a continuous Mac canvas and batch-export PNG or JPEG images. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 
 </article>
 

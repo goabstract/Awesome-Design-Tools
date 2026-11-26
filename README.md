@@ -1017,6 +1017,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 - [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Zoommy](http://www.zoommyapp.com) — helps you find awesome free stock photos for your creative product or inspiration. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [CreoArt](https://creoart.app/photo-editor) — Free ad-free browser-local WebGPU PSD & layer photo editor paired with a private pay-as-you-go AI image and video studio.
 
 </article>
 

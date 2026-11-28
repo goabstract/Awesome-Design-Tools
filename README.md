@@ -140,6 +140,7 @@ Accessibility checking features are also available in VisBug from the [Visual De
 
 Animations guide people through the product friendly and smoothly. Live interactive UI makes users feel delighted with instant feedback and emotional touch. These free and paid tools are designed to make animation creation easier. If you plan to make animated transitions, micro-interactions or scroll-based animations, go through these tools:
 
+- [60frames.studio](https://60frames.studio) — a browser-based 3D motion studio that turns UI screenshots into 4K 60FPS product demos, device mockups, and kinetic launch clips in seconds.
 - [After Effects](https://www.adobe.com/products/aftereffects.html) — digital visual effects, motion graphics, and compositing application developed by Adobe.
 - [BeatFlyer](https://beatflyer.com/) — a web tool that lets you create very quickly loopy and catchy animations from your multi-layer compositions.
 - [Dokyu Motion](https://3dmybusiness.com) — simplifies motion design in After Effects so any editor can tell stories that won′t be ignored.

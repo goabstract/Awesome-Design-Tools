@@ -931,6 +931,7 @@ Sometimes you need just a pencil and paper to start creating your app or website
 - [Sketchsheets](https://sketchsheets.com/) — an open source project dedicated to providing free printable templates of the latest devices and platforms for wireframing designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/rnarrkus/sketchsheets)
 - [Sneakpeekit](https://sneakpeekit.com/) — print note taking grids and devices frames. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Sketchize](https://sketchize.com/) — just choose any of the sketch sheets that fits your project, print it out and start to sketch your dream. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [GridForArt](https://gridforart.com/) — 100% browser-local grid drawing and physical canvas/mural proportion tool with diagonal guides, A1/B2 coordinates, and grayscale value checks (zero image uploads). ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 <div class="banner banner--yellow">
 
